@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Employer Kickoff Meeting & Kickoff Summary — Riipen Career Catalyst</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --dark-blue: #050C2A;
+    --orange: #FF7C0A;
+    --electric-blue: #2454FF;
+    --green: #18733E;
+    --grey: #ACACAC;
+    --light-bg: #F7F8FA;
+    --white: #FFFFFF;
+    --border: #E2E4E9;
+    --purple: #7C3AED;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    background: var(--light-bg);
+    line-height: 1.6;
+  }
+
+  .content-page-header {
+    padding: 32px 48px 24px;
+    border-bottom: 1px solid var(--border);
+    background: var(--white);
+  }
+  .content-page-header h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--dark-blue);
+    margin-bottom: 8px;
+  }
+  .content-page-header .meta {
+    font-size: 13px;
+    color: var(--grey);
+    display: flex;
+    gap: 16px;
+  }
+  .type-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+  .type-badge.assignment { background: #FFF3E6; color: var(--orange); }
+
+  .content-body {
+    padding: 32px 48px 64px;
+    max-width: 800px;
+  }
+  .content-body h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--dark-blue);
+    margin: 32px 0 12px;
+    padding-top: 8px;
+  }
+  .content-body h2:first-child { margin-top: 0; }
+  .content-body h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--dark-blue);
+    margin: 24px 0 8px;
+  }
+  .content-body p {
+    margin-bottom: 14px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+  .content-body ul, .content-body ol {
+    margin: 0 0 16px 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+  .content-body li { margin-bottom: 6px; }
+  .content-body strong { font-weight: 600; }
+
+  .callout {
+    background: #F7F8FA;
+    border-left: 4px solid var(--electric-blue);
+    padding: 16px 20px;
+    border-radius: 0 8px 8px 0;
+    margin: 16px 0 20px;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  .callout.orange {
+    border-left-color: var(--orange);
+    background: #FFF8F1;
+  }
+  .callout-label {
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+
+  .collapsible {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 12px 0;
+    overflow: hidden;
+  }
+  .collapsible-header {
+    padding: 14px 18px;
+    background: var(--light-bg);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--dark-blue);
+    user-select: none;
+  }
+  .collapsible .collapsible .collapsible-header {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 16px;
+  }
+  .collapsible-header .chevron {
+    transition: transform 0.2s;
+    font-size: 12px;
+  }
+  .collapsible-header.open .chevron {
+    transform: rotate(90deg);
+  }
+  .collapsible-body {
+    display: none;
+    padding: 16px 20px;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  .collapsible-body.open { display: block; }
+
+  .checklist {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin: 16px 0 20px;
+  }
+  .checklist-title {
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .checklist-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 0;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .checklist-item input[type="checkbox"] {
+    margin-top: 4px;
+    accent-color: var(--orange);
+    width: 16px;
+    height: 16px;
+  }
+
+  .scenario {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin: 16px 0 20px;
+  }
+  .scenario-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--purple);
+    margin-bottom: 8px;
+  }
+  .scenario .comparison {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 12px;
+  }
+  .scenario .comparison > div {
+    padding: 14px 16px;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+  }
+  .scenario .bad { background: #FFF3F3; border: 1px solid #FFC9C9; }
+  .scenario .good { background: #F0FAF4; border: 1px solid #B8E6CC; }
+  .scenario .comparison strong {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+
+  .resource-card {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 18px;
+    margin: 12px 0;
+    cursor: pointer;
+    transition: border-color 0.2s;
+  }
+  .resource-card:hover { border-color: var(--electric-blue); }
+  .resource-card .file-icon {
+    width: 40px; height: 40px;
+    background: #FFF3E6;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .resource-card .file-info .name { font-weight: 600; font-size: 14px; }
+  .resource-card .file-info .type { font-size: 12px; color: var(--grey); }
+
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 32px 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="content-page-header">
+  <h1>Your Employer Kickoff Meeting & Kickoff Summary</h1>
+  <div class="meta">
+    <span class="type-badge assignment">Assignment</span>
+    <span>Absorbs activities 3.02–3.13</span>
+  </div>
+</div>
+<div class="content-body">
+
+  <p>This prompt walks you through the full arc: preparing for the kickoff meeting, running it well, processing what you heard, and documenting it in your Kickoff Summary.</p>
+
+  <!-- ── BEFORE THE MEETING ── -->
+  <div class="collapsible" style="margin-top: 24px;">
+    <div class="collapsible-header" onclick="toggleCollapsible(this)">
+      <span class="chevron">&#9654;</span>
+      Before the Meeting
+    </div>
+    <div class="collapsible-body">
+
+      <h3>Pull together what you already know</h3>
+      <p>Your team did individual research in Week 2 on the organization, its industry, and the project brief. Now it's time to consolidate that into shared preparation.</p>
+      <p>As a team, we recommend you:</p>
+      <ul>
+        <li><strong>Review each person's research.</strong> What did everyone find? Where do your findings overlap, and where do they diverge?</li>
+        <li><strong>Identify what you still don't know.</strong> The project brief gave you a starting point, but briefs are always incomplete. What assumptions are you making? What would change your approach if the answer were different than you expect?</li>
+        <li><strong>Prioritize your questions.</strong> You won't get to ask everything. Rank your questions by what you most need to learn from the employer specifically — things you can't find out on your own.</li>
+        <li><strong>Assign meeting roles.</strong> Decide in advance who will lead the conversation, who will take notes, and who will manage time. Having roles prevents the meeting from becoming five people jumping in unprepared.</li>
+      </ul>
+
+      <div class="callout">
+        <div class="callout-label">Suggested Agenda — Pre-Meeting Team Huddle (~30 min)</div>
+        <ul style="margin-top: 8px;">
+          <li>Quick round-robin: what did each person learn in their Week 2 research? (10 min)</li>
+          <li>What are our top questions for the employer? Prioritize to 5–7. (10 min)</li>
+          <li>Confirm roles: lead, note-taker, timekeeper. Brief walkthrough of the flow. (10 min)</li>
+        </ul>
+      </div>
+
+      <h3>Confirm logistics with your employer</h3>
+      <p>Before the meeting, send a short email to your employer contact confirming the details. This is a professional courtesy — it reduces no-shows, surfaces any last-minute changes, and gives you a chance to set expectations.</p>
+      <p><strong>Your confirmation email should include:</strong></p>
+      <ul>
+        <li>Date, time, and platform (with the meeting link)</li>
+        <li>Who will be attending from your team</li>
+        <li>A brief note on what you're hoping to cover (not a full agenda — just a sentence or two so they know what to expect)</li>
+        <li>An invitation for them to flag anything they'd like to discuss</li>
+      </ul>
+      <p>Keep it short. Three to five sentences. Professional, warm, to the point.</p>
+
+      <h3>Set up for note capture</h3>
+      <p>Good notes from this meeting are essential — your Kickoff Summary depends on them, and your memory of what was said will fade faster than you think.</p>
+      <p>You're encouraged to use AI tools to help with note capture. Options include AI-powered meeting transcription that runs during the call, or using an AI assistant to organize your raw notes immediately after. The key is having a plan <em>before</em> the meeting starts — not scrambling to remember details afterward.</p>
+      <p>A few practical notes on AI-assisted note capture:</p>
+      <ul>
+        <li>If using a transcription tool, test it before the meeting and make sure your employer is comfortable with it being active</li>
+        <li>If you prefer manual notes, designate your best note-taker and have at least one other person capturing key points as backup</li>
+        <li>Either way, plan to do a quick AI-assisted cleanup of your notes within an hour of the meeting ending, while context is fresh</li>
+      </ul>
+
+      <div class="resource-card" onclick="window.open('https://zapier.com/blog/best-ai-meeting-assistant/', '_blank')">
+        <div class="file-icon">&#128279;</div>
+        <div class="file-info">
+          <div class="name">The 9 Best AI Meeting Assistants</div>
+          <div class="type">Zapier — Tool recommendations for AI-powered note capture and transcription</div>
+        </div>
+      </div>
+
+      <div class="collapsible" style="margin-top: 16px;">
+        <div class="collapsible-header" onclick="toggleCollapsible(this); event.stopPropagation();">
+          <span class="chevron">&#9654;</span>
+          Quick Reference: Video Call Professionalism
+        </div>
+        <div class="collapsible-body">
+          <p>If this is your first professional video call, a few basics go a long way:</p>
+          <ul>
+            <li>Camera on, good lighting (face a window or lamp, don't sit in front of one), clean background</li>
+            <li>Mute when you're not speaking, especially in a group</li>
+            <li>Look at the camera when you're talking, not at yourself</li>
+            <li>If you have technical issues, stay calm — say "I'm having some audio trouble, give me a moment" rather than disappearing silently</li>
+          </ul>
+          <div class="resource-card" style="margin-top: 12px;" onclick="window.open('https://www.roberthalf.com/us/en/insights/career-development/14-video-conference-etiquette-tips', '_blank')">
+            <div class="file-icon">&#128279;</div>
+            <div class="file-info">
+              <div class="name">14 Videoconference Etiquette Tips</div>
+              <div class="type">Robert Half — A deeper dive on video call professionalism</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── DURING THE MEETING ── -->
+  <div class="collapsible">
+    <div class="collapsible-header" onclick="toggleCollapsible(this)">
+      <span class="chevron">&#9654;</span>
+      During the Meeting
+    </div>
+    <div class="collapsible-body">
+
+      <h3>What you're trying to learn</h3>
+      <p>Your kickoff meeting will cover a lot of ground, but there are specific things you need to walk away understanding.</p>
+
+      <div class="checklist">
+        <div class="checklist-title">&#128203; Meeting Checklist</div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Project scope</strong> — what exactly are they asking you to produce? What's in bounds and what's out?</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Success criteria</strong> — what does "good" look like to them?</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Deliverables and format</strong> — what do they want handed to them at the end?</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Timeline and milestones</strong> — are there dates that matter on their end?</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Key contacts</strong> — who is your primary contact? Anyone else you should know about?</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Organizational context</strong> — what's happening in their organization that shapes this project?</span></div>
+      </div>
+
+      <h3>Reading between the lines</h3>
+      <p>The most important information in a kickoff meeting isn't always what's said directly. Experienced professionals learn to read the conversation — to hear what's emphasized, what's repeated, and what's left unsaid.</p>
+
+      <div style="border: 1px solid var(--border); border-radius: 12px; overflow: hidden; margin: 16px 0 20px;">
+        <iframe src="week3-interactive-kickoff-scenario.html" style="width: 100%; height: 700px; border: none; display: block;" title="Interactive Kickoff Scenario"></iframe>
+      </div>
+
+      <h3>Things to ask if they don't come up</h3>
+      <ul>
+        <li>What's been tried before? What worked or didn't?</li>
+        <li>Who is the audience for your deliverable — who will actually read or use it?</li>
+        <li>What would make this project a disappointment, even if you technically delivered what was asked?</li>
+      </ul>
+
+    </div>
+  </div>
+
+  <!-- ── AFTER THE MEETING ── -->
+  <div class="collapsible">
+    <div class="collapsible-header" onclick="toggleCollapsible(this)">
+      <span class="chevron">&#9654;</span>
+      After the Meeting
+    </div>
+    <div class="collapsible-body">
+
+      <h3>Debrief immediately</h3>
+      <p>We strongly recommend your team debrief within an hour of the meeting ending — ideally right after. Impressions fade fast, and the things that surprised you or felt important in the moment are exactly what you need to capture.</p>
+      <p>This doesn't need to be formal. A 15–20 minute conversation covering:</p>
+      <ul>
+        <li><strong>What surprised us?</strong> What did we learn that we didn't expect?</li>
+        <li><strong>What does the employer care most about?</strong> Based on what they said <em>and</em> how they said it.</li>
+        <li><strong>What don't we know yet?</strong> What questions are still open?</li>
+        <li><strong>Did we hear the same thing?</strong> Compare interpretations — if two team members took away different understandings of the scope, surface that now.</li>
+      </ul>
+
+      <h3>Process your notes into shared understanding</h3>
+      <p>Raw meeting notes — whether from a transcription tool or handwritten — aren't useful to anyone yet. The work is in turning them into something your whole team agrees on.</p>
+      <p>This is where AI can genuinely help. If you have a transcript or detailed notes, you can ask an AI assistant to organize them by topic, flag areas where the information is ambiguous, or draft a structured summary for your team to review. The AI is organizing <em>your</em> information — it's not generating content from nothing.</p>
+      <p>When prompting AI to help organize your notes, give it context:</p>
+      <ul>
+        <li>Share the raw notes or transcript</li>
+        <li>Share the project brief</li>
+        <li>Tell it the format you want (e.g., "organize by: confirmed scope, deliverables, success criteria, timeline, contacts, open questions")</li>
+        <li>Review what it produces critically — AI will sometimes infer things that weren't actually said</li>
+      </ul>
+
+      <div class="scenario">
+        <div class="scenario-label">Scenario Example</div>
+        <p>Your note-taker wrote: <em>"They want us to look at their social media."</em><br>
+        Your lead heard: <em>"They want a full social media audit with competitor benchmarking."</em><br>
+        The employer actually said: <em>"It would be helpful to understand how we're showing up on social compared to others in our space."</em></p>
+        <p>These are three different things. The note is too vague. The lead's version adds scope that wasn't requested. The employer's actual words suggest something in between — an informal comparison, not a formal audit. <strong>This is why comparing notes matters, and why going back to exact language matters more.</strong></p>
+      </div>
+
+      <h3>Send a follow-up email</h3>
+      <p>Within 24 hours of the meeting, your team should send a brief follow-up email to your employer contact. This is standard professional practice — it shows you were paying attention, confirms your understanding, and opens the door for clarification.</p>
+      <p><strong>Your follow-up email should include:</strong></p>
+      <ul>
+        <li>A thank-you for their time</li>
+        <li>A brief summary of your understanding of the project scope and next steps (2–3 sentences, not a full recap)</li>
+        <li>Any specific open questions you want to flag for follow-up</li>
+        <li>Your expected timeline for next contact</li>
+      </ul>
+      <p>This email also serves a practical function: if you misunderstood something in the meeting, this is where the employer can catch it early.</p>
+
+    </div>
+  </div>
+
+  <!-- ── THE DELIVERABLE ── -->
+  <div class="collapsible">
+    <div class="collapsible-header" onclick="toggleCollapsible(this)">
+      <span class="chevron">&#9654;</span>
+      The Deliverable: Kickoff Summary
+    </div>
+    <div class="collapsible-body">
+
+      <h3>What it is</h3>
+      <p>The Kickoff Summary is a factual record of what your employer communicated in the kickoff meeting. It's not analysis. It's not your interpretation of what the project should be. It's documentation of what was actually said — what's confirmed and what's still open.</p>
+      <p>Think of it as the foundation your team will build on for the rest of the project. If this document is vague or inaccurate, every decision you make afterward sits on a shaky base. Next week's Context Analysis & Project Plan — your first graded deliverable — depends directly on the quality of this summary.</p>
+
+      <div class="scenario">
+        <div class="scenario-label">Example: Vague vs. Clear</div>
+        <div class="comparison">
+          <div class="bad">
+            <strong>Vague version</strong>
+            "The employer wants us to help with their marketing. They mentioned social media and said the board cares about it. Timeline is soon."
+          </div>
+          <div class="good">
+            <strong>Clear version</strong>
+            <strong style="font-size: 13.5px; text-transform: none;">Confirmed scope:</strong> Assess current social media presence across Instagram and LinkedIn relative to three regional competitors identified by the employer.<br><br>
+            <strong style="font-size: 13.5px; text-transform: none;">Success criteria:</strong> Actionable recommendations for the June board meeting.<br><br>
+            <strong style="font-size: 13.5px; text-transform: none;">Timeline:</strong> Draft by June 1; board presentation June 15.<br><br>
+            <strong style="font-size: 13.5px; text-transform: none;">Open question:</strong> Email marketing — in scope or aspirational?
+          </div>
+        </div>
+      </div>
+
+      <h3>What to include</h3>
+      <div class="checklist">
+        <div class="checklist-title">&#128203; Kickoff Summary Sections</div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Confirmed project scope</strong> — what the employer asked you to do, reflecting what they actually said</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Deliverables and format</strong> — what you'll produce and in what form</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Success criteria</strong> — how the employer will evaluate your work</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Timeline and key dates</strong> — deadlines, milestones, dependencies</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Key contacts</strong> — who you'll work with and their roles</span></div>
+        <div class="checklist-item"><input type="checkbox"><span><strong>Open questions</strong> — what wasn't answered, what needs follow-up</span></div>
+      </div>
+
+      <div class="callout orange">
+        <div class="callout-label">Key Principle</div>
+        The distinction between confirmed information and open questions is the most important thing in this document. Being clear about what you know versus what you're still figuring out is a sign of intellectual honesty and professional maturity.
+      </div>
+
+      <h3>Format and logistics</h3>
+      <ul>
+        <li><strong>Team submission:</strong> One document, collaboratively produced. One person drafts; all team members review and confirm accuracy before submission.</li>
+        <li><strong>Length:</strong> No specific requirement. Be thorough and concise. Most good Kickoff Summaries run 2–4 pages.</li>
+        <li><strong>AI use:</strong> You are encouraged to use AI to help organize and structure your notes. You may not use AI to generate the substance. AI disclosure required.</li>
+        <li><strong>Completion criteria:</strong> Checkpoint deliverable (completion-based). Must include all sections above and clearly distinguish confirmed info from open questions.</li>
+      </ul>
+
+      <div class="resource-card" onclick="window.open('week3-kickoff-meeting-checklist.pdf')">
+        <div class="file-icon">&#128196;</div>
+        <div class="file-info">
+          <div class="name">Kickoff Meeting Checklist</div>
+          <div class="type">PDF — Printable reference for during the meeting</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+function toggleCollapsible(header) {
+  header.classList.toggle('open');
+  const body = header.nextElementSibling;
+  body.classList.toggle('open');
+}
+</script>
+
+</body>
+</html>

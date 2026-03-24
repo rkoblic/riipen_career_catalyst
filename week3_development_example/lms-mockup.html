@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Riipen Career Catalyst — Week 3</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --dark-blue: #050C2A;
+    --orange: #FF7C0A;
+    --electric-blue: #2454FF;
+    --green: #18733E;
+    --grey: #ACACAC;
+    --light-bg: #F7F8FA;
+    --white: #FFFFFF;
+    --border: #E2E4E9;
+    --purple: #7C3AED;
+    --teal: #0891B2;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    background: var(--light-bg);
+    line-height: 1.6;
+  }
+
+  /* ── Top Nav ── */
+  .topnav {
+    background: var(--dark-blue);
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    padding: 0 24px;
+    height: 56px;
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+  }
+  .topnav-logo {
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .topnav-logo .dot {
+    width: 8px; height: 8px;
+    background: var(--orange);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .topnav-course {
+    margin-left: 32px;
+    font-size: 14px;
+    opacity: 0.7;
+  }
+  .topnav-right {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .avatar {
+    width: 32px; height: 32px;
+    background: var(--orange);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 600; color: var(--white);
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    position: fixed;
+    top: 56px;
+    left: 0;
+    bottom: 0;
+    width: 260px;
+    background: var(--white);
+    border-right: 1px solid var(--border);
+    padding: 20px 0;
+    overflow-y: auto;
+    z-index: 50;
+  }
+  .sidebar-section {
+    padding: 0 16px;
+    margin-bottom: 24px;
+  }
+  .sidebar-label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--grey);
+    margin-bottom: 8px;
+    padding: 0 8px;
+  }
+  .sidebar-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13.5px;
+    font-weight: 400;
+    color: var(--dark-blue);
+    transition: background 0.15s;
+    text-decoration: none;
+  }
+  .sidebar-item:hover {
+    background: var(--light-bg);
+  }
+  .sidebar-item.active {
+    background: #EFF1FF;
+    color: var(--electric-blue);
+    font-weight: 500;
+  }
+  .sidebar-item .icon {
+    width: 20px;
+    text-align: center;
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+  .sidebar-item .check {
+    margin-left: auto;
+    color: var(--green);
+    font-size: 14px;
+  }
+  .sidebar-week-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--dark-blue);
+  }
+  .week-badge {
+    background: var(--orange);
+    color: var(--white);
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+  .progress-bar-container {
+    margin: 8px 12px 16px;
+    background: var(--border);
+    border-radius: 4px;
+    height: 6px;
+    overflow: hidden;
+  }
+  .progress-bar-fill {
+    height: 100%;
+    background: var(--green);
+    border-radius: 4px;
+    width: 25%;
+    transition: width 0.5s ease;
+  }
+
+  /* ── Main Content ── */
+  .main {
+    margin-left: 260px;
+    margin-top: 56px;
+    min-height: calc(100vh - 56px);
+  }
+
+  /* ── Page: Module Overview ── */
+  .page { display: none; }
+  .page.active { display: block; }
+
+  .module-header {
+    background: linear-gradient(135deg, var(--dark-blue) 0%, #0F1847 100%);
+    color: var(--white);
+    padding: 40px 48px 32px;
+  }
+  .module-header .phase-tag {
+    display: inline-block;
+    background: rgba(255,255,255,0.15);
+    padding: 3px 12px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 12px;
+  }
+  .module-header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .module-header p {
+    font-size: 15px;
+    opacity: 0.8;
+    max-width: 640px;
+  }
+
+  .glance-bar {
+    display: flex;
+    gap: 0;
+    background: var(--white);
+    border-bottom: 1px solid var(--border);
+  }
+  .glance-item {
+    flex: 1;
+    padding: 16px 24px;
+    border-right: 1px solid var(--border);
+    text-align: center;
+  }
+  .glance-item:last-child { border-right: none; }
+  .glance-item .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--grey);
+    margin-bottom: 4px;
+    font-weight: 500;
+  }
+  .glance-item .value {
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .content-area {
+    padding: 32px 48px 64px;
+    max-width: 900px;
+  }
+
+  /* Module cards */
+  .module-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .module-card:hover {
+    border-color: var(--electric-blue);
+    box-shadow: 0 2px 12px rgba(36,84,255,0.08);
+  }
+  .module-card .num {
+    width: 36px; height: 36px;
+    background: var(--light-bg);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: var(--dark-blue);
+    flex-shrink: 0;
+  }
+  .module-card.completed .num {
+    background: #E8F5EE;
+    color: var(--green);
+  }
+  .module-card .card-body { flex: 1; }
+  .module-card .card-title {
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+  .module-card .card-meta {
+    font-size: 12.5px;
+    color: var(--grey);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .type-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+  .type-badge.orientation { background: #EFF1FF; color: var(--electric-blue); }
+  .type-badge.assignment { background: #FFF3E6; color: var(--orange); }
+  .type-badge.transition { background: #E8F5EE; color: var(--green); }
+  .type-badge.reflection { background: #F3EEFF; color: var(--purple); }
+
+  .module-card .arrow {
+    color: var(--grey);
+    font-size: 18px;
+    flex-shrink: 0;
+    transition: transform 0.2s;
+  }
+  .module-card:hover .arrow {
+    transform: translateX(3px);
+    color: var(--electric-blue);
+  }
+  .section-label {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--grey);
+    margin: 28px 0 12px;
+  }
+
+  /* ── Content Pages ── */
+  .content-page-header {
+    padding: 32px 48px 24px;
+    border-bottom: 1px solid var(--border);
+    background: var(--white);
+  }
+  .breadcrumb {
+    font-size: 13px;
+    color: var(--grey);
+    margin-bottom: 12px;
+  }
+  .breadcrumb a {
+    color: var(--electric-blue);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .breadcrumb a:hover { text-decoration: underline; }
+  .content-page-header h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--dark-blue);
+    margin-bottom: 8px;
+  }
+  .content-page-header .meta {
+    font-size: 13px;
+    color: var(--grey);
+    display: flex;
+    gap: 16px;
+  }
+
+  .content-body {
+    padding: 32px 48px 64px;
+    max-width: 800px;
+  }
+  .content-body h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--dark-blue);
+    margin: 32px 0 12px;
+    padding-top: 8px;
+  }
+  .content-body h2:first-child { margin-top: 0; }
+  .content-body h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--dark-blue);
+    margin: 24px 0 8px;
+  }
+  .content-body p {
+    margin-bottom: 14px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+  .content-body ul, .content-body ol {
+    margin: 0 0 16px 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+  .content-body li { margin-bottom: 6px; }
+  .content-body strong { font-weight: 600; }
+
+  /* Video embed */
+  .video-container {
+    margin: 0 0 24px;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  }
+  .video-container video {
+    width: 100%;
+    display: block;
+  }
+
+  /* Callout boxes */
+  .callout {
+    background: #F7F8FA;
+    border-left: 4px solid var(--electric-blue);
+    padding: 16px 20px;
+    border-radius: 0 8px 8px 0;
+    margin: 16px 0 20px;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  .callout.orange {
+    border-left-color: var(--orange);
+    background: #FFF8F1;
+  }
+  .callout.green {
+    border-left-color: var(--green);
+    background: #F0FAF4;
+  }
+  .callout.purple {
+    border-left-color: var(--purple);
+    background: #F8F5FF;
+  }
+  .callout-label {
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+
+  /* Collapsible */
+  .collapsible {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 16px 0;
+    overflow: hidden;
+  }
+  .collapsible-header {
+    padding: 14px 18px;
+    background: var(--light-bg);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--dark-blue);
+    user-select: none;
+  }
+  .collapsible .collapsible .collapsible-header {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 16px;
+  }
+  .collapsible-header .chevron {
+    transition: transform 0.2s;
+    font-size: 12px;
+  }
+  .collapsible-header.open .chevron {
+    transform: rotate(90deg);
+  }
+  .collapsible-body {
+    display: none;
+    padding: 16px 20px;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  .collapsible-body.open { display: block; }
+
+  /* Checklist */
+  .checklist {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin: 16px 0 20px;
+  }
+  .checklist-title {
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .checklist-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 0;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .checklist-item input[type="checkbox"] {
+    margin-top: 4px;
+    accent-color: var(--orange);
+    width: 16px;
+    height: 16px;
+  }
+
+  /* Scenario box */
+  .scenario {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin: 16px 0 20px;
+  }
+  .scenario-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--purple);
+    margin-bottom: 8px;
+  }
+  .scenario .comparison {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 12px;
+  }
+  .scenario .comparison > div {
+    padding: 14px 16px;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+  }
+  .scenario .bad { background: #FFF3F3; border: 1px solid #FFC9C9; }
+  .scenario .good { background: #F0FAF4; border: 1px solid #B8E6CC; }
+  .scenario .comparison strong {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+
+  /* Coming Soon overlay */
+  .coming-soon {
+    text-align: center;
+    padding: 80px 40px;
+  }
+  .coming-soon .icon {
+    font-size: 48px;
+    margin-bottom: 16px;
+  }
+  .coming-soon h2 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .coming-soon p {
+    color: var(--grey);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  /* Divider */
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 32px 0;
+  }
+
+  /* Nav buttons */
+  .nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+  }
+  .nav-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--white);
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13.5px;
+    font-weight: 500;
+    color: var(--dark-blue);
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .nav-btn:hover {
+    border-color: var(--electric-blue);
+    background: #F5F7FF;
+  }
+  .nav-btn.primary {
+    background: var(--electric-blue);
+    color: var(--white);
+    border-color: var(--electric-blue);
+  }
+  .nav-btn.primary:hover {
+    background: #1A42DD;
+  }
+
+  /* Completion banner */
+  .completion-banner {
+    background: #F0FAF4;
+    border: 1px solid #B8E6CC;
+    border-radius: 10px;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .completion-banner .icon { font-size: 20px; }
+  .completion-banner .text { font-size: 14px; font-weight: 500; }
+
+  /* Interactive scenario stub */
+  .interactive-placeholder {
+    background: linear-gradient(135deg, #F3EEFF 0%, #EFF1FF 100%);
+    border: 2px dashed var(--purple);
+    border-radius: 12px;
+    padding: 32px 24px;
+    text-align: center;
+    margin: 16px 0 20px;
+  }
+  .interactive-placeholder .icon { font-size: 36px; margin-bottom: 8px; }
+  .interactive-placeholder h4 { font-size: 15px; margin-bottom: 4px; }
+  .interactive-placeholder p { font-size: 13px; color: var(--grey); }
+
+  /* PDF embed */
+  .resource-card {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 18px;
+    margin: 12px 0;
+    cursor: pointer;
+    transition: border-color 0.2s;
+  }
+  .resource-card:hover { border-color: var(--electric-blue); }
+  .resource-card .file-icon {
+    width: 40px; height: 40px;
+    background: #FFF3E6;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .resource-card .file-info .name { font-weight: 600; font-size: 14px; }
+  .resource-card .file-info .type { font-size: 12px; color: var(--grey); }
+</style>
+</head>
+<body>
+
+<!-- ══════ TOP NAV ══════ -->
+<nav class="topnav">
+  <div class="topnav-logo"><span class="dot"></span> Riipen</div>
+  <div class="topnav-course">Career Catalyst</div>
+  <div class="topnav-right">
+    <div class="avatar">JS</div>
+  </div>
+</nav>
+
+<!-- ══════ SIDEBAR ══════ -->
+<aside class="sidebar">
+  <div class="sidebar-section">
+    <div class="sidebar-week-header">
+      <span class="week-badge">WEEK 3</span>
+      Understanding Your Client
+    </div>
+    <div class="progress-bar-container">
+      <div class="progress-bar-fill" id="progressBar"></div>
+    </div>
+  </div>
+
+  <div class="sidebar-section">
+    <div class="sidebar-label">Module Content</div>
+    <a class="sidebar-item active" data-page="overview" onclick="navigate('overview')">
+      <span class="icon">&#9776;</span> Module Overview
+    </a>
+    <a class="sidebar-item" data-page="week3-overview" onclick="navigate('week3-overview')">
+      <span class="icon">&#9654;</span> Week 3 Overview
+      <span class="check" id="check-1" style="display:none">&#10003;</span>
+    </a>
+    <a class="sidebar-item" data-page="kickoff-prompt" onclick="navigate('kickoff-prompt')">
+      <span class="icon">&#9654;</span> Kickoff Meeting & Summary
+      <span class="check" id="check-2" style="display:none">&#10003;</span>
+    </a>
+    <a class="sidebar-item" data-page="research-brief" onclick="navigate('research-brief')">
+      <span class="icon">&#9654;</span> Post-Kickoff Research
+      <span class="check" id="check-3" style="display:none">&#10003;</span>
+    </a>
+    <a class="sidebar-item" data-page="reflection" onclick="navigate('reflection')">
+      <span class="icon">&#9654;</span> Reflection #1
+      <span class="check" id="check-4" style="display:none">&#10003;</span>
+    </a>
+  </div>
+
+  <div class="sidebar-section">
+    <div class="sidebar-label">Resources</div>
+    <a class="sidebar-item" onclick="window.open('week3-kickoff-meeting-checklist.pdf')">
+      <span class="icon">&#128196;</span> Kickoff Checklist (PDF)
+    </a>
+  </div>
+</aside>
+
+<!-- ══════ MAIN CONTENT ══════ -->
+<div class="main">
+
+  <!-- ── PAGE: Module Overview ── -->
+  <div class="page active" id="page-overview">
+    <div class="module-header">
+      <div class="phase-tag">Foundation Phase</div>
+      <h1>Week 3 — Understanding Your Client</h1>
+      <p>This is kickoff week. Your project becomes real when you sit down with your employer and find out what they actually need.</p>
+    </div>
+    <div class="glance-bar">
+      <div class="glance-item">
+        <div class="label">Total Time</div>
+        <div class="value">~9 hrs 25 min</div>
+      </div>
+      <div class="glance-item">
+        <div class="label">Deliverables</div>
+        <div class="value">Kickoff Summary + Reflection #1</div>
+      </div>
+      <div class="glance-item">
+        <div class="label">Anchor Event</div>
+        <div class="value">Employer Kickoff Meeting</div>
+      </div>
+      <div class="glance-item">
+        <div class="label">Content Items</div>
+        <div class="value">4 modules</div>
+      </div>
+    </div>
+    <div class="content-area">
+      <div class="section-label">This Week's Content</div>
+
+      <div class="module-card" onclick="navigate('week3-overview')">
+        <div class="num">1</div>
+        <div class="card-body">
+          <div class="card-title">Week 3 Overview</div>
+          <div class="card-meta">
+            <span class="type-badge orientation">Orientation</span>
+            <span>5 min</span>
+            <span>Setting expectations for the week</span>
+          </div>
+        </div>
+        <div class="arrow">&#8250;</div>
+      </div>
+
+      <div class="module-card" onclick="navigate('kickoff-prompt')">
+        <div class="num">2</div>
+        <div class="card-body">
+          <div class="card-title">Your Employer Kickoff Meeting & Kickoff Summary</div>
+          <div class="card-meta">
+            <span class="type-badge assignment">Assignment</span>
+            <span>~5 hrs</span>
+            <span>Anchor prompt — before, during, and after the meeting</span>
+          </div>
+        </div>
+        <div class="arrow">&#8250;</div>
+      </div>
+
+      <div class="module-card" onclick="navigate('research-brief')">
+        <div class="num">3</div>
+        <div class="card-body">
+          <div class="card-title">Post-Kickoff Research Brief</div>
+          <div class="card-meta">
+            <span class="type-badge transition">What's Next</span>
+            <span>~2 hrs</span>
+            <span>Targeted research now that scope is confirmed</span>
+          </div>
+        </div>
+        <div class="arrow">&#8250;</div>
+      </div>
+
+      <div class="module-card" onclick="navigate('reflection')">
+        <div class="num">4</div>
+        <div class="card-body">
+          <div class="card-title">Reflection #1</div>
+          <div class="card-meta">
+            <span class="type-badge reflection">Reflection</span>
+            <span>60 min</span>
+            <span>Graded DEAL reflection (~5% of final grade)</span>
+          </div>
+        </div>
+        <div class="arrow">&#8250;</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── PAGE: Week 3 Overview ── -->
+  <div class="page" id="page-week3-overview">
+    <div class="content-page-header">
+      <div class="breadcrumb"><a onclick="navigate('overview')">Week 3</a> &rsaquo; Week 3 Overview</div>
+      <h1>Week 3 Overview</h1>
+      <div class="meta">
+        <span class="type-badge orientation">Orientation</span>
+        <span>5 min read</span>
+      </div>
+    </div>
+    <div class="content-body">
+      <h2>Welcome to Kickoff Week</h2>
+      <p>This is the week your project becomes real. Up until now you've been preparing — forming your team, learning how to communicate professionally, and researching your organization from the outside. This week, you sit down with your employer and find out what they actually need.</p>
+
+      <p>Everything in Week 3 is organized around a single anchor event: <strong>the employer kickoff meeting</strong>. The content before the meeting helps you prepare. The content after it helps you process what you heard and document it accurately.</p>
+
+      <div class="video-container">
+        <video controls preload="metadata">
+          <source src="The_Kickoff_Meeting.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <h2>What's Happening This Week</h2>
+      <p>You'll work through four main content areas, in this order:</p>
+      <ol>
+        <li><strong>This overview</strong> — you're here now</li>
+        <li><strong>Your Employer Kickoff Meeting & Kickoff Summary</strong> — the anchor prompt that walks you through preparing for the meeting, running it well, processing what you heard, and producing the Kickoff Summary deliverable</li>
+        <li><strong>Post-Kickoff Research Brief</strong> — your research now has direction; this guides your targeted investigation</li>
+        <li><strong>Reflection #1</strong> — your first graded DEAL reflection, drawing from the Foundation phase</li>
+      </ol>
+
+      <h2>What You'll Submit</h2>
+      <ul>
+        <li><strong>Kickoff Summary</strong> — a team deliverable, completion-based. A factual record of what your employer communicated.</li>
+        <li><strong>Reflection #1</strong> — an individual submission, graded on a rubric (~5% of your final grade).</li>
+      </ul>
+
+      <div class="callout green">
+        <div class="callout-label">Suggested Order</div>
+        Work through the content in the order listed above. The kickoff prompt is the core of the week — give it the most time and attention.
+      </div>
+
+      <div class="nav-buttons">
+        <button class="nav-btn" onclick="navigate('overview')">&#8249; Back to Module</button>
+        <button class="nav-btn primary" onclick="navigate('kickoff-prompt')">Next: Kickoff Meeting & Summary &#8250;</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PAGE: Kickoff Summary Anchor Prompt ── -->
+  <div class="page" id="page-kickoff-prompt">
+    <div class="content-page-header">
+      <div class="breadcrumb"><a onclick="navigate('overview')">Week 3</a> &rsaquo; Kickoff Meeting & Summary</div>
+      <h1>Your Employer Kickoff Meeting & Kickoff Summary</h1>
+      <div class="meta">
+        <span class="type-badge assignment">Assignment</span>
+        <span>Absorbs activities 3.02–3.13</span>
+      </div>
+    </div>
+    <div class="content-body">
+
+      <p>This prompt walks you through the full arc: preparing for the kickoff meeting, running it well, processing what you heard, and documenting it in your Kickoff Summary.</p>
+
+      <!-- ── BEFORE THE MEETING ── -->
+      <div class="collapsible" style="margin-top: 24px;">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          Before the Meeting
+        </div>
+        <div class="collapsible-body">
+
+          <h3>Pull together what you already know</h3>
+          <p>Your team did individual research in Week 2 on the organization, its industry, and the project brief. Now it's time to consolidate that into shared preparation.</p>
+          <p>As a team, we recommend you:</p>
+          <ul>
+            <li><strong>Review each person's research.</strong> What did everyone find? Where do your findings overlap, and where do they diverge?</li>
+            <li><strong>Identify what you still don't know.</strong> The project brief gave you a starting point, but briefs are always incomplete. What assumptions are you making? What would change your approach if the answer were different than you expect?</li>
+            <li><strong>Prioritize your questions.</strong> You won't get to ask everything. Rank your questions by what you most need to learn from the employer specifically — things you can't find out on your own.</li>
+            <li><strong>Assign meeting roles.</strong> Decide in advance who will lead the conversation, who will take notes, and who will manage time. Having roles prevents the meeting from becoming five people jumping in unprepared.</li>
+          </ul>
+
+          <div class="callout">
+            <div class="callout-label">Suggested Agenda — Pre-Meeting Team Huddle (~30 min)</div>
+            <ul style="margin-top: 8px;">
+              <li>Quick round-robin: what did each person learn in their Week 2 research? (10 min)</li>
+              <li>What are our top questions for the employer? Prioritize to 5–7. (10 min)</li>
+              <li>Confirm roles: lead, note-taker, timekeeper. Brief walkthrough of the flow. (10 min)</li>
+            </ul>
+          </div>
+
+          <h3>Confirm logistics with your employer</h3>
+          <p>Before the meeting, send a short email to your employer contact confirming the details. This is a professional courtesy — it reduces no-shows, surfaces any last-minute changes, and gives you a chance to set expectations.</p>
+          <p><strong>Your confirmation email should include:</strong></p>
+          <ul>
+            <li>Date, time, and platform (with the meeting link)</li>
+            <li>Who will be attending from your team</li>
+            <li>A brief note on what you're hoping to cover (not a full agenda — just a sentence or two so they know what to expect)</li>
+            <li>An invitation for them to flag anything they'd like to discuss</li>
+          </ul>
+          <p>Keep it short. Three to five sentences. Professional, warm, to the point.</p>
+
+          <h3>Set up for note capture</h3>
+          <p>Good notes from this meeting are essential — your Kickoff Summary depends on them, and your memory of what was said will fade faster than you think.</p>
+          <p>You're encouraged to use AI tools to help with note capture. Options include AI-powered meeting transcription that runs during the call, or using an AI assistant to organize your raw notes immediately after. The key is having a plan <em>before</em> the meeting starts — not scrambling to remember details afterward.</p>
+          <p>A few practical notes on AI-assisted note capture:</p>
+          <ul>
+            <li>If using a transcription tool, test it before the meeting and make sure your employer is comfortable with it being active</li>
+            <li>If you prefer manual notes, designate your best note-taker and have at least one other person capturing key points as backup</li>
+            <li>Either way, plan to do a quick AI-assisted cleanup of your notes within an hour of the meeting ending, while context is fresh</li>
+          </ul>
+
+          <div class="resource-card" onclick="window.open('https://zapier.com/blog/best-ai-meeting-assistant/', '_blank')">
+            <div class="file-icon">&#128279;</div>
+            <div class="file-info">
+              <div class="name">The 9 Best AI Meeting Assistants</div>
+              <div class="type">Zapier — Tool recommendations for AI-powered note capture and transcription</div>
+            </div>
+          </div>
+
+          <div class="collapsible" style="margin-top: 16px;">
+            <div class="collapsible-header" onclick="toggleCollapsible(this); event.stopPropagation();">
+              <span class="chevron">&#9654;</span>
+              Quick Reference: Video Call Professionalism
+            </div>
+            <div class="collapsible-body">
+              <p>If this is your first professional video call, a few basics go a long way:</p>
+              <ul>
+                <li>Camera on, good lighting (face a window or lamp, don't sit in front of one), clean background</li>
+                <li>Mute when you're not speaking, especially in a group</li>
+                <li>Look at the camera when you're talking, not at yourself</li>
+                <li>If you have technical issues, stay calm — say "I'm having some audio trouble, give me a moment" rather than disappearing silently</li>
+              </ul>
+              <div class="resource-card" style="margin-top: 12px;" onclick="window.open('https://www.roberthalf.com/us/en/insights/career-development/14-video-conference-etiquette-tips', '_blank')">
+                <div class="file-icon">&#128279;</div>
+                <div class="file-info">
+                  <div class="name">14 Videoconference Etiquette Tips</div>
+                  <div class="type">Robert Half — A deeper dive on video call professionalism</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ── DURING THE MEETING ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          During the Meeting
+        </div>
+        <div class="collapsible-body">
+
+          <h3>What you're trying to learn</h3>
+          <p>Your kickoff meeting will cover a lot of ground, but there are specific things you need to walk away understanding.</p>
+
+          <div class="checklist">
+            <div class="checklist-title">&#128203; Meeting Checklist</div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Project scope</strong> — what exactly are they asking you to produce? What's in bounds and what's out?</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Success criteria</strong> — what does "good" look like to them?</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Deliverables and format</strong> — what do they want handed to them at the end?</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Timeline and milestones</strong> — are there dates that matter on their end?</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Key contacts</strong> — who is your primary contact? Anyone else you should know about?</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Organizational context</strong> — what's happening in their organization that shapes this project?</span></div>
+          </div>
+
+          <h3>Reading between the lines</h3>
+          <p>The most important information in a kickoff meeting isn't always what's said directly. Experienced professionals learn to read the conversation — to hear what's emphasized, what's repeated, and what's left unsaid.</p>
+
+          <div style="border: 1px solid var(--border); border-radius: 12px; overflow: hidden; margin: 16px 0 20px;">
+            <iframe src="week3-interactive-kickoff-scenario.html" style="width: 100%; height: 700px; border: none; display: block;" title="Interactive Kickoff Scenario"></iframe>
+          </div>
+
+          <h3>Things to ask if they don't come up</h3>
+          <ul>
+            <li>What's been tried before? What worked or didn't?</li>
+            <li>Who is the audience for your deliverable — who will actually read or use it?</li>
+            <li>What would make this project a disappointment, even if you technically delivered what was asked?</li>
+          </ul>
+
+        </div>
+      </div>
+
+      <!-- ── AFTER THE MEETING ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          After the Meeting
+        </div>
+        <div class="collapsible-body">
+
+          <h3>Debrief immediately</h3>
+          <p>We strongly recommend your team debrief within an hour of the meeting ending — ideally right after. Impressions fade fast, and the things that surprised you or felt important in the moment are exactly what you need to capture.</p>
+          <p>This doesn't need to be formal. A 15–20 minute conversation covering:</p>
+          <ul>
+            <li><strong>What surprised us?</strong> What did we learn that we didn't expect?</li>
+            <li><strong>What does the employer care most about?</strong> Based on what they said <em>and</em> how they said it.</li>
+            <li><strong>What don't we know yet?</strong> What questions are still open?</li>
+            <li><strong>Did we hear the same thing?</strong> Compare interpretations — if two team members took away different understandings of the scope, surface that now.</li>
+          </ul>
+
+          <h3>Process your notes into shared understanding</h3>
+          <p>Raw meeting notes — whether from a transcription tool or handwritten — aren't useful to anyone yet. The work is in turning them into something your whole team agrees on.</p>
+          <p>This is where AI can genuinely help. If you have a transcript or detailed notes, you can ask an AI assistant to organize them by topic, flag areas where the information is ambiguous, or draft a structured summary for your team to review. The AI is organizing <em>your</em> information — it's not generating content from nothing.</p>
+          <p>When prompting AI to help organize your notes, give it context:</p>
+          <ul>
+            <li>Share the raw notes or transcript</li>
+            <li>Share the project brief</li>
+            <li>Tell it the format you want (e.g., "organize by: confirmed scope, deliverables, success criteria, timeline, contacts, open questions")</li>
+            <li>Review what it produces critically — AI will sometimes infer things that weren't actually said</li>
+          </ul>
+
+          <div class="scenario">
+            <div class="scenario-label">Scenario Example</div>
+            <p>Your note-taker wrote: <em>"They want us to look at their social media."</em><br>
+            Your lead heard: <em>"They want a full social media audit with competitor benchmarking."</em><br>
+            The employer actually said: <em>"It would be helpful to understand how we're showing up on social compared to others in our space."</em></p>
+            <p>These are three different things. The note is too vague. The lead's version adds scope that wasn't requested. The employer's actual words suggest something in between — an informal comparison, not a formal audit. <strong>This is why comparing notes matters, and why going back to exact language matters more.</strong></p>
+          </div>
+
+          <h3>Send a follow-up email</h3>
+          <p>Within 24 hours of the meeting, your team should send a brief follow-up email to your employer contact. This is standard professional practice — it shows you were paying attention, confirms your understanding, and opens the door for clarification.</p>
+          <p><strong>Your follow-up email should include:</strong></p>
+          <ul>
+            <li>A thank-you for their time</li>
+            <li>A brief summary of your understanding of the project scope and next steps (2–3 sentences, not a full recap)</li>
+            <li>Any specific open questions you want to flag for follow-up</li>
+            <li>Your expected timeline for next contact</li>
+          </ul>
+          <p>This email also serves a practical function: if you misunderstood something in the meeting, this is where the employer can catch it early.</p>
+
+        </div>
+      </div>
+
+      <!-- ── THE DELIVERABLE ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          The Deliverable: Kickoff Summary
+        </div>
+        <div class="collapsible-body">
+
+          <h3>What it is</h3>
+          <p>The Kickoff Summary is a factual record of what your employer communicated in the kickoff meeting. It's not analysis. It's not your interpretation of what the project should be. It's documentation of what was actually said — what's confirmed and what's still open.</p>
+          <p>Think of it as the foundation your team will build on for the rest of the project. If this document is vague or inaccurate, every decision you make afterward sits on a shaky base. Next week's Context Analysis & Project Plan — your first graded deliverable — depends directly on the quality of this summary.</p>
+
+          <div class="scenario">
+            <div class="scenario-label">Example: Vague vs. Clear</div>
+            <div class="comparison">
+              <div class="bad">
+                <strong>Vague version</strong>
+                "The employer wants us to help with their marketing. They mentioned social media and said the board cares about it. Timeline is soon."
+              </div>
+              <div class="good">
+                <strong>Clear version</strong>
+                <strong style="font-size: 13.5px; text-transform: none;">Confirmed scope:</strong> Assess current social media presence across Instagram and LinkedIn relative to three regional competitors identified by the employer.<br><br>
+                <strong style="font-size: 13.5px; text-transform: none;">Success criteria:</strong> Actionable recommendations for the June board meeting.<br><br>
+                <strong style="font-size: 13.5px; text-transform: none;">Timeline:</strong> Draft by June 1; board presentation June 15.<br><br>
+                <strong style="font-size: 13.5px; text-transform: none;">Open question:</strong> Email marketing — in scope or aspirational?
+              </div>
+            </div>
+          </div>
+
+          <h3>What to include</h3>
+          <div class="checklist">
+            <div class="checklist-title">&#128203; Kickoff Summary Sections</div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Confirmed project scope</strong> — what the employer asked you to do, reflecting what they actually said</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Deliverables and format</strong> — what you'll produce and in what form</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Success criteria</strong> — how the employer will evaluate your work</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Timeline and key dates</strong> — deadlines, milestones, dependencies</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Key contacts</strong> — who you'll work with and their roles</span></div>
+            <div class="checklist-item"><input type="checkbox"><span><strong>Open questions</strong> — what wasn't answered, what needs follow-up</span></div>
+          </div>
+
+          <div class="callout orange">
+            <div class="callout-label">Key Principle</div>
+            The distinction between confirmed information and open questions is the most important thing in this document. Being clear about what you know versus what you're still figuring out is a sign of intellectual honesty and professional maturity.
+          </div>
+
+          <h3>Format and logistics</h3>
+          <ul>
+            <li><strong>Team submission:</strong> One document, collaboratively produced. One person drafts; all team members review and confirm accuracy before submission.</li>
+            <li><strong>Length:</strong> No specific requirement. Be thorough and concise. Most good Kickoff Summaries run 2–4 pages.</li>
+            <li><strong>AI use:</strong> You are encouraged to use AI to help organize and structure your notes. You may not use AI to generate the substance. AI disclosure required.</li>
+            <li><strong>Completion criteria:</strong> Checkpoint deliverable (completion-based). Must include all sections above and clearly distinguish confirmed info from open questions.</li>
+          </ul>
+
+          <div class="resource-card" onclick="window.open('week3-kickoff-meeting-checklist.pdf')">
+            <div class="file-icon">&#128196;</div>
+            <div class="file-info">
+              <div class="name">Kickoff Meeting Checklist</div>
+              <div class="type">PDF — Printable reference for during the meeting</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="nav-buttons">
+        <button class="nav-btn" onclick="navigate('week3-overview')">&#8249; Week 3 Overview</button>
+        <button class="nav-btn primary" onclick="navigate('research-brief')">Next: Post-Kickoff Research &#8250;</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PAGE: Post-Kickoff Research Brief ── -->
+  <div class="page" id="page-research-brief">
+    <div class="content-page-header">
+      <div class="breadcrumb"><a onclick="navigate('overview')">Week 3</a> &rsaquo; Post-Kickoff Research Brief</div>
+      <h1>What's Next: Researching With Direction</h1>
+      <div class="meta">
+        <span class="type-badge transition">What's Next</span>
+        <span>Absorbs activities 3.14–3.16</span>
+      </div>
+    </div>
+    <div class="content-body">
+
+      <p>You've met your employer. You know what they're asking for, what they care about, and what success looks like to them. Now the question changes — from "what does this organization do?" to "what does my team need to understand to deliver something useful?"</p>
+
+      <p>This is the second stage of a three-part research progression in this course:</p>
+
+      <div style="margin: 20px 0 28px;">
+        <img src="week3-research-progression.svg" alt="Research Progression — Week 2: Reconnaissance, Week 3: Targeted Research (current), Week 4: Analytical Synthesis" style="width: 100%; height: auto;">
+      </div>
+
+      <!-- ── WHAT'S DIFFERENT NOW ── -->
+      <div class="collapsible" style="margin-top: 8px;">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          What's Different Now
+        </div>
+        <div class="collapsible-body">
+          <p>Before the kickoff, you were researching in the dark. You knew the organization and a general project direction, but you didn't know what the employer actually cared about, what had already been tried, or what constraints were in play. Now you do.</p>
+          <p>That changes what you're looking for. Your research this week should be driven by the specific scope, success criteria, and open questions documented in your Kickoff Summary. If your Kickoff Summary identified gaps — things you still need to find out — this is where you start filling them.</p>
+        </div>
+      </div>
+
+      <!-- ── WHAT TO LOOK FOR ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          What to Look For
+        </div>
+        <div class="collapsible-body">
+          <p>Every project is different, but here are the kinds of questions your research should be answering:</p>
+
+          <p><strong>About the landscape:</strong></p>
+          <ul>
+            <li>Who else is doing similar work in this space? What can you learn from how they've approached it?</li>
+            <li>What are the major trends, challenges, or shifts in this sector that are relevant to your project?</li>
+            <li>Is there published research, industry reports, or case studies that relate directly to what your employer is trying to accomplish?</li>
+          </ul>
+
+          <p><strong>About the organization's context:</strong></p>
+          <ul>
+            <li>Did anything come up in the kickoff — a merger, a leadership change, a recent initiative — that you need to understand better?</li>
+            <li>How does your employer's organization compare to others in their space? Where are they ahead, and where are they behind?</li>
+          </ul>
+
+          <p><strong>About the audience or end user:</strong></p>
+          <ul>
+            <li>Who will actually be affected by or use what you produce? What do you know about them?</li>
+            <li>Are there perspectives you're missing that would change your approach?</li>
+          </ul>
+
+          <p>You won't answer all of these. Focus on the ones that are most relevant to your specific project scope.</p>
+        </div>
+      </div>
+
+      <!-- ── HOW TO ORGANIZE ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          How to Organize What You Find
+        </div>
+        <div class="collapsible-body">
+          <p>You're going to use this research next week when you write the Context Analysis & Project Plan — so how you organize now saves you time later.</p>
+          <p>We recommend keeping a shared document where your team collects findings as you go. For each source or insight, capture:</p>
+          <ul>
+            <li>What you found and where you found it</li>
+            <li>Why it matters to your specific project (not just "it's interesting" — how does it connect to scope, success criteria, or an open question?)</li>
+            <li>Whether it's a confirmed fact, a reasonable inference, or something you'd need to verify</li>
+          </ul>
+          <p>That last distinction — fact vs. inference — matters. It's the same skill you practiced in the Kickoff Summary when you separated confirmed information from open questions. In the Context Analysis next week, you'll be graded on the quality of your reasoning, and reasoning built on assumptions you haven't flagged is weaker than reasoning that acknowledges uncertainty.</p>
+        </div>
+      </div>
+
+      <!-- ── AI FOR RESEARCH ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          A Note on AI for Research
+        </div>
+        <div class="collapsible-body">
+          <p>AI is a useful research partner here. You can use it to explain unfamiliar terminology or industry concepts, summarize long reports or articles, identify related topics you might not have thought to search for, and pressure-test your early thinking ("here's what we're finding — what are we missing?").</p>
+          <p>What AI can't do is replace primary research. If your employer mentioned specific competitors, local conditions, or internal challenges, those need real investigation — not AI-generated summaries of generic information. Use AI to accelerate your understanding, not to substitute for actually looking.</p>
+        </div>
+      </div>
+
+      <!-- ── LOOKING AHEAD ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          Looking Ahead: Week 4
+        </div>
+        <div class="collapsible-body">
+          <p>Next week, you'll take everything you've gathered — your Kickoff Summary, your targeted research, and your team's emerging understanding of the project — and synthesize it into the <strong>Context Analysis & Project Plan</strong>. This is your first graded deliverable (10% of your final grade), and it's assessed on the quality of your research, the strength of your evidence-based reasoning, and the clarity of your plan.</p>
+          <p>The better your research is this week, the stronger your foundation next week. You're not starting from scratch in Week 4 — you're building on what you've already done.</p>
+        </div>
+      </div>
+
+      <div class="nav-buttons">
+        <button class="nav-btn" onclick="navigate('kickoff-prompt')">&#8249; Kickoff Meeting & Summary</button>
+        <button class="nav-btn primary" onclick="navigate('reflection')">Next: Reflection #1 &#8250;</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PAGE: Reflection #1 ── -->
+  <div class="page" id="page-reflection">
+    <div class="content-page-header">
+      <div class="breadcrumb"><a onclick="navigate('overview')">Week 3</a> &rsaquo; Reflection #1</div>
+      <h1>Reflection #1: Looking Back on the Foundation Phase</h1>
+      <div class="meta">
+        <span class="type-badge reflection">Graded Reflection</span>
+        <span>~5% of final grade</span>
+        <span>Activity 3.18</span>
+      </div>
+    </div>
+    <div class="content-body">
+
+      <p>You've just completed the first phase of your project — forming a team, meeting your employer, beginning to understand what's being asked of you. Before you move into the research-heavy weeks ahead, this is a chance to pause and examine what you've experienced so far.</p>
+
+      <p>This is your first DEAL reflection. It counts for ~5% of your final grade as part of your Reflection Portfolio (five reflections, 25% total). The expectation here is straightforward: pick a specific moment, examine it honestly, and say what you're taking from it. Depth and honesty matter more than polish.</p>
+
+      <!-- ── THE DEAL FRAMEWORK ── -->
+      <div class="collapsible" style="margin-top: 24px;">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          The DEAL Framework
+        </div>
+        <div class="collapsible-body">
+          <p>Every reflection in this course follows the same three-stage structure:</p>
+          <p><strong>Describe</strong> — What happened? Give a specific, factual account of a concrete experience. Not a summary of the whole three weeks — one moment or a tightly connected set of moments. Include enough detail that someone who wasn't there could understand what occurred.</p>
+          <p><strong>Examine</strong> — What does this experience reveal? This is the analytical core. Look underneath what happened: What assumptions were you operating under? What patterns do you notice? What did the experience reveal about how you approach new professional situations? Surface-level observations ("I learned that communication is important") don't meet the standard. The goal is to uncover something you didn't fully see while it was happening.</p>
+          <p><strong>Articulate Learning</strong> — What are you taking forward? Extract a specific, transferable insight — something concrete enough to apply in a future situation. Not what sounds impressive, but what you actually learned.</p>
+        </div>
+      </div>
+
+      <!-- ── YOUR PROMPT ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          Your Prompt
+        </div>
+        <div class="collapsible-body">
+          <div class="callout purple">
+            <strong>Choose one specific moment from the past three weeks where something surprised you, challenged you, or didn't go the way you expected.</strong> Using the DEAL framework, describe what happened, examine what that experience reveals about how you enter new professional situations, and articulate what you're taking forward into the next phase of the project.
+          </div>
+          <p>Your experiential pool includes anything from Weeks 1–3: team formation, the employer kickoff meeting, early research, a moment of confusion or misalignment, a conversation that shifted your understanding. The kickoff meeting is the most likely anchor given its recency and significance, but you're not limited to it. Choose the moment that gives you the most to examine.</p>
+        </div>
+      </div>
+
+      <!-- ── CONNECTING TO YOUR GOALS ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          Connecting to Your Goals
+        </div>
+        <div class="collapsible-body">
+          <div class="callout">
+            <strong>Look back at your Student Intake Questionnaire</strong> — specifically what you said about your learning goals and the professional challenge you want to work on. How does the experience you just described connect to those goals? Did anything in the first three weeks confirm, complicate, or shift what you thought you wanted to get out of this course? You don't need to have answers — naming the connection (or the tension) is the point.
+          </div>
+        </div>
+      </div>
+
+      <!-- ── HOW YOU'LL BE ASSESSED ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          How You'll Be Assessed
+        </div>
+        <div class="collapsible-body">
+          <p>Your reflection is evaluated on four equally weighted dimensions:</p>
+          <table style="width:100%; border-collapse:collapse; margin: 12px 0 16px; font-size:13.5px;">
+            <thead>
+              <tr style="background: var(--orange); color: var(--white);">
+                <th style="padding:10px 12px; text-align:left; border-radius:6px 0 0 0;">Dimension</th>
+                <th style="padding:10px 12px; text-align:left;">What It Assesses</th>
+                <th style="padding:10px 12px; text-align:left; border-radius:0 6px 0 0;">What "Good" Looks Like</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom:1px solid var(--border);">
+                <td style="padding:10px 12px; font-weight:600;">Descriptive Specificity</td>
+                <td style="padding:10px 12px;">The Describe stage — can a reader reconstruct what happened?</td>
+                <td style="padding:10px 12px;">A specific, grounded account with enough concrete detail to be vivid and verifiable. Not a vague summary of the phase.</td>
+              </tr>
+              <tr style="border-bottom:1px solid var(--border);">
+                <td style="padding:10px 12px; font-weight:600;">Critical Examination</td>
+                <td style="padding:10px 12px;">The Examine stage — does the reflection go beneath the surface?</td>
+                <td style="padding:10px 12px;">Genuine interrogation of the experience: assumptions identified, patterns noticed, implications drawn. Goes beyond narration with a reflective gloss.</td>
+              </tr>
+              <tr style="border-bottom:1px solid var(--border);">
+                <td style="padding:10px 12px; font-weight:600;">Personal Accountability</td>
+                <td style="padding:10px 12px;">Across all stages — does the student own their role in the experience?</td>
+                <td style="padding:10px 12px;">The reflection centers the student's own actions, choices, and responses — not just what happened to them or what others did.</td>
+              </tr>
+              <tr>
+                <td style="padding:10px 12px; font-weight:600;">Articulation of Learning</td>
+                <td style="padding:10px 12px;">The Articulate Learning stage — is the takeaway specific and transferable?</td>
+                <td style="padding:10px 12px;">A concrete insight that could plausibly guide future behavior. Not a generic lesson ("teamwork is important") but a specific realization grounded in what actually happened.</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>This is your first reflection. We're calibrating to a first attempt — you're still building fluency with the DEAL model. What we're looking for is a genuine, specific, honest effort. The depth and sophistication of your examination will grow across the five reflections in the portfolio.</p>
+        </div>
+      </div>
+
+      <!-- ── USING AI AS A THINKING PARTNER ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          Using AI as a Thinking Partner
+        </div>
+        <div class="collapsible-body">
+          <p>Reflection is one of the places where AI can genuinely make your thinking better — but only if you use it the right way. The wrong way is asking AI to write your reflection or even to "help you reflect." AI will happily produce a fluent, polished paragraph that sounds reflective but contains none of your actual thinking. That's not useful to you, and it's not what we're assessing.</p>
+          <p>The right way is to use AI the way you'd use a good mentor: someone who asks you hard questions, pushes you to be more specific, and tells you when you're being vague.</p>
+
+          <div class="callout orange">
+            <div class="callout-label">Start with this</div>
+            Tell the AI not to write for you. Begin your conversation with something like:<br><br>
+            <em>"I'm working on a reflection for a course. I want you to act as a thinking partner — ask me questions to help me go deeper, but don't write the reflection for me. Push back if I'm being vague or surface-level. I'll do the actual writing."</em><br><br>
+            This one instruction changes the entire interaction. Instead of producing content, the AI becomes a coach.
+          </div>
+
+          <p><strong>Then, use it at specific stages:</strong></p>
+          <p>When you're stuck on what to describe:</p>
+          <div class="callout" style="font-style:italic;">"I need to choose a specific moment from the past three weeks to reflect on. Here are a few candidates: [list them]. Which one do you think has the most to examine, and why?"</div>
+          <p>When your description is too vague:</p>
+          <div class="callout" style="font-style:italic;">"Here's my description of what happened: [text]. Is this specific enough that someone who wasn't there could picture it? What details am I missing?"</div>
+          <p>When your examination feels shallow:</p>
+          <div class="callout" style="font-style:italic;">"Here's what I've written for the Examine section: [text]. What assumptions am I making that I haven't named? What's the obvious question I'm not asking myself?"</div>
+          <p>When your articulated learning sounds generic:</p>
+          <div class="callout" style="font-style:italic;">"Here's my takeaway: [text]. Is this specific enough to actually change how I do something next time? Or could any student in any project have written this?"</div>
+
+          <div class="callout orange" style="margin-top: 20px;">
+            <div class="callout-label">What AI cannot do — and why it matters</div>
+            AI wasn't in the room. It doesn't know what your employer said, what surprised you, how your teammate reacted, or what you were thinking when things went sideways. If your reflection reads like it could have been written by someone who wasn't there, it probably wasn't written by someone who was — even if that someone is you working too quickly. The specificity has to come from you. AI can help you find it, but it can't supply it.
+          </div>
+        </div>
+      </div>
+
+      <!-- ── SUBMISSION DETAILS ── -->
+      <div class="collapsible">
+        <div class="collapsible-header" onclick="toggleCollapsible(this)">
+          <span class="chevron">&#9654;</span>
+          Submission Details
+        </div>
+        <div class="collapsible-body">
+          <ul>
+            <li><strong>Format:</strong> Individual submission, written</li>
+            <li><strong>Length:</strong> 800–1200 words. The range is a guide, not a hard boundary. A focused 750-word reflection that is specific and honest is stronger than a padded 1200-word reflection that is vague.</li>
+            <li><strong>Submit via:</strong> Riipen platform</li>
+            <li><strong>AI disclosure:</strong> Required. If you used AI at any stage, briefly describe how. If you didn't use AI, a one-sentence statement to that effect is sufficient.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="nav-buttons">
+        <button class="nav-btn" onclick="navigate('research-brief')">&#8249; Post-Kickoff Research</button>
+        <button class="nav-btn" onclick="navigate('overview')">Back to Module Overview</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  const pages = ['overview', 'week3-overview', 'kickoff-prompt', 'research-brief', 'reflection'];
+
+  function navigate(pageId) {
+    // Hide all pages
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    // Show target
+    document.getElementById('page-' + pageId).classList.add('active');
+    // Update sidebar
+    document.querySelectorAll('.sidebar-item').forEach(item => {
+      item.classList.remove('active');
+      if (item.dataset.page === pageId) item.classList.add('active');
+    });
+    // Scroll to top
+    window.scrollTo(0, 0);
+    // Update progress
+    updateProgress();
+  }
+
+  function toggleCollapsible(header) {
+    header.classList.toggle('open');
+    const body = header.nextElementSibling;
+    body.classList.toggle('open');
+  }
+
+  function updateProgress() {
+    const visited = new Set(JSON.parse(sessionStorage.getItem('visited') || '[]'));
+    const current = document.querySelector('.sidebar-item.active');
+    if (current && current.dataset.page && current.dataset.page !== 'overview') {
+      visited.add(current.dataset.page);
+      sessionStorage.setItem('visited', JSON.stringify([...visited]));
+    }
+    // Update checkmarks
+    const mapping = {'week3-overview': '1', 'kickoff-prompt': '2', 'research-brief': '3', 'reflection': '4'};
+    for (const [page, num] of Object.entries(mapping)) {
+      const check = document.getElementById('check-' + num);
+      if (visited.has(page)) {
+        check.style.display = 'inline';
+      }
+    }
+    // Update progress bar
+    const pct = (visited.size / 4) * 100;
+    document.getElementById('progressBar').style.width = pct + '%';
+  }
+</script>
+
+</body>
+</html>
