@@ -342,6 +342,23 @@ Used for AI use and disclosure information specific to a deliverable or activity
 </div>
 ```
 
+### 20. Competency Badges
+
+Used at the top of each page (just below the intro paragraph) to show which NACE competencies the page develops. Rendered as small pill-shaped tags. Pull the competency data from the `competencies` field in the page's markdown frontmatter. Omit this component on pages with no competencies listed.
+
+```html
+<div style="margin: 0 0 20px; display: flex; flex-wrap: wrap; gap: 6px;">
+  <span style="display: inline-block; background: #f7f8fa; border: 1px solid #e2e4e9; border-radius: 12px; padding: 3px 10px; font-size: 11px; color: #050c2a;">Career &amp; Self-Development: Self-Awareness</span>
+  <span style="display: inline-block; background: #f7f8fa; border: 1px solid #e2e4e9; border-radius: 12px; padding: 3px 10px; font-size: 11px; color: #050c2a;">Critical Thinking: Prioritization</span>
+</div>
+```
+
+**Notes:**
+- Place directly after the page intro paragraph and before the first section header.
+- Use one `<span>` per competency. Format: "Area: Subskill".
+- Keep the styling subtle (grey background, small font) so badges inform without dominating the page.
+- On pages with no competency mapping (e.g., pure overview/logistics pages), omit entirely.
+
 ---
 
 ## Choosing Components
@@ -366,6 +383,7 @@ Use this guide to match content types to components:
 | Videos not yet produced | Video Placeholder |
 | Transcript for any video | Video Transcript (expand/collapse below video) |
 | Interactive exercises (linked separately) | Interactive Placeholder |
+| NACE competency/subskill tags per page | Competency Badges |
 
 ---
 

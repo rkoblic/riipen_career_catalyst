@@ -78,8 +78,15 @@ title: Team Formation & Charter
 created: YYYY-MM-DD
 last_updated: YYYY-MM-DD
 status: draft | review | final
+competencies:
+  - area: Teamwork
+    subskill: Shared Accountability
+  - area: Communication
+    subskill: Professional Correspondence
 ---
 ```
+
+The `competencies` field lists the NACE competency areas and subskills the page touches. These are used to render competency badges in the Canvas HTML version. Map competencies based on the design doc's competency alignment table. Pages that are purely logistical (e.g., a week overview with no skill-building content) can omit this field.
 
 **Video script files:**
 ```yaml
@@ -201,6 +208,10 @@ These principles are established in the development plan process. During content
 7. **Varied media breaks up density.** Where the development plan specifies a video, place the `[VIDEO]` placeholder at the point where the video should appear — typically after the opening framing sentence or at the start of a new conceptual section. Videos are openers and motivators, not replacements for instructional text. **Videos must not duplicate the page text.** If the page covers logistics (what's due, what order), the video should cover motivation (why this matters, how the skills show up in real professional work). If the page teaches a concept, the video should frame why a professional would care — not re-explain the concept. Redundancy makes videos skippable. Every video should give learners a reason to press play that they can't get from skimming the page.
 
 8. **Scannable over dense.** Use headers, bullet points, and short paragraphs. A learner should be able to skim a page and understand the structure before reading deeply. Long unbroken paragraphs are a sign that the content needs restructuring, not just editing.
+
+9. **Vary examples across weeks.** When illustrating a concept with examples (professional roles, industries, scenarios), check what examples were used in previous weeks' content and use different ones. Repetition of the same examples (e.g., "a marketing manager drafts copy, a consultant synthesizes research") across multiple pages or weeks makes the course feel narrow and formulaic. Diverse examples across weeks signal that these skills apply broadly, expose learners to a wider range of professional contexts, and keep the content feeling fresh. Before writing examples, scan the content from the surrounding weeks for overlap.
+
+10. **Surface the pedagogy.** When asking learners to do something, explain *why the course is designed that way* and how it benefits them. Don't just describe the activity — make the design logic visible. Why is this activity sequenced here and not later? Why is it completion-based instead of graded? Why does the course ask you to skim before deep-reading, or draft before using AI, or preview a template before your first meeting? Learners who understand the reasoning behind a course's structure are more motivated, less anxious, and more likely to engage meaningfully with activities that might otherwise feel like busywork. This doesn't mean citing research papers — a sentence or two of plain-language rationale is enough. "We ask you to review the syllabus early because learners who understand the full arc and expectations from day one manage their time and stress better across the semester" is the right register. The goal is transparency: learners should never have to wonder why they're doing something.
 
 ---
 

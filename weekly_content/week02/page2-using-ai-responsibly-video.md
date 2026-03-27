@@ -4,18 +4,18 @@ page: 2
 title: Using AI Responsibly
 type: video-script
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-03-27
 status: draft
 ---
 
-# Video Script: Why Learning to Work with AI Is a Professional Skill
+# Video Script: The skill gap
 
-Being good with AI doesn't mean using it for everything. It means knowing how to use it well.
+Imagine two people on the same project team, both asked to research an unfamiliar industry before a client meeting.
 
-Here's what that looks like in practice. A marketing manager uses AI to draft three different angles for a campaign pitch, then picks the strongest one and rewrites it in her voice. A consultant asks AI to summarize a hundred pages of industry reports, then spends an hour verifying the key claims before putting them in front of a client. A project lead uses AI to stress-test a project timeline, asking "what could go wrong with this plan?" before presenting it to stakeholders.
+The first one opens an AI tool and types: "Tell me about the renewable energy industry." They get back a wall of generic text. Some of it's useful, some of it's vague, and one statistic turns out to be two years old. They copy the key points into their notes and show up to the meeting feeling prepared. Then the client asks a specific question about a recent policy change, and they have nothing.
 
-None of these people are handing their work over to AI. They're using it to think faster, explore more options, and catch things they might miss. Then they apply their own judgment.
+The second person types something different: "I'm preparing for a meeting with a small solar installation company in the Midwest. What should I understand about their competitive landscape, recent regulatory changes, and the biggest challenges companies like this face right now? Flag anything I should verify against current sources." They get a focused, structured response. They spend twenty minutes verifying the claims that matter most. They show up to the same meeting and ask the client an informed question that changes the direction of the conversation.
 
-Here's why this matters. In a professional setting, you own what you submit. If a client asks you to explain a finding in your report and you can't because AI generated it and you never really understood it, that's a problem. Not a policy problem. A credibility problem.
+Same tool. Same amount of time. Completely different outcome.
 
-The skills on this page will help you avoid that. You'll learn how to prompt AI so it gives you something useful, and how to evaluate what it gives you so you're never caught off guard.
+The difference isn't talent or experience. It's skill. Knowing how to give AI enough context, how to ask for something useful, and how to check what you get back. That's what this module is about. The three principles on this page will change how you use AI for the rest of this course and beyond it.

@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Review This AI Output — What's Your Next Move?</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --dark-blue: #050C2A;
+    --orange: #FF7C0A;
+    --electric-blue: #2454FF;
+    --green: #18733E;
+    --red: #DC2626;
+    --grey: #ACACAC;
+    --muted: #6b7280;
+    --light-bg: #F7F8FA;
+    --white: #FFFFFF;
+    --border: #E2E4E9;
+    --purple: #7c3aed;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    background: var(--light-bg);
+    line-height: 1.7;
+  }
+
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 24px 60px;
+  }
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+  }
+
+  .header .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--orange);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    line-height: 1.2;
+    color: var(--dark-blue);
+  }
+
+  .header .subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* Phases */
+  .phase { display: none; }
+  .phase.active { display: block; }
+
+  /* Context box */
+  .context-box {
+    background: #FFF8F1;
+    border: 1px solid #FFD9A8;
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+  .context-box p + p { margin-top: 12px; }
+
+  /* Instructions */
+  .instructions {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    font-size: 14px;
+  }
+  .instructions h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .instructions ul {
+    margin: 0 0 0 20px;
+  }
+  .instructions li {
+    margin-bottom: 4px;
+    font-size: 13px;
+  }
+  .instructions li strong {
+    color: var(--dark-blue);
+  }
+
+  /* Progress bar */
+  .progress-bar {
+    background: var(--border);
+    height: 4px;
+    border-radius: 2px;
+    margin-bottom: 24px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    background: var(--orange);
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 2px;
+  }
+
+  /* Document container */
+  .document {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 28px 28px 20px;
+    margin-bottom: 24px;
+  }
+  .document-title {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: var(--dark-blue);
+  }
+  .document p {
+    font-size: 14.5px;
+    line-height: 1.8;
+    margin-bottom: 14px;
+  }
+
+  /* Clickable passages */
+  .passage {
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.15s, box-shadow 0.15s;
+    padding: 1px 2px;
+  }
+  .passage:hover {
+    background: #FFF3E0;
+  }
+  .passage.flagged {
+    background: #FFE8CC;
+    box-shadow: 0 0 0 2px var(--orange);
+  }
+  .passage.flagged:hover {
+    background: #FFD9A8;
+  }
+
+  /* Action popup */
+  .action-popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    width: 420px;
+    max-width: 90vw;
+    box-shadow: 0 20px 60px rgba(5,12,42,0.15);
+    z-index: 100;
+    max-height: 85vh;
+    overflow-y: auto;
+  }
+  .action-popup.visible {
+    display: block;
+  }
+  .action-popup .popup-passage {
+    font-size: 13px;
+    color: var(--muted);
+    background: var(--light-bg);
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 16px;
+    line-height: 1.5;
+    font-style: italic;
+  }
+  .action-popup h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .action-btn {
+    display: block;
+    width: 100%;
+    background: var(--white);
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 14px;
+    font-size: 13px;
+    font-family: 'DM Sans', sans-serif;
+    text-align: left;
+    cursor: pointer;
+    line-height: 1.4;
+    margin-bottom: 6px;
+    transition: all 0.15s ease;
+  }
+  .action-btn:hover {
+    border-color: var(--electric-blue);
+    background: #F5F7FF;
+  }
+  .action-btn.selected {
+    border-color: var(--electric-blue);
+    background: #EEF2FF;
+  }
+
+  .unflag-btn {
+    display: block;
+    width: 100%;
+    background: transparent;
+    border: none;
+    padding: 8px 14px;
+    font-size: 12px;
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+    cursor: pointer;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+  .unflag-btn:hover {
+    color: var(--red);
+  }
+
+  .overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(5,12,42,0.3);
+    z-index: 99;
+  }
+  .overlay.visible { display: block; }
+
+  /* Submit row */
+  .submit-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .flag-count {
+    font-size: 13px;
+    color: var(--muted);
+  }
+
+  .btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 28px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    transition: all 0.15s;
+  }
+  .btn:hover { opacity: 0.9; }
+  .btn:disabled { opacity: 0.35; cursor: default; }
+
+  .btn-primary {
+    background: var(--electric-blue);
+    color: var(--white);
+  }
+  .btn-primary:hover:not(:disabled) { background: #1A42DD; }
+
+  .btn-secondary {
+    background: var(--white);
+    color: var(--electric-blue);
+    border: 1px solid var(--electric-blue);
+  }
+  .btn-secondary:hover { background: #F5F7FF; }
+
+  /* Results */
+  .results-summary {
+    background: var(--dark-blue);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    text-align: center;
+  }
+  .results-summary .score {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .results-summary .score-label {
+    font-size: 14px;
+    color: rgba(255,255,255,0.7);
+  }
+  .results-stats {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin-top: 16px;
+  }
+  .results-stats .stat {
+    text-align: center;
+  }
+  .results-stats .stat-num {
+    font-size: 22px;
+    font-weight: 700;
+  }
+  .results-stats .stat-label {
+    font-size: 12px;
+    color: rgba(255,255,255,0.6);
+  }
+
+  .result-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-bottom: 12px;
+  }
+  .result-card .result-passage {
+    font-size: 13px;
+    color: var(--muted);
+    background: var(--light-bg);
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    font-style: italic;
+  }
+  .result-card .result-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 3px 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  .badge-correct {
+    background: #ECFDF5;
+    color: var(--green);
+  }
+  .badge-wrong-action {
+    background: #FFF8F1;
+    color: var(--orange);
+  }
+  .badge-missed {
+    background: #FFF3F3;
+    color: var(--red);
+  }
+  .badge-no-action {
+    background: var(--light-bg);
+    color: var(--muted);
+  }
+  .badge-correctly-skipped {
+    background: #ECFDF5;
+    color: var(--green);
+  }
+  .badge-unnecessary {
+    background: var(--light-bg);
+    color: var(--muted);
+  }
+
+  .result-card .your-action {
+    font-size: 13px;
+    margin-bottom: 6px;
+  }
+  .result-card .expected-action {
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+  .result-card .feedback {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  /* Debrief */
+  .debrief {
+    background: var(--white);
+    border: 2px solid var(--orange);
+    border-radius: 10px;
+    padding: 24px;
+    margin-top: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+  .debrief h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: var(--dark-blue);
+  }
+
+  /* Responsive */
+  @media (max-width: 480px) {
+    .container { padding: 24px 16px 40px; }
+    .header h1 { font-size: 22px; }
+    .document { padding: 20px 18px 16px; }
+    .action-popup { width: 95vw; padding: 20px; }
+    .results-stats { gap: 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <div class="label">Interactive Exercise</div>
+    <h1>Review This AI Output — What's Your Next Move?</h1>
+    <div class="subtitle">About 5 minutes</div>
+  </div>
+
+  <!-- PHASE 1: Context + Instructions -->
+  <div id="phase-intro" class="phase active">
+    <div class="context-box">
+      <p>Your team has been matched with <strong>GreenPath Solutions</strong>, a mid-size company that provides sustainability consulting to retail businesses. Before your kickoff meeting, you asked an AI tool to help you learn about the company and its industry.</p>
+      <p>Below is what AI returned. Your job is to read through it the way you would before putting any of this into your own work. Click on any passage you think needs attention, then choose what you'd do with it.</p>
+    </div>
+
+    <div class="instructions">
+      <h3>Your action options</h3>
+      <ul>
+        <li><strong>No action needed</strong> — General enough to work with. Low risk.</li>
+        <li><strong>Confirm on their website</strong> — Basic facts that are easy to check at the source.</li>
+        <li><strong>Look up this source</strong> — A specific organization, report, or citation is mentioned. Verify it exists.</li>
+        <li><strong>Find the original data</strong> — A specific number or statistic is cited. Track down where it comes from.</li>
+        <li><strong>Check for more recent information</strong> — This may be outdated. Look for what's current.</li>
+        <li><strong>Question the relevance</strong> — This might be true, but is it actually useful for your situation?</li>
+      </ul>
+    </div>
+
+    <button class="btn btn-primary" onclick="startReview()">Start reviewing</button>
+  </div>
+
+  <!-- PHASE 2: Document Review -->
+  <div id="phase-review" class="phase">
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+
+    <div class="document">
+      <div class="document-title">GreenPath Solutions — Company Overview</div>
+      <p>
+        <span class="passage" data-id="1">GreenPath Solutions is a sustainability consulting firm founded in 2016, headquartered in Portland, Oregon.</span>
+        <span class="passage" data-id="2">The company works primarily with mid-size retail businesses to help them reduce their environmental footprint through supply chain optimization, waste reduction programs, and sustainability reporting.</span>
+      </p>
+      <p>
+        The company has grown rapidly,
+        <span class="passage" data-id="3">expanding from 12 employees at launch to over 200 staff across three offices in the Pacific Northwest.</span>
+        <span class="passage" data-id="4">According to a 2023 report by the National Sustainability Consulting Association, GreenPath ranks among the top 15 sustainability consultancies in North America by revenue.</span>
+      </p>
+      <p>
+        <span class="passage" data-id="5">The retail sustainability consulting market is valued at approximately $4.2 billion and is projected to grow at 12% annually through 2030,</span>
+        driven by increasing consumer demand for environmentally responsible brands and tightening ESG reporting regulations in the US and EU.
+        <span class="passage" data-id="6">GreenPath's primary competitors include EcoVadis, Anthesis Group, and South Pole, all of which operate at a significantly larger global scale.</span>
+      </p>
+      <p>
+        <span class="passage" data-id="7">GreenPath differentiates itself through its focus on mid-market retailers, a segment that larger consultancies tend to overlook.</span>
+        <span class="passage" data-id="8">Their proprietary assessment framework, the Retail Sustainability Scorecard, has been adopted by over 300 retail clients since its launch in 2019.</span>
+        <span class="passage" data-id="9">The company's CEO, Maria Chen, was named to the GreenBiz 30 Under 30 list in 2017 and has spoken at SXSW and the Aspen Ideas Festival on the intersection of retail and sustainability.</span>
+      </p>
+      <p>
+        <span class="passage" data-id="10">Recent developments include a Series B funding round of $18 million in late 2024 and a partnership with Walmart's supplier sustainability program announced in early 2025.</span>
+      </p>
+    </div>
+
+    <div class="submit-row">
+      <span class="flag-count" id="flagCount">0 passages flagged</span>
+      <button class="btn btn-primary" onclick="submitReview()">Submit review</button>
+    </div>
+  </div>
+
+  <!-- PHASE 3: Results -->
+  <div id="phase-results" class="phase">
+    <div class="results-summary" id="resultsSummary"></div>
+    <div id="resultsCards"></div>
+    <div class="debrief">
+      <h3>What you just practiced</h3>
+      <p>That passage had 10 reviewable segments. Eight needed some kind of attention. Two were fine to use. You just practiced six different evaluation moves: confirming basic facts at the source, looking up cited sources, tracking down original data, questioning relevance, recognizing when something is good enough to use, and checking for more recent information.</p>
+      <p style="margin-top: 12px;">Not every claim needed the same response, and that's the point. The skill isn't blanket skepticism. It's knowing which move to make for which kind of claim. When you use AI for research in this course, read every piece of output with this same question in mind: what's my next move with this?</p>
+    </div>
+    <div style="text-align: center; margin-top: 24px;">
+      <button class="btn btn-secondary" onclick="resetExercise()">Try again</button>
+    </div>
+  </div>
+
+  <!-- Action popup -->
+  <div class="overlay" id="overlay"></div>
+  <div class="action-popup" id="actionPopup">
+    <div class="popup-passage" id="popupPassageText"></div>
+    <h3>What's your next move?</h3>
+    <button class="action-btn" data-action="no-action" onclick="selectAction(this)">No action needed — general enough to work with</button>
+    <button class="action-btn" data-action="confirm-website" onclick="selectAction(this)">Confirm on their website</button>
+    <button class="action-btn" data-action="look-up-source" onclick="selectAction(this)">Look up this source</button>
+    <button class="action-btn" data-action="find-original-data" onclick="selectAction(this)">Find the original data</button>
+    <button class="action-btn" data-action="check-recent" onclick="selectAction(this)">Check for more recent information</button>
+    <button class="action-btn" data-action="question-relevance" onclick="selectAction(this)">Question the relevance</button>
+    <button class="unflag-btn" id="unflagBtn" onclick="unflagPassage()">Remove flag</button>
+  </div>
+
+</div>
+
+<script>
+const PASSAGES = {
+  1: {
+    shouldFlag: true,
+    expectedAction: 'confirm-website',
+    feedback: 'Founding dates and headquarters locations can be slightly off in AI output. It takes 30 seconds to pull up the company\'s About page and confirm. Get in the habit of checking basic facts at the source. If you walk into the kickoff and say "You were founded in 2016, right?" and the answer is 2014, you\'ve shown you didn\'t look at their website.',
+    missedFeedback: 'This looks straightforward, but founding dates and locations are worth a quick check. AI sometimes gets basic facts slightly wrong, and your employer will notice if you repeat incorrect details about their own company.'
+  },
+  2: {
+    shouldFlag: false,
+    expectedAction: 'no-action',
+    feedback: null,
+    flaggedFeedback: 'Good instinct to be thorough, but this is general service description language. Even if the exact phrasing doesn\'t match their website word for word, it\'s low-risk and useful for orienting yourself. You\'ll learn the precise details at the kickoff.'
+  },
+  3: {
+    shouldFlag: true,
+    expectedAction: 'confirm-website',
+    feedback: 'Specific growth numbers like these are easy for AI to fabricate. A quick check on LinkedIn or the company\'s website can confirm their approximate size. Getting team size wrong isn\'t a disaster, but quoting a number confidently when it\'s off makes you look like you didn\'t do real research.',
+    missedFeedback: 'Specific numbers about team size and office count are the kind of details AI sometimes gets wrong. Worth a quick check on LinkedIn or the company website so you\'re working with accurate information.'
+  },
+  4: {
+    shouldFlag: true,
+    expectedAction: 'look-up-source',
+    feedback: 'This is the move whenever AI cites a specific organization or report. The "National Sustainability Consulting Association" sounds official, but AI frequently invents professional associations and industry reports. Search for the organization. If you can\'t find it, the citation is almost certainly fabricated. The specificity ("top 15," "by revenue," "2023 report") makes it feel credible, which is exactly what makes hallucinated sources dangerous.',
+    missedFeedback: 'This is the most important passage to catch. The "National Sustainability Consulting Association" may not be a real organization. AI routinely invents official-sounding sources, complete with specific dates and rankings. Always verify that a cited source exists before you trust or repeat the claim.'
+  },
+  5: {
+    shouldFlag: true,
+    expectedAction: 'find-original-data',
+    feedback: 'Whenever AI gives you a specific number, your next move is to find where it came from. AI generates market figures that sound precise but are often blended from multiple sources, rounded, or fabricated. If you find a market research report that matches, great. If you can\'t trace it to a source, don\'t use it. The general direction (growing market, driven by ESG regulation) is easier to verify and probably more useful than a dollar figure you can\'t back up.',
+    missedFeedback: 'Precise-sounding statistics are one of AI\'s most convincing tricks. "$4.2 billion at 12% CAGR" reads like it came from a research report, but AI may have generated it to sound authoritative. If a number matters to your work, track down the original source.'
+  },
+  6: {
+    shouldFlag: true,
+    expectedAction: 'question-relevance',
+    feedback: 'These are real companies in the sustainability space, so they\'re not hallucinated. But read the claim carefully: it says they "operate at a significantly larger global scale." If GreenPath focuses on mid-size retailers and these companies are global enterprises, are they actually competing for the same clients? AI tends to list the most prominent names in a sector rather than the most relevant competitors. Ask your employer at the kickoff who they actually see as competitors. That answer will be more useful than anything AI can give you.',
+    missedFeedback: 'The companies are real, so it\'s easy to skim past this. But the summary itself tells you they operate at a "significantly larger global scale." That\'s a clue that they might not be real competitors for a mid-market-focused firm. AI lists famous names. Your employer can tell you who they actually compete with.'
+  },
+  7: {
+    shouldFlag: false,
+    expectedAction: 'no-action',
+    feedback: null,
+    flaggedFeedback: 'Being thorough is good, but this is general strategic framing that\'s consistent with the rest of the summary. The idea (mid-market focus as a differentiator) is low-risk. You can bring it into your kickoff conversation and let the employer refine it. Part of reviewing AI output well is knowing when something is good enough to use.'
+  },
+  8: {
+    shouldFlag: true,
+    expectedAction: 'confirm-website',
+    feedback: 'Proprietary frameworks, product names, and adoption numbers are specific enough to check and specific enough to be wrong. AI sometimes invents product names or inflates numbers. A quick look at the company\'s website will tell you if the "Retail Sustainability Scorecard" actually exists and how they describe it.',
+    missedFeedback: 'Specific product names and adoption numbers are worth checking. AI can invent plausible-sounding frameworks and tools. If you reference the "Retail Sustainability Scorecard" at the kickoff and it doesn\'t exist, that\'s awkward.'
+  },
+  9: {
+    shouldFlag: true,
+    expectedAction: 'check-recent',
+    feedback: 'Two things to check. Is Maria Chen still the CEO? People change roles, and AI may be working with outdated information. A quick LinkedIn search will tell you. Also, the "30 Under 30" mention is from 2017, almost a decade ago. AI often surfaces historical details alongside current information without flagging how old they are. Find out who you\'re actually meeting with and what their current role is. That matters more for your kickoff than a 2017 award.',
+    missedFeedback: 'Biographical details are easy to skim past, but they go stale fast. The "30 Under 30" mention is from 2017. Is Maria Chen still the CEO? Has the company\'s leadership changed? Always check that the people AI tells you about are still in the roles it describes.'
+  },
+  10: {
+    shouldFlag: true,
+    expectedAction: 'check-recent',
+    feedback: 'When AI says "recent," always ask: recent relative to what? AI\'s training data has a cutoff, so events described as recent may be outdated or fabricated. A quick news search will tell you whether the funding round and partnership actually happened. If they\'re real, they\'re great context for your kickoff. If you can\'t find them, don\'t bring them up. Mentioning events that didn\'t happen would not build confidence with your employer.',
+    missedFeedback: 'Anything AI labels as "recent" deserves scrutiny. AI\'s training data has a cutoff date, and it sometimes generates plausible-sounding recent events that never happened. Always verify before referencing recent developments with your employer.'
+  }
+};
+
+const ACTION_LABELS = {
+  'no-action': 'No action needed',
+  'confirm-website': 'Confirm on their website',
+  'look-up-source': 'Look up this source',
+  'find-original-data': 'Find the original data',
+  'check-recent': 'Check for more recent information',
+  'question-relevance': 'Question the relevance'
+};
+
+let userActions = {};
+let currentPassageId = null;
+
+function startReview() {
+  document.getElementById('phase-intro').classList.remove('active');
+  document.getElementById('phase-review').classList.add('active');
+
+  document.querySelectorAll('.passage').forEach(el => {
+    el.addEventListener('click', () => openPopup(el.dataset.id));
+  });
+}
+
+function openPopup(id) {
+  currentPassageId = id;
+  const el = document.querySelector(`.passage[data-id="${id}"]`);
+  const popup = document.getElementById('actionPopup');
+  const overlay = document.getElementById('overlay');
+
+  document.getElementById('popupPassageText').textContent = el.textContent;
+
+  // Reset button states
+  popup.querySelectorAll('.action-btn').forEach(btn => btn.classList.remove('selected'));
+
+  // If already flagged, highlight the selected action
+  if (userActions[id]) {
+    const selectedBtn = popup.querySelector(`[data-action="${userActions[id]}"]`);
+    if (selectedBtn) selectedBtn.classList.add('selected');
+  }
+
+  // Show/hide unflag button
+  document.getElementById('unflagBtn').style.display = userActions[id] ? 'block' : 'none';
+
+  popup.classList.add('visible');
+  overlay.classList.add('visible');
+
+  overlay.onclick = closePopup;
+}
+
+function closePopup() {
+  document.getElementById('actionPopup').classList.remove('visible');
+  document.getElementById('overlay').classList.remove('visible');
+  currentPassageId = null;
+}
+
+function selectAction(btn) {
+  const action = btn.dataset.action;
+  const el = document.querySelector(`.passage[data-id="${currentPassageId}"]`);
+
+  if (action === 'no-action') {
+    // Selecting "no action" is the same as not flagging
+    delete userActions[currentPassageId];
+    el.classList.remove('flagged');
+  } else {
+    userActions[currentPassageId] = action;
+    el.classList.add('flagged');
+  }
+
+  updateProgress();
+  closePopup();
+}
+
+function unflagPassage() {
+  const el = document.querySelector(`.passage[data-id="${currentPassageId}"]`);
+  delete userActions[currentPassageId];
+  el.classList.remove('flagged');
+  updateProgress();
+  closePopup();
+}
+
+function updateProgress() {
+  const flagged = Object.keys(userActions).length;
+  document.getElementById('flagCount').textContent =
+    flagged === 1 ? '1 passage flagged' : `${flagged} passages flagged`;
+  // Progress based on passages interacted with (flagged)
+  const pct = Math.min((flagged / 8) * 100, 100);
+  document.getElementById('progressFill').style.width = `${pct}%`;
+}
+
+function submitReview() {
+  const flaggedCount = Object.keys(userActions).length;
+  if (flaggedCount === 0) {
+    if (!confirm('You haven\'t flagged any passages. Submit anyway?')) return;
+  }
+
+  document.getElementById('phase-review').classList.remove('active');
+  document.getElementById('phase-results').classList.add('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+
+  renderResults();
+}
+
+function renderResults() {
+  let correctFlags = 0;
+  let wrongActions = 0;
+  let missed = 0;
+  let correctSkips = 0;
+  let unnecessaryFlags = 0;
+
+  const cards = [];
+  const ids = Object.keys(PASSAGES).map(Number).sort((a, b) => a - b);
+
+  ids.forEach(id => {
+    const p = PASSAGES[id];
+    const userAction = userActions[id] || null;
+    const userFlagged = !!userAction;
+    const passageEl = document.querySelector(`.passage[data-id="${id}"]`);
+    const text = passageEl.textContent;
+
+    let badge, badgeClass, feedback, yourAction, expectedAction;
+
+    if (p.shouldFlag && userFlagged && userAction === p.expectedAction) {
+      // Correct flag + correct action
+      correctFlags++;
+      badge = 'Correct';
+      badgeClass = 'badge-correct';
+      feedback = p.feedback;
+      yourAction = ACTION_LABELS[userAction];
+      expectedAction = null;
+    } else if (p.shouldFlag && userFlagged && userAction !== p.expectedAction) {
+      // Flagged but wrong action
+      wrongActions++;
+      badge = 'Right to flag — different action';
+      badgeClass = 'badge-wrong-action';
+      feedback = p.feedback;
+      yourAction = ACTION_LABELS[userAction];
+      expectedAction = ACTION_LABELS[p.expectedAction];
+    } else if (p.shouldFlag && !userFlagged) {
+      // Missed
+      missed++;
+      badge = 'Missed';
+      badgeClass = 'badge-missed';
+      feedback = p.missedFeedback;
+      yourAction = null;
+      expectedAction = ACTION_LABELS[p.expectedAction];
+    } else if (!p.shouldFlag && !userFlagged) {
+      // Correctly skipped
+      correctSkips++;
+      badge = 'Correctly skipped';
+      badgeClass = 'badge-correctly-skipped';
+      feedback = null;
+      yourAction = null;
+      expectedAction = null;
+    } else if (!p.shouldFlag && userFlagged) {
+      // Flagged unnecessarily
+      unnecessaryFlags++;
+      badge = 'No action was needed';
+      badgeClass = 'badge-unnecessary';
+      feedback = p.flaggedFeedback;
+      yourAction = ACTION_LABELS[userAction];
+      expectedAction = null;
+    }
+
+    // Only show cards that have feedback
+    if (feedback || badge === 'Correctly skipped') {
+      let html = `<div class="result-card">
+        <div class="result-passage">"${text}"</div>
+        <span class="result-badge ${badgeClass}">${badge}</span>`;
+
+      if (yourAction) {
+        html += `<div class="your-action"><strong>Your action:</strong> ${yourAction}</div>`;
+      }
+      if (expectedAction) {
+        html += `<div class="expected-action"><strong>Best action:</strong> ${expectedAction}</div>`;
+      }
+      if (feedback) {
+        html += `<div class="feedback">${feedback}</div>`;
+      }
+      html += '</div>';
+      cards.push(html);
+    }
+  });
+
+  // Summary
+  const totalShouldFlag = ids.filter(id => PASSAGES[id].shouldFlag).length;
+  const totalCorrect = correctFlags + correctSkips;
+  const totalDecisions = ids.length;
+
+  document.getElementById('resultsSummary').innerHTML = `
+    <div class="score">${correctFlags} of ${totalShouldFlag}</div>
+    <div class="score-label">passages correctly flagged with the right action</div>
+    <div class="results-stats">
+      <div class="stat">
+        <div class="stat-num">${correctFlags + wrongActions}</div>
+        <div class="stat-label">Correctly flagged</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">${wrongActions}</div>
+        <div class="stat-label">Wrong action</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">${missed}</div>
+        <div class="stat-label">Missed</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">${unnecessaryFlags}</div>
+        <div class="stat-label">Over-flagged</div>
+      </div>
+    </div>
+  `;
+
+  document.getElementById('resultsCards').innerHTML = cards.join('');
+}
+
+function resetExercise() {
+  userActions = {};
+  currentPassageId = null;
+
+  document.querySelectorAll('.passage').forEach(el => el.classList.remove('flagged'));
+  document.getElementById('progressFill').style.width = '0%';
+  document.getElementById('flagCount').textContent = '0 passages flagged';
+
+  document.getElementById('phase-results').classList.remove('active');
+  document.getElementById('phase-intro').classList.add('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+</script>
+</body>
+</html>
