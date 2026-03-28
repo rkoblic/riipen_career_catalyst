@@ -48,3 +48,13 @@ I went into the meeting treating our question list as a script rather than a gui
 
 **Articulate Learning.**
 I learned that preparation for a professional meeting means having a framework, not a script. Our question list was useful as a safety net (it ensured we covered the essentials) but counterproductive as a rigid agenda. Going forward, I'll organize meeting questions by priority so we cover the most important ones first, and I'll leave space for follow-up on whatever the contact volunteers. I'll also take notes on unexpected topics as they come up, since those unscripted moments often contain the most valuable information. For our next meeting, I'll suggest our team designate one person to track conversation threads we want to return to, so we're not choosing between listening and managing the agenda.
+
+---
+
+## Practice: sort the DEAL stages
+
+Now that you've seen the framework and a worked example, test whether you can tell the three stages apart. This exercise gives you eight statements from different reflections. Your job is to sort each one into the correct DEAL stage: Describe, Examine, or Articulate Learning.
+
+It's trickier than it sounds — the most common mistakes are confusing rich description with examination, and confusing a diagnosis ("I need to get better at...") with articulated learning.
+
+[INTERACTIVE: DEAL sorting exercise — classify reflection statements into Describe, Examine, or Articulate Learning]

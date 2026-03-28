@@ -1,0 +1,95 @@
+1
+00:00:03,867 --> 00:00:06,407
+This course doesn't work like most of your other classes.
+
+2
+00:00:06,657 --> 00:00:09,127
+ There are no exams. No lectures to sit through.
+
+3
+00:00:10,177 --> 00:00:13,917
+ Instead, you'll work on a real project for a real organization, as part 
+
+4
+00:00:13,957 --> 00:00:14,397
+of a team.
+
+5
+00:00:15,187 --> 00:00:18,697
+ That might sound exciting, or it might sound a little intimidating.
+
+6
+00:00:19,297 --> 00:00:22,167
+ Either way, it's worth understanding why the course is built this 
+
+7
+00:00:22,227 --> 00:00:25,337
+way. The professional world runs on projects.
+
+8
+00:00:25,392 --> 00:00:29,041
+ Teams form, figure out a problem together, deliver something, and 
+
+9
+00:00:29,122 --> 00:00:30,282
+move on to the next one.
+
+10
+00:00:31,072 --> 00:00:34,242
+ The skills that matter most in that context, things like 
+
+11
+00:00:34,262 --> 00:00:38,522
+communication, collaboration, critical thinking, those don't 
+
+12
+00:00:38,542 --> 00:00:39,902
+develop from reading about them.
+
+13
+00:00:40,562 --> 00:00:43,772
+ They develop from doing them, reflecting on what happened, and 
+
+14
+00:00:43,832 --> 00:00:46,586
+trying again. That's what experiential learning is.
+
+15
+00:00:47,056 --> 00:00:50,056
+ You learn by doing real work, not simulated work.
+
+16
+00:00:50,386 --> 00:00:53,166
+ And because the project is real, the stakes feel different.
+
+17
+00:00:53,886 --> 00:00:56,096
+ Your employer contact is a real person.
+
+18
+00:00:56,416 --> 00:00:58,006
+ Your deliverables will be used.
+
+19
+00:00:58,396 --> 00:01:00,356
+ The feedback you get is professional feedback.
+
+20
+00:01:00,856 --> 00:01:04,446
+ This week is your on-ramp. No team yet, no project yet.
+
+21
+00:01:05,046 --> 00:01:07,376
+ Just the foundations you'll need once both arrive.
+
+22
+00:01:07,956 --> 00:01:09,046
+ Take your time with it.
+
+23
+00:01:09,646 --> 00:01:12,246
+ Everything you encounter this week will show up again later in the 
+
+24
+00:01:12,296 --> 00:01:12,796
+course.

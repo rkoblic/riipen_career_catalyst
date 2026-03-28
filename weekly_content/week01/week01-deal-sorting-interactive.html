@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DEAL Sorting Exercise — Riipen Career Catalyst</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --orange: #ff7c0a;
+    --dark-blue: #050c2a;
+    --electric-blue: #2454ff;
+    --green: #18733e;
+    --purple: #7c3aed;
+    --grey-bg: #f7f8fa;
+    --border: #e2e4e9;
+    --muted: #6b7280;
+    --correct-bg: #f0faf4;
+    --correct-border: #b8e6cc;
+    --incorrect-bg: #fff3f3;
+    --incorrect-border: #ffc9c9;
+    --white: #ffffff;
+
+    --describe-color: #2454ff;
+    --examine-color: #ff7c0a;
+    --articulate-color: #18733e;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    background: var(--white);
+    line-height: 1.7;
+  }
+
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 24px 60px;
+  }
+
+  /* ── Header ── */
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+  }
+
+  .header .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--orange);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    color: var(--dark-blue);
+  }
+
+  .header .subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* ── Context Card ── */
+
+  .context-card {
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .context-card p + p { margin-top: 12px; }
+
+  /* ── Buttons ── */
+
+  .btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 28px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s, background 0.15s, transform 0.1s;
+  }
+
+  .btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .btn-primary {
+    background: var(--orange);
+    color: var(--dark-blue);
+  }
+
+  .btn-primary:hover:not(:disabled) { opacity: 0.9; }
+
+  .btn-primary:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .btn-check {
+    background: var(--electric-blue);
+    color: var(--white);
+    font-size: 15px;
+    padding: 14px 32px;
+    display: none;
+    margin: 24px auto 0;
+  }
+
+  .btn-check.visible { display: block; }
+  .btn-check:hover { opacity: 0.9; }
+
+  /* ── Progress Bar ── */
+
+  .progress-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+
+  .progress-text {
+    font-size: 13px;
+    color: var(--muted);
+    white-space: nowrap;
+    min-width: 90px;
+  }
+
+  .progress-bar {
+    flex: 1;
+    background: var(--border);
+    height: 4px;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    background: var(--orange);
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 2px;
+  }
+
+  /* ── Statement Card ── */
+
+  .statement-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--purple);
+    border-radius: 0 10px 10px 0;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    font-size: 15px;
+    line-height: 1.7;
+    min-height: 80px;
+    transition: opacity 0.2s, transform 0.2s;
+  }
+
+  .statement-card .stmt-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--purple);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .statement-card.sorting-out {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  /* ── Category Prompt ── */
+
+  .sort-prompt {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    text-align: center;
+  }
+
+  /* ── Category Bins ── */
+
+  .bins {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+
+  .bin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    padding: 16px 10px;
+    border-radius: 10px;
+    border: 2px solid var(--border);
+    background: var(--white);
+    cursor: pointer;
+    transition: border-color 0.15s, background 0.15s, transform 0.1s;
+    text-align: center;
+    min-height: 80px;
+  }
+
+  .bin:hover {
+    transform: translateY(-1px);
+  }
+
+  .bin:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .bin[data-cat="describe"] { border-color: var(--describe-color); }
+  .bin[data-cat="describe"]:hover,
+  .bin[data-cat="describe"].pulse { background: #eef2ff; }
+
+  .bin[data-cat="examine"] { border-color: var(--examine-color); }
+  .bin[data-cat="examine"]:hover,
+  .bin[data-cat="examine"].pulse { background: #fff8f1; }
+
+  .bin[data-cat="articulate"] { border-color: var(--articulate-color); }
+  .bin[data-cat="articulate"]:hover,
+  .bin[data-cat="articulate"].pulse { background: #f0faf4; }
+
+  .bin .bin-label {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+  }
+
+  .bin[data-cat="describe"] .bin-label { color: var(--describe-color); }
+  .bin[data-cat="examine"] .bin-label { color: var(--examine-color); }
+  .bin[data-cat="articulate"] .bin-label { color: var(--articulate-color); }
+
+  .bin .bin-count {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--dark-blue);
+    line-height: 1;
+  }
+
+  .bin .bin-sub {
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  /* ── Sorted Summary (below bins during sorting) ── */
+
+  .sorted-summary {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    min-height: 24px;
+  }
+
+  .undo-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--muted);
+    padding: 6px 0;
+  }
+
+  .undo-btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--electric-blue);
+    background: none;
+    border: 1px solid var(--electric-blue);
+    border-radius: 6px;
+    padding: 3px 10px;
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+
+  .undo-btn:hover {
+    background: #eef2ff;
+  }
+
+  /* ── Results ── */
+
+  .results-screen { display: none; }
+  .results-screen.active { display: block; }
+
+  .score-card {
+    background: var(--dark-blue);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 28px 24px;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .score-number {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .score-label {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 16px;
+  }
+
+  .score-bar-container {
+    background: rgba(255, 255, 255, 0.15);
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .score-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    background: var(--green);
+    transition: width 0.5s ease;
+  }
+
+  /* Results by category */
+
+  .results-category {
+    margin-bottom: 24px;
+  }
+
+  .results-cat-header {
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 16px;
+    border-radius: 8px 8px 0 0;
+    color: var(--white);
+  }
+
+  .results-cat-header.describe { background: var(--describe-color); }
+  .results-cat-header.examine { background: var(--examine-color); color: var(--dark-blue); }
+  .results-cat-header.articulate { background: var(--articulate-color); }
+
+  .results-cat-body {
+    border: 1px solid var(--border);
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    overflow: hidden;
+  }
+
+  .result-item {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .result-item:last-child { border-bottom: none; }
+
+  .result-item .result-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+
+  .result-badge-correct {
+    background: var(--correct-bg);
+    color: var(--green);
+  }
+
+  .result-badge-incorrect {
+    background: var(--incorrect-bg);
+    color: #dc2626;
+  }
+
+  .result-badge-wrong-bin {
+    font-size: 11px;
+    color: var(--muted);
+    margin-left: 8px;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  .result-item .result-statement {
+    font-size: 13.5px;
+    margin-bottom: 8px;
+    color: var(--dark-blue);
+  }
+
+  .result-item .result-feedback {
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.6;
+  }
+
+  .result-item details {
+    margin-top: 6px;
+  }
+
+  .result-item summary {
+    font-size: 12.5px;
+    color: var(--electric-blue);
+    cursor: pointer;
+    font-weight: 500;
+  }
+
+  .result-item summary:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .result-item .detail-feedback {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 6px;
+    line-height: 1.6;
+  }
+
+  /* Debrief */
+
+  .debrief-card {
+    background: var(--white);
+    border: 2px solid var(--orange);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .debrief-card h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .debrief-card p + p { margin-top: 12px; }
+
+  .close-note {
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+  }
+
+  .try-again-btn {
+    display: block;
+    margin: 0 auto 16px;
+    background: var(--white);
+    border: 1.5px solid var(--electric-blue);
+    color: var(--electric-blue);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+
+  .try-again-btn:hover { background: #eef2ff; }
+
+  .try-again-btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  /* ── Responsive ── */
+
+  @media (max-width: 520px) {
+    .container { padding: 24px 16px 40px; }
+    .header h1 { font-size: 22px; }
+    .bins { grid-template-columns: 1fr; gap: 8px; }
+    .bin {
+      flex-direction: row;
+      justify-content: space-between;
+      padding: 12px 16px;
+      min-height: auto;
+    }
+    .bin .bin-count { font-size: 18px; }
+    .statement-card { font-size: 14px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <div class="header">
+    <div class="label">Interactive Exercise</div>
+    <h1>DEAL Sorting Exercise</h1>
+    <div class="subtitle">About 5 minutes</div>
+  </div>
+
+  <div id="mainArea"></div>
+  <div class="results-screen" id="resultsScreen"></div>
+
+</div>
+
+<script>
+// ─────────────────────────────────────────────
+// DATA
+// ─────────────────────────────────────────────
+
+var statements = [
+  {
+    id: 1,
+    text: "\u201COur team met for an hour on Tuesday to divide up the research tasks for the context analysis. Each person chose a topic area, and we agreed to share notes in a shared document by Friday.\u201D",
+    correctCategory: "describe",
+    feedback: {
+      describe: "Right. This is pure description: what happened, when, who did what, what was agreed. There\u2019s no interpretation or analysis, just a factual account of the event.",
+      examine: "This one is a common mix-up. It might feel like there\u2019s analysis here because it mentions a decision the team made (dividing tasks, setting a deadline). But the statement is reporting what happened, not analyzing why or what it meant. Examination would ask: why did we divide the work this way? Was it the right approach?",
+      articulate: "This is description, not articulated learning. There\u2019s no statement about what was learned or how the writer will approach things differently. It\u2019s a factual account of what the team did."
+    }
+  },
+  {
+    id: 2,
+    text: "\u201CI assumed that dividing the research by topic would be the most efficient approach, but it meant none of us had the full picture when we came back together. We each knew our piece well but struggled to see how the pieces connected.\u201D",
+    correctCategory: "examine",
+    feedback: {
+      describe: "This goes beyond description. Yes, it references what happened (they divided by topic, they struggled to connect), but it\u2019s doing more than reporting. The phrase \u201CI assumed\u201D signals that the writer is analyzing their own thinking. Description would just state what happened without examining the reasoning behind it.",
+      examine: "Right. This is examination. The writer is analyzing an assumption they brought to the situation (\u201Cdividing by topic would be most efficient\u201D) and identifying the unintended consequence (fragmented understanding). The key signal is \u201CI assumed\u2026 but\u2026\u201D which shows the writer interrogating their own thinking.",
+      articulate: "Close, but not quite. The writer is identifying a problem with their assumption, which is examination. Articulated learning would go further: naming a specific takeaway and how they\u2019ll apply it in the future. This statement stops at the analysis."
+    }
+  },
+  {
+    id: 3,
+    text: "\u201CGoing forward, I\u2019ll suggest that our team start each research phase with a 15-minute alignment meeting where we identify the key questions we need to answer collectively, before anyone dives into their individual section.\u201D",
+    correctCategory: "articulate",
+    feedback: {
+      describe: "This isn\u2019t describing something that happened. It\u2019s projecting forward, naming a specific change the writer plans to make based on what they learned. Description stays in the past; articulated learning points toward the future.",
+      examine: "This goes beyond examination. Examination analyzes what happened and why. This statement has already moved past analysis into application: here\u2019s what I\u2019ll do differently next time. That forward-looking, actionable quality is what makes it articulated learning.",
+      articulate: "Right. This is articulated learning. The writer names a specific action they\u2019ll take in the future (\u201Csuggest a 15-minute alignment meeting\u201D), grounded in what they learned from examining the experience. The key signals are \u201Cgoing forward\u201D and a concrete, actionable plan."
+    }
+  },
+  {
+    id: 4,
+    text: "\u201CThe employer contact mentioned during the meeting that their previous student team had struggled with scope creep. She said it twice, once at the beginning and once when we were discussing deliverables.\u201D",
+    correctCategory: "describe",
+    feedback: {
+      describe: "Right. This is description. It reports what the employer said, when she said it, and how many times. There\u2019s no interpretation of why she said it or what it means for the team. The specificity (she said it twice, at two different points) is good description \u2014 it captures a detail that could become important during examination.",
+      examine: "It might feel like examination because the detail seems loaded with meaning (she said it twice, which probably means something). But the statement itself doesn\u2019t interpret the meaning. It just reports the observation. Examination would ask: why did she emphasize this? What does it tell us about her expectations or concerns?",
+      articulate: "This is description. There\u2019s no statement about what was learned or how the writer plans to act on this information. It\u2019s capturing a factual detail from the meeting."
+    }
+  },
+  {
+    id: 5,
+    text: "\u201CI\u2019ve learned that when someone repeats a concern in a professional meeting, it\u2019s usually a signal that this is a priority for them, even if they don\u2019t frame it that way explicitly. I\u2019ll pay closer attention to repeated themes in future meetings and raise them directly with the team afterward.\u201D",
+    correctCategory: "articulate",
+    feedback: {
+      describe: "This isn\u2019t reporting what happened. It\u2019s stating what the writer learned from the experience and how they\u2019ll act on it. Description stays in the facts; this statement draws a lesson and projects it forward.",
+      examine: "This is a common confusion. The statement does involve analysis (interpreting repeated concerns as signals). But it goes further than examination by naming the learning explicitly (\u201CI\u2019ve learned that\u2026\u201D) and stating a plan for future action. Examination would stop at the interpretation without committing to a specific change.",
+      articulate: "Right. This is articulated learning. It names a specific insight (\u201Crepeated concerns signal priorities\u201D) and a concrete plan for applying it (\u201Cpay closer attention to repeated themes, raise them with the team\u201D). Both elements \u2014 the named learning and the forward-looking application \u2014 are what distinguish this from examination."
+    }
+  },
+  {
+    id: 6,
+    text: "\u201CI think the reason our presentation fell flat was that we focused on what we\u2019d done rather than what we\u2019d found. The employer wanted insights, not a process summary. We spent eight minutes on methodology and two minutes on findings.\u201D",
+    correctCategory: "examine",
+    feedback: {
+      describe: "This includes some descriptive detail (eight minutes on methodology, two on findings), but the statement is doing more than reporting. It\u2019s interpreting why the presentation didn\u2019t work. The phrase \u201CI think the reason\u201D signals analysis. Description would just say what happened without diagnosing why.",
+      examine: "Right. This is examination. The writer is analyzing why the presentation didn\u2019t land (\u201Cwe focused on what we\u2019d done rather than what we\u2019d found\u201D) and identifying a mismatch between what the team delivered and what the employer wanted. The phrase \u201CI think the reason\u201D signals interpretation and analysis, not just reporting.",
+      articulate: "The writer has identified the problem (process over insights) but hasn\u2019t yet named a specific lesson or stated how they\u2019ll approach it differently. Articulated learning would add something like: \u201CNext time, I\u2019ll structure our presentation around findings first and only include methodology if the audience asks for it.\u201D"
+    }
+  },
+  {
+    id: 7,
+    text: "\u201CDuring the direction check, our employer contact said she was \u2018generally happy with the direction\u2019 but asked three follow-up questions about our data sources and methodology.\u201D",
+    correctCategory: "describe",
+    feedback: {
+      describe: "Right. This is description. It reports what the employer said and did during a specific interaction: her stated reaction and her follow-up behavior. There\u2019s no interpretation of the gap between \u201Cgenerally happy\u201D and three pointed questions. That gap is interesting, but the statement just captures it \u2014 examination would interpret it.",
+      examine: "This is a tricky one. The statement captures something that feels like it should be examined (the gap between \u201Cgenerally happy\u201D and three follow-up questions about methodology). But the statement itself doesn\u2019t analyze that gap. It just reports it accurately. Good description often captures details that are ripe for examination, and that\u2019s exactly what this is.",
+      articulate: "This is description. There\u2019s no lesson named and no plan for the future. It\u2019s reporting what happened in a specific meeting interaction."
+    }
+  },
+  {
+    id: 8,
+    text: "\u201CI need to get better at asking follow-up questions in meetings. I always think of the right question ten minutes after the meeting ends.\u201D",
+    correctCategory: "examine",
+    feedback: {
+      describe: "This isn\u2019t describing a specific event. It\u2019s reflecting on a behavioral pattern across multiple meetings (\u201CI always think of the right question ten minutes after\u201D). That self-analysis makes it examination, not description.",
+      examine: "Right, and this is one of the trickiest items. It feels like articulated learning because the writer is identifying an area for growth (\u201CI need to get better at asking follow-up questions\u201D). But it\u2019s actually examination: the writer is analyzing a pattern in their own behavior without naming a specific, actionable change. \u201CI need to get better at X\u201D is a diagnosis, not a plan. Articulated learning would specify how: \u201CI\u2019ll write down questions as they come up during the meeting so I can ask them before we adjourn.\u201D",
+      articulate: "This is the most common incorrect answer, and it\u2019s an important distinction. \u201CI need to get better at X\u201D identifies a growth area, but it isn\u2019t articulated learning because it doesn\u2019t name a specific lesson or an actionable plan. It\u2019s a diagnosis without a prescription. Strong articulated learning would say what the writer will do differently and how, not just what they need to improve."
+    }
+  }
+];
+
+var contextText = "You\u2019ve just read about the DEAL model and seen a worked example. Now it\u2019s your turn to practice.\n\nBelow you\u2019ll see eight statements pulled from different reflections. Your job is to sort each one into the correct DEAL stage: Describe, Examine, or Articulate Learning. Read each statement carefully, then click the category it belongs to.\n\nThis is harder than it sounds. The most common mistake is confusing description with examination, or thinking that a plan for the future counts as examination when it\u2019s actually articulated learning. Pay attention to what each statement is actually doing, not just what it\u2019s about.";
+
+var debriefText = "The trickiest distinctions in DEAL are between description and examination (the \u201Cgenerally happy with the direction\u201D statement is a good example \u2014 rich detail that feels analytical but is actually just precise reporting) and between examination and articulated learning (the follow-up questions statement \u2014 diagnosing a problem is not the same as naming what you learned and how you\u2019ll apply it).\n\nWhen you write your own DEAL reflections, use these as gut checks: Am I reporting what happened, or analyzing why? Am I analyzing a pattern, or naming a specific lesson with a concrete plan? If you can answer those questions about each paragraph you write, you\u2019re using the framework well.";
+
+var categoryLabels = {
+  describe: "Describe",
+  examine: "Examine",
+  articulate: "Articulate Learning"
+};
+
+// ─────────────────────────────────────────────
+// STATE
+// ─────────────────────────────────────────────
+
+var shuffledStatements = [];
+var currentIndex = 0;
+var sortingResults = []; // { statementId, chosenCategory }
+var binCounts = { describe: 0, examine: 0, articulate: 0 };
+
+// ─────────────────────────────────────────────
+// SHUFFLE
+// ─────────────────────────────────────────────
+
+function shuffle(arr) {
+  var a = arr.slice();
+  for (var i = a.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = a[i]; a[i] = a[j]; a[j] = tmp;
+  }
+  return a;
+}
+
+// ─────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────
+
+function init() {
+  renderContext();
+}
+
+function renderContext() {
+  var area = document.getElementById('mainArea');
+  var html = '';
+  html += '<div class="context-card">';
+  html += formatParagraphs(contextText);
+  html += '</div>';
+  html += '<button class="btn btn-primary" onclick="startSorting()" aria-label="Begin the sorting exercise">Begin</button>';
+  area.innerHTML = html;
+}
+
+// ─────────────────────────────────────────────
+// SORTING PHASE
+// ─────────────────────────────────────────────
+
+function startSorting() {
+  shuffledStatements = shuffle(statements);
+  currentIndex = 0;
+  sortingResults = [];
+  binCounts = { describe: 0, examine: 0, articulate: 0 };
+  renderSortingView();
+}
+
+function renderSortingView() {
+  var area = document.getElementById('mainArea');
+  var total = shuffledStatements.length;
+  var stmt = shuffledStatements[currentIndex];
+
+  var html = '';
+
+  // Progress bar
+  html += '<div class="progress-wrapper">';
+  html += '  <span class="progress-text" aria-live="polite">Statement ' + (currentIndex + 1) + ' of ' + total + '</span>';
+  html += '  <div class="progress-bar" role="progressbar" aria-valuenow="' + (currentIndex + 1) + '" aria-valuemin="1" aria-valuemax="' + total + '">';
+  html += '    <div class="progress-fill" style="width: ' + ((currentIndex + 1) / total * 100) + '%"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  // Statement card
+  html += '<div class="statement-card" id="statementCard">';
+  html += '  <div class="stmt-label">Statement ' + (currentIndex + 1) + '</div>';
+  html += '  <p>' + esc(stmt.text) + '</p>';
+  html += '</div>';
+
+  // Sort prompt
+  html += '<div class="sort-prompt" id="sortPrompt">Which DEAL stage is this?</div>';
+
+  // Category bins
+  html += '<div class="bins" role="group" aria-label="DEAL categories">';
+  html += buildBin('describe');
+  html += buildBin('examine');
+  html += buildBin('articulate');
+  html += '</div>';
+
+  // Undo area
+  html += '<div class="sorted-summary" id="undoArea">';
+  if (currentIndex > 0) {
+    var lastResult = sortingResults[sortingResults.length - 1];
+    var lastStmt = statements.find(function(s) { return s.id === lastResult.statementId; });
+    html += '<div class="undo-row">';
+    html += '<span>Last sorted \u2192 ' + categoryLabels[lastResult.chosenCategory] + '</span>';
+    html += '<button class="undo-btn" onclick="undoLast()" aria-label="Undo last sort">Undo</button>';
+    html += '</div>';
+  }
+  html += '</div>';
+
+  area.innerHTML = html;
+
+  // Focus the statement
+  var card = document.getElementById('statementCard');
+  card.setAttribute('tabindex', '-1');
+  card.focus();
+}
+
+function buildBin(cat) {
+  var html = '';
+  html += '<button class="bin" data-cat="' + cat + '" onclick="sortInto(\'' + cat + '\')" ';
+  html += 'tabindex="0" aria-label="Sort into ' + categoryLabels[cat] + '">';
+  html += '<span class="bin-label">' + categoryLabels[cat] + '</span>';
+  html += '<span class="bin-count">' + binCounts[cat] + '</span>';
+  html += '<span class="bin-sub">sorted here</span>';
+  html += '</button>';
+  return html;
+}
+
+function sortInto(category) {
+  var stmt = shuffledStatements[currentIndex];
+
+  sortingResults.push({
+    statementId: stmt.id,
+    chosenCategory: category
+  });
+  binCounts[category]++;
+
+  // Brief pulse animation on the bin
+  var bin = document.querySelector('.bin[data-cat="' + category + '"]');
+  if (bin) {
+    bin.classList.add('pulse');
+  }
+
+  // Animate card out
+  var card = document.getElementById('statementCard');
+  if (card) {
+    card.classList.add('sorting-out');
+  }
+
+  currentIndex++;
+
+  if (currentIndex >= shuffledStatements.length) {
+    setTimeout(function() { showPreResults(); }, 250);
+  } else {
+    setTimeout(function() { renderSortingView(); }, 250);
+  }
+}
+
+function undoLast() {
+  if (sortingResults.length === 0) return;
+  var last = sortingResults.pop();
+  binCounts[last.chosenCategory]--;
+  currentIndex--;
+  renderSortingView();
+}
+
+// ─────────────────────────────────────────────
+// PRE-RESULTS (check button)
+// ─────────────────────────────────────────────
+
+function showPreResults() {
+  var area = document.getElementById('mainArea');
+  var total = shuffledStatements.length;
+
+  var html = '';
+
+  // Summary
+  html += '<div class="context-card">';
+  html += '<p><strong>All ' + total + ' statements sorted.</strong> Here\u2019s how you distributed them:</p>';
+  html += '</div>';
+
+  // Bins summary
+  html += '<div class="bins" role="group" aria-label="Your sorting summary">';
+  ['describe', 'examine', 'articulate'].forEach(function(cat) {
+    html += '<div class="bin" data-cat="' + cat + '" style="cursor: default;">';
+    html += '<span class="bin-label">' + categoryLabels[cat] + '</span>';
+    html += '<span class="bin-count">' + binCounts[cat] + '</span>';
+    html += '<span class="bin-sub">sorted here</span>';
+    html += '</div>';
+  });
+  html += '</div>';
+
+  html += '<button class="btn btn-check visible" onclick="showResults()" aria-label="Check your sorting">Check My Sorting \u2192</button>';
+
+  area.innerHTML = html;
+}
+
+// ─────────────────────────────────────────────
+// RESULTS
+// ─────────────────────────────────────────────
+
+function showResults() {
+  document.getElementById('mainArea').innerHTML = '';
+
+  var total = statements.length;
+  var correctCount = 0;
+
+  // Build results map: group by chosen category
+  var resultsByCategory = { describe: [], examine: [], articulate: [] };
+
+  sortingResults.forEach(function(r) {
+    var stmt = statements.find(function(s) { return s.id === r.statementId; });
+    var isCorrect = r.chosenCategory === stmt.correctCategory;
+    if (isCorrect) correctCount++;
+
+    resultsByCategory[r.chosenCategory].push({
+      statement: stmt,
+      chosenCategory: r.chosenCategory,
+      isCorrect: isCorrect
+    });
+  });
+
+  var pct = Math.round((correctCount / total) * 100);
+
+  var screen = document.getElementById('resultsScreen');
+  screen.classList.add('active');
+
+  var html = '';
+
+  // Score card
+  html += '<div class="score-card">';
+  html += '  <div class="score-number">' + correctCount + ' of ' + total + '</div>';
+  html += '  <div class="score-label" aria-live="polite">statements sorted correctly</div>';
+  html += '  <div class="score-bar-container">';
+  html += '    <div class="score-bar-fill" style="width: ' + pct + '%" role="img" aria-label="Score: ' + pct + ' percent"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  // Results grouped by category
+  ['describe', 'examine', 'articulate'].forEach(function(cat) {
+    var items = resultsByCategory[cat];
+    if (items.length === 0) return;
+
+    html += '<div class="results-category">';
+    html += '<div class="results-cat-header ' + cat + '">' + categoryLabels[cat] + ' \u2014 you sorted ' + items.length + ' here</div>';
+    html += '<div class="results-cat-body">';
+
+    items.forEach(function(item) {
+      var feedbackText = item.statement.feedback[item.chosenCategory];
+      html += '<div class="result-item">';
+      html += '<span class="result-badge ' + (item.isCorrect ? 'result-badge-correct' : 'result-badge-incorrect') + '">';
+      html += item.isCorrect ? '\u2713 Correct' : '\u2717 Incorrect';
+      html += '</span>';
+      if (!item.isCorrect) {
+        html += '<span class="result-badge-wrong-bin">\u2192 belongs in ' + categoryLabels[item.statement.correctCategory] + '</span>';
+      }
+      html += '<div class="result-statement">' + esc(item.statement.text) + '</div>';
+
+      if (item.isCorrect) {
+        html += '<details>';
+        html += '<summary>Why this is correct</summary>';
+        html += '<div class="detail-feedback">' + esc(feedbackText) + '</div>';
+        html += '</details>';
+      } else {
+        html += '<div class="result-feedback">' + esc(feedbackText) + '</div>';
+      }
+
+      html += '</div>';
+    });
+
+    html += '</div></div>';
+  });
+
+  // Debrief
+  html += '<div class="debrief-card">';
+  html += '  <h3>What you just practiced</h3>';
+  html += formatParagraphs(debriefText);
+  html += '</div>';
+
+  // Try again
+  html += '<button class="try-again-btn" onclick="tryAgain()">Sort again with a new order</button>';
+
+  // Close note
+  html += '<div class="close-note">You can close this tab to return to the course.</div>';
+
+  screen.innerHTML = html;
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  var scoreCard = screen.querySelector('.score-card');
+  scoreCard.setAttribute('tabindex', '-1');
+  scoreCard.focus();
+}
+
+function tryAgain() {
+  document.getElementById('resultsScreen').classList.remove('active');
+  document.getElementById('resultsScreen').innerHTML = '';
+  startSorting();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ─────────────────────────────────────────────
+// UTILITIES
+// ─────────────────────────────────────────────
+
+function esc(text) {
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function formatParagraphs(text) {
+  return text.split('\n\n').map(function(p) {
+    return '<p>' + esc(p.trim()) + '</p>';
+  }).join('');
+}
+
+// ─────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────
+
+init();
+</script>
+</body>
+</html>

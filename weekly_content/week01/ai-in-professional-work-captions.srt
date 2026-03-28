@@ -1,0 +1,99 @@
+1
+00:00:03,867 --> 00:00:05,277
+Here's something worth knowing.
+
+2
+00:00:05,597 --> 00:00:09,247
+ Two years ago, most professionals outside of tech had never used 
+
+3
+00:00:09,277 --> 00:00:12,797
+an AI tool at work. Today, the majority have.
+
+4
+00:00:13,077 --> 00:00:14,557
+ That's not a gradual trend.
+
+5
+00:00:14,767 --> 00:00:17,587
+ That's one of the fastest shifts in how professional work gets done 
+
+6
+00:00:17,627 --> 00:00:21,207
+that we've ever seen. And it's not just the obvious roles.
+
+7
+00:00:21,717 --> 00:00:24,677
+ Yes, software engineers use AI to write code.
+
+8
+00:00:25,067 --> 00:00:28,887
+ But so do grant writers drafting funding proposals, urban planners 
+
+9
+00:00:28,937 --> 00:00:32,427
+modeling neighborhood impact, journalists fact-checking across 
+
+10
+00:00:32,467 --> 00:00:35,387
+thousands of public records, and HR teams rethinking how they 
+
+11
+00:00:35,417 --> 00:00:39,297
+write job descriptions. AI didn't just show up in tech.
+
+12
+00:00:39,547 --> 00:00:43,537
+ It showed up everywhere, quickly. Here's why that matters for you.
+
+13
+00:00:44,117 --> 00:00:46,957
+ Employers are already adjusting their expectations.
+
+14
+00:00:47,277 --> 00:00:50,787
+ The ability to work effectively with AI tools is becoming a baseline 
+
+15
+00:00:50,817 --> 00:00:54,187
+professional skill, the way spreadsheet literacy or business writing 
+
+16
+00:00:54,237 --> 00:00:58,617
+were for previous generations. Not "nice to have." Expected.
+
+17
+00:00:59,127 --> 00:01:01,527
+ That doesn't mean you need to become a technical expert.
+
+18
+00:01:01,967 --> 00:01:04,877
+ It means you need to understand what these tools can and can't 
+
+19
+00:01:04,917 --> 00:01:08,987
+do, know when to use them and when to set them aside, and be 
+
+20
+00:01:09,017 --> 00:01:11,467
+able to explain and stand behind any work they helped you 
+
+21
+00:01:11,517 --> 00:01:12,087
+produce.
+
+22
+00:01:13,157 --> 00:01:16,247
+ That's exactly what the AI modules in this course are designed to 
+
+23
+00:01:16,307 --> 00:01:18,757
+build. This isn't a sidebar topic.
+
+24
+00:01:19,417 --> 00:01:22,447
+ It's one of the most directly career-relevant skills you'll practice 
+
+25
+00:01:22,487 --> 00:01:22,747
+here.

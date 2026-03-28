@@ -62,7 +62,7 @@ The course focuses on five competency areas:
 - **Professionalism.** Showing up reliably, receiving feedback well, taking initiative, and producing quality work.
 - **Teamwork.** Contributing to a team, holding yourself and others accountable, giving constructive feedback, and collaborating effectively.
 
-Every activity in this course maps to one or more of these competencies, and we'll make those connections visible as you go. Research on transparent course design shows that when you understand the purpose behind an activity, not just the task, you engage with it more deeply and get more out of it. The syllabus review later this week includes the full breakdown of specific subskills within each area.
+Every activity in this course maps to one or more of these competencies, and we'll make those connections visible as you go. You'll see the specific skills tagged at the top of each page throughout the course — those badges show which competencies that page develops. Research on transparent course design shows that when you understand the purpose behind an activity, not just the task, you engage with it more deeply and get more out of it. The syllabus review later this week includes the full breakdown of specific subskills within each area.
 
 ---
 

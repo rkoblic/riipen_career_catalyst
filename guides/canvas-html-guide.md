@@ -311,17 +311,36 @@ Used where a video will be embedded but hasn't been produced yet.
 </div>
 ```
 
-### 17. Interactive Element Placeholder
+### 17. Interactive Element (Iframe Embed)
 
-Used where an interactive exercise will be linked or embedded.
+Used to embed an interactive exercise hosted on S3. The interactive is displayed inline via an `<iframe>`, with a fallback link below for cases where the iframe doesn't load (e.g., some mobile browsers, restrictive institutional networks).
+
+**When the S3 URL is known** (interactive has been built and uploaded):
+
+```html
+<div style="margin: 20px 0;">
+  <p style="font-size: 15px; margin-bottom: 8px;"><strong>Practice: Title Here</strong></p>
+  <p style="font-size: 14px; color: #6b7280; margin-bottom: 12px;">Brief description of the exercise. About X minutes.</p>
+  <iframe src="S3_URL_HERE" style="width: 100%; height: 800px; border: 1px solid #e2e4e9; border-radius: 10px;" allowfullscreen></iframe>
+  <p style="font-size: 12px; color: #6b7280; margin-top: 8px;">If the exercise doesn't load above, <a style="color: #2454ff;" href="S3_URL_HERE" target="_blank" rel="noopener">open it in a new tab</a>.</p>
+</div>
+```
+
+**When the S3 URL is not yet known** (interactive hasn't been built yet — use a placeholder):
 
 ```html
 <div style="background: #f7f8fa; border: 2px dashed #7c3aed; border-radius: 10px; padding: 20px 24px; text-align: center; margin: 16px 0;">
   <p style="font-size: 15px; margin-bottom: 4px;"><span aria-hidden="true">&#127919; </span>Interactive: Title Here</p>
   <p style="font-size: 13px; color: #6b7280; margin-bottom: 12px;">Brief description. ~X minutes.</p>
-  <p style="font-size: 14px; margin: 0;"><a style="color: #2454ff;" href="#" target="_blank" rel="noopener">Open the Interactive &rarr;</a></p>
+  <p style="font-size: 14px; margin: 0;">Interactive will be embedded here once produced.</p>
 </div>
 ```
+
+**Notes:**
+- Use the same S3 URL in both the `iframe src` and the fallback `<a href>`.
+- The `height: 800px` works for most interactives. Adjust if the content is shorter or longer.
+- Canvas does support `<iframe>` tags when the `src` points to an external HTTPS URL. The restriction on iframes noted earlier applies specifically to YouTube embeds (which should use bare URL auto-embed instead).
+- Replace the placeholder version with the iframe embed once the interactive is built and the S3 URL is available.
 
 ### 18. Curated Link
 
@@ -382,7 +401,7 @@ Use this guide to match content types to components:
 | Videos uploaded to Canvas | HTML comment placeholder (added via Rich Content Editor during build) |
 | Videos not yet produced | Video Placeholder |
 | Transcript for any video | Video Transcript (expand/collapse below video) |
-| Interactive exercises (linked separately) | Interactive Placeholder |
+| Interactive exercises (S3-hosted) | Interactive Element (iframe embed, or placeholder if not yet built) |
 | NACE competency/subskill tags per page | Competency Badges |
 
 ---
@@ -409,7 +428,7 @@ Work through the markdown content top to bottom. For each section:
 ### Step 4: Handle special elements
 
 - **[VIDEO: ...]** placeholders in the markdown become Video Placeholder, YouTube Video, or Canvas-Hosted Video components depending on the source
-- **[INTERACTIVE: ...]** placeholders become Interactive Placeholder components
+- **[INTERACTIVE: ...]** placeholders become Interactive Element iframe embeds (if the S3 URL is available) or placeholder components (if the interactive hasn't been built yet)
 - **[CURATED LINK: ...]** blocks become Curated Link or YouTube Video components (use the selected option, not all listed)
 - **[TEMPLATE: ...]** placeholders — use a Checklist Box or expand/collapse section depending on the template content
 - **[LINKED RESOURCE: ...]** placeholders become Curated Link components pointing to the course material
@@ -426,7 +445,8 @@ Paste the HTML into Canvas Rich Content Editor (HTML view), save, and preview. C
 - [ ] Expand/collapse sections work and show the disclosure triangle
 - [ ] Text is readable and properly spaced
 - [ ] No horizontal scrolling on mobile (comparison columns may need testing)
-- [ ] Video and interactive placeholders are clearly marked
+- [ ] Interactive iframes load correctly and the fallback link works
+- [ ] Video and any remaining interactive placeholders are clearly marked
 
 ---
 
