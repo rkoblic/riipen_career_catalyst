@@ -53,11 +53,7 @@ If it's genuinely useful context, let it run and adjust your plan. If it's pulli
 
 Good questions are the difference between a meeting where you learn something and a meeting where you confirm what you already assumed.
 
-[CURATED LINK: Open vs. closed questions and when to use each in professional settings]
-- Option 1: "Questioning Techniques" — MindTools — https://www.mindtools.com/a2baqhc/questioning-techniques/ — Practical, evergreen guide covering open, closed, probing, and funnel questions with workplace examples; MindTools is a well-established professional development resource.
-- Option 2: "The Surprising Power of Questions" — Harvard Business Review — https://hbr.org/2018/05/the-surprising-power-of-questions — Research-grounded article on how question types shape conversation outcomes; covers follow-up questions, sequencing, and tone. Note: HBR allows limited free reads; may require free account.
-- Option 3: "Effective Questioning: Probing, Open, Closed, Funnel and TED Questions" — CPD Online — https://cpdonline.co.uk/knowledge-base/business/effective-questioning/ — Concise overview of question types with clear professional examples; freely accessible and well-structured for a quick read.
-- Option 4: "How to Ask the Right Questions" (video) — MindTools — https://www.mindtools.com/ayjixxz/questioning-techniques-video/ — Short video covering open, closed, and funneling question types with professional examples. Good alternative for students who prefer watching over reading.
+[CURATED LINK: "How to Ask the Right Questions" (video) — MindTools — https://www.mindtools.com/ayjixxz/questioning-techniques-video/]
 
 ### Prioritizing When Time Is Limited
 
@@ -86,12 +82,7 @@ These questions move you past surface-level answers into the thinking behind the
 
 Hearing someone talk and actually listening to what they're saying are two different things. In a professional meeting, active listening is what separates teams that understand their client from teams that think they do.
 
-[CURATED LINK: Active listening skills for professional settings]
-- Option 1: "Active Listening: Using Listening Skills to Coach Others" — Center for Creative Leadership (CCL) — https://www.ccl.org/articles/leading-effectively-articles/coaching-others-use-active-listening-skills/ — From a globally recognized leadership development institution; covers practical techniques for professional conversations.
-- Option 2: "Effective Active Listening: Examples, Techniques & Exercises" — Asana — https://asana.com/resources/active-listening — Clear, actionable breakdown with workplace framing; freely accessible from a well-known professional tools company.
-- Option 3: "Active Listening: The Art of Empathetic Conversation" — PositivePsychology.com — https://positivepsychology.com/active-listening/ — Research-grounded guide with practical exercises; covers paraphrasing, reflecting, and summarizing in professional contexts.
-- Option 4: "The Art of Active Listening" (video, 7:39) — Harvard Business Review / YouTube — https://youtu.be/aDMtx5ivKK0?si=FYw70dQBnseOR8VJ — HBR video challenging common listening habits (nodding, "mm-hmm") and teaching more effective techniques. Authoritative source, good length.
-- Option 5: "ACTIVE Listening Skills: 4 Tips" (video, 8:45) — Communication Coach Alexander Lyon / YouTube — https://youtu.be/DHAI_gR0HgA?si=grvkHpsdpV8ubGtE — Practical, clearly structured video from an established communication coaching channel. Note: verify channel quality and tone before selecting.
+[CURATED LINK: "The Art of Active Listening" (video) — Harvard Business Review — https://youtu.be/aDMtx5ivKK0?si=FYw70dQBnseOR8VJ]
 
 ### Note-Taking Without Checking Out
 

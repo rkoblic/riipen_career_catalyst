@@ -1,6 +1,6 @@
 ---
 week: 3
-page: 3
+page: 7
 title: What's Next
 created: 2026-03-28
 last_updated: 2026-03-28

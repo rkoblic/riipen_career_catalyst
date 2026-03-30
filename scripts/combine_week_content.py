@@ -115,8 +115,47 @@ def process_inline(paragraph, text, size=11, color=DARK_BLUE):
             add_formatted_text(paragraph, m.group(7), size=size, color=color)
 
 
-def add_page_content(doc, content, page_num, title):
-    """Add a single page's markdown content to the document."""
+VIDEO_SCRIPT_COLOR = RGBColor(0x8B, 0x5C, 0x0A)  # dark amber for video script label
+
+
+def add_video_script_inline(doc, script_content):
+    """Render a video script inline where the [VIDEO:] placeholder was."""
+    # Label
+    p = doc.add_paragraph()
+    p.paragraph_format.left_indent = Inches(0.25)
+    add_formatted_text(p, "▶ VIDEO SCRIPT", size=10, bold=True, color=VIDEO_SCRIPT_COLOR)
+
+    # Render script body as indented muted paragraphs (skip H1 title)
+    for line in script_content.split("\n"):
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if stripped.startswith("# "):
+            # Use the H1 as a subtitle for the script
+            p = doc.add_paragraph()
+            p.paragraph_format.left_indent = Inches(0.25)
+            add_formatted_text(p, stripped[2:].strip(), size=11, bold=True, italic=True, color=MUTED)
+            continue
+        if stripped in ("---", "***", "___"):
+            continue
+        p = doc.add_paragraph()
+        p.paragraph_format.left_indent = Inches(0.25)
+        process_inline(p, stripped, size=11, color=MUTED)
+
+    # End label
+    p = doc.add_paragraph()
+    p.paragraph_format.left_indent = Inches(0.25)
+    add_formatted_text(p, "▶ END VIDEO SCRIPT", size=10, bold=True, color=VIDEO_SCRIPT_COLOR)
+
+
+def add_page_content(doc, content, page_num, title, video_scripts=None):
+    """Add a single page's markdown content to the document.
+
+    video_scripts: dict mapping page number (str) to list of stripped video
+    script contents, to be inlined at [VIDEO:] placeholders.
+    """
+    video_scripts = video_scripts or {}
+    page_videos = list(video_scripts.get(str(page_num), []))  # copy so we can pop
     lines = content.split("\n")
     i = 0
     in_list = False
@@ -212,8 +251,17 @@ def add_page_content(doc, content, page_num, title):
             i += 1
             continue
 
-        # Placeholders — render as grey italic
-        if stripped.startswith("[VIDEO:") or stripped.startswith("[INTERACTIVE:") or \
+        # VIDEO placeholder — inline the video script if available
+        if stripped.startswith("[VIDEO:"):
+            p = doc.add_paragraph()
+            add_formatted_text(p, stripped, size=10, italic=True, color=MUTED)
+            if page_videos:
+                add_video_script_inline(doc, page_videos.pop(0))
+            i += 1
+            continue
+
+        # Other placeholders — render as grey italic
+        if stripped.startswith("[INTERACTIVE:") or \
            stripped.startswith("[CURATED LINK:") or stripped.startswith("[TEMPLATE:") or \
            stripped.startswith("[LINKED RESOURCE:"):
             p = doc.add_paragraph()
@@ -238,15 +286,24 @@ def main():
         print(f"Error: {week_dir} does not exist.")
         sys.exit(1)
 
-    # Find all page content files (not video scripts, not interactives)
-    content_files = sorted(
-        [f for f in week_dir.glob("page*.md")
-         if "-video.md" not in f.name and "-interactive.md" not in f.name]
-    )
+    # Separate content pages from video scripts and interactives
+    all_md = sorted(week_dir.glob("page*.md"))
+    content_files = [f for f in all_md if "-video.md" not in f.name and "-interactive.md" not in f.name]
+    video_files = [f for f in all_md if "-video.md" in f.name]
 
     if not content_files:
         print(f"Error: No content files found in {week_dir}/")
         sys.exit(1)
+
+    # Build video script lookup: page number -> list of script contents
+    video_scripts = {}
+    for vf in video_files:
+        raw = vf.read_text(encoding="utf-8")
+        meta = extract_frontmatter(raw)
+        page_num = meta.get("page", "0")
+        script_content = strip_frontmatter(raw)
+        video_scripts.setdefault(page_num, []).append(script_content)
+    video_count = len(video_files)
 
     # Determine output path
     if args.output:
@@ -270,15 +327,19 @@ def main():
         heading_style.font.color.rgb = DARK_BLUE
 
     # Add cover info
+    page_count = len(content_files)
     p = doc.add_paragraph()
     add_formatted_text(p, f"Week {int(week_num)} — Content Review", size=24, bold=True)
     p = doc.add_paragraph()
     add_formatted_text(p, "RIIPEN CAREER CATALYST", size=11, bold=True, color=MUTED)
     p = doc.add_paragraph()
-    add_formatted_text(p, f"{len(content_files)} pages", size=11, color=MUTED)
+    summary_parts = [f"{page_count} pages"]
+    if video_count:
+        summary_parts.append(f"{video_count} video scripts")
+    add_formatted_text(p, " + ".join(summary_parts), size=11, color=MUTED)
     doc.add_page_break()
 
-    # Process each content file
+    # Process each content page (video scripts are inlined at their placeholders)
     for idx, filepath in enumerate(content_files):
         raw = filepath.read_text(encoding="utf-8")
         meta = extract_frontmatter(raw)
@@ -290,8 +351,8 @@ def main():
         p = doc.add_paragraph()
         add_formatted_text(p, f"PAGE {page_num}", size=10, bold=True, color=MUTED)
 
-        # Add content
-        add_page_content(doc, content, page_num, title)
+        # Add content, passing video scripts for inline insertion
+        add_page_content(doc, content, page_num, title, video_scripts=video_scripts)
 
         # Page break between pages (not after the last one)
         if idx < len(content_files) - 1:
@@ -300,9 +361,12 @@ def main():
     # Save
     doc.save(str(output_path))
     print(f"Created: {output_path}")
-    print(f"  Pages: {len(content_files)}")
+    print(f"  Content pages: {page_count}")
+    print(f"  Video scripts: {video_count} (inlined at placeholders)")
     for f in content_files:
         print(f"    - {f.name}")
+    for vf in video_files:
+        print(f"    - {vf.name} (inlined)")
 
 
 if __name__ == "__main__":
