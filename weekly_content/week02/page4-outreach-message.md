@@ -3,8 +3,11 @@ week: 2
 page: 4
 title: Employer Outreach Message
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-03-30
 status: draft
+competencies:
+  - area: Communication
+    subskill: Professional Correspondence
 ---
 
 # Employer Outreach Message

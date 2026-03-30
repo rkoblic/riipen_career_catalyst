@@ -1,0 +1,91 @@
+1
+00:00:03,534 --> 00:00:06,354
+Being good with AI doesn't mean using it for everything.
+
+2
+00:00:06,634 --> 00:00:08,084
+ It means knowing how to use it well.
+
+3
+00:00:09,304 --> 00:00:11,104
+ Here's what that looks like in practice.
+
+4
+00:00:11,614 --> 00:00:15,214
+ A marketing manager uses AI to draft three different angles for a 
+
+5
+00:00:15,254 --> 00:00:18,704
+campaign pitch, then picks the strongest one and rewrites it in her 
+
+6
+00:00:18,754 --> 00:00:19,224
+voice.
+
+7
+00:00:19,844 --> 00:00:23,374
+ A consultant asks AI to summarize a hundred pages of industry 
+
+8
+00:00:23,444 --> 00:00:26,744
+reports, then spends an hour verifying the key claims before 
+
+9
+00:00:26,764 --> 00:00:28,054
+putting them in front of a client.
+
+10
+00:00:29,014 --> 00:00:34,124
+ A project lead uses AI to stress-test a project timeline, asking "what 
+
+11
+00:00:34,154 --> 00:00:36,914
+could go wrong with this plan?" before presenting it to 
+
+12
+00:00:36,954 --> 00:00:37,854
+stakeholders.
+
+13
+00:00:38,664 --> 00:00:41,244
+ None of these people are handing their work over to AI.
+
+14
+00:00:41,644 --> 00:00:44,834
+ They're using it to think faster, explore more options, and catch 
+
+15
+00:00:44,884 --> 00:00:48,344
+things they might miss. Then they apply their own judgment.
+
+16
+00:00:48,664 --> 00:00:50,094
+ Here's why this matters.
+
+17
+00:00:50,334 --> 00:00:52,904
+ In a professional setting, you own what you submit.
+
+18
+00:00:53,224 --> 00:00:56,584
+ If a client asks you to explain a finding in your report and you can't 
+
+19
+00:00:56,644 --> 00:01:00,124
+because AI generated it and you never really understood it, that's a 
+
+20
+00:01:00,154 --> 00:01:03,954
+problem. Not a policy problem. A credibility problem.
+
+21
+00:01:04,394 --> 00:01:06,434
+ The skills on this page will help you avoid that.
+
+22
+00:01:07,094 --> 00:01:10,504
+ You'll learn how to prompt AI so it gives you something useful, and 
+
+23
+00:01:10,554 --> 00:01:13,364
+how to evaluate what it gives you so you're never caught off guard.

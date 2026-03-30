@@ -3,8 +3,15 @@ week: 2
 page: 3
 title: Team Formation & Charter
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-03-30
 status: draft
+competencies:
+  - area: Teamwork
+    subskill: Shared Accountability
+  - area: Teamwork
+    subskill: Collaborative Contribution
+  - area: Teamwork
+    subskill: Reliability
 ---
 
 # Team Formation & Charter

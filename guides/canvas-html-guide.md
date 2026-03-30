@@ -38,6 +38,7 @@ Additional color usage:
 - **Muted/secondary text:** `#6b7280` (passes WCAG AA at 4.6:1 on white — do NOT use `#acacac` which fails at 2.8:1)
 - **Borders:** `#e2e4e9`
 - **Scenario accents:** Purple `#7c3aed`
+- **Callout labels (orange variant):** Burnt orange `#b54708` (passes WCAG AA at 6.7:1 on `#fff8f1` — do NOT use `#ff7c0a` which fails at 2.1:1)
 
 ---
 
@@ -170,7 +171,7 @@ Used for important rules, key distinctions, and course policies that students sh
 
 ```html
 <div style="background: #fff8f1; border-left: 4px solid #ff7c0a; padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">
-  <div style="font-size: 12px; margin-bottom: 6px; color: #ff7c0a;">KEY PRINCIPLE</div>
+  <div style="font-size: 12px; margin-bottom: 6px; color: #b54708;">KEY PRINCIPLE</div>
   <p style="font-size: 14px; margin: 0;">Principle text here.</p>
 </div>
 ```

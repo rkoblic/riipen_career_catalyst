@@ -3,8 +3,11 @@ week: 2
 page: 5
 title: Researching an Organization
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-03-30
 status: draft
+competencies:
+  - area: Critical Thinking
+    subskill: Research & Analysis
 ---
 
 # Researching an Organization

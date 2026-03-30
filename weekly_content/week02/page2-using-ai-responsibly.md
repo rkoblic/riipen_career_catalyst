@@ -3,8 +3,11 @@ week: 2
 page: 2
 title: Using AI Responsibly
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-03-30
 status: draft
+competencies:
+  - area: Critical Thinking
+    subskill: Evidence-Based Reasoning
 ---
 
 # Using AI Responsibly

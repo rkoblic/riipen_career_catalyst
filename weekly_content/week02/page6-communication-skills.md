@@ -3,8 +3,13 @@ week: 2
 page: 6
 title: Communication Skills for Client Meetings
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-03-30
 status: draft
+competencies:
+  - area: Communication
+    subskill: Active Listening
+  - area: Communication
+    subskill: Professional Correspondence
 ---
 
 # Communication Skills for Client Meetings
