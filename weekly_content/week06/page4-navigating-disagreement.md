@@ -3,7 +3,7 @@ week: 6
 page: 4
 title: Navigating disagreement
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 competencies:
   - area: Teamwork
@@ -68,7 +68,4 @@ What "pushing back gracefully" is not: arguing, expressing frustration about the
 
 ## Going further
 
-[CURATED LINK: Navigating difficult conversations at work]
-- Option 1: 5 Steps for Tackling Difficult Conversations — [https://www.ccl.org/articles/leading-effectively-articles/5-steps-for-tackling-tough-conversations/](https://www.ccl.org/articles/leading-effectively-articles/5-steps-for-tackling-tough-conversations/) — CCL's practical framework for raising difficult issues professionally, including how to approach the conversation as a neutral party rather than an adversary.
-- Option 2: How to Approach Challenging Conversations — [https://www.ccl.org/articles/leading-effectively-articles/how-to-approach-challenging-conversations/](https://www.ccl.org/articles/leading-effectively-articles/how-to-approach-challenging-conversations/) — A shorter CCL piece on preparing for and entering hard conversations in professional settings, useful before a team check-in where you know a disagreement needs to be named.
-- Option 3: Conflict Management at the Office — [https://www.pon.harvard.edu/uncategorized/conflict-management-at-the-office/](https://www.pon.harvard.edu/uncategorized/conflict-management-at-the-office/) — Harvard's Program on Negotiation offers evidence-based strategies for resolving workplace disputes in ways that preserve working relationships — free article, no account required.
+[How to respectfully disagree at work](https://skillpath.com/blog/how-to-respectfully-disagree-at-work) — SkillPath
