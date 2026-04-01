@@ -3,7 +3,7 @@ week: 3
 page: 1
 title: Week Overview
 created: 2026-03-28
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 status: draft
 ---
 
@@ -28,9 +28,9 @@ You have two deliverables this week:
 
 The kickoff meeting creates a natural before-and-after structure for the week. Here's the order that makes the most sense:
 
-- **Before the meeting:** Work through the Preparing for the Kickoff page. Review video call etiquette, set up your AI note-taking tools, consolidate your team's questions, prepare your agenda, and send a confirmation message to the employer.
-- **During the meeting:** Follow the During the Kickoff page. Listen, take notes, and ask the questions your team prepared.
-- **After the meeting:** Work through the After the Kickoff page. Debrief with your team while impressions are fresh, process what you heard, send a follow-up message, and draft, review, and submit your Kickoff Summary together.
-- **Post-kickoff research:** Work through the Continuing Your Research page. Now that you know the actual project scope, do targeted research on the landscape and context relevant to your project. This feeds directly into the upcoming Context Analysis & Project Plan.
-- **Reflection #1:** Write and submit your individual reflection. The kickoff meeting is a natural anchor experience, but you can draw from anything in the first few weeks of the course.
-- **Look ahead:** Review the What's Next page to understand how your work this week connects to the next major deliverable.
+1. **Before the meeting:** Work through the Preparing for the Kickoff page. Review video call etiquette, set up your AI note-taking tools, consolidate your team's questions, prepare your agenda, and send a confirmation message to the employer.
+2. **During the meeting:** Follow the During the Kickoff page. Listen, take notes, and ask the questions your team prepared.
+3. **After the meeting:** Work through the After the Kickoff page. Debrief with your team while impressions are fresh, process what you heard, send a follow-up message, and draft, review, and submit your Kickoff Summary together.
+4. **Post-kickoff research:** Work through the Continuing Your Research page. Now that you know the actual project scope, do targeted research on the landscape and context relevant to your project. This feeds directly into the upcoming Context Analysis & Project Plan.
+5. **Reflection #1:** Write and submit your individual reflection. The kickoff meeting is a natural anchor experience, but you can draw from anything in the first few weeks of the course.
+6. **Look ahead:** Review the What's Next page to understand how your work this week connects to the next major deliverable.

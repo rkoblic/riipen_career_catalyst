@@ -145,6 +145,62 @@ Each page file is a self-contained markdown document. Structure:
 [Content]
 ```
 
+### Overview page structure
+
+Every week starts with an overview page (`page1-overview.md`). Overview pages are structural, not instructional — they orient the learner to the week, not teach skills. Use this standard structure:
+
+```markdown
+---
+week: [N]
+page: 1
+title: Week Overview
+created: YYYY-MM-DD
+last_updated: YYYY-MM-DD
+status: draft
+---
+
+# [Thematic title]
+
+[1–2 paragraphs framing the week: what's happening, why it matters
+professionally, how it connects to what came before.]
+
+[VIDEO: Title]
+
+---
+
+## What's due this week
+
+[List deliverables. Use a numbered list if there are multiple
+deliverables; a single bold line if there's only one. For each,
+include format (team/individual), grading status (completion-based
+or graded with weight).]
+
+---
+
+## Suggested order of completion
+
+[Numbered list. Walk through the week in the order that makes the
+most sense pedagogically. Include brief rationale where the ordering
+isn't obvious.]
+
+---
+
+## [Optional: week-specific section]
+
+[Only if the week has something unique that belongs on the overview
+— e.g., "Introduce yourself" in Week 1, "What 'done' looks like"
+in a production week. Don't force a section if there's nothing to
+say.]
+```
+
+**Overview page rules:**
+- **No `competencies` field** — overview pages are structural, not instructional.
+- **H1 is a thematic title**, never "Week N overview." It should capture the week's focus in a phrase (e.g., "From research to strategy," "Understanding your client," "Building your team").
+- **"What's due this week"** and **"Suggested order of completion"** are the two standard H2 sections. Use these exact headings for consistency.
+- **Suggested order always uses a numbered list** — sequence matters, so use numbers, not bullets.
+- **VIDEO placeholder** goes after the opening paragraphs, before the first H2.
+- **All headings in sentence case** (consistent with the rest of the course).
+
 ### Video script files
 
 Plain narrator text only. No stage directions, no visual cues, no formatting beyond paragraph breaks. The script should be ready to copy and paste directly into Lumen5.
@@ -207,7 +263,7 @@ These principles are established in the development plan process. During content
 
 7. **Varied media breaks up density.** Where the development plan specifies a video, place the `[VIDEO]` placeholder at the point where the video should appear — typically after the opening framing sentence or at the start of a new conceptual section. **Videos must not duplicate the page text.** There are two models for how videos and page text should relate:
 
-   - **Overview videos** (page 1 of each week): The page covers logistics (what's due, what order). The video covers motivation and professional relevance (why this matters, how the skills show up in real work). Neither duplicates the other.
+   - **Overview videos** (page 1 of each week): The page covers logistics (what's due, what order). The video covers motivation and professional relevance (why this matters, how the skills show up in real work). Neither duplicates the other. See `guides/overview-video-guide.md` for the full guide on writing overview video scripts, including common patterns to avoid.
    - **Instructional videos** (concept-teaching pages): The video is the primary teaching vehicle — it teaches the concept with concrete examples. The page text becomes a scannable bulleted recap learners can reference while they work. Don't write the same explanation twice in two formats. If the video walks through three examples of synthesis vs. summary, the page text should be a 4-bullet checklist of the key moves, not a restatement of the same examples in prose.
 
    In both models, every video should give learners a reason to press play that they can't get from skimming the page. Redundancy makes videos skippable.
