@@ -3,7 +3,7 @@ week: 6
 page: 5
 title: Formatting professional documents
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 competencies:
   - area: Critical Thinking
@@ -87,7 +87,4 @@ Use this before submitting your section to the shared document, and again when t
 
 ## Going further
 
-[CURATED LINK: Professional document design and formatting]
-- Option 1: 5 Formatting Techniques for Long-Form Content — [https://www.nngroup.com/articles/formatting-long-form-content/](https://www.nngroup.com/articles/formatting-long-form-content/) — Nielsen Norman Group's research-backed guide to formatting documents over 1,000 words, covering summaries, bullets, callouts, and visual hierarchy — directly applicable to professional deliverables.
-- Option 2: Workplace Writers — [https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/workplace_writers.html](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/workplace_writers.html) — Purdue OWL's professional writing hub covers document standards for workplace contexts, including format conventions and reader expectations.
-- Option 3: General Guidelines for Business Writing — [https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/business_writing_for_administrative_and_clerical_staff/general_guidelines.html](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/business_writing_for_administrative_and_clerical_staff/general_guidelines.html) — Purdue OWL's concise overview of professional document standards — tone, organization, and presentation — for formal workplace writing.
+[How professional document formatting builds business credibility](https://draftingqueens.com/blog/how-professional-document-formatting-builds-business-credibility) — Drafting Queens
