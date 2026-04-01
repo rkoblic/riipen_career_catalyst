@@ -3,7 +3,7 @@ week: 6
 page: 3
 title: From research to draft
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 competencies:
   - area: Critical Thinking
@@ -93,7 +93,4 @@ In all three cases, the intellectual work stays yours. AI helps you see structur
 
 ## Going further
 
-[CURATED LINK: Moving from research notes to a structured draft]
-- Option 1: Synthesizing Sources — [https://owl.purdue.edu/owl/research_and_citation/conducting_research/research_overview/synthesizing_sources.html](https://owl.purdue.edu/owl/research_and_citation/conducting_research/research_overview/synthesizing_sources.html) — Purdue OWL's guide to synthesis explains the difference between summarizing and synthesizing sources, which is the core cognitive move between research and draft.
-- Option 2: Why and How to Create a Useful Outline — [https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html](https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html) — A concise, practical Purdue OWL resource on building outlines that are ready to write from, with guidance on ordering and structure.
-- Option 3: Literature Reviews — [https://writingcenter.unc.edu/tips-and-tools/literature-reviews/](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/) — The UNC Writing Center's guide to working with multiple research sources covers how to move from accumulated material to organized, purposeful writing — directly applicable to professional report drafting.
+[https://youtu.be/-OBeL7PVfJ8?si=GzjDc00pUx19NpxB](https://youtu.be/-OBeL7PVfJ8?si=GzjDc00pUx19NpxB)

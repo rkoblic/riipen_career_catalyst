@@ -3,7 +3,7 @@ week: 6
 page: 2
 title: Making progress under uncertainty
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 competencies:
   - area: Critical Thinking
@@ -70,7 +70,4 @@ When you're genuinely blocked, the way you flag it matters. Be specific: "I'm wa
 
 ## Going further
 
-[CURATED LINK: Managing ambiguity in knowledge work]
-- Option 1: Managing Ambiguity — [https://www.mindtools.com/a2bm446/managing-ambiguity/](https://www.mindtools.com/a2bm446/managing-ambiguity/) — MindTools' practical guide covers why ambiguity tolerance is a valued professional competency and offers concrete strategies for making decisions without complete information.
-- Option 2: Managing Through Uncertainty — [https://sloanreview.mit.edu/article/managing-through-uncertainty/](https://sloanreview.mit.edu/article/managing-through-uncertainty/) — MIT Sloan Management Review examines how professionals navigate ongoing uncertainty in knowledge work environments, with a focus on adaptive decision-making.
-- Option 3: 5 Steps for Tackling Difficult Conversations — [https://www.ccl.org/articles/leading-effectively-articles/5-steps-for-tackling-tough-conversations/](https://www.ccl.org/articles/leading-effectively-articles/5-steps-for-tackling-tough-conversations/) — CCL's framework for naming and addressing ambiguous or tension-producing situations applies directly to the kind of production-phase uncertainty this module covers.
+[How well do you handle ambiguity on a project?](https://blueskiesconsulting.com/how-well-do-you-handle-ambiguity-on-a-project/) — Blue Skies Consulting
