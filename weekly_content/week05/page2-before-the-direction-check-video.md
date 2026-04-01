@@ -1,7 +1,7 @@
 ---
 week: 5
 page: 2
-title: Direction Check
+title: Before the Direction Check
 type: video-script
 created: 2026-04-01
 last_updated: 2026-04-01
