@@ -4,20 +4,18 @@ page: 1
 title: Week Overview
 type: video-script
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 ---
 
 # Video Script: From planning to production
 
-There's a particular moment in every real project when the planning is done and the building has to begin. It's not always obvious when that moment arrives. But at some point, you stop analyzing what you're going to do and start actually doing it.
+Up until now, the project has been mostly about figuring things out. What the employer actually needs, what the landscape looks like, what your team is going to produce and how. That work matters. But it's not the deliverable. This week, the deliverable work begins.
 
-That moment is where teams differentiate themselves.
+Your direction is confirmed. Your section is assigned. The question isn't what to do anymore — it's whether you can actually do it.
 
-In planning, uncertainty lives in the question of what to do. In production, uncertainty changes shape. You know what you're supposed to build — but now you're facing the gap between intent and execution. Is this the right direction? Is this what the employer actually meant? Does this hold together?
+Here's what typically happens in a first production week: people either stall because they're waiting to feel ready, or they dive in without a plan and end up with material that doesn't hold together. The four modules this week are designed to help you avoid both. They cover the specific moments where production breaks down — drafting without complete information, getting stuck between notes and prose, a teammate going in a direction that doesn't seem right, a document that starts to look inconsistent across sections.
 
-The teams that do well in this phase aren't the ones who have eliminated those questions before they start. They're the ones who've learned to work alongside them.
+Read them before you need them, not after.
 
-That's what this week is designed to help you do. The modules here are practical — they address the specific things that stall people in their first production week. But the underlying skill is bigger than any individual technique. It's the ability to make progress when you don't yet have complete certainty that you're doing it exactly right.
-
-That ability — more than almost anything else — is what distinguishes people who produce good professional work from people who are still getting ready to produce it.
+The other thing to know about this week: it's front-loaded for a reason. The upcoming Work-in-Progress presentation is the first time your employer sees where you are. Not a polished section — just structured, defensible progress on your assigned area. That presentation is the deadline this week's production work is building toward. Use the time.
