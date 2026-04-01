@@ -8,14 +8,14 @@ last_updated: 2026-03-24
 status: draft
 ---
 
-# Video Script: Your first graded deliverable
+# Video Script: Why this deliverable matters
 
-Up until now, you've been gathering information. Researching the organization, meeting the employer, learning about the project. That work was necessary, but it was the setup.
+In any real project, there are gates. Moments where you stop, show the client what you're thinking, and make sure you're headed in the right direction before you invest weeks of effort building something. The Context Analysis and Project Plan is that gate.
 
-This week is different. This week you take everything you've gathered and make an argument. Not a summary of what you found, but a point of view on what it means and what your team should do about it.
+This isn't course busywork. It's the same checkpoint that exists in consulting, product development, agency work, anywhere professionals do project-based work for a client. You do your research, form a point of view, lay out a plan, and put it in front of the person who's going to use the final product. Before you build, not after.
 
-That shift, from collecting information to reasoning from it, is one of the most important skills in professional work. Clients don't pay for research summaries. They pay for insight. They want to know what you found, why it matters, and what you recommend.
+The reason this matters is simple: misalignment is expensive. If your team spends six weeks executing a plan that doesn't match what the employer actually needs, that's six weeks wasted. Catching that now, costs nothing. Catching it six weeks from now costs the project.
 
-Your Context Analysis and Project Plan is the first time you demonstrate that kind of thinking in this course. And your employer will read it before your next conversation, so what you write here sets the tone for everything that follows.
+The course gives you a lot of structure for this deliverable. The four parts, the workflow, the rubric. But the structure is scaffolding, not the building. You need to fill it with specifics. What did your research actually reveal about this organization and this project? What risks are specific to your team's situation? What tradeoffs are you making in your plan, and why?
 
-Take this one seriously. The skills you build this week are the ones that make the rest of the project worth doing.
+Your employer will read this document before your next conversation. What you write here sets the terms of that discussion. Make it worth their time.

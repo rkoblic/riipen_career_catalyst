@@ -11,9 +11,9 @@ status: draft
 
 Everything you've done so far in the course, forming your team, researching the organization, meeting the employer, has been building toward this week. Now you take what you've gathered and turn it into something that demonstrates real analytical thinking: the Context Analysis & Project Plan.
 
-This is your first graded deliverable, and it carries 10% of your final grade. More importantly, it's the document your employer will read before sitting down with your team to discuss your approach. What you write here shapes that conversation.
+This is your first graded team deliverable, and it carries 10% of your final grade. More importantly, it's the document your employer will read before sitting down with your team to discuss your approach. What you write here shapes that conversation.
 
-[VIDEO: Your first graded deliverable]
+[VIDEO: Your first graded team deliverable]
 
 ---
 

@@ -21,6 +21,7 @@ Week 5 is a **Pattern A (meeting-centered)** week. The entire week revolves arou
 
 ### 1. Week 5 Overview
 **Type:** Orientation text
+**Format:** AI-generated video + text
 **Absorbs:** 5.01
 
 Frames the week around the Direction Check as the anchor event. Names the before/during/after structure and orients students to the suggested order of completion: module content first, then prep, then meeting, then debrief and summary. Makes clear that this is the week where the project direction gets confirmed or redirected — both outcomes are expected and professional.
@@ -40,7 +41,7 @@ The anchor prompt carries all the instructional weight this week. Organized in b
 
 **Presenting for validation, not approval (absorbs 5.02)**
 
-- Why this matters: the difference between presenting to get feedback and presenting to perform — in professional contexts, the goal is to surface problems early, not to impress (AI-generated text; ~200 words)
+- Why this matters: the difference between presenting to get feedback and presenting to perform — in professional contexts, the goal is to surface problems early, not to impress (AI-generated video; ~60–90 sec)
 - How to frame your proposed approach so it invites feedback: leading with rationale, naming uncertainties, and asking specific questions rather than "what do you think?" (AI-generated text; ~200 words)
 - How professionals present recommendations to stakeholders (curated link + framing; source article or video, ~5 min reading/viewing)
 
@@ -64,7 +65,7 @@ The anchor prompt carries all the instructional weight this week. Organized in b
 #### During the Direction Check
 
 - Meeting structure and how to use the time: presenting key findings (~15 min), proposed approach and rationale (~10 min), employer feedback (~15 min), discussion and refinement (~10 min), confirming next steps (~5 min) (AI-generated text; ~150 words)
-- Listening without defending: how to receive feedback that changes your direction — asking clarifying questions when feedback is vague, avoiding the impulse to justify, and translating what you hear into what you'll do (absorbs 5.05) (AI-generated text; ~250 words)
+- Listening without defending: how to receive feedback that changes your direction — asking clarifying questions when feedback is vague, avoiding the impulse to justify, and translating what you hear into what you'll do (absorbs 5.05) (AI-generated video; ~90–120 sec)
 - Active listening in professional settings (curated link + framing; source article or video, ~5 min reading/viewing)
 
 #### After the Direction Check
@@ -114,7 +115,7 @@ Bridges to Week 6 — the first real production week. Frames the deliverable str
 
 ## Production Checklist
 
-**3 content pieces — 22 production items total**
+**3 content pieces — 21 production items total**
 
 ### Page 1: Week 5 Overview
 - [ ] AI-generated video: "Your first presentation to a professional stakeholder — and the feedback that shapes everything after" (~60–90 sec)
@@ -123,7 +124,7 @@ Bridges to Week 6 — the first real production week. Frames the deliverable str
 ### Page 2: Direction Check Anchor Prompt
 
 **Before the Direction Check**
-- [ ] AI-generated text: presenting for validation, not approval — the goal is to surface problems early (~200 words)
+- [ ] AI-generated video: presenting for validation, not approval — the goal is to surface problems early (~60–90 sec)
 - [ ] AI-generated text: framing your approach to invite feedback — rationale, uncertainties, specific questions (~200 words)
 - [ ] Curated link: how professionals present recommendations to stakeholders (source article or video, ~5 min)
 - [ ] AI-generated text: managing expectations and difficult conversations — scope shifts, saying no professionally (~200 words)
@@ -134,7 +135,7 @@ Bridges to Week 6 — the first real production week. Frames the deliverable str
 
 **During the Direction Check**
 - [ ] AI-generated text: meeting structure and how to use the time (~150 words)
-- [ ] AI-generated text: listening without defending — receiving feedback, asking clarifying questions (~250 words)
+- [ ] AI-generated video: listening without defending — receiving feedback, asking clarifying questions (~90–120 sec)
 - [ ] Curated link: active listening in professional settings (source article or video, ~5 min)
 
 **After the Direction Check**
