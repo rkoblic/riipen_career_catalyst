@@ -22,6 +22,8 @@ This page covers the second half of the Context Analysis & Project Plan: strateg
 
 ### Why this section exists
 
+"Strategic implications" is a formal way of saying: based on what you found, what do you recommend, and why? This is the section where you make your case.
+
 This is the section your employer cares about most. Parts 1 and 2 show that you did the work. Part 3 shows that you thought about what it means.
 
 Your employer doesn't need a team that can gather information — they could do that themselves. What they need is a team that can look at what they found and say: here's what we think it means for this project, here's what we'd recommend, and here's why. That's the value of bringing in outside perspectives, and this is where you deliver on it.
@@ -38,13 +40,6 @@ The video above walks through the full chain — finding → conclusion → assu
 - **Name your assumptions explicitly.** What has to be true for your recommendation to work? The employer needs to see these so they can tell you which ones are right and which need revisiting.
 - **Be concrete.** "We recommend a more targeted approach" gives the employer nothing to react to. "We recommend a 90-day video pilot on TikTok and Instagram Reels" gives them something specific to evaluate.
 - **Don't be afraid to take a position.** A specific recommendation that needs adjusting is far more useful than a vague one that can't be evaluated. The Direction Check exists so the employer can redirect you — that's the process working, not failing.
-
-[CURATED LINK: Strategic thinking in practice — PENDING SELECTION]
-<!-- Options:
-- Option 1: "4 Ways to Develop Your Strategic Thinking Skills" — Harvard Business School Online — https://online.hbs.edu/blog/post/how-to-develop-strategic-thinking-skills — Defines strategic thinking through three core behaviors (acumen, allocation, action); fully free, no paywall.
-- Option 2: "How to Become a Better Strategic Thinker" — Harvard Business Review — https://hbr.org/2023/11/how-to-become-a-better-strategic-thinker — What strategic thinking looks like in day-to-day work. Note: HBR allows limited free views; may prompt for registration.
-- Option 3: "What Does 'Being Strategic' Actually Mean?" — Thrive Street Advisors — https://www.thrivestreetadvisors.com/blog/what-does-being-strategic-actually-mean — Concise; emphasizes the "why" behind decisions and the difference between doing tasks and thinking about impact.
--->
 
 ---
 
@@ -74,9 +69,11 @@ Compare that to: "We will conduct a competitive analysis, create user personas, 
 
 ### Milestones and timeline
 
-Your timeline should reflect your team's actual capacity, not an aspirational version of what you could accomplish if everything went perfectly. Map your milestones to real dates, account for the other demands on your time this semester, and build in realistic buffers.
+In a real consulting or project-based engagement, you'd need to build your own timeline from scratch: scoping the work, estimating how long each phase will take, and negotiating realistic deadlines with the client. That's a skill worth understanding, because aspirational timelines that slip every week are worse than conservative ones you can actually meet. Your employer would rather know what to reliably expect than be told what they want to hear.
 
-A timeline that looks aggressive but slips every week is less useful than a conservative timeline your team can actually meet. Your employer would rather know what to reliably expect than be told what they want to hear. If you tell them the draft will be ready by Week 8, they'll plan around that. If it slips to Week 10, you've disrupted their planning, not just yours.
+In this course, much of that structure is already set for you. The key milestones and deadlines are outlined in the Riipen platform, and the graded assignments and checkpoints are listed in the Learning Management System. Your project plan should reference these existing milestones rather than inventing new ones.
+
+But this isn't a copy-and-paste exercise. You still need to think critically about what happens *between* those milestones. How will your team divide the work within each phase? What needs to happen first before other tasks can start? Are there points where you'll need input from the employer, and have you built in time for that? Where are the weeks when your team's other commitments (exams, other courses, jobs) will limit your capacity? The structure gives you the destination points. Your project plan should show that you've thought about the journey between them.
 
 ### Risk identification and mitigation
 
@@ -104,9 +101,4 @@ For example: "Our project requires access to the organization's CRM data, which 
 
 Risks that are both likely and high-impact deserve this kind of mitigation planning. Risks that are unlikely and low-impact can be noted and monitored without a detailed plan.
 
-[CURATED LINK: Risk identification frameworks — PENDING SELECTION]
-<!-- Options:
-- Option 1: "How to Manage Project Risk: A 5-Step Guide" — Coursera — https://www.coursera.org/articles/how-to-manage-project-risk — Five-step risk management process; beginner-friendly tone.
-- Option 2: "What Is a Risk Register & How to Create One" — ProjectManager — https://www.projectmanager.com/blog/guide-using-risk-register — Likelihood vs. impact assessment, probability-impact matrix, building a risk register.
-- Option 3: "What is Risk Management?" — Association for Project Management — https://www.apm.org.uk/resources/what-is-project-management/what-is-risk-management/ — Authoritative intro from a recognized industry body.
--->
+[CURATED LINK: "How to Manage Project Risk: A 5-Step Guide" (~10 min read) — Coursera — https://www.coursera.org/articles/how-to-manage-project-risk] Walks through a five-step risk management process: identify, analyze, prioritize, mitigate, and monitor. Covers the four main mitigation strategies (avoid, accept, reduce, transfer) with concrete examples, and includes a sample risk register showing how to lay out risks with probability, impact, ownership, and mitigation plans. If you've never formally identified risks before, this gives you a clear, beginner-friendly framework to work from.

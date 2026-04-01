@@ -163,7 +163,7 @@ Plain narrator text only. No stage directions, no visual cues, no formatting bey
 
 **Person:** Second person ("you," "your team"). Never "students will..." or "learners should..." — always speak directly to the reader.
 
-**Register:** Conversational but professional. Use contractions naturally. Avoid academic jargon unless it's a term learners need to learn (and then define it plainly). No filler phrases ("it's important to note that..."). Say it directly.
+**Register:** Conversational but professional. Use contractions naturally. Avoid academic jargon unless it's a term learners need to learn (and then define it plainly on the spot). When a formal term appears in a section heading or deliverable part name, open with a one-line plain-language translation: "Strategic implications is a formal way of saying: based on what you found, what do you recommend, and why?" Don't assume learners know what terms like "synthesis," "stakeholder mapping," or "strategic implications" mean just because the design doc uses them. No filler phrases ("it's important to note that..."). Say it directly.
 
 **Spelling:** American English throughout (per Riipen brand guidelines).
 
@@ -205,13 +205,24 @@ These principles are established in the development plan process. During content
 
 6. **Content at the point of need.** Don't explain something learners won't use until later. If it's in this page, it should be useful *now* or within this week's activities.
 
-7. **Varied media breaks up density.** Where the development plan specifies a video, place the `[VIDEO]` placeholder at the point where the video should appear — typically after the opening framing sentence or at the start of a new conceptual section. Videos are openers and motivators, not replacements for instructional text. **Videos must not duplicate the page text.** If the page covers logistics (what's due, what order), the video should cover motivation (why this matters, how the skills show up in real professional work). If the page teaches a concept, the video should frame why a professional would care — not re-explain the concept. Redundancy makes videos skippable. Every video should give learners a reason to press play that they can't get from skimming the page.
+7. **Varied media breaks up density.** Where the development plan specifies a video, place the `[VIDEO]` placeholder at the point where the video should appear — typically after the opening framing sentence or at the start of a new conceptual section. **Videos must not duplicate the page text.** There are two models for how videos and page text should relate:
+
+   - **Overview videos** (page 1 of each week): The page covers logistics (what's due, what order). The video covers motivation and professional relevance (why this matters, how the skills show up in real work). Neither duplicates the other.
+   - **Instructional videos** (concept-teaching pages): The video is the primary teaching vehicle — it teaches the concept with concrete examples. The page text becomes a scannable bulleted recap learners can reference while they work. Don't write the same explanation twice in two formats. If the video walks through three examples of synthesis vs. summary, the page text should be a 4-bullet checklist of the key moves, not a restatement of the same examples in prose.
+
+   In both models, every video should give learners a reason to press play that they can't get from skimming the page. Redundancy makes videos skippable.
 
 8. **Scannable over dense.** Use headers, bullet points, and short paragraphs. A learner should be able to skim a page and understand the structure before reading deeply. Long unbroken paragraphs are a sign that the content needs restructuring, not just editing.
 
 9. **Vary examples across weeks.** When illustrating a concept with examples (professional roles, industries, scenarios), check what examples were used in previous weeks' content and use different ones. Repetition of the same examples (e.g., "a marketing manager drafts copy, a consultant synthesizes research") across multiple pages or weeks makes the course feel narrow and formulaic. Diverse examples across weeks signal that these skills apply broadly, expose learners to a wider range of professional contexts, and keep the content feeling fresh. Before writing examples, scan the content from the surrounding weeks for overlap.
 
+   **Running examples within a week:** When a week's guidance varies by project type (e.g., what "research" means for a marketing plan vs. a community engagement strategy vs. a process improvement project), choose 2–3 plausible, diverse project types and use them as running examples across that week's pages. Introduce the examples on a framing page, then use them consistently in subsequent pages and video scripts. This helps learners see how the same analytical framework applies to their specific project. Not every section needs all three examples — use whichever are most illustrative for that particular concept.
+
 10. **Surface the pedagogy.** When asking learners to do something, explain *why the course is designed that way* and how it benefits them. Don't just describe the activity — make the design logic visible. Why is this activity sequenced here and not later? Why is it completion-based instead of graded? Why does the course ask you to skim before deep-reading, or draft before using AI, or preview a template before your first meeting? Learners who understand the reasoning behind a course's structure are more motivated, less anxious, and more likely to engage meaningfully with activities that might otherwise feel like busywork. This doesn't mean citing research papers — a sentence or two of plain-language rationale is enough. "We ask you to review the syllabus early because learners who understand the full arc and expectations from day one manage their time and stress better across the semester" is the right register. The goal is transparency: learners should never have to wonder why they're doing something.
+
+11. **Explain the "why" behind every deliverable section.** For graded deliverables with multiple parts, each part should open with a "Why this section exists" explanation that connects to the employer's perspective and professional practice. Don't just tell learners what goes in each section — tell them what it accomplishes and why the employer cares about it. Frame it from the reader's perspective: "This section answers a question the employer can't help but have: does this team actually understand what we do and what we need?" This is especially important for deliverables where the connection between the section and its professional purpose isn't obvious.
+
+12. **Connect deliverables to professional gates and checkpoints.** When introducing a graded deliverable, frame it as the kind of checkpoint that exists in real professional work — not as a course requirement. Client check-ins, direction reviews, progress gates, and alignment meetings are standard professional practice. Learners should understand that the deliverable mirrors something they'd do in any consulting, agency, or project-based role, and that the employer meeting that follows is the accountability mechanism, not the grade.
 
 ---
 
@@ -266,6 +277,17 @@ In the page file, place a `[CURATED LINK]` block with the three options:
 - Option 3: [Title] — [URL] — [rationale]
 ```
 
+**Once a link is selected,** convert to the finalized inline format with a brief description of what the learner will get from it:
+
+```markdown
+[CURATED LINK: "Title" (format, ~duration) — Source — URL] One or two sentences explaining what the resource covers and why it's relevant to the work learners are doing.
+```
+
+For example:
+```markdown
+[CURATED LINK: "The Pyramid Principle" (video, ~10 min) — Communicate with IMPACT — https://youtu.be/example] This video walks through McKinsey's Pyramid Principle — a framework for structuring any argument or analysis. Directly relevant to structuring your research findings section.
+```
+
 ### Checklists
 
 Format as a markdown checklist with clear, actionable items. Each item should be a concrete action, not a vague reminder.
@@ -281,7 +303,16 @@ Format as a markdown checklist with clear, actionable items. Each item should be
 
 Write plain narrator text. No stage directions, no "[show graphic of...]", no formatting cues. Write to be heard — short sentences, conversational rhythm, natural pauses between ideas. Each paragraph is roughly one "slide" worth of narration in Lumen5.
 
-**Target length:** ~120–150 words per minute of video. A 60–90 second video = ~120–200 words of narration.
+**Voice:** Second person ("you," "your team"), same as page text. Never use first person ("I," "me," "let me show you"). The narrator is not a character — they're a voice guiding the learner. "Here's what that looks like" not "Let me walk you through this."
+
+**Keep framing tight.** The opening (before examples or core content) and closing (after) should be as concise as possible. Get to the substance quickly. If the opening takes more than 2–3 sentences to set up the concept, it's too long. If the closing restates points the examples already made, cut it down. The examples and core content are what earn the video its runtime — the framing around them should be minimal.
+
+**Target length:** ~120–150 words per minute of video. A 60–90 second video = ~120–200 words of narration. Instructional videos that walk through multiple examples may run longer (2–3 minutes / ~300–450 words).
+
+**Two types of video scripts:**
+
+- **Motivational/framing videos** (typically page 1 overviews): Short (~60–90 sec). Set up why the week's work matters professionally. Don't repeat what the page text says.
+- **Instructional videos** (concept-teaching pages): The primary teaching vehicle for that concept. Walk through concrete examples — ideally using the week's running project types — to show the concept in action. The companion page text should be a scannable recap, not a restatement. These may be longer than overview videos.
 
 Save as a separate file: `page[N]-[short-title]-video.md`
 
@@ -344,6 +375,8 @@ Before considering a page complete:
 - [ ] Word counts are within ±20% of targets
 - [ ] AI guidance (what's permitted, what's off-limits, disclosure requirements) is accurate and unambiguous
 - [ ] No design-doc language leaked into learner-facing content
+- [ ] Academic or professional jargon is defined in plain language where it first appears
+- [ ] Graded deliverable sections each explain *why they exist* from the employer/professional perspective
 - [ ] Content is scannable — headers, bullets, short paragraphs
 - [ ] No content references something learners haven't encountered yet (unless flagged as a preview)
 - [ ] YAML frontmatter is present with correct `week`, `page`, `title`, `created`, `last_updated`, and `status`

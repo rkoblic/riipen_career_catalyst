@@ -16,6 +16,8 @@ competencies:
     subskill: Prioritization
   - area: Communication
     subskill: Written Clarity
+  - area: Teamwork
+    subskill: Collaborative Contribution
 ---
 
 # Context Analysis & Project Plan
@@ -90,12 +92,73 @@ To make this concrete, the guidance on the following pages uses three running ex
 
 Your project may not match any of these exactly, but the examples show how the same analytical framework applies to very different kinds of work. Think about what "research," "evidence," and "strategic implications" mean for your specific project. The analytical moves are the same regardless: look for patterns, draw conclusions, name what you don't know, and connect everything to a clear recommendation.
 
-### Not sure where to start? Ask AI to help you scope.
+---
 
-If you're looking at your project brief and aren't sure what kind of research to do, what a context analysis looks like for your type of project, or what risks to think about, AI is a good place to start. Try a prompt like this:
+## How to produce this as a team
+
+Producing a strong team document doesn't happen by dividing sections, writing in isolation, and stapling the parts together. Here's a workflow that produces better results:
+
+1. **Individual research.** Each team member takes responsibility for specific research areas. Divide by topic, not by document section, so your research has depth.
+2. **Team synthesis meeting.** Come together to share what you found. The goal isn't to present polished summaries; it's to get your findings into the room so the team can think together about what they mean. This is where you agree on the strategic direction before anyone starts drafting.
+3. **Individual drafting.** With a shared direction agreed on, each person drafts their assigned sections. This works better after synthesis because everyone is writing toward the same argument.
+4. **Async cross-review.** Before integration, each team member reads at least one other person's section. Look for gaps, inconsistencies, unsupported claims, and places where sections contradict each other.
+5. **Integration pass.** This is where the document goes from four pieces to one. Someone (or the whole team) reads the full document end to end and fixes transitions, tone shifts, redundancies, and contradictions.
+6. **Final review and sign-off.** Everyone reads the final version and confirms it represents the team's thinking. Then submit.
+
+### The integration pass
+
+Most team documents read like exactly what they are: separate pieces written by different people. The integration pass is what turns a collection of sections into a coherent professional document.
+
+During the integration pass, look for:
+
+- **Voice shifts.** Does the writing style change noticeably between sections? Smooth it out so the document reads as though one person wrote it.
+- **Transitions.** Does each section connect logically to the next? Add bridging sentences where the reader would otherwise feel a jump.
+- **Redundancies.** Did two sections make the same point? Consolidate.
+- **Contradictions.** Does the research section claim one thing while the strategic implications section assumes another? Resolve it.
+
+AI can be a useful editor for this step. Try asking it to identify inconsistencies, flag unclear transitions, or highlight places where sections seem to contradict each other.
+
+### Using AI to get oriented
+
+Some of the work this week may involve methods, frameworks, or research directions you haven't encountered before. That's expected. Part of professional work is figuring out how to do something you haven't done before, and AI is genuinely useful here — not to do the work for you, but to get you oriented quickly.
+
+**Figure out what to research.** If you're looking at your project brief and aren't sure where to start, ask AI to help you scope the work.
 
 > "Our team is working on [brief description of the project — type of deliverable, industry/sector, what the employer is looking for]. For a context analysis and project plan, what kinds of research should we be doing? What would strong strategic implications look like for this type of project? What are common risks for projects like this?"
 
-This can help you figure out the right questions to ask before you start researching, rather than jumping straight into research without a clear direction.
+**Get a plain-language explanation of an unfamiliar method.** If you've never done a competitive analysis or a stakeholder map, ask AI to explain what it is, what the output typically looks like, and what steps are involved.
 
-One important caveat: AI can help you figure out *what to look into*, but it can't replace actually doing the work. At the Direction Check, your employer will ask about your findings and your reasoning. "AI told us to look at competitor pricing" is not a defensible answer. "We researched competitor pricing because our initial scoping suggested it was a key factor, and here's what we found" is. Use AI to orient yourself, then make the research your own.
+> "Explain what a competitive analysis is in the context of a consulting project. What does the final output typically look like? What are the key steps to produce one?"
+
+**Ask for a framework tailored to your project.** Generic frameworks are a starting point, but your project has specific constraints. Ask AI to help you adapt.
+
+> "Our team is working on [project description]. We need to do a stakeholder analysis. Who are the likely stakeholders we should consider, and what framework would make sense for mapping them given [specific context]?"
+
+**Pressure-test your approach.** Once you've drafted a section or chosen a method, ask AI to poke holes in it.
+
+> "Here's our draft competitive analysis for [project]. What are we missing? What questions would a senior consultant ask about this analysis?"
+
+**Important:** AI can help you figure out what to look into and how to approach it. It can't do *your* research or *your* analysis. The frameworks are generic; the application to your specific project requires your judgment and your team's understanding of the employer's context. At the Direction Check, your employer will ask about your findings and your reasoning. "AI told us to look at competitor pricing" is not a defensible answer. "We researched competitor pricing because our initial scoping suggested it was a key factor, and here's what we found" is. Use AI to orient yourself, then make the work your own.
+
+---
+
+## Submission
+
+### Deliverable format
+
+Your Context Analysis & Project Plan should have four parts:
+
+- **Part 1: Organizational & project context** (~1 page)
+- **Part 2: Research findings** (~1.5–2 pages)
+- **Part 3: Strategic implications** (~1 page)
+- **Part 4: Project plan** (~1.5–2 pages)
+
+Total length is approximately 5–6 pages. This is a guideline, not a hard limit. Substance matters more than page count.
+
+### AI disclosure
+
+Include an AI disclosure statement with your submission, regardless of whether AI was used. If AI was not used, a single sentence stating that is sufficient. If AI was used, briefly describe how (e.g., "AI was used to generate an initial competitive landscape overview, which the team verified and expanded through primary source research").
+
+### How to submit
+
+Submit your completed Context Analysis & Project Plan through the Riipen platform. One submission per team. When you submit, the document is automatically shared with your employer, so they'll have it in advance of the Direction Check. Ensure all team members have reviewed and approved the final document before submission.

@@ -14,7 +14,7 @@ There's a common pattern in first-time analysts' reports: they do good research,
 
 The shift you need to make is from reporting what you found to explaining what it means — identifying patterns, drawing conclusions, and connecting everything to what it means for the project.
 
-Let me show you what this looks like in practice, because the difference is easier to see in examples than in definitions.
+Here's what this looks like in practice, because the difference is easier to see in examples than in definitions.
 
 Say your team is working on a social media strategy for a small business. You've researched the competitive landscape and you write: "Competitor A has 12,000 Instagram followers. Competitor B has 8,500 followers and posts three times a week. Competitor C launched a TikTok account six months ago."
 
@@ -22,7 +22,7 @@ That's a summary. It's accurate, but it doesn't tell the reader anything about w
 
 See the difference? Same research. But the second version identifies a pattern, draws a conclusion, and connects it to what it means for the project.
 
-Let's try another one. Say your team is working on a community outreach program for a nonprofit, and you've researched participation barriers. Summary version: "A 2023 study found that 40% of youth in the target area don't participate in after-school programs. The organization currently promotes programs through school flyers and their website."
+Here's another one. Say your team is working on a community outreach program for a nonprofit, and you've researched participation barriers. Summary version: "A 2023 study found that 40% of youth in the target area don't participate in after-school programs. The organization currently promotes programs through school flyers and their website."
 
 Synthesized version: "Published research consistently identifies transportation and scheduling conflicts, not awareness, as the primary barriers to youth program participation in communities like this one. The organization's current outreach relies on flyers and their website, which assume the problem is that families don't know about the programs. But if the real barrier is getting there, increasing awareness won't move the needle. This suggests the project should focus on accessibility, not marketing."
 

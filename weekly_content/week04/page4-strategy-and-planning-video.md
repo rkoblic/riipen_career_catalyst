@@ -10,13 +10,9 @@ status: draft
 
 # Video Script: The "so what" move
 
-You've done your research. You've synthesized your findings. Now comes the hardest part: what does it all mean for the project, and what should you do about it?
+You've done your research. Now: what does it mean, and what should you do about it?
 
-This is where a lot of teams get stuck. Not because they don't understand the concept, but because making the leap from "here's what we found" to "here's what we recommend" feels risky. What if you're wrong? What if the employer disagrees?
-
-Here's the thing: the point of this section isn't to be right. It's to show your thinking. Your employer wants to see that you looked at the evidence and formed a point of view. They can tell you if your read is off — that's what the Direction Check is for. What they can't work with is a team that presents a pile of research and then says "so, what do you think we should do?"
-
-Let me walk through what this actually looks like.
+This is where teams get stuck, because making the leap to a recommendation feels risky. But the point isn't to be right. It's to show your thinking clearly enough that the employer can react to it. Here's what that looks like.
 
 Say your team is working on a social media strategy. Your research found that three direct competitors have shifted to short-form video in the past year and the two that moved first saw the strongest audience growth. The employer is still posting static images. Here's how you build the chain:
 
@@ -30,7 +26,7 @@ What we recommend: a 90-day short-form video pilot on TikTok and Instagram Reels
 
 Notice what happened there. The recommendation traces directly back to the research. The assumptions are named explicitly. And the employer now has something concrete to react to. They might say "we can't do video, we don't have the skills." Great — now you know, and you can adjust your strategy before you've spent weeks building a plan around it.
 
-Let's try community outreach. Your research found that published studies consistently identify transportation and scheduling, not awareness, as the primary barriers to youth program participation. The employer's current model relies on flyers and website promotion.
+Now community outreach. Your research found that published studies consistently identify transportation and scheduling, not awareness, as the primary barriers to youth program participation. The employer's current model relies on flyers and website promotion.
 
 Finding: the research suggests the real barrier isn't that families don't know about the programs. It's that they can't get to them.
 
@@ -52,8 +48,4 @@ What we're assuming: the employer's inventory management software can integrate 
 
 What we recommend: replace the manual queue with a digital assignment system that auto-routes orders to available packers, starting with a two-week pilot during off-peak hours to test adoption before rolling out during peak.
 
-In every one of these examples, the team did three things. They connected findings to a specific conclusion. They named what has to be true for their recommendation to work. And they proposed something concrete enough that the employer can react to it.
-
-That last point is worth emphasizing. Vague recommendations like "we suggest improving the customer experience" or "we recommend a more targeted approach" give the employer nothing to work with. They can't tell you whether they agree or disagree because there's nothing specific enough to evaluate. The more concrete you are, the more useful the Direction Check conversation becomes.
-
-One thing students often worry about: what if my recommendation is wrong? That's fine. Genuinely fine. The Direction Check exists precisely so the employer can redirect you. A specific recommendation that turns out to need adjustment is far more useful than a vague one that can't be evaluated. Taking a position and being willing to revise it based on feedback is how professional work actually happens.
+In every example, the same three moves: connect findings to a conclusion, name what you're assuming, and propose something concrete. Vague recommendations like "we suggest a more targeted approach" give the employer nothing to work with. Be specific. And if your recommendation turns out to be wrong, that's fine. The Direction Check exists so the employer can redirect you. A specific recommendation that needs adjusting is far more useful than a vague one that can't be evaluated.
