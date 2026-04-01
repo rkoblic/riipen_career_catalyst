@@ -14,17 +14,31 @@ competencies:
 
 # During the kickoff
 
-## What to expect
+## Running the meeting
 
 [VIDEO: What actually happens in a kickoff meeting]
 
-The meeting will typically start with introductions. Keep yours concise and professional: your name, your program, and one sentence about what you're looking forward to contributing. Practice this in your team huddle so it feels natural. Rambling introductions eat into valuable meeting time and set a less-than-professional tone.
+Watch the video above before your kickoff — it walks through the full meeting flow. Here's the quick reference:
 
-After introductions, the kickoff meeting is primarily a listening session. Your employer contact will share organizational context, project scope, what success looks like, the timeline, and who on their side you'll be working with. Your role is to absorb this information, take notes, and ask the questions your team prepared.
+- **You open the meeting.** Welcome everyone, thank the employer, and start introductions. Don't wait for someone else to take the lead.
+- **Invite the employer to introduce themselves first,** then your team goes. Fifteen seconds each — name, program, one sentence.
+- **Transition to the employer's overview** with a clear ask: "We'd love to hear more about the project in your own words."
+- **Listen for emphasis, repetition, and gaps** — what the employer cares most about, where the brief and conversation don't match, and what they seem uncertain about.
+- **Track your questions as the employer talks.** Cross off what's been answered. When it's your turn, lead with what's still genuinely open.
+- **Signal transitions clearly.** "Thank you, that's really helpful. We have some questions, starting with scope." Not: "Umm, ok, should we ask questions now?"
+- **Let the conversation flow.** If the employer is sharing useful context, don't interrupt to get through your list. Your prioritized questions ensure you cover the most important things if time runs short.
 
-You may find that some of what the employer says aligns with what you expected from the project brief, and some of it doesn't. Pay particular attention to the surprises: where the employer's priorities differ from what you assumed, where scope is narrower or broader than you anticipated, where they emphasize something you hadn't considered. Those gaps between expectation and reality are where the most valuable information lives.
+---
 
-Don't worry about covering every question on your list. If the conversation is flowing and the employer is sharing useful context unprompted, let it run. Your prioritized question list ensures that if time runs short, you ask the most important things first.
+## Showing up on the call
+
+How you present yourself during the meeting matters as much as what you say. The employer is forming impressions the entire time — not just when you're speaking.
+
+**Stay visibly engaged.** When the employer is talking, show that you're tracking: nod, maintain an attentive expression, and offer brief verbal signals when appropriate — "That makes sense," "Got it," a short clarifying question. Thirty minutes of silence while someone talks is uncomfortable for the speaker and communicates passivity. You don't need to fill every pause, but the employer should be able to tell that you're present and paying attention.
+
+**Manage transitions.** The moments between sections of the meeting — after introductions, after the employer's overview, between questions — are where awkwardness tends to creep in. "Umm, ok, so... should we ask our questions now?" sets a very different tone than "Thank you — that gives us a lot to work with. We have a few questions, starting with scope." Decide in your huddle who handles transitions and what they'll say.
+
+**Handle problems gracefully.** Your audio will cut out. Someone's internet will lag. You'll lose your train of thought mid-sentence. These things happen in every professional setting. When they do, pause, acknowledge it briefly — "Sorry about that, let me pick up where I left off" — and continue. Don't over-apologize, don't spiral, and don't let a thirty-second tech glitch derail the meeting. How you recover matters far more than whether problems occur.
 
 ---
 
