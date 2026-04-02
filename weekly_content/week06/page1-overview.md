@@ -41,4 +41,6 @@ After the modules: complete your independent research, then draft your assigned 
 
 ## What "done" looks like by the end of this week
 
-The upcoming Work-in-Progress presentation is the accountability mechanism for this week's production work. Your goal isn't a polished section — it's a section that's presentable in a meeting. That means a structure you can defend, coverage across your assigned area, and a direction that's consistent with the team's overall approach. Think of it as a structured rough draft: the ideas are there, the organization is visible, and the gaps are named rather than hidden. Coverage before quality. A draft that covers all of your section with some rough edges is more valuable at this stage than a polished opening with nothing behind it.
+The upcoming check-in with your employer is a working session, not a presentation. You're not performing progress. You're using the employer as a resource to help you make better decisions about the work you're actively building.
+
+That means your goal for this week isn't a polished section. It's enough progress that you can identify the specific questions and decision points where the employer's input would actually change what you do next. To get there, you need coverage across your assigned area, a direction you can explain, and a clear sense of where the gaps are. Think of it as a structured rough draft: the ideas are there, the organization is visible, and the gaps are named rather than hidden.

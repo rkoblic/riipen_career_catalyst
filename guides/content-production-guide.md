@@ -452,7 +452,7 @@ The design doc is your source material, not your script. Here's what to pull fro
 
 For each week:
 
-1. **Read the development plan, design doc, and AI arc together.** Understand the week's architecture before writing anything. Check `guides/ai-arc.md` for what AI skills have been introduced in prior weeks, what's new this week, and what the accountability mechanism is.
+1. **Read the development plan, design doc, AI arc, and employer touchpoint arc together.** Understand the week's architecture before writing anything. Check `guides/ai-arc.md` for what AI skills have been introduced in prior weeks, what's new this week, and what the accountability mechanism is. Check `guides/employer-touchpoint-arc.md` for how this week's employer touchpoint (if any) should be framed, what makes it distinct from previous meetings, and whether it's a presentation, working session, or document review.
 2. **Produce pages in order.** Start with the Overview, then work through the content pieces as numbered. This ensures forward references are intentional.
 3. **Write each page file completely** before moving to the next. Include all sub-elements specified in the development plan. Include YAML frontmatter with `week`, `page`, `title`, `created`, `last_updated`, and `status` fields.
 4. **Write video scripts as separate files** as you encounter them in the page flow. Include YAML frontmatter with `type: video-script`.
