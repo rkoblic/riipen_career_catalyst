@@ -10,10 +10,14 @@ status: draft
 
 # Video script: Listening without defending
 
-When you've put real work into something and someone tells you to change direction, the first instinct is to defend. To explain why you made the choice you made. To push back, even gently. That's natural. It's also one of the fastest ways to shut down a useful conversation.
+When someone questions work you've put real effort into, the instinct is to explain why you made the choice you made. That instinct usually shuts down the exact conversation you need to have. Here's what the difference looks like in practice.
 
-In professional settings, receiving feedback well is a skill that people notice. Not because you have to agree with everything. But because the way you respond to feedback signals how easy you are to work with.
+The employer says "I think you're focusing on the wrong segment." A natural response is "we chose this segment because our research showed it had the highest engagement rates." That explains your reasoning, but it doesn't get you anywhere. The employer now has to decide whether to push harder or let it go, and you've learned nothing about what they actually meant.
 
-The move that makes the biggest difference is simple: ask a clarifying question before you respond. "Can you say more about what you mean by that?" or "What would you want to see instead?" These questions do two things. They show the other person that you're taking their input seriously. And they give you better information to act on, so that when you do respond, your response is grounded in what they actually meant, not in what you assumed.
+A better response: "Can you tell us more about which segment matters most to you and why?" Now the employer explains that the segment you chose looks right from the outside, but internally they've already tried targeting that group and it didn't work. That's information your research couldn't have surfaced, and it changes your entire approach.
 
-You don't have to agree with every piece of feedback. But you do have to understand it first. The debrief after the meeting is where you decide what to act on. The meeting itself is for listening.
+Same pattern with vague feedback. The employer says "I'd like to see more depth in the analysis." Responding with "we actually spent a lot of time on that section" tells them you're not open to the input. Asking "when you say depth, are you looking for more data points, or more analysis of what the existing data means?" turns a vague comment into something you can act on.
+
+When the employer raises something completely unexpected, something that wasn't in the brief and that you hadn't considered, the move is the same. Acknowledge it directly. "That's something we hadn't accounted for. Can you tell us more about how that affects the project?" You don't need an answer in the meeting. You need to capture the information and address it in your revised plan.
+
+The pattern across all of these is the same. Ask a clarifying question before you respond. Understand what the employer actually means before you decide what to do about it.

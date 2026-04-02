@@ -201,6 +201,51 @@ say.]
 - **VIDEO placeholder** goes after the opening paragraphs, before the first H2.
 - **All headings in sentence case** (consistent with the rest of the course).
 
+### What's next page structure
+
+Every week ends with a "What's next" page (always the last page in the week). These are short bridging pages that connect the current week's work to what's coming. Use this standard structure:
+
+```markdown
+---
+week: [N]
+page: [last]
+title: What's Next
+created: YYYY-MM-DD
+last_updated: YYYY-MM-DD
+status: draft
+---
+
+# What's next
+
+[1–2 sentences connecting what was just completed to what's
+coming. Frame the transition, not the logistics.]
+
+---
+
+## [Name of the next major milestone or event]
+
+[What it is, why it matters, what the learner should expect.
+This is the core section — every what's-next page needs it.]
+
+---
+
+## [Optional: "How to prepare" or "What to do now"]
+
+[Specific preparation steps, pre-reading, rubrics to review,
+or structural setup to do before next week. Use a bulleted or
+numbered list if there are concrete actions. Skip this section
+if there's genuinely nothing to prepare.]
+```
+
+**What's-next page rules:**
+- **No `competencies` field** — these are structural, not instructional.
+- **H1 is always "What's next."** No variation.
+- **First H2 names the next milestone specifically** — "The Direction Check," "The Work-in-Progress presentation," not generic headings like "What's coming."
+- **Optional second H2 for actionable preparation.** Use "How to prepare" or a similarly specific heading. Include pre-reading links, rubrics to review, or concrete setup tasks. Skip if there's nothing specific to prepare.
+- **Keep it short.** This is a bridge, not a content page.
+- **No video placeholders.**
+- **Sentence case headings.**
+
 ### Video script files
 
 Plain narrator text only. No stage directions, no visual cues, no formatting beyond paragraph breaks. The script should be ready to copy and paste directly into Lumen5.
@@ -264,7 +309,7 @@ These principles are established in the development plan process. During content
 7. **Varied media breaks up density.** Where the development plan specifies a video, place the `[VIDEO]` placeholder at the point where the video should appear — typically after the opening framing sentence or at the start of a new conceptual section. **Videos must not duplicate the page text.** There are two models for how videos and page text should relate:
 
    - **Overview videos** (page 1 of each week): The page covers logistics (what's due, what order). The video covers motivation and professional relevance (why this matters, how the skills show up in real work). Neither duplicates the other. See `guides/overview-video-guide.md` for the full guide on writing overview video scripts, including common patterns to avoid.
-   - **Instructional videos** (concept-teaching pages): The video is the primary teaching vehicle — it teaches the concept with concrete examples. The page text becomes a scannable bulleted recap learners can reference while they work. Don't write the same explanation twice in two formats. If the video walks through three examples of synthesis vs. summary, the page text should be a 4-bullet checklist of the key moves, not a restatement of the same examples in prose.
+   - **Instructional videos** (concept-teaching pages): The video is the primary teaching vehicle — it teaches the concept with concrete examples. The page text becomes a scannable bulleted recap learners can reference while they work. Don't write the same explanation twice in two formats. See `guides/instructional-video-guide.md` for the full guide on writing instructional video scripts, including when to use the video-as-primary-teaching-vehicle pattern and how to restructure page text around it.
 
    In both models, every video should give learners a reason to press play that they can't get from skimming the page. Redundancy makes videos skippable.
 

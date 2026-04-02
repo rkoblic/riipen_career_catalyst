@@ -22,26 +22,12 @@ The Direction Check is your first real presentation to a professional stakeholde
 
 [VIDEO: Presenting for validation, not approval]
 
-In professional work, presenting a recommendation isn't a performance. You're not trying to impress anyone. You're trying to surface problems early, while they're still cheap to fix.
+The video above walks through what presenting for validation looks like compared to presenting for approval, with two contrasting scenarios. Here's a recap of the key moves:
 
-The difference matters. When you present to impress, you smooth over the parts you're uncertain about. You frame everything as more resolved than it is. You avoid raising the questions you don't have answers to. And the employer, reading your confidence, assumes you've got it handled, until the final deliverable reveals that you didn't.
-
-When you present for validation, you do the opposite. You lead with your rationale: here's what we found, here's what we think it means, here's what we recommend. Then you name the uncertainties: here's what we're less sure about, here's where we'd appreciate your perspective.
-
----
-
-## Framing your approach to invite feedback
-
-The way you phrase things shapes the kind of response you get. Vague questions get polite nodding. Specific questions get useful answers.
-
-Instead of "what do you think?", try:
-- "Does this priority order match what matters most to your team?"
-- "Are there stakeholders we should be considering that we haven't accounted for?"
-- "We're leaning toward this approach for the analysis. Does that align with how you'd use the results?"
-
-Each of these gives the employer something concrete to react to. They can confirm, redirect, or add context you didn't have. That's the feedback you need.
-
-Lead with your rationale before asking the question. "We chose to focus on the operations team because they'll be the primary users of the deliverable. Does that match your understanding?" is more productive than "Who should we focus on?" The first shows your thinking and invites a correction. The second asks the employer to do your thinking for you.
+- **Lead with your rationale, not just your conclusions.** "Here's what we found, here's what we think it means, here's what we recommend" gives the employer something to engage with.
+- **Name your uncertainties explicitly.** The areas where you're least sure are exactly where the employer's feedback is most valuable. Don't smooth over them.
+- **Ask specific questions, not open-ended ones.** "Does this priority order match what matters most to your team?" gets a real answer. "What do you think?" gets polite nodding.
+- **Show your reasoning when you ask.** "We chose to focus on the operations team because they'll be the primary users. Does that match your understanding?" invites a correction. "Who should we focus on?" asks the employer to do your thinking for you.
 
 [CURATED LINK: How professionals present recommendations to stakeholders]
 - Option 1: "How to Present Research So Stakeholders Sit Up and Take Action" — https://dscout.com/people-nerds/present-research-for-stakeholders-tips — Practical advice on framing findings and recommendations for stakeholder audiences, with concrete examples of what works and what doesn't

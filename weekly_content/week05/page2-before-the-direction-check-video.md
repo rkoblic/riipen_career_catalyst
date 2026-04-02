@@ -10,10 +10,14 @@ status: draft
 
 # Video script: Presenting for validation, not approval
 
-There's a version of presenting where your goal is to impress. You polish everything, you smooth over the uncertain parts, and you deliver it like a finished product. It feels good in the moment. The problem is that it doesn't invite the kind of feedback you actually need.
+Here's a scenario. A team presents their findings to an employer. They've polished everything. Their slides are clean, their recommendations sound confident, and they've smoothed over the two areas where they weren't sure. The employer nods, says "looks good," and the meeting ends in 30 minutes. The team feels great.
 
-In professional work, the goal is different. You're presenting to find out if you're on the right track. You want the employer to push back on the parts that don't hold up, to flag the things you missed, and to tell you where their priorities don't match your assumptions.
+Six weeks later, the deliverable misses the mark. The employer had concerns about those two areas but didn't raise them because the presentation made everything look decided. The team never got the feedback that would have changed their direction.
 
-That only happens when you present with openness. Lead with your reasoning, not just your conclusions. Name the things you're uncertain about. Ask specific questions instead of "what do you think?" When you make it easy for someone to give you honest feedback, they usually will.
+Now a different version. Same team, same findings. But this time they open with: "Here are the three most important things our research found. Based on that, here's what we're recommending and why. There are two areas where we're less certain and we'd specifically like your input."
 
-The teams that get the most out of the Direction Check aren't the ones with the most polished presentation. They're the ones who treat it as a working conversation, not a performance.
+The employer immediately engages on those uncertain areas. Turns out one of them was exactly right and the other was based on an assumption that doesn't hold. The team adjusts before they've invested any production time. That's a 15-minute conversation that saved weeks of work.
+
+The difference isn't confidence vs. uncertainty. It's closed vs. open. The first team presented a finished product. The second team presented a working draft and invited the employer into the thinking.
+
+The same principle applies to how you ask questions. "What do you think?" gets polite nodding. "We chose to focus on the operations team because they'll be the primary users. Does that match your understanding?" gets a real answer. The first asks for a general reaction. The second shows your reasoning and gives the employer a specific thing to confirm or correct.

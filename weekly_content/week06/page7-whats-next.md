@@ -3,7 +3,7 @@ week: 6
 page: 7
 title: What's next
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 ---
 
@@ -19,11 +19,11 @@ The WIP presentation is a live accountability check — your team shows the empl
 
 That framing changes what "a good week" means right now. Teams who use this week well will arrive at the WIP with something substantive to discuss — a structured draft, a defensible direction, named gaps that the employer can help clarify. Teams who don't will find themselves scrambling to produce something presentable under time pressure that should have been used for revision.
 
-Your goal for the rest of this week: get your assigned section to a point where you could talk through it in a meeting. Not perfect — presentable. Know what you've written, know what's still missing, and be able to explain your direction.
-
 ---
 
-## What "presentable" means for a work-in-progress
+## How to prepare
+
+Your goal for the rest of this week: get your assigned section to a point where you could talk through it in a meeting. Not perfect — presentable. Know what you've written, know what's still missing, and be able to explain your direction.
 
 A common misconception about WIP presentations is that the work needs to be polished to be shown. It doesn't.
 

@@ -65,6 +65,8 @@ Total: ~120-200 words. If you're over 200, you're probably padding.
 - **Written to be heard.** Short sentences. Conversational rhythm. Natural pauses between paragraphs.
 - **American English** throughout.
 - **No slang, idioms, or culturally specific expressions.**
+- **No visual formatting.** No colons as labels, no bullet lists, no bold text. These don't translate to voiceover. Use paragraph breaks and transitional phrases for structure.
+- **Read every script aloud before finalizing.** If a sentence feels unnatural to say, rewrite it.
 
 ---
 

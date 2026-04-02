@@ -3,17 +3,17 @@ week: 2
 page: 7
 title: What's Next
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-04-02
 status: draft
 ---
 
-# What's Next
+# What's next
 
 The next major milestone in the course is the employer kickoff meeting, your team's first direct conversation with the professional contact you reached out to this week. Everything you've done so far (forming your team, researching the organization, practicing communication skills) leads directly to that meeting.
 
 ---
 
-## Why Review the Rubric Now
+## The employer kickoff meeting
 
 Before you get to the kickoff, it's worth spending time with the Context Analysis & Project Plan assignment and rubric. This is the first graded deliverable in the course, and it's coming up soon after the kickoff.
 
@@ -25,7 +25,7 @@ Think of it as reading the recipe before you go grocery shopping. You don't cook
 
 ---
 
-## What to Look For in the Rubric
+## How to prepare
 
 As you review, pay attention to:
 

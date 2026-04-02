@@ -34,15 +34,22 @@ After your presentation, invite the employer to share their perspective. Somethi
 
 [VIDEO: Listening without defending]
 
-When someone gives you feedback that changes your direction, the natural instinct is to explain why you made the choice you made. That instinct is understandable, and it's usually counterproductive.
+The video above walks through three scenarios showing the difference between defensive and constructive responses to employer feedback. Here's a recap of the key moves:
 
-The employer isn't asking you to justify your approach. They're telling you what they need. If they say "I think you're focusing on the wrong segment," the useful response is "can you tell us more about which segment matters most?" not "well, we chose this segment because..."
+- **Ask a clarifying question before you respond.** Understand what the employer actually means before deciding what to do about it.
+- **Don't explain your reasoning as a first response.** It shuts the conversation down. Ask what they're seeing that you're not.
+- **When feedback is vague, make it specific.** "When you say depth, are you looking for more data points or more analysis?" gives you something actionable.
+- **When feedback is unexpected, acknowledge it directly.** "That's something we hadn't accounted for. Can you tell us more?" You don't need an answer in the meeting. You need to capture the information.
+- **Take notes on what the employer says, not on your reactions.** Your reactions are for the debrief.
 
-Clarifying questions are your best tool here. When feedback is vague ("I'd like to see more depth"), ask what depth means to them: "Are you looking for more data points, or more analysis of what the data means?" When feedback is surprising, say so: "That's different from what we expected. Can you help us understand what's driving that priority?" These questions aren't signs of weakness. They're signs that you're processing the feedback seriously enough to act on it.
+---
 
-Take notes on what the employer says, not on your reactions to it. Your reactions are for the debrief.
+## When the employer has no feedback
 
-[CURATED LINK: Active listening in professional settings]
-- Option 1: "Active Listening: Using Listening Skills to Coach Others" — https://www.ccl.org/articles/leading-effectively-articles/coaching-others-use-active-listening-skills/ — Research-backed techniques from the Center for Creative Leadership, focused on how active listening works in professional conversations
-- Option 2: "Effective Active Listening: Examples, Techniques & Exercises" — https://asana.com/resources/active-listening — Practical guide with actionable techniques and real examples, written for professional team settings
-- Option 3: "Mastering Active Listening in the Workplace" — https://www.edx.org/resources/active-listening-at-work — Structured overview of active listening techniques with emphasis on application in professional meetings and team dynamics
+Sometimes the employer says "this looks great, keep going." That can feel like a win, but it also means you're leaving the meeting without the critical input the Direction Check is designed to provide.
+
+This happens. Some employers are less hands-on, some are genuinely satisfied with your direction, and some haven't reviewed the work closely enough to give detailed feedback. Regardless of the reason, your team still needs to pressure-test your approach before committing to production.
+
+**Try asking more targeted questions.** General approval often means the employer hasn't found a reason to object, not that they've carefully evaluated every element. Specific questions can draw out feedback that "looks good" didn't: "Are there any risks we haven't considered?" or "Is there anything about the audience for this deliverable that would change how we structure it?"
+
+If targeted questions still don't surface substantive feedback, that's OK. There are ways to pressure-test your approach after the meeting. See the After the Direction Check page for how to use AI as a critical reviewer when the employer doesn't provide the pushback themselves.

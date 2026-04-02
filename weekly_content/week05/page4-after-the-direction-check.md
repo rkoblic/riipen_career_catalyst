@@ -20,6 +20,8 @@ competencies:
 
 Debrief as a team immediately after the meeting, while the conversation is fresh. Twenty-four hours from now, you'll remember the general feel of the meeting but not the specific language. The specific language is what matters.
 
+If you used an AI note-taking tool during the meeting, pull up that transcript now alongside whatever manual notes your team took. Use both, but don't treat the AI transcript as a reliable record. These tools mishear words, attribute statements to the wrong speaker, and sometimes fabricate phrases that sound plausible but weren't said. Cross-check the AI transcript against your manual notes and your team's memory. Where they disagree, trust what your team actually heard.
+
 Capture four things:
 
 - **Specific feedback:** What did the employer actually say? Use exact quotes where possible. "They said our timeline was ambitious" is less useful than "They said 'I think two weeks for the user research phase is tight given the number of stakeholders involved.'"
@@ -28,6 +30,18 @@ Capture four things:
 - **Ambiguity:** What was unclear? What do you need to follow up on?
 
 This debrief is not the Direction Check Summary. It's the raw material for it. The debrief is a team conversation about what was heard. The Summary is the formal written record of what was decided.
+
+---
+
+## If the employer didn't give substantive feedback
+
+If the Direction Check ended with general approval but no specific pushback, your team still needs to pressure-test your approach before committing to production. Use AI as a critical reviewer.
+
+Share your context analysis and project plan with an AI tool and ask it to challenge your assumptions, identify gaps, and push back on your recommendations the way a skeptical stakeholder would:
+
+> "Here's our context analysis and project plan for [project]. Act as a critical stakeholder reviewing this for the first time. What assumptions are we making that might not hold? What's missing? Where would you push back?"
+
+Some of what the AI raises will be generic or irrelevant. Some of it will surface a real gap you hadn't noticed. As a team, review each suggestion and decide: incorporate it, or set it aside? Document your reasoning either way. That critical evaluation process is the skill the Direction Check is designed to build, even when the employer doesn't provide the pushback themselves.
 
 ---
 

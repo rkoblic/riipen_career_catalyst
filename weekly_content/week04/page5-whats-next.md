@@ -3,7 +3,7 @@ week: 4
 page: 5
 title: What's Next
 created: 2026-03-24
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 ---
 
@@ -13,7 +13,7 @@ The next major event in the course is the Direction Check, your team's second me
 
 ---
 
-## What the Direction Check is for
+## The Direction Check
 
 The Direction Check is not an evaluation of your submission. It's a working conversation. Your employer will react to what you wrote, ask questions, validate parts of your approach, and possibly redirect others. That's the whole point: you want to know whether your direction makes sense to the person who will ultimately use your work, before you invest weeks of production effort building on assumptions that might be wrong.
 

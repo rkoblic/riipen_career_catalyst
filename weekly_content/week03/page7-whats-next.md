@@ -3,7 +3,7 @@ week: 3
 page: 7
 title: What's Next
 created: 2026-03-28
-last_updated: 2026-03-28
+last_updated: 2026-04-02
 status: draft
 ---
 
@@ -13,11 +13,13 @@ The next major deliverable in the course is the Context Analysis & Project Plan,
 
 ---
 
-## How this week's work feeds it
+## The Context Analysis & Project Plan
 
 The Kickoff Summary you just completed is the evidentiary foundation for the Context Analysis. The scope, priorities, and constraints your employer confirmed in the kickoff meeting define what your analysis needs to address. The post-kickoff research you started this week provides the broader landscape context that gives your analysis depth.
 
 Teams that arrive at the Context Analysis with a solid Kickoff Summary and organized research findings are working from a position of strength. Teams that skimmed the kickoff or let their research stay unorganized will find themselves backfilling at the point when they should be synthesizing.
+
+## How to prepare
 
 Review the assignment description and rubric now. Understanding what the deliverable is asking for, and how it will be evaluated, will help you use the time between now and the deadline more effectively. You'll know what kind of research to prioritize, what kind of analysis to build toward, and where your current evidence base has gaps.
 
