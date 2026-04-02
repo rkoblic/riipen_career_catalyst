@@ -1,6 +1,6 @@
 ---
 week: 6
-page: 4
+page: 5
 title: Navigating disagreement
 created: 2026-04-01
 last_updated: 2026-04-02

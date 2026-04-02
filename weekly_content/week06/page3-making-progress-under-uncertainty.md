@@ -1,6 +1,6 @@
 ---
 week: 6
-page: 2
+page: 3
 title: Making progress under uncertainty
 created: 2026-04-01
 last_updated: 2026-04-02

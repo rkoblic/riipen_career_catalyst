@@ -1,6 +1,6 @@
 ---
 week: 6
-page: 2
+page: 3
 title: Making progress under uncertainty
 type: video-script
 created: 2026-04-01

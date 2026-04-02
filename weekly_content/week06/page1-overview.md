@@ -25,15 +25,17 @@ Complete the reflection at the end of the week, after you've had time to work th
 
 ## Suggested order of completion
 
-Work through the four modules before you start drafting or researching. Each one is designed to be read right before you need it — not as background reading, but as preparation for a specific task you're about to do.
+Work through the modules before you start drafting or researching. Each one is designed to be read right before you need it — not as background reading, but as preparation for a specific task you're about to do.
 
-1. **Making progress under uncertainty** — Read this before starting your independent research or sitting down to draft. It addresses the most common thing that stalls production: not knowing how to move forward when you don't have everything you need.
+1. **Starting production as a team** — Read this first, before anyone opens the shared document. It covers the setup decisions your team needs to make together before drafting begins: document structure, section ownership, formatting standards, and terminology. Skipping this step creates problems that are hard to fix later.
 
-2. **From research to draft** — Read this after your research is underway but before you try to write. It covers the step between notes and prose that most people skip, which is also where most production stalls.
+2. **Formatting professional documents** — Read this immediately after setting up the document, before any content is added. The setup checklist from the previous module includes applying these standards to the document template first.
 
-3. **Navigating disagreement** — Read this before your team's drafting check-in. Production surfaces disagreements that planning kept abstract, and this module prepares you for those conversations.
+3. **Making progress under uncertainty** — Read this before starting your independent research or sitting down to draft. It addresses the most common thing that stalls production: not knowing how to move forward when you don't have everything you need.
 
-4. **Formatting professional documents** — Read this before you open the shared document to start writing your section. Formatting habits formed at the start of a draft persist through the whole project.
+4. **From research to draft** — Read this after your research is underway but before you try to write. It covers the step between notes and prose that most people skip, which is also where most production stalls.
+
+5. **Navigating disagreement** — Read this before your team's drafting check-in. Production surfaces disagreements that planning kept abstract, and this module prepares you for those conversations.
 
 After the modules: complete your independent research, then draft your assigned section. Reflection #2 comes last — after your full production experience.
 

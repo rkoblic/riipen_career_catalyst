@@ -13,7 +13,7 @@ design_doc: week06-design-doc.md
 
 ## Content Architecture
 
-Week 6 is a **Pattern C (production-centered, no single dominant anchor)** week, and also a reflection week — the second of five. There is no employer touchpoint, and no single deliverable that the module content primarily serves. The four modules (6.02–6.05) are genuinely distinct skills — each covering a different dimension of the first production week — so they each get their own standalone page rather than folding into a single anchor. Reflection #2 (6.10) is graded, individual, and always gets its own separate piece per the weekly structure convention. The flow is: Overview → Making Progress Under Uncertainty → From Research to Draft → Navigating Disagreement → Formatting Professional Documents → Reflection #2 Prompt → What's Next. **7 content pieces total.**
+Week 6 is a **Pattern C (production-centered, no single dominant anchor)** week, and also a reflection week — the second of five. There is no employer touchpoint, and no single deliverable that the module content primarily serves. The five modules (new + 6.02–6.05) are genuinely distinct skills — each covering a different dimension of the first production week — so they each get their own standalone page rather than folding into a single anchor. Reflection #2 (6.10) is graded, individual, and always gets its own separate piece per the weekly structure convention. The flow is: Overview → Starting Production as a Team → Formatting Professional Documents → Making Progress Under Uncertainty → From Research to Draft → Navigating Disagreement → Reflection #2 Prompt → What's Next. **8 content pieces total.**
 
 ---
 
@@ -30,7 +30,23 @@ Frames the week as the shift from planning to production. Names the structure: f
 
 ---
 
-### 2. Making Progress Under Uncertainty
+### 2. Starting Production as a Team
+**Type:** Standalone module
+**Absorbs:** New content — not in original design doc
+
+Addresses the gap between "sections are assigned" and actually starting to build a shared document. Written as a direct continuation of the team production workflow established in the Context Analysis page, but focused on what's different about multi-week collaborative production. Covers document setup decisions (one doc, section ownership, formatting standards, terminology) before anyone starts drafting; section dependencies; and how to use the team sync for coordination rather than reporting. No video needed — primarily procedural guidance with a setup checklist.
+
+- Why setup decisions made before drafting determine whether the deliverable reads as one document or assembled pieces (AI-generated text; ~150 words)
+- Four setup decisions: one shared document, section ownership, formatting standards applied first (link forward to formatting page), agreed terminology (AI-generated text; ~250 words)
+- Section dependencies: which sections must be developed before others can be written; which can proceed in parallel (AI-generated text; ~100 words)
+- How to use the team sync as a coordination tool — surfacing blockers, aligning on cross-section directions, catching divergence early (AI-generated text; ~100 words)
+- Before-you-start-drafting checklist: 6 items covering shared doc setup, section ownership, formatting standards, terminology, dependencies, and team sync (checklist; ~75 words)
+
+*Time check: ~600 words (~3 min reading) + checklist (~1 min) + applying to own project (~5 min) = ~9 min. No time budget in the design doc — new content, not absorbed from an existing activity. Fits comfortably within the week's unallocated orientation time.*
+
+---
+
+### 3. Making Progress Under Uncertainty
 **Type:** Standalone module
 **Absorbs:** 6.02 (20 min)
 
@@ -134,19 +150,26 @@ Bridges to Week 7 — the Work-in-Progress presentation. Frames the remaining pr
 
 ## Production Checklist
 
-**7 content pieces — 29 production items total**
+**8 content pieces — 36 production items total**
 
 ### Page 1: Week 6 Overview
 - [ ] AI-generated video: "Why this week marks the shift from planning to production — your approach is confirmed, now you build" (~60–90 sec)
-- [ ] Orientation text: what's happening this week, structure of the week (four modules → production → reflection), suggested order of completion, and what "done" looks like by end of week (~250 words)
+- [ ] Orientation text: what's happening this week, structure of the week (five modules → production → reflection), suggested order of completion, and what "done" looks like by end of week (~250 words)
 
-### Page 2: Making Progress Under Uncertainty
+### Page 2: Starting Production as a Team
+- [x] AI-generated text: why setup decisions before drafting determine whether the deliverable reads as one document or assembled pieces (~150 words)
+- [x] AI-generated text: four setup decisions — one shared document, section ownership, formatting standards, agreed terminology (~250 words)
+- [x] AI-generated text: section dependencies — which sections must be developed first, which can proceed in parallel (~100 words)
+- [x] AI-generated text: how to use the team sync as a coordination tool (~100 words)
+- [x] Checklist: before-you-start-drafting — 6 items (~75 words)
+
+### Page 3: Making Progress Under Uncertainty
 - [ ] AI-generated video: why drafting under uncertainty is a core career skill, not a coping strategy (~60–90 sec)
 - [ ] AI-generated text: types of ambiguity and how to diagnose them — missing information vs. unclear expectations vs. conflicting priorities (~300 words)
 - [ ] AI-generated text: decision framework — when to proceed vs. when to pause, and how to flag a blocker without stalling the team (~200 words)
 - [ ] Curated link: how professionals manage ambiguity in knowledge work (article or short video, ~5–8 min)
 
-### Page 3: From Research to Draft
+### Page 4: From Research to Draft
 - [ ] AI-generated text: why the research-to-writing gap is where students stall — making the bridge explicit (~150 words)
 - [ ] AI-generated text: how to cluster and synthesize raw notes into an organized outline (~250 words)
 - [ ] AI-generated text: evaluating whether your outline is ready to draft from — questions to ask before committing to prose (~150 words)
@@ -154,19 +177,19 @@ Bridges to Week 7 — the Work-in-Progress presentation. Frames the remaining pr
 - [ ] AI-generated text with prompt examples: AI use cases for notes → outline → draft — three prompt strategies with context notes (~200 words)
 - [ ] Curated link: how to write from notes — a practical guide for research-based documents (~5–8 min)
 
-### Page 4: Navigating Disagreement
+### Page 5: Navigating Disagreement
 - [ ] AI-generated text: why this week will surface disagreements and why how you handle them now matters (~150 words)
 - [ ] AI-generated text: disagreeing productively with teammates — types of production-phase disagreement, how to raise a concern while protecting the relationship (~200 words)
 - [ ] AI-generated text: when employer direction feels wrong — when to defer vs. push back gracefully, connecting to Direction Check feedback (~200 words)
 - [ ] Curated link: navigating difficult conversations at work (article or short video, ~5 min)
 
-### Page 5: Formatting Professional Documents
+### Page 6: Formatting Professional Documents
 - [ ] AI-generated text: why formatting matters from the start — visual hierarchy, team consistency, credibility; rubric connection (~150 words)
 - [ ] AI-generated text: practical standards — headings and hierarchy, white space, tables and charts, callout boxes, terminology and style consistency (~250 words)
 - [ ] Checklist: formatting reference for use while drafting and reviewing (~20 items)
 - [ ] Curated link: professional document design principles (~5 min)
 
-### Page 6: Reflection #2 Prompt
+### Page 7: Reflection #2 Prompt
 - [ ] AI-generated text: why reflection at this moment — closing the Discovery phase with lived experience (~150 words)
 - [ ] AI-generated text: what Reflection #2 is looking for — depth and honesty over framework demonstration (~200 words)
 - [ ] AI-generated text with prompt questions: DEAL — Describe stage prompt (~150 words)
@@ -175,7 +198,7 @@ Bridges to Week 7 — the Work-in-Progress presentation. Frames the remaining pr
 - [ ] AI-generated text with prompt examples: AI-as-Socratic-partner guidance — three prompt strategies for deepening the Examine stage (~200 words)
 - [ ] AI-generated text: submission requirements — AI disclosure, non-use statement, length expectations, Riipen platform (~100 words)
 
-### Page 7: What's Next
+### Page 8: What's Next
 - [ ] AI-generated text: what's coming in Week 7 — WIP presentation, drafts go from private to visible, use remaining time to get your section to a presentable state (~150 words)
 - [ ] AI-generated text: how to define "presentable" — rough draft with structure vs. polished fragments; what the WIP is actually evaluating (~100 words)
 

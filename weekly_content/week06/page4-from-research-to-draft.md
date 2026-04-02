@@ -1,6 +1,6 @@
 ---
 week: 6
-page: 3
+page: 4
 title: From research to draft
 created: 2026-04-01
 last_updated: 2026-04-02
