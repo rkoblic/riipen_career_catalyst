@@ -11,15 +11,11 @@ status: draft
 
 This is the week where your project direction gets confirmed, or redirected. Both outcomes are normal, and both are professional.
 
-Everything this week builds toward one event: the Direction Check. This is your first time presenting your own work to the employer and hearing their direct feedback on your approach.
+Everything this week builds toward one event: the Direction Check, a 30-minute meeting with your employer. They've already received your Context Analysis & Project Plan. This isn't a formal presentation with slides. It's a structured conversation where you walk the employer through your thinking, hear their reaction, and find out whether your approach holds up or needs to change before you commit to production.
 
-Before the meeting, you'll work through guidance on presenting for validation rather than performance, handling scope shifts and difficult conversations, and preparing effectively. Your team will review any available feedback on your earlier submission, assign talking points, and confirm logistics with the employer.
+Before the meeting, you'll work through guidance on how to run this kind of document-based discussion, how to handle scope shifts and difficult conversations, and how to prepare effectively. During the meeting, you'll highlight your key findings and proposed approach, then hear the employer's perspective. After the meeting, you'll debrief as a team, write a Direction Check Summary, and revise your project plan based on the feedback you received.
 
-During the meeting, you'll present your key findings and proposed approach, then hear the employer's perspective on whether you're headed in the right direction.
-
-After the meeting, you'll debrief as a team, write a Direction Check Summary documenting what was said and what changes, and revise your project plan based on the feedback you received.
-
-[VIDEO: Your first presentation to a professional stakeholder]
+[VIDEO: Presenting for feedback, not approval]
 
 ---
 

@@ -329,6 +329,12 @@ These principles are established in the development plan process. During content
 
 ## AI Guidance Principles
 
+**Before writing any AI-related content, consult `guides/ai-arc.md`.** The AI arc document maps every AI skill, prompt strategy, and literacy topic across the 15-week course. Use it to:
+- Check what AI concepts learners have already encountered (don't re-teach what's been covered)
+- Identify what's new this week (introduce it properly, don't assume learners know it)
+- Ensure prompt strategies build on what came before (don't hand learners a prompt for a technique they haven't learned yet)
+- Verify that the accountability mechanism for this week's AI use is clear
+
 When writing learner-facing AI guidance, follow these principles:
 
 1. **AI for learning, primary sources for facts.** Encourage learners to use AI to understand unfamiliar domains: have a conversation, ask it to explain an industry, clarify terminology. For facts about specific organizations, people, or recent events, direct learners to primary sources (company websites, LinkedIn, news). Verification takes as long as just looking it up.
@@ -446,7 +452,7 @@ The design doc is your source material, not your script. Here's what to pull fro
 
 For each week:
 
-1. **Read the development plan and design doc together.** Understand the week's architecture before writing anything.
+1. **Read the development plan, design doc, and AI arc together.** Understand the week's architecture before writing anything. Check `guides/ai-arc.md` for what AI skills have been introduced in prior weeks, what's new this week, and what the accountability mechanism is.
 2. **Produce pages in order.** Start with the Overview, then work through the content pieces as numbered. This ensures forward references are intentional.
 3. **Write each page file completely** before moving to the next. Include all sub-elements specified in the development plan. Include YAML frontmatter with `week`, `page`, `title`, `created`, `last_updated`, and `status` fields.
 4. **Write video scripts as separate files** as you encounter them in the page flow. Include YAML frontmatter with `type: video-script`.

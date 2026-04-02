@@ -20,13 +20,13 @@ competencies:
 
 ## Running the meeting
 
-You own this meeting. You scheduled it, you sent the agenda, and you open it. Welcome everyone, thank them for joining, and start with introductions if there's anyone new on the call. Then set the frame for the conversation: "We're going to walk through our key findings and proposed approach, and we'd love your feedback on whether we're headed in the right direction."
+You own this meeting. You scheduled it, you sent the agenda, and you open it. Welcome everyone, thank them for joining, and start with introductions if there's anyone new on the call. Then set the frame: "You've read our Context Analysis and Project Plan. We'd like to highlight a few key areas and get your feedback on whether we're headed in the right direction."
 
 Follow the structure your team agreed on. The person presenting should focus on being clear and concise. The person taking notes should capture specific language, not just general impressions. If the employer uses a phrase like "what really matters to us is..." or "the one thing I'd push back on is...", write that down verbatim. You'll need it later.
 
-Keep an eye on time. If the first fifteen minutes of presentation stretches to twenty-five, you're eating into the feedback time that makes this meeting valuable. Better to cut your presentation short and leave more room for conversation.
+Keep an eye on time. You have 30 minutes. If your highlights stretch past 10 minutes, you're eating into the feedback time that makes this meeting valuable. Better to cut your highlights short and leave more room for conversation.
 
-After your presentation, invite the employer to share their perspective. Something like: "We've read the brief and are excited to be working on this with you. We'd love to hear your reaction to the approach, and especially whether the priorities we've identified match what matters most to your team." Then listen.
+After your highlights, transition to feedback with a specific question, not a vague one. "We'd love to hear your reaction, and especially whether the priorities we've identified match what matters most to your team" is a starting point. Then listen.
 
 ---
 

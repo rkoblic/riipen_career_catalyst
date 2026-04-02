@@ -4,16 +4,16 @@ page: 1
 title: Week Overview
 type: video-script
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 status: draft
 ---
 
 # Video script: Presenting for feedback, not approval
 
-Most people prepare for stakeholder meetings by trying to make their work look as polished as possible. In professional practice, that instinct can actually backfire. A presentation that looks finished discourages the exact feedback you need. The client assumes you've already decided, and they hold back the concerns that would have helped you course-correct.
+The employer has already read your Context Analysis and Project Plan. They have the document. So this meeting isn't about walking them through information they already have. It's about discussing your thinking.
 
-The Direction Check works differently. You're presenting your approach while there's still time to change it. The goal is to surface problems, not to impress. That means leading with your reasoning, naming where you're uncertain, and asking specific questions rather than waiting for general reactions.
+That changes what you should prepare for. You're not building a presentation. You're preparing for a conversation where the employer reacts to your approach, asks why you made the choices you made, and tells you what they see differently. The value of this meeting is entirely in that exchange.
 
-The teams that get the most out of these meetings are the ones that make it easy for the employer to push back. If the employer redirects your approach, that's the meeting doing its job. You'd rather adjust now than discover many weeks into production that you built on the wrong assumptions.
+The teams that waste this meeting are the ones that spend 25 of their 30 minutes summarizing a document the employer already read. The teams that use it well spend most of their time on the parts where they want the employer's input: the areas where they're uncertain, the assumptions they're making, and the tradeoffs they chose.
 
-The hardest skill here is listening without defending. When someone questions your recommendation, the instinct is to explain why you made that choice. Resist that. Ask what they're seeing that you're not. That's where the most valuable information lives.
+Your job going in is to know your document well enough to talk about it without reading from it, and to have specific questions ready for the parts where the employer's perspective matters most.

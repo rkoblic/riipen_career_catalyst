@@ -108,7 +108,11 @@ Uncertainty is not a weakness in professional analysis. Pretending to be certain
 
 ## Using AI for research
 
-AI can be a legitimate tool for research work, and this week is a good opportunity to use it thoughtfully.
+AI can be a legitimate tool for research work, and this week is a good opportunity to use it thoughtfully. But it's worth being clear about what AI does and doesn't do for your research quality.
+
+AI makes skilled researchers more efficient. It helps you scan a landscape faster, identify patterns across sources, and organize what you've found. But it doesn't make unskilled researchers skilled. If you don't know what a strong competitive analysis looks like, AI will produce something that *looks* like one, which is actually more dangerous than having nothing, because it gives you false confidence in work you can't evaluate or defend.
+
+The research skills you've been building over the past few weeks (identifying what matters, reasoning from evidence, connecting findings to implications) are what make AI useful here. Without those skills, AI output is just plausible-sounding text. With them, AI output is raw material you can evaluate, shape, and build on.
 
 ### Where AI adds value
 

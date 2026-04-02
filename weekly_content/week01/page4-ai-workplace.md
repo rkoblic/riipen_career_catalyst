@@ -34,6 +34,33 @@ Pick one of these to get a fuller picture of how AI is showing up in professiona
 
 ---
 
+## How AI actually works (the 30-second version)
+
+AI tools like ChatGPT, Claude, and Gemini are language models. They generate text by predicting what words are most likely to come next, based on patterns in the massive amount of text they were trained on. They're extremely good at producing text that *sounds* right. They are not reasoning, understanding, or looking things up.
+
+This matters because it explains most of AI's strengths and limitations at once. AI is great at drafting, organizing, brainstorming, and summarizing because those tasks rely on language patterns. AI is unreliable for facts, citations, and recent information because it isn't retrieving knowledge. It's generating plausible-sounding text. When AI gives you a statistic, it's not looking it up. It's producing the kind of number that typically appears in that kind of sentence.
+
+You don't need to understand the technical details. But keeping this mental model in mind ("pattern-matching, not thinking") will help you use AI well and spot when it's failing.
+
+---
+
+## Data privacy and confidentiality
+
+You're working on real projects with real employers. Before you put any project-related information into an AI tool, think about what you're sharing.
+
+Most AI tools process your input on external servers. Anything you paste into ChatGPT, Claude, or similar tools could be stored, used for training, or accessed in ways you don't control. For general research and publicly available information, this is fine. For confidential business data, internal documents, or sensitive employer information, it's a real concern.
+
+**Ground rules for this course:**
+
+- **Public information is fine.** Using AI to research an industry, understand a framework, or brainstorm approaches is always acceptable.
+- **Your own work is fine.** Pasting your draft, your outline, or your team's research notes into AI for feedback is acceptable.
+- **Employer-specific confidential information requires caution.** If your employer shared internal data, financial details, unreleased plans, or other information they wouldn't want public, don't paste it into an AI tool. Paraphrase or anonymize the details instead.
+- **When in doubt, ask your employer.** Some organizations have specific AI policies. If you're unsure whether something is shareable, ask during your next meeting.
+
+This is a professional norm, not just a course rule. In any consulting or client-facing role, you'd face the same question about what client information you can and can't put into third-party tools.
+
+---
+
 ## This course's AI policy
 
 This course treats AI as a professional tool, not a shortcut. You're expected to learn how to use it well, which means using it in ways that strengthen your thinking rather than replace it.

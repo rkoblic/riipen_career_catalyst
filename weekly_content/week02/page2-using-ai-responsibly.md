@@ -94,4 +94,34 @@ AI will always give you an answer. The question is whether that answer is any go
 
 The standard for this course is straightforward: if you can't explain and defend something AI helped you produce, it shouldn't be in your work.
 
+---
+
+## Bias in AI output
+
+AI generates text based on patterns in its training data, and that training data reflects the biases of the world that produced it. This means AI output can reinforce stereotypes, overrepresent dominant perspectives, and underrepresent marginalized communities.
+
+This matters for your project work. If you're researching a community, AI may reflect assumptions about that community that don't match reality. If you're analyzing an audience, AI may default to demographic generalizations that flatten the people you're trying to understand. If you're developing recommendations, AI may favor approaches that worked for well-resourced organizations and miss what's relevant for smaller or differently structured ones.
+
+A few things to watch for:
+
+- **Default assumptions about who the "user" or "audience" is.** AI often assumes a mainstream, English-speaking, urban, relatively affluent audience unless told otherwise. If your project serves a different population, you need to specify that explicitly and check whether the output actually reflects their context.
+- **Missing perspectives.** AI may not surface issues that matter to specific communities but don't appear frequently in mainstream sources. If your research feels like it's missing something, it probably is.
+- **Stereotyping in examples and recommendations.** AI-generated examples about specific demographics, industries, or regions may rely on stereotypes rather than evidence. Treat these the same way you'd treat any unsupported claim: verify or remove.
+
+The fix isn't to avoid AI for these tasks. It's to treat AI output about people and communities with the same critical eye you'd apply to any single source. Cross-reference against primary sources, local data, and direct input from the people your project is meant to serve.
+
+---
+
+## When not to use AI
+
+AI is permitted for most course activities, but "permitted" doesn't mean "helpful." There are times when using AI is counterproductive even when it's allowed.
+
+**When you're building a skill for the first time.** If you've never written a professional email, having AI draft one for you means you never learn how. Draft it yourself first, struggle with the phrasing, and then use AI to refine. The struggle is where the learning happens.
+
+**When AI would shortcut the thinking.** Some tasks are designed to develop your judgment: weighing tradeoffs, making decisions under uncertainty, evaluating what matters most. If you ask AI to make those calls for you, you get an answer but you don't develop the skill. You'll know this is happening when you accept AI's suggestion without forming your own opinion first.
+
+**When the value is in the process, not the output.** Team discussions, reflection writing, and synthesis meetings are valuable because of what happens in your head during the process. An AI-generated team charter is a document. A team-negotiated charter is a working agreement that everyone understands and commits to because they shaped it.
+
+None of this means AI is bad for these tasks. It means you should use it at the right stage: after you've done the thinking, not instead of it.
+
 [INTERACTIVE: Critical evaluation exercise — spot the problems in an AI-generated research summary]
