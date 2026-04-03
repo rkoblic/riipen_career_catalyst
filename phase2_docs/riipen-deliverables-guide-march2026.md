@@ -141,7 +141,7 @@ Students examine their approach to ambiguity, how they have taken initiative, an
 
 ### Week 7: Work-in-Progress Summary [Checkpoint]
 
-*Phase: Development | Type: Team | Employer: Progress Review #1 (45 min)*
+*Phase: Development | Type: Team | Employer: Check-In #1 (30 min)*
 
 Teams prepare a summary of their work-in-progress ahead of Progress Review #1. The summary is a preparation tool for the team, not a document shared with the employer in advance — it forces students to organize their thinking so they can communicate progress clearly in the live meeting. Students use it to drive the employer conversation: presenting progress, surfacing questions, and getting real-time verbal feedback. Employer feedback is received during the meeting, not as written comments on this document.
 
@@ -167,7 +167,7 @@ Students evaluate their teammates on reliability, collaborative contribution, co
 
 ### Week 9: Draft Deliverable [Checkpoint]
 
-*Phase: Development | Type: Team | Employer: Progress Review #2 (45 min)*
+*Phase: Development | Type: Team | Employer: Check-In #2 (30 min)*
 
 Teams submit a draft of their primary deliverable. This checkpoint precedes Progress Review #2 and gives the employer substantive work to respond to. The draft demonstrates meaningful progress and allows identification of gaps before the refinement phase begins.
 
@@ -193,7 +193,7 @@ Students examine a specific moment involving feedback or collaboration — recei
 
 ### Week 11: Near-Final Package [Checkpoint]
 
-*Phase: Refinement | Type: Team | Employer: Progress Review #3 (45 min)*
+*Phase: Refinement | Type: Team | Employer: Near-Final Review (30 min)*
 
 Teams submit a near-final version of all deliverables for Progress Review #3 with the employer. This is an important opportunity for substantive employer feedback as deliverables approach completion. The package should be polished enough that final revisions are refinements, not major restructuring.
 
@@ -229,13 +229,13 @@ Students examine the gap between what was planned at the start of the course and
 
 ### Week 13: Final Deliverables [GRADED]
 
-*Phase: Refinement | Type: Team | Weight: ~30% | Employer: Progress Review #4 / Final Review (45 min)*
+*Phase: Refinement | Type: Team | Weight: ~30% | Employer: Final Check-In (30 min, optional)*
 
 The culmination of project work: all deliverables promised to the employer, polished and complete. This package represents the applied skill, work quality, and ability to produce professional output that the course is designed to develop. Students must submit a Change Log documenting how they responded to feedback throughout the project — what feedback they received, how they addressed it, or their rationale for a different approach.
 
 **Format:** Complete deliverable package in final form + Change Log documenting feedback response
 
-**Rubric:** Deliverable Quality (30%), Analytical Rigor (25%), Actionability (20%), Communication (15%), Responsiveness to Feedback (10%)
+**Rubric:** Deliverable Quality (25%), Analytical Rigor (25%), Actionability (25%), Communication (15%), Responsiveness to Feedback (10%)
 
 **Competencies:** Communication (written clarity), Critical Thinking (all subskills), Professionalism (quality and attention to detail, feedback reception)
 
@@ -249,7 +249,7 @@ The culmination of project work: all deliverables promised to the employer, poli
 
 **Format:** Live presentation (20–30 minutes) with Q&A; slides submitted in advance
 
-**Rubric:** Content & Synthesis, Delivery & Presence, Visual Communication, Q&A Handling
+**Rubric:** Content & Synthesis (30%), Delivery & Presence (25%), Q&A Handling (25%), Visual Communication (20%)
 
 **Competencies:** Communication (oral presentation), Career & Self-Development (career articulation), Professionalism (quality and attention to detail), Teamwork (shared accountability)
 
@@ -287,7 +287,7 @@ Graded deliverables roll up into four evidence categories that comprise the fina
 |---|---|---|
 | **Project Deliverables** | 40% | Context Analysis & Project Plan (~10%), Final Deliverables (~30%) |
 | **Reflection Portfolio** | 25% | Reflection #1 (~5%), Reflection #2 (~5%), Reflection #3 (~5%), Reflection #4 (~5%), Reflection #5 (~5%) |
-| **Professional Engagement** | 20% | Peer Evaluation #1 (~10%), Peer Evaluation #2 (~10%) |
+| **Professional Engagement** | 20% | Peer Evaluation (50%), Employer Feedback (25%), Instructor Observation (25%) |
 | **Final Presentation** | 15% | Final Presentation (Week 15) |
 
 **Summary:** 11 graded deliverables contributing to the final grade; 8 checkpoints required for completion. Individual deliverables (reflections, peer evaluations) ensure personal accountability within the team context.

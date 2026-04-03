@@ -68,13 +68,13 @@ This means Parts 3 and 4 are only as strong as the research in Part 2, and Part 
 
 [LINKED RESOURCE: Context Analysis & Project Plan rubric]
 
-The deliverable is assessed on five dimensions:
+The deliverable is assessed on five dimensions, equally weighted at 20% each:
 
-- **Communication quality (20%).** Clarity of writing, logical organization, professional tone. Does the document read well?
-- **Analytical rigor (25%).** Quality of research, strength of evidence, soundness of reasoning. Did you analyze or just summarize?
-- **Actionability (20%).** Are the recommendations specific and feasible? Could someone act on this plan?
-- **Professionalism (15%).** Presentation quality, attention to detail, consistency of formatting and voice across sections.
-- **Project-specific dimension (20%).** An assessment dimension tailored to the specific analytical work your project requires. This dimension recognizes that a team analyzing youth banking trends faces different analytical challenges than a team examining supply chain logistics.
+- **Research quality.** Are your findings specific to this project, grounded in cited sources, and presented with enough detail to be useful? Did you name what you still don't know?
+- **Evidence-based reasoning.** Did you support your claims with evidence, or just assert them? Is there a visible chain of logic from what you found to what you concluded?
+- **Strategic implications.** Does your analysis connect to a clear point of view on the project? Are your assumptions named? Do your recommendations follow from your research?
+- **Planning quality.** Is the project plan realistic and specific? Does it reflect deliberate scoping decisions, named risks, and a timeline your team can actually meet?
+- **Document quality.** Does the document read as a coherent whole? Is the writing clear, professional, and consistent across sections?
 
 The deliverable is assessed on the quality of your research and reasoning. If the employer later redirects your approach at the Direction Check, that doesn't reflect poorly on this submission. Pivots based on employer feedback are expected and are evidence of responsiveness, not failure.
 
