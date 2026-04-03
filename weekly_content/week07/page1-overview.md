@@ -19,9 +19,7 @@ Check-In #1 is not a formal presentation. There's no slide deck, no rehearsed na
 
 ## What's due this week
 
-**Work-in-Progress Summary** (team submission, completion-based checkpoint)
-
-Your team submits a 1–2 page summary of your current project status before Check-In #1. This is a preparation tool for your team — the employer does not review it. Use it to organize your thinking and develop the specific questions you'll bring to the meeting. Completion criteria require an honest assessment of progress and at least one specific feedback need; a summary that says everything is going well without identifying questions does not meet the standard.
+The **Work-in-Progress Summary** is a completion-based team checkpoint, submitted before Check-In #1. It's a preparation tool for your team, not a document the employer reads. The Check-In #1 page covers what goes in it and what the completion criteria require.
 
 ---
 

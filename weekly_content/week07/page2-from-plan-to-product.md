@@ -22,11 +22,29 @@ The video above walks through two concrete before/after examples showing the dif
 
 **Academic vs. professional writing: key distinctions**
 
-- Academic writing builds to a conclusion; professional writing leads with it. Put the main finding or recommendation at the top, not the bottom.
-- Academic writing hedges to show awareness of complexity ("it has been observed that," "there appears to be"). Professional writing states findings directly. If you're not sure, say why, but don't hedge as a default.
-- Academic writing demonstrates the research process. Professional writing presents only what the reader needs to act. Cut the methodology summary unless the client specifically asked for it.
-- Academic writing uses passive voice to appear objective. Professional writing uses active voice because it's clearer and faster to read. "We recommend" is more direct and more credible than "it is recommended."
-- Academic writing assumes a reader who will work through the argument. Professional writing assumes a reader who will skim first and read only what's worth their time. Headers, short paragraphs, and clear section labels are not stylistic choices. They're how professional documents get read.
+| Academic | Professional |
+|---|---|
+| Builds to a conclusion | Leads with it — main finding or recommendation at the top |
+| Hedges to show awareness of complexity ("it has been observed that") | States findings directly; if uncertain, says why rather than hedging by default |
+| Demonstrates the research process | Presents only what the reader needs to act; cut the methodology summary unless asked |
+| Uses passive voice to appear objective ("it is recommended") | Uses active voice because it's clearer ("we recommend") |
+| Assumes a reader who will work through the argument | Assumes a reader who will skim first; headers and short paragraphs are not stylistic choices |
+
+---
+
+## Applying this to your draft
+
+Knowing the distinctions is one thing. Sitting down with a draft you've already written is another. Four concrete revision moves:
+
+1. **Find your main claim in each section.** If it's not in the first paragraph, move it there. Everything else becomes evidence or elaboration, not setup.
+
+2. **Flag every hedge phrase.** Search for "appears to," "seems to," "it may be argued," "it is evident that," and similar constructions. Either cut them or replace them with a direct statement. If you're genuinely uncertain, say why specifically — don't hedge as a default.
+
+3. **Convert passive to active.** Look for sentences where something "was found," "has been determined," or "is recommended." Rewrite them so your team is the subject: "we found," "we recommend." It's shorter, clearer, and more credible.
+
+4. **Ask what the reader should do with each paragraph.** If the answer isn't obvious, the paragraph is missing its interpretive move. Add a sentence that connects the evidence to the point: "This means...," "The implication for your team is...," "Based on this, we recommend..."
+
+These four moves will close most of the gap between a first draft and a professional document.
 
 ---
 
@@ -44,4 +62,4 @@ The formatting standards from the previous production module are the foundation 
 
 ---
 
-[CURATED LINK: "Academic Writing vs. Business Writing" (article, ~5 min) — Grammarly Business — https://www.grammarly.com/business/learn/academic-writing-vs-business-writing/] A side-by-side comparison of academic and professional writing conventions with concrete examples. Useful for identifying habits from academic writing that don't translate to a client context, and for calibrating the register shift your deliverable requires.
+[CURATED LINK: "The Difference Between Academic and Professional Writing: A Helpful Guide" (article, ~8 min) — Penn LPS Online, University of Pennsylvania — https://lpsonline.sas.upenn.edu/features/difference-between-academic-and-professional-writing-helpful-guide] A thorough guide to how academic and professional writing differ in purpose, audience, and approach. Useful for understanding the full register shift your deliverable requires, not just individual stylistic habits.
