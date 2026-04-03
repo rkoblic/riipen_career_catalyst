@@ -49,7 +49,4 @@ A useful starting prompt: "Here's my data: [paste data]. I want to show [specifi
 
 ---
 
-[CURATED LINK: Data presentation in professional documents]
-- Option 1: "Storytelling with Data — Let's Practice" — Storytelling with Data (blog) — https://www.storytellingwithdata.com/blog — Well-known data visualization practice blog by Cole Nussbaumer Knaflic; covers chart choice, decluttering, and data storytelling through practical examples; free, no login required.
-- Option 2: "Data Visualization 101: How to Choose the Right Chart or Graph for Your Data" — HubSpot — https://blog.hubspot.com/marketing/data-visualization — Accessible guide to matching data types to chart types, with clear decision criteria; free, no paywall.
-- Option 3: "Introduction to Data Visualization" — University of Utah / Tableau Public — https://www.tableau.com/learn/articles/data-visualization — Stable, well-maintained resource covering core data visualization principles and format selection; free, no login required.
+[CURATED LINK: "Data Visualization 101: How to Choose the Right Chart or Graph for Your Data" (article, ~6 min) — HubSpot — https://blog.hubspot.com/marketing/data-visualization] A clear guide to matching data types to the right chart format, with decision criteria for when to use tables, bar charts, line charts, and other formats. Useful reference for the format decisions covered in this module.

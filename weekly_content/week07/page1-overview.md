@@ -36,8 +36,3 @@ Your team submits a 1–2 page summary of your current project status before Che
 7. Post-meeting debrief immediately after — capture what was heard while it's fresh.
 8. Continue project production, incorporating any direction from Check-In #1 where possible.
 
----
-
-## What done looks like
-
-The Work-in-Progress Summary is due before Check-In #1 — the meeting is the accountability mechanism for your production work so far. A strong summary doesn't need to report perfect progress; it needs to be honest about where you are and specific about what you need from the employer. Teams that have been candid in their summary will have a productive meeting. Teams that walk in with vague answers and no questions will have a hard one.

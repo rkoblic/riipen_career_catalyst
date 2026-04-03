@@ -34,11 +34,19 @@ When reading a draft section, run it through four lenses:
 
 **Clarity.** Can a reader who doesn't know the project follow the logic? Where do you have to work to understand what's being argued?
 
+*What a clarity problem looks like: A process improvement team's section on workflow bottlenecks opens mid-analysis, assuming the reader knows which workflow is being discussed and why it matters. A reader unfamiliar with the project can't follow it from the first sentence.*
+
 **Argument structure.** Does the section have a clear claim? Does each piece of evidence connect to that claim explicitly, or does the reader have to make the connection themselves?
+
+*What an argument structure problem looks like: A social media strategy section presents three statistics about competitor engagement rates, then moves directly to a recommendation. The connection between the data and the recommendation is never stated. The reader has to infer why those numbers justify the approach.*
 
 **Evidence quality.** Is the evidence specific and credible? Generic observations ("many companies face this challenge") don't support recommendations. Named sources, specific figures, and concrete examples do.
 
-**Tone.** Is the language appropriate for a client audience? Watch for language that sounds like a research paper when it should sound like a professional report — and for language that's too casual or opinionated for a client context.
+*What an evidence quality problem looks like: A community outreach section recommends a peer ambassador program based on the claim that "similar programs have shown positive results." No programs are named, no results are cited. The recommendation reads as a guess, not a finding.*
+
+**Tone.** Is the language appropriate for a client audience? Watch for language that sounds like a research paper when it should sound like a professional report, and for language that's too casual or opinionated for a client context.
+
+*What a tone problem looks like: A process improvement section concludes that "the organization's approach to quality control is frankly outdated and reflects a lack of investment in modern practices." The assessment may be accurate, but the language is too blunt for a professional deliverable. A client-facing version names the gap and connects it to a consequence, without editorializing.*
 
 ---
 
@@ -58,7 +66,4 @@ The goal isn't to rewrite your teammate's section — it's to give them enough t
 
 ---
 
-[CURATED LINK: Giving effective feedback on written work]
-- Option 1: "Giving Feedback on Writing" — MIT OpenCourseWare / MIT Writing and Communication Center — https://cmsw.mit.edu/writing-and-communication-center/resources/writers/giving-feedback/ — Practical guidance from a university writing center on how to give useful peer feedback; distinguishes global (structural) from local (language) concerns.
-- Option 2: "How to Give Feedback on Writing" — Cult of Pedagogy — https://www.cultofpedagogy.com/giving-feedback-on-writing/ — Clear, concrete guide to giving written feedback that helps rather than overwhelms; free, no login required.
-- Option 3: "The Right Way to Give Feedback at Work" — Harvard Business Review — https://hbr.org/2019/10/the-feedback-fallacy — HBR article on what makes feedback effective; grounded in professional workplace context rather than academic peer review.
+[CURATED LINK: "Giving Feedback on Writing" (resource, ~5 min) — MIT Writing and Communication Center — https://cmsw.mit.edu/writing-and-communication-center/resources/writers/giving-feedback/] Practical guidance on how to give useful feedback on written work, distinguishing global (structural) concerns from local (language) ones. Directly aligned with the structural-first approach covered in this module.

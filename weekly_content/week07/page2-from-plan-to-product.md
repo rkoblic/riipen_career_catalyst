@@ -20,13 +20,13 @@ Professional documents aren't graded for effort or thoroughness — they're eval
 
 The video above walks through two concrete before/after examples showing the difference between academic-style and professional-style writing. The key moves are the same regardless of project type.
 
-**Academic vs. professional writing — the key distinctions:**
+**Academic vs. professional writing: key distinctions**
 
 - Academic writing builds to a conclusion; professional writing leads with it. Put the main finding or recommendation at the top, not the bottom.
-- Academic writing hedges to show awareness of complexity ("it has been observed that," "there appears to be"). Professional writing states findings directly. If you're not sure, say why — but don't hedge as a default.
+- Academic writing hedges to show awareness of complexity ("it has been observed that," "there appears to be"). Professional writing states findings directly. If you're not sure, say why, but don't hedge as a default.
 - Academic writing demonstrates the research process. Professional writing presents only what the reader needs to act. Cut the methodology summary unless the client specifically asked for it.
 - Academic writing uses passive voice to appear objective. Professional writing uses active voice because it's clearer and faster to read. "We recommend" is more direct and more credible than "it is recommended."
-- Academic writing assumes a reader who will work through the argument. Professional writing assumes a reader who will skim first and read only what's worth their time. Headers, short paragraphs, and clear section labels are not stylistic choices — they're how professional documents get read.
+- Academic writing assumes a reader who will work through the argument. Professional writing assumes a reader who will skim first and read only what's worth their time. Headers, short paragraphs, and clear section labels are not stylistic choices. They're how professional documents get read.
 
 ---
 
@@ -38,11 +38,10 @@ A complete document contains all the required sections and covers all the necess
 
 In a client context, an unpolished document signals something specific about the team that produced it: that the work was assembled rather than integrated. Readers don't experience the effort that went into individual sections — they experience the document as a whole. Inconsistent formatting, section-by-section writing that doesn't flow, and missing transitions all communicate the same thing: this wasn't edited for the reader, it was submitted for the deadline.
 
-The formatting standards from the previous production module are the foundation of a polished document. Consistency in heading hierarchy, white space, terminology, and citation style aren't aesthetic preferences — they're what separates a document that reads as professional from one that reads as a collection of student work.
+*Example: A community outreach team submits a report where the research findings section uses H2 headings and bullet points, the recommendations section uses H3 headings and dense paragraphs, and the executive summary uses a different font size. Each section is complete — the content is there. But the document reads as three people who never looked at each other's work. That's a polish problem, not a content problem, and it's entirely preventable with a formatting pass before submission.*
+
+The formatting standards from the previous production module are the foundation of a polished document. Consistency in heading hierarchy, white space, terminology, and citation style aren't aesthetic preferences — they're what separates a document that reads as professional from one that reads as assembled pieces rather than an integrated whole.
 
 ---
 
-[CURATED LINK: Professional vs. academic writing conventions]
-- Option 1: "Business Writing vs. Academic Writing" — Grammarly Business — https://www.grammarly.com/business/learn/academic-writing-vs-business-writing/ — Clear, accessible side-by-side comparison of the two styles with concrete examples; free, no login required.
-- Option 2: "Professional Writing" (resource index) — Purdue OWL — https://owl.purdue.edu/owl/subject_specific_writing/professional_writing/index.html — Authoritative academic writing center; covers audience-centered writing, conciseness, and professional document conventions across multiple sub-pages.
-- Option 3: "How to Write for Business" — Harvard Business Review — https://hbr.org/2021/07/how-to-write-better-at-work — HBR article on the habits that distinguish effective professional writing from academic or bureaucratic styles; evergreen and practical.
+[CURATED LINK: "Academic Writing vs. Business Writing" (article, ~5 min) — Grammarly Business — https://www.grammarly.com/business/learn/academic-writing-vs-business-writing/] A side-by-side comparison of academic and professional writing conventions with concrete examples. Useful for identifying habits from academic writing that don't translate to a client context, and for calibrating the register shift your deliverable requires.

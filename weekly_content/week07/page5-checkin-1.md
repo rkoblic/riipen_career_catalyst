@@ -20,7 +20,7 @@ competencies:
 
 # Check-In #1
 
-Check-In #1 is the first employer meeting in the Development phase — a different kind of employer interaction than the Direction Check. You're not presenting a polished summary of progress. You're bringing specific questions and decision points to someone who can help you move the work forward. The preparation, the meeting itself, and the debrief that follows are all part of the same professional cycle.
+Check-In #1 is the first employer meeting in the Development phase, and a different kind of employer interaction than the Direction Check. You're not presenting a polished summary of progress. You're bringing specific questions and decision points to someone who can help you move the work forward. The preparation, the meeting itself, and the debrief that follows are all part of the same professional cycle.
 
 ---
 
@@ -28,11 +28,11 @@ Check-In #1 is the first employer meeting in the Development phase — a differe
 
 ### Receiving feedback well
 
-In professional work, receiving feedback on something you've spent weeks building is genuinely difficult. The instinct when someone evaluates your work is to explain, defend, or deflect — to manage how you're being perceived rather than to hear what's being said. That instinct makes sense. It's also counterproductive.
+In professional work, receiving feedback on something you've spent weeks building is genuinely difficult. The instinct when someone evaluates your work is to explain, defend, or deflect: to manage how you're being perceived rather than to hear what's being said. That instinct makes sense. It's also counterproductive.
 
 The problem with a defensive response isn't that it's rude. It's that it closes off the information you need. An employer who says "this framing doesn't quite match what we were looking for" is giving you a course correction. If your response is to justify the framing you chose, you may leave the meeting having technically heard the feedback but not actually having received it.
 
-The protocol below won't eliminate the discomfort — but it creates a structure that keeps you listening when the instinct is to argue.
+The protocol below won't eliminate the discomfort, but it creates a structure that keeps you listening when the instinct is to argue.
 
 **The reception protocol: Listen → Clarify → Acknowledge → Decide Later**
 
@@ -63,7 +63,7 @@ Save this for use during and after Check-In #1.
 
 The Work-in-Progress Summary is a preparation tool for your team, not a document the employer reads. You submit it before Check-In #1 as a checkpoint — but its primary purpose is to force a clear-eyed look at where the project actually stands before you walk into the meeting. Teams that try to draft the WIP Summary and realize they can't answer the questions clearly are discovering a problem they needed to find. That discomfort is the point.
 
-The submission requirement exists because teams that haven't articulated their status in writing walk into employer meetings unprepared in ways that aren't obvious until the meeting goes badly. Writing it down — actually writing it, not just thinking through it — is what surfaces the vague answers and unresolved questions. Those are exactly what you want to bring to Check-In #1, not hide from it.
+The submission requirement exists because teams that haven't articulated their status in writing walk into employer meetings unprepared in ways that aren't obvious until the meeting goes badly. Writing it down (actually writing it, not just thinking through it) is what surfaces the vague answers and unresolved questions. Those are exactly what you want to bring to Check-In #1, not hide from it.
 
 #### What goes in the summary
 
@@ -95,7 +95,7 @@ AI cannot generate the substance of the summary. It doesn't know what your team 
 
 #### What a questions-based meeting is
 
-Check-In #1 is structured differently from the Direction Check. At the Direction Check, you were presenting a plan and receiving employer approval. Here, you're bringing the work you've built so far and asking the employer to help you move it forward. The employer isn't evaluating a presentation — they're acting as a resource.
+Check-In #1 is structured differently from the Direction Check. At the Direction Check, you were presenting a plan and receiving employer approval. Here, you're bringing the work you've built so far and asking the employer to help you move it forward. The employer isn't evaluating a presentation. They're acting as a resource.
 
 This means the meeting works best when your team drives the agenda. You know what the project needs. The brief status update at the start (five minutes, what's done and what's in progress) gives the employer context, but the bulk of the meeting belongs to your questions. A team that comes with three specific, well-considered questions will have a more useful hour than a team that comes with a detailed progress update and nothing to ask.
 
@@ -189,7 +189,7 @@ Starting this week and continuing through the end of the course, your team has a
 
 **Who owns what this week?** (Name specific tasks and owners for the coming week.)
 
-The Weekly Progress Check-In keeps your team's project plan a living document rather than a plan you made in week four and haven't looked at since. It also builds the contribution record that's directly relevant to peer evaluation — teams that check in consistently have clearer evidence of each member's contribution than teams that don't.
+The Weekly Progress Check-In keeps your team's project plan a living document rather than a plan you made during the Discovery phase and haven't looked at since. It also builds the contribution record that's directly relevant to peer evaluation — teams that check in consistently have clearer evidence of each member's contribution than teams that don't.
 
 ### AI guidance for the debrief
 
