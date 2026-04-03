@@ -10,12 +10,10 @@ status: draft
 
 # Video Script: From planning to production
 
-Up until now, the project has been mostly about figuring things out. What the employer actually needs, what the landscape looks like, what your team is going to produce and how. That work matters. But it's not the deliverable. This week, the deliverable work begins.
+The plan felt solid when it was a plan. Now that you have to write actual paragraphs, you'll discover the parts you understood less well than you thought.
 
-Your direction is confirmed. Your section is assigned. The question isn't what to do anymore — it's whether you can actually do it.
+That's not a sign the plan was bad. It's how production works in any professional project. Planning lets you hold decisions in the abstract. Writing forces them into the open. The moment you commit a direction to a page, every assumption you haven't tested becomes visible.
 
-Here's what typically happens in a first production week: people either stall because they're waiting to feel ready, or they dive in without a plan and end up with material that doesn't hold together. The four modules this week are designed to help you avoid both. They cover the specific moments where production breaks down — drafting without complete information, getting stuck between notes and prose, a teammate going in a direction that doesn't seem right, a document that starts to look inconsistent across sections.
+Most teams respond by drafting around the gaps, hoping they'll close on their own. The teams that handle this well do the opposite: they surface what's unclear early, name it specifically, and decide how to move before the gap compounds.
 
-Read them before you need them, not after.
-
-The other thing to know about this week: it's front-loaded for a reason. The upcoming Work-in-Progress presentation is the first time your employer sees where you are. Not a polished section — just structured, defensible progress on your assigned area. That presentation is the deadline this week's production work is building toward. Use the time.
+That's the shift production requires.

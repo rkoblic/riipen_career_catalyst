@@ -18,6 +18,8 @@ In professional work, production rarely starts with everything you need. The ski
 
 [VIDEO: Making progress under uncertainty]
 
+The video above walks through three scenarios showing what stalling looks like versus what moving forward looks like. The framework below is the reference version of the same distinctions.
+
 ---
 
 ## Three types of ambiguity (and why they require different responses)
