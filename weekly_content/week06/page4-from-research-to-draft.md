@@ -91,6 +91,5 @@ In all three cases, the intellectual work stays yours. AI helps you see structur
 
 ---
 
-## Going further
+[CURATED LINK: "Summary vs. Synthesis: What's the Difference?" (video, ~7 min) — Smekens Education — https://youtu.be/-OBeL7PVfJ8?si=GzjDc00pUx19NpxB] A clear explanation of the distinction between summarizing sources and synthesizing them — why simply restating what each source says produces a data dump, and how synthesis produces an argument. Directly addresses the stall point between research and drafting covered in this module.
 
-[https://youtu.be/-OBeL7PVfJ8?si=GzjDc00pUx19NpxB](https://youtu.be/-OBeL7PVfJ8?si=GzjDc00pUx19NpxB)

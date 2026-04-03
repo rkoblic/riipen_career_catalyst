@@ -34,17 +34,23 @@ What to do: targeted research to fill it, a specific clarifying question to a te
 
 What not to do: treat a missing piece of supporting evidence as a reason to stop drafting entirely. Most missing information is gap-filling, not structural. You can draft around it and return.
 
+*Example: Your process improvement team is writing the findings section and you can't locate the current error rate for the workflow you analyzed. That figure matters, but it doesn't change the direction of the section. Draft around it — write what you know, mark where the figure belongs with a placeholder, and flag it to your employer contact. The section moves forward.*
+
 **Unclear expectations**
 
 You have the material, but you're not certain what "done" looks like. This is usually a question about standard or direction, not about facts.
 
 What to do: go back to the project brief, the deliverable rubric, or the employer's framing from the Direction Check. Look for comparable examples — what did a strong version of this kind of section look like elsewhere? In most cases, unclear expectations are resolvable without asking anyone. If they're not, a specific question to your team ("I read the brief as asking for X — does that match your reading?") is better than a general one.
 
+*Example: Your social media team is writing the audience analysis section and you're not sure how detailed the persona descriptions should be — one paragraph each, or a full profile with demographics, behaviors, and content preferences? Check how the personas will be used later in the document. If they're feeding into a content strategy section, you need enough detail to justify specific content decisions. That question answers itself without asking anyone.*
+
 **Conflicting priorities**
 
 Different inputs — research findings, employer feedback, team assumptions — point in different directions, and you're not sure which one to follow.
 
 What to do: name the tension explicitly, to yourself and to your team. "The employer mentioned X in the Direction Check, but our research suggests Y — how do we want to handle that?" Most teams discover that naming the conflict is most of the work. Once it's on the table, deciding what to do is usually straightforward.
+
+*Example: Your community outreach team finds two things pointing in different directions — community members say the main barrier to participation is lack of awareness, but your secondary research on comparable programs suggests access (cost, transportation, timing) is usually the bigger factor. Name that tension to your team before drafting. If you can't resolve it with more research before the draft is due, acknowledge both findings and recommend the employer investigate which barrier is primary — that's a legitimate and honest conclusion.*
 
 ---
 
@@ -70,6 +76,6 @@ When you're genuinely blocked, the way you flag it matters. Be specific: "I'm wa
 
 ---
 
-## Going further
+[CURATED LINK: "How Well Do You Handle Ambiguity on a Project?" (article, ~8 min) — Blue Skies Consulting — https://blueskiesconsulting.com/how-well-do-you-handle-ambiguity-on-a-project/] A practical self-assessment walking through how professionals recognize and respond to different types of ambiguity in project work. Useful for understanding your own default response when clarity is missing — whether you tend to stall, move too quickly, or escalate when you don't need to.
 
-[How well do you handle ambiguity on a project?](https://blueskiesconsulting.com/how-well-do-you-handle-ambiguity-on-a-project/) — Blue Skies Consulting
+

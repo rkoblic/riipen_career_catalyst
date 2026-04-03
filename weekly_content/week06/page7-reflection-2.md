@@ -14,6 +14,16 @@ competencies:
 
 # Reflection #2
 
+The past several weeks gave you real material to work with: a Direction Check where the employer responded to your work, a transition into production with incomplete information, team decisions under pressure, moments where something didn't go the way you expected. That's not background context for this reflection — it's the point.
+
+Reflection is how experience becomes learning. Without it, the experiences you just had are just things that happened. You completed a Direction Check. You started drafting. The weeks passed. With reflection, those same experiences become a specific insight about how you work — how you respond when expectations are unclear, what you do when a teammate's approach diverges from yours, what you assumed going into the employer meeting and whether those assumptions held.
+
+The difference is the examination. Most people move from "what happened" to "what's next" without spending any time on the step in between — the one where the actual learning lives. That step is the whole point of this assignment, and of the four reflections still ahead of you.
+
+This isn't a completion task. It's a thinking task. Done well, it produces something you'll actually carry forward — not a grade, but a specific, transferable insight about yourself as a professional. That's what the portfolio is building toward.
+
+---
+
 This is your second DEAL reflection. You've used the framework before — this one asks more of you because you're no longer new to it. The cognitive overhead of learning how to use DEAL is gone. What replaces it is the expectation that you'll use the space it frees up for genuine depth and honesty in your examination.
 
 The DEAL framework moves through three stages: Describe (what happened), Examine (what it reveals), and Articulate Learning (what you're taking forward). You've worked through those stages once. The prompt and the rubric are the same; the standard is higher.

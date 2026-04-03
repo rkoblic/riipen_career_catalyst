@@ -66,6 +66,4 @@ What "pushing back gracefully" is not: arguing, expressing frustration about the
 
 ---
 
-## Going further
-
-[How to respectfully disagree at work](https://skillpath.com/blog/how-to-respectfully-disagree-at-work) — SkillPath
+[CURATED LINK: "When Great Minds Don't Think Alike: How to Respectfully Disagree at Work" (article, ~6 min) — SkillPath — https://skillpath.com/blog/how-to-respectfully-disagree-at-work] A practical walkthrough of how to raise disagreements professionally without damaging working relationships. Covers how to separate the idea from the person, how to frame a challenge as a question, and what to do when the disagreement isn't resolved in the moment.

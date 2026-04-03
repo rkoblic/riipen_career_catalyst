@@ -26,6 +26,8 @@ Readers make judgments about document quality before they read a word of it — 
 
 Two rubric dimensions are directly affected. Deliverable Quality — which includes presentation and visual coherence — is worth 30% of your final grade. Communication — which includes written clarity and professional presentation — is worth 15%. Formatting is the infrastructure that both dimensions depend on. Get it right from the start, before there's content to untangle it from.
 
+[CURATED LINK: "How Professional Document Formatting Builds Business Credibility" (article, ~5 min) — Drafting Queens — https://draftingqueens.com/blog/how-professional-document-formatting-builds-business-credibility] An overview of why document presentation signals competence before a reader engages with content — covering visual consistency, hierarchy, and the specific formatting choices that distinguish professional from amateur documents.
+
 ---
 
 ## Practical standards
@@ -44,9 +46,18 @@ Separate paragraphs with space. Walls of text signal that a document hasn't been
 
 Use tables to compare multiple items across consistent attributes. Not to present a single list — a list is cleaner for that. Every table needs a brief descriptive title placed above it. A table without a title forces the reader to infer what they're looking at.
 
+If you haven't built a professional table before, you don't need to design one from scratch. **Google Docs** (free) has built-in table styles under Format > Table styles — apply one to any table you insert and it will look clean without any manual formatting. **Canva** (free) also has comparison table templates — search "table" in the template library at canva.com. Both are free to access with no paid subscription required.
+
 **Charts and visuals**
 
 Every chart needs a title and clear axis labels. If a visual came from another source, cite it — same standard as written content. Before including a visual, ask: does this communicate something more clearly than a well-written sentence or two would? If the answer is no, the sentence is probably the better choice. A visual that requires a paragraph of explanation to interpret hasn't done its job.
+
+Two free tools worth knowing:
+
+- **Datawrapper** (datawrapper.de) — free, no account required. Paste in your data, choose a chart type, and it produces a clean, publication-quality chart you can download as a PNG. Takes about five minutes for a basic bar or line chart.
+- **Canva** (canva.com/graphs) — free tier. More visual control than Datawrapper, with pre-built chart templates you can customize. Useful if you want more design flexibility or need to match a specific visual style.
+
+**Google Sheets** (free with any Google account) also produces serviceable charts if your data is already there — apply one of the built-in themes to avoid the default styling, which reads as unpolished in a professional document.
 
 **Callout boxes**
 
@@ -55,6 +66,29 @@ Useful for key findings, important caveats, or information a reader might want t
 **Terminology and style**
 
 Decide on terms before drafting begins and coordinate across the team. If the employer calls their product a "platform," use "platform" throughout — not "tool," "system," or "solution." Inconsistent terminology doesn't just look careless; it raises real questions for a professional reader about whether the document's authors understand what they're describing.
+
+The Neuron tools directory (theneuron.ai/top-tools/) from earlier in the course is worth revisiting now that you're in production. The productivity and content creation categories both include tools relevant to document work — chart builders, table generators, and formatting aids worth browsing as you draft.
+
+---
+
+## Using tools to review your work
+
+Formatting standards are easier to apply consistently when you have tools catching what your eye misses. These don't replace judgment — they catch mechanical problems so your attention goes to the decisions that actually require it.
+
+**AI for consistency review**
+
+Two prompts worth using before you submit your section or merge with teammates:
+
+*Checking your own section:* Paste your draft and ask: "Review this section for inconsistent terminology, heading hierarchy problems, or places where parallel structure breaks down." AI is well-suited to this kind of mechanical pattern-matching.
+
+*Checking across sections:* Before merging, paste two team members' sections and ask: "Do these read like they were written by the same person? Flag any differences in tone, terminology, or formatting conventions." Catching this before the document is assembled is significantly easier than fixing it after.
+
+**Non-AI tools**
+
+- **Grammarly or Hemingway Editor** (both free tiers available) — catch readability issues, passive voice, and sentences that have grown too long to follow
+- **Google Docs spelling and grammar checker** — basic but reliably catches obvious errors before submission
+- **Google Docs Outline view** — opens in the left panel and shows your heading hierarchy at a glance; useful for confirming structure before you hand the section off
+- **Word's Navigation Pane** — the equivalent in Microsoft Word; also lets you verify heading levels across a merged document before submission
 
 ---
 
@@ -79,12 +113,11 @@ Use this before submitting your section to the shared document, and again when t
 - [ ] Capitalization is consistent within headings and lists
 - [ ] Acronyms are defined on first use
 - [ ] Numbers under ten are spelled out; numbers 10 and above use numerals (unless a different convention applies to your document type)
+- [ ] Section has been run through an editing tool (Grammarly, Hemingway, or AI consistency check) before submitting to the shared document
 - [ ] The document has been reviewed in print preview or PDF view before submission
 - [ ] Running headers or footers, if used, are consistent throughout
 - [ ] Page numbers are present
 
 ---
 
-## Going further
 
-[How professional document formatting builds business credibility](https://draftingqueens.com/blog/how-professional-document-formatting-builds-business-credibility) — Drafting Queens

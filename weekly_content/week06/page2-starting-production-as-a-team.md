@@ -56,7 +56,7 @@ The team sync built into this week is an internal check-in — there's no employ
 
 - [ ] One shared document created; all team members have access and edit permissions
 - [ ] Section ownership assigned — every section has a named owner before drafting begins
-- [ ] Formatting page completed; agreed formatting standards applied to the document template before content is added
+- [ ] Formatting page completed (see "Formatting professional documents" in this week's module); agreed formatting standards applied to the document template before content is added
 - [ ] Agreed terminology documented and visible to the full team (in the document, in a shared note, or in your Team Charter)
 - [ ] Section dependencies mapped — which sections must be developed before others can be written, which can proceed in parallel
 - [ ] Team sync scheduled before the end of the week

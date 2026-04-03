@@ -9,6 +9,8 @@ status: draft
 
 # What's next
 
+Before you move on: if you haven't completed Reflection #2, do that first. It's designed to be written after a full week of production work, and the material is freshest now.
+
 You've spent this week building: researching, drafting, navigating the messy transition from plan to prose. The next employer touchpoint is designed to help you use that progress, not just show it.
 
 ---
