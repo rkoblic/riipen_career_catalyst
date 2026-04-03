@@ -49,4 +49,4 @@ A useful starting prompt: "Here's my data: [paste data]. I want to show [specifi
 
 ---
 
-[CURATED LINK: "Data Visualization 101: How to Choose the Right Chart or Graph for Your Data" (article, ~6 min) — HubSpot — https://blog.hubspot.com/marketing/data-visualization] A clear guide to matching data types to the right chart format, with decision criteria for when to use tables, bar charts, line charts, and other formats. Useful reference for the format decisions covered in this module.
+[CURATED LINK: "Which Chart or Graph Is Right for You?" (article) — Tableau — https://help.tableau.com/current/pro/desktop/en-us/what_chart_example.htm] A clear guide to matching data types to the right chart format, with decision criteria for when to use tables, bar charts, line charts, and other formats. Useful reference for the format decisions covered in this module.
