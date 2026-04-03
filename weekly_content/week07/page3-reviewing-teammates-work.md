@@ -16,15 +16,7 @@ The ability to read a colleague's draft and give them feedback that actually imp
 
 [VIDEO: Reviewing Your Teammates' Work]
 
-The video above shows two concrete examples of the difference between structural feedback and line editing. The core principle is the same across project types.
-
-**Structural feedback vs. line editing — the key moves:**
-
-- Read for argument before you read for language. Ask: what is this section claiming? Does the evidence support the claim? Would a reader follow the logic without already knowing the project?
-- Structural issues take priority at this stage: buried main points, missing interpretive moves ("this means..."), evidence without a clear connection to the claim, sections that don't flow from what came before.
-- Line editing — grammar, word choice, sentence rhythm — is most useful after the structure is sound. Polishing sentences in a section that needs to be restructured is wasted effort for you and your teammate.
-- Useful feedback is referenced to the work: "The second paragraph doesn't connect to the claim in the first" is more useful than "this seems unclear." Your teammate needs to know where to look, not just that something is off.
-- Distinguish between what's weak and what's wrong. A section that makes a weak argument isn't necessarily wrong — it might need more evidence or a clearer interpretive link. Don't suggest cutting something if the solution is to develop it.
+The video walks through the difference between structural feedback and line editing. When you sit down to review a section, run it through four lenses.
 
 ---
 
@@ -66,4 +58,4 @@ The goal isn't to rewrite your teammate's section — it's to give them enough t
 
 ---
 
-[CURATED LINK: "Giving Feedback on Writing" (resource, ~5 min) — MIT Writing and Communication Center — https://cmsw.mit.edu/writing-and-communication-center/resources/writers/giving-feedback/] Practical guidance on how to give useful feedback on written work, distinguishing global (structural) concerns from local (language) ones. Directly aligned with the structural-first approach covered in this module.
+[CURATED LINK: "How to Write Effective Peer Review Comments" (video, ~5 min) — Odyssey Learning Project — https://youtu.be/kMWZBDUlHUA?si=hzI0pxs4tFW7-MLh] A practical walkthrough of how to write peer review comments that are specific, useful, and focused on improving the work rather than evaluating the writer. Complements the structural feedback framework covered in this module.
