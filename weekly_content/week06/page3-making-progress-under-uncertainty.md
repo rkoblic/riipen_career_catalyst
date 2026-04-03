@@ -52,6 +52,8 @@ What to do: name the tension explicitly, to yourself and to your team. "The empl
 
 *Example: Your community outreach team finds two things pointing in different directions — community members say the main barrier to participation is lack of awareness, but your secondary research on comparable programs suggests access (cost, transportation, timing) is usually the bigger factor. Name that tension to your team before drafting. If you can't resolve it with more research before the draft is due, acknowledge both findings and recommend the employer investigate which barrier is primary — that's a legitimate and honest conclusion.*
 
+[CURATED LINK: "How Well Do You Handle Ambiguity on a Project?" (article, ~8 min) — Blue Skies Consulting — https://blueskiesconsulting.com/how-well-do-you-handle-ambiguity-on-a-project/] A practical self-assessment walking through how professionals recognize and respond to different types of ambiguity in project work. Useful for understanding your own default response when clarity is missing — whether you tend to stall, move too quickly, or escalate when you don't need to.
+
 ---
 
 ## When to keep going vs. when to stop
@@ -74,8 +76,5 @@ These aren't two equally weighted options. In most production situations, keepin
 
 When you're genuinely blocked, the way you flag it matters. Be specific: "I'm waiting on [specific thing] before I can complete [specific part of my section]" is actionable. "I'm stuck" is not. Flag it in your team's shared channel, and then move to a different part of your section while you wait. Almost every section has parts you can work on in parallel.
 
----
-
-[CURATED LINK: "How Well Do You Handle Ambiguity on a Project?" (article, ~8 min) — Blue Skies Consulting — https://blueskiesconsulting.com/how-well-do-you-handle-ambiguity-on-a-project/] A practical self-assessment walking through how professionals recognize and respond to different types of ambiguity in project work. Useful for understanding your own default response when clarity is missing — whether you tend to stall, move too quickly, or escalate when you don't need to.
 
 
