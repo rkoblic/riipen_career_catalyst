@@ -10,8 +10,6 @@ competencies:
     subskill: Feedback Reception
   - area: Critical Thinking
     subskill: Prioritization
-  - area: Communication
-    subskill: Written Clarity
 ---
 
 # Processing feedback and revision
@@ -75,26 +73,3 @@ A useful test: if you made this change and didn't tell any of your teammates, wo
 *Example: A process improvement team's employer says "the current-state workflow you've described doesn't match how the team actually operates in Q1." If the analysis was built on that workflow description, almost everything derived from it needs revisiting. That's structural. The team needs to know before anyone starts revising.*
 
 *Compare: The same team's employer says "the statistic you cited for error rates is from 2021 — we have more recent data I can send." That's targeted. One person updates one figure. Nobody else is affected.*
-
----
-
-## AI as a production partner
-
-Earlier in the course, AI was most useful as a research tool — helping you scope unfamiliar territory, organize notes, and stress-test your approach. In the production phase, its most useful role shifts. AI becomes a production partner: a tool for reviewing, tightening, and checking work you've already built.
-
-This is a genuinely different use than drafting from scratch. The value comes from AI's ability to read your work as a relatively fresh reader — catching places where your argument is underdeveloped, where transitions are missing, where a claim isn't backed by the evidence in the same section.
-
-**What AI is well suited to in this phase:**
-
-- **Structural review of a section you've drafted:** "Here's a section from my deliverable. Identify any places where the argument is weak, transitions are unclear, or evidence doesn't directly support the claim being made."
-- **Gap identification after revision:** After making changes, paste the revised section and ask: "I've revised this section based on feedback that [describe the feedback]. Does the revision address the original concern? What, if anything, still needs attention?"
-- **Self-editing before handing off:** "Flag any sentences in this paragraph that are longer than they need to be or that repeat what the previous sentence already said."
-
-**What AI can't do in this phase:** AI cannot tell you whether a revision addresses the employer's actual concern. It wasn't at the meeting. If you ask AI to evaluate your revised section without explaining what the original feedback was and why you made the changes you did, you'll get a generic quality review, not a meaningful assessment of whether the feedback was genuinely addressed. AI reviews your text; it doesn't know your project.
-
-The standard for all AI-assisted work in this phase is the same as earlier in the course: if you can explain and defend it, it's yours. If you can't, it doesn't belong in your deliverable.
-
-[CURATED LINK: Resource on professional iteration and revision practice]
-- Option 1: "Revising Your Writing" — Purdue Online Writing Lab — https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html — Practical framework distinguishing global revision (structure and argument) from local revision (sentence-level editing); directly applicable to the structural vs. targeted distinction covered in this module.
-- Option 2: "The Editing Process" — UNC Writing Center — https://writingcenter.unc.edu/tips-and-tools/editing-and-proofreading/ — Clear guide to editing for clarity and coherence, useful for the self-editing and AI-assisted review stages of the revision process.
-- Option 3: "How to Incorporate Feedback into Your Work" — MindTools — https://www.mindtools.com/pages/article/feedback-loops.htm — Professional framing of feedback as iterative information rather than criticism; particularly useful for teams navigating how to prioritize and act on employer input.

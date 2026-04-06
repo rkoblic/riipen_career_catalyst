@@ -13,7 +13,7 @@ design_doc: week08-design-doc.md
 
 ## Content Architecture
 
-Week 8 is a **Pattern D (Dual anchor)** week with elements of Pattern C. Two distinct instructional challenges run in parallel: processing employer feedback from Check-In #1 and completing Peer Evaluation #1, the first graded individual deliverable. There is no employer touchpoint, which frees the largest production block in the course so far. The week reduces to four content pieces: a Week Overview, a Feedback Processing & Revision module that serves the production/revision work, a Peer Evaluation #1 anchor prompt that carries the graded deliverable's instructional load, and a What's Next. The flow is Overview → Feedback Processing module → Peer Evaluation anchor → What's Next.
+Week 8 is a **Pattern D (Dual anchor)** week with elements of Pattern C. Two distinct instructional challenges run in parallel: processing employer feedback from Check-In #1 and completing Peer Evaluation #1, the first graded individual deliverable. There is no employer touchpoint, which frees the largest production block in the course so far. The week reduces to five content pieces: a Week Overview, a Feedback Processing & Revision module, a standalone AI as a Production Partner page (a deliberate arc milestone — Week 8 is where the production partner role is first introduced as content), a Peer Evaluation #1 anchor prompt, and a What's Next. The flow is Overview → Feedback Processing → AI as Production Partner → Peer Evaluation anchor → What's Next.
 
 ---
 
@@ -36,9 +36,9 @@ Short overview page framing the week's dual structure — feedback processing an
 
 ### 2. Processing Feedback & Revision
 **Type:** Standalone module
-**Absorbs:** 8.02, 8.03, 8.05
+**Absorbs:** 8.02, 8.03
 
-Three closely related professional skill modules that serve the feedback response planning session (8.08) and the production block (8.09). Treated as a single content piece because the skills build sequentially: sort feedback → build a revision plan → use AI to support the revision process. Presented as one module rather than three separate pages to avoid fragmentation.
+Two closely related modules covering the core feedback processing skills: sort feedback → build a revision plan → distinguish structural from targeted revisions. The AI content (8.05) is split to its own page to keep this page focused and scannable.
 
 **Sub-elements:**
 
@@ -57,18 +57,33 @@ Three closely related professional skill modules that serve the feedback respons
 **Structural vs. targeted revisions**
 - How to distinguish feedback that requires structural rethinking from feedback addressable through targeted edits; why this distinction matters for time allocation (AI-generated text, ~300 words)
 
-**AI as a production partner**
-- How AI shifts in the Development phase: from research tool to production partner (AI-generated text, ~300 words)
-- Appropriate uses: structural review, gap identification, cross-section consistency, self-editing
-- Where AI helps vs. where it substitutes for thinking; maintaining ownership of AI-assisted work
-- Example prompts for structural review and consistency checking (AI-generated text, ~150 words)
-- Curated link: resource on professional revision and iteration practice (Curated link + framing, ~6–8 min read)
-
-**Time check:** 8.02 (15 min) + 8.03 (15 min) + 8.05 (10 min) = 40 min allocated → ~1,500 words text (~7–8 min reading) + 2 videos (~3–4 min) + scenario cards (~2 min) + curated link (~6–8 min) + thinking time ≈ 40 min. ✓
+**Time check:** 8.02 (15 min) + 8.03 (15 min) = 30 min allocated → ~900 words text (~4–5 min reading) + instructional video (~2 min) + scenario cards (~3 min) + thinking time ≈ 30 min. ✓
 
 ---
 
-### 3. Peer Evaluation #1
+### 3. AI as a Production Partner
+**Type:** Standalone module
+**Absorbs:** 8.05
+
+The Week 8 AI arc milestone — first introduction of AI in the production partner role. Given its significance in the arc and the length of the adjacent feedback processing page, treated as its own page rather than folded into page 2.
+
+**Sub-elements:**
+
+**The role shift**
+- How AI's most useful role shifts from research tool to production partner in the Development phase (AI-generated text, ~200 words)
+
+**What AI is well suited to in this phase**
+- Structural review, gap identification after revision, self-editing before handoff — each with an example prompt (AI-generated text, ~300 words)
+
+**What AI can't do in this phase**
+- AI can't assess whether a revision addressed the employer's actual concern; defend-your-work standard reminder (AI-generated text, ~150 words)
+- Curated link: resource on professional revision and iteration practice (Curated link + framing, ~6–8 min read)
+
+**Time check:** 8.05 (10 min) → ~650 words text (~3 min reading) + curated link (~6–8 min) ≈ 10 min. ✓
+
+---
+
+### 4. Peer Evaluation #1
 **Type:** Assignment prompt with embedded guidance
 **Absorbs:** 8.04, 8.06
 
@@ -106,7 +121,7 @@ The primary graded anchor for the week. Module 8.04 (Writing Substantive Peer Ev
 
 ---
 
-### 4. What's Next
+### 5. What's Next
 **Type:** Transitional prompt
 **Absorbs:** nothing (forward-looking)
 
@@ -134,8 +149,9 @@ Brief transitional page orienting students toward Week 9. Check-In #2 is approac
 
 - [ ] **Page 1 — Week 8 Overview** (Orientation text + AI-generated video)
 - [ ] **Page 2 — Processing Feedback & Revision** (Standalone module)
-- [ ] **Page 3 — Peer Evaluation #1** (Assignment prompt with embedded guidance)
-- [ ] **Page 4 — What's Next** (Transitional prompt)
+- [ ] **Page 3 — AI as a Production Partner** (Standalone module)
+- [ ] **Page 4 — Peer Evaluation #1** (Assignment prompt with embedded guidance)
+- [ ] **Page 5 — What's Next** (Transitional prompt)
 
 ### Links to Source (Curated Links)
 
