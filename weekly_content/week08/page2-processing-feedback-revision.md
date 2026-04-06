@@ -88,7 +88,6 @@ This is a genuinely different use than drafting from scratch. The value comes fr
 
 - **Structural review of a section you've drafted:** "Here's a section from my deliverable. Identify any places where the argument is weak, transitions are unclear, or evidence doesn't directly support the claim being made."
 - **Gap identification after revision:** After making changes, paste the revised section and ask: "I've revised this section based on feedback that [describe the feedback]. Does the revision address the original concern? What, if anything, still needs attention?"
-- **Cross-section consistency check:** "Here are two sections written by different team members. Flag any differences in terminology, formatting conventions, or tone that would make these read as written independently." (Note: this is something to do before merging sections, not after — catching inconsistencies early is significantly easier than fixing them in an assembled document.)
 - **Self-editing before handing off:** "Flag any sentences in this paragraph that are longer than they need to be or that repeat what the previous sentence already said."
 
 **What AI can't do in this phase:** AI cannot tell you whether a revision addresses the employer's actual concern. It wasn't at the meeting. If you ask AI to evaluate your revised section without explaining what the original feedback was and why you made the changes you did, you'll get a generic quality review, not a meaningful assessment of whether the feedback was genuinely addressed. AI reviews your text; it doesn't know your project.
