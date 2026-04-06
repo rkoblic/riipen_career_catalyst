@@ -1,27 +1,27 @@
 ---
 week: 6
-page: 8
+page: 9
 title: What's Next
 created: 2026-04-01
-last_updated: 2026-04-02
+last_updated: 2026-04-07
 status: draft
 ---
 
 # What's next
 
-Before you move on: if you haven't completed Reflection #2, do that first. It's designed to be written after a full week of production work, and the material is freshest now.
-
-You've spent this week building: researching, drafting, navigating the messy transition from plan to prose. The next employer touchpoint is designed to help you use that progress, not just show it.
+You've spent this week closing out Discovery and starting production: reflecting on the phase that's behind you, getting your team set up to draft together, and navigating the messy first steps from plan to prose. The next employer touchpoint is designed to help you use that progress, not just show it.
 
 ---
 
 ## Check-In #1 — your first working session with the employer
 
-This meeting is different from the Direction Check. The Direction Check was a presentation: you showed your approach and the employer reacted. This is a working session: you bring specific questions and decisions, and the employer helps you think them through.
+This meeting has a different purpose than the Direction Check. The Direction Check was a check on direction: you walked the employer through your approach and asked whether you were headed the right way before committing to production. This is a check on production: you've started building, and now you bring the specific questions and decision points you've hit while drafting, so the employer can help you unblock them.
+
+The format is the same: a document-based working conversation. The difference is that now you have real drafted material and real production questions to bring to it, rather than a proposed approach.
 
 The value of this meeting is proportional to how specific your questions are. "Are we on track?" wastes the time. "We're deciding between approach A and approach B for the competitive analysis. Which would be more useful to your team?" uses it. The employer knows things about their organization, their audience, and their priorities that your research can't fully capture. This meeting is your chance to access that knowledge on the specific decisions you're making right now.
 
-Come with 2-3 questions or decision points where the employer's input would change what you do next. A brief status update (two minutes, not ten) gives the employer enough context to understand your questions. Then let the conversation be about the questions, not the update.
+Come with 2-3 questions or decision points where the employer's input would change what you do next. A brief status update (two minutes is enough) gives the employer context for your questions. Then let the conversation be about the questions themselves.
 
 ---
 

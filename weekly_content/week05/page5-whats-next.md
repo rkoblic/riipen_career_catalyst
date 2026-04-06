@@ -21,8 +21,6 @@ Production is a different kind of work than what you've done so far. Discovery w
 
 ---
 
-## How to prepare
+## What comes next week
 
-Use the remaining time this week to build the structural scaffolding for your deliverables. That means outlining your report sections, sketching a deck structure if your project calls for one, and dividing the work so every team member knows what they're responsible for producing.
-
-This isn't busywork. Professional teams do this at the start of every production phase because it prevents the kind of last-minute scramble where three people write overlapping sections and nobody covers the gap in the middle. A clear structure now means fewer surprises later.
+Week 6 opens with Reflection #2 — a chance to look back on the Discovery phase before turning the page — and then walks you through getting set up for production as a team: how to organize the shared document, divide section ownership, agree on formatting standards, and start drafting. You don't need to do that work now. Use the rest of this week to finish the Direction Check Summary, revise the project plan based on what you heard, and arrive at Week 6 ready to begin.

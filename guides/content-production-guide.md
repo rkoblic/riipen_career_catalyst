@@ -274,7 +274,17 @@ Plain narrator text only. No stage directions, no visual cues, no formatting bey
 
 **Language to avoid:** No slang, idioms, or culturally specific expressions (per Riipen brand guidelines, these undermine accessibility for diverse, international learner populations). No emojis in course content (Riipen reserves emojis for social media only). Use exclamation marks sparingly — Riipen's brand is reliable, calm, and professional, not excitable.
 
-**Avoid AI-sounding patterns.** Minimize em dashes; use commas, periods, or parentheses instead. Limit the "this isn't X, it's Y" construction. Avoid parallel triplets ("clear, concise, and compelling"). Watch for filler phrases that sound authoritative but say nothing ("It's worth noting that...", "The key here is..."). Read sentences aloud. If they sound like a chatbot wrote them, rewrite.
+**Avoid AI-sounding patterns.** This is the most common quality issue in produced content. Scrub for it explicitly during review.
+
+- **Minimize em dashes.** Use commas, periods, parentheses, or sentence breaks instead. They're especially bad in video scripts, where they're hard to deliver verbally.
+- **Limit "this isn't X, it's Y" constructions** and their variants ("not X — Y"; "X isn't Y. It's Z."; "That's not X — it's Y."). They sound rhetorical and add up fast.
+- **Avoid parallel triplets** ("clear, concise, and compelling") and pithy aphorisms ("If everything is called out, nothing is."; "The friction is the point."; "Readers don't experience a team; they experience a document.").
+- **Avoid "the place where Y lives"** type metaphors and "What replaces it is..." formal constructions.
+- **Watch for filler phrases** that sound authoritative but say nothing ("It's worth noting that...", "The key here is...").
+- **Avoid extreme or hyperbolic language.** Soften absolute claims. Use "tends to," "often," or "in most cases" instead of "always" or "never." Avoid sweeping statements like "before a reader engages with a single idea" or "the most important conversation of the year." If the prose gets dramatic, it's probably less accurate too.
+- **Don't open with failure modes.** Lead with what the work looks like in practice, or with what success looks like — not with how things will go wrong if learners ignore the advice. "Most professional projects include a moment like this..." invites the learner in; "Multi-week documents fail in a predictable way..." warns them off. The failure mode can come later as a contrast, not as the opener.
+
+Read sentences aloud during review. If they sound like a chatbot wrote them, rewrite.
 
 ---
 
@@ -324,6 +334,18 @@ These principles are established in the development plan process. During content
 11. **Explain the "why" behind every deliverable section.** For graded deliverables with multiple parts, each part should open with a "Why this section exists" explanation that connects to the employer's perspective and professional practice. Don't just tell learners what goes in each section — tell them what it accomplishes and why the employer cares about it. Frame it from the reader's perspective: "This section answers a question the employer can't help but have: does this team actually understand what we do and what we need?" This is especially important for deliverables where the connection between the section and its professional purpose isn't obvious.
 
 12. **Connect deliverables to professional gates and checkpoints.** When introducing a graded deliverable, frame it as the kind of checkpoint that exists in real professional work — not as a course requirement. Client check-ins, direction reviews, progress gates, and alignment meetings are standard professional practice. Learners should understand that the deliverable mirrors something they'd do in any consulting, agency, or project-based role, and that the employer meeting that follows is the accountability mechanism, not the grade.
+
+13. **Write format-agnostic where possible.** Riipen projects produce a wide range of deliverables: research reports, content strategies, presentation decks, campaign briefs, process maps, prototypes, training modules, and mixed-format packages. Don't assume "document" when describing team production work. Use "deliverable," "workspace," "piece," or "component" when a principle applies regardless of format. When examples help, span formats ("sections of a report, slides of a deck, scenes of a video, screens of a prototype"). Where content is genuinely written-deliverable-specific, say so explicitly so learners producing other formats can adapt or skip it.
+
+14. **Reference earlier work, don't re-teach it.** When a framework, concept, or process was introduced earlier in the course (DEAL, a rubric, a tool, a methodology), point learners back to where they first encountered it instead of re-teaching the basics. The second encounter should focus on what's *different* this time: the experience pool they're drawing from, the expectations that have shifted, the new application. This respects learner time and reinforces the developmental arc of the course.
+
+15. **Align with course documentation and frameworks.** Several documents in this project are authoritative sources for specific elements: the reflection portfolio framework (`rubrics/reflection-portfolio-framework.md`), the rubrics for graded deliverables, the AI arc, and the employer touchpoint arc. When writing content for a recurring course element, check the relevant framework first and align the page with what's documented there: experiential pool, secondary competencies, framing prompts, calibration notes. The framework is the source of truth; the page is the application. If the page and the framework conflict, fix the page (or flag the framework if it's the framework that needs updating).
+
+16. **Explain course-specific terms; don't assume them.** Terms like "team sync," "Direction Check," "Check-In #1," and "Work-in-Progress presentation" are specific to this course. Learners may not know what they mean. Explain them in plain language on first use, and frame scheduled course elements as suggestions with context built in: "We strongly encourage you to find time to get together as a team this week. There's a team sync built into the time allocation for Week 6 specifically to make space for this." Don't write as if the learner is already inside the course's vocabulary.
+
+17. **Walk the logical arc; check for missing steps.** When teaching a process, walk through it from the learner's perspective. Where does the action actually start? What decision do they need to make first? What happens before the thing the page is teaching? A common gap: pages that jump straight to execution without covering the planning or organizing conversation that should precede it. If the page assumes a step that hasn't happened yet, name and describe that step first.
+
+18. **Hyperlink tools consistently.** When a tool, resource, or external reference is mentioned in learner-facing content, link the first mention with a markdown link in the form `[**Tool name**](URL)`. Drop bare-text URLs in parentheses; the link does the same work without the visual clutter. Subsequent mentions of the same tool can stay unlinked plain text. For tools with distinct subpages worth pointing at separately (e.g., Canva's general site vs. its chart templates), each subpage URL gets its own link the first time it appears.
 
 ---
 
@@ -484,7 +506,16 @@ Before considering a page complete:
 - [ ] No design-doc language leaked into learner-facing content
 - [ ] Academic or professional jargon is defined in plain language where it first appears
 - [ ] Graded deliverable sections each explain *why they exist* from the employer/professional perspective
-- [ ] Content is scannable — headers, bullets, short paragraphs
+- [ ] Content is scannable — headers, bullets, short paragraphs (cluster long lists under bold subheaders)
 - [ ] No content references something learners haven't encountered yet (unless flagged as a preview)
+- [ ] AI-isms scrubbed: em dashes minimized, no "X isn't Y, it's Z" patterns, no aphorisms or filler phrases (read aloud)
+- [ ] Language is not hyperbolic or absolute where "tends to" or "often" would be more accurate
+- [ ] Content does not open with a failure mode or a warning about how things will go wrong
+- [ ] Language is format-agnostic where the deliverable type isn't fixed (or marked as written-specific where appropriate)
+- [ ] Course-specific terms (team sync, Direction Check, etc.) are explained in plain language on first use
+- [ ] Recurring frameworks (DEAL, rubrics) are referenced rather than re-taught when learners have encountered them before
+- [ ] Content for recurring course elements aligns with the relevant rubric or framework document (`rubrics/`)
+- [ ] First mention of each external tool is hyperlinked; bare-text URLs removed
+- [ ] Accessibility basics covered where relevant: real heading styles, color isn't the only signal, descriptive link text, captions on video
 - [ ] YAML frontmatter is present with correct `week`, `page`, `title`, `created`, `last_updated`, and `status`
 - [ ] If editing an existing file, `last_updated` has been changed to today's date
