@@ -10,9 +10,11 @@ status: draft
 
 # Video Script: From feedback to forward motion
 
-In professional project work, client feedback is rarely a clean list of instructions. Sometimes it's specific and pointed. Sometimes it's vague and hedged. Sometimes the most important thing the client said was a passing comment halfway through the meeting that nobody flagged as significant. The quality of the feedback varies. Your ability to work with it can't.
+In professional project work, client feedback is rarely a clean list of instructions. Sometimes it's specific and pointed. Sometimes it's vague. Sometimes the most important thing the client said was a passing comment that nobody flagged at the time. The feedback doesn't arrive sorted and labeled. You have to do that yourself.
 
-The teams that make the most progress after a client meeting aren't necessarily the ones who got the clearest feedback. They're the ones who know how to extract what's useful from whatever they got. That means distinguishing between a direction change and a stylistic preference, between a concern that affects the whole analysis and one that touches a single paragraph, between something the client said clearly and something you're inferring. Getting that wrong is expensive. A team that spends three days revising sections the client didn't flag is a team that's behind on the sections the client did.
+If you've never had to translate a client meeting into a revision plan before, that's a genuinely hard problem. The cost of getting it wrong is real — a team that treats a stylistic preference as a priority change, or misses an actual direction change because it came up casually, is a team doing the wrong work while the deadline moves closer.
 
-This week your job is to translate a conversation into decisions. Do that first, before anyone opens a document.
+A question that makes this more manageable: for each thing you heard, what would actually change in your deliverable if you acted on it? If the answer is specific — a section needs rethinking, a scope boundary needs to shift — it's probably something to act on. If the answer is vague, or doesn't change the substance of what you're building, it's probably context to note or consciously set aside.
+
+The module that follows walks through this in detail. But that question is where to start.
 
