@@ -14,7 +14,7 @@ competencies:
 
 # Processing feedback and revision
 
-Employer feedback from a progress meeting rarely arrives as a clean list of things to fix. It arrives as a conversation — some of it directive, some of it exploratory, some of it contextual. Before your team can revise anything productively, you need to sort what you heard. Moving directly from "here's what the employer said" to "here's what we're changing" skips the step that determines whether you're revising the right things.
+The overview video introduces the core question: for each piece of feedback, what would actually change in your deliverable if you acted on it? This module gives that question a structure you can use in your team's response planning session — a three-category framework that turns a feedback conversation into a concrete revision plan.
 
 [VIDEO: Why iteration is part of the work]
 
