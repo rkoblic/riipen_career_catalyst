@@ -25,8 +25,9 @@ There's no employer meeting this week, which means the time you'd normally spend
 
 ## Suggested order of completion
 
-1. Read the Processing Feedback & Revision module. The feedback sorting framework and revision planning tools apply immediately to the work your team is doing this week — do this before your feedback response planning session.
-2. Hold your team's feedback response planning session. Convert your Check-In #1 debrief notes into a prioritized action list with owners and target dates using the Feedback Response Plan template.
-3. Read the Peer Evaluation #1 module, including the BARS framework and the Maple & Main calibration exercise. Complete this before drafting your evaluation — the calibration exercise is there to norm your expectations before real teammates are involved.
-4. Complete and submit Peer Evaluation #1 individually.
-5. Continue project production — revising based on employer feedback and moving forward on any sections not yet started.
+1. Read the Processing Feedback & Revision module and hold your team's feedback response planning session. Sort your Check-In #1 feedback into act-on, note, and set-aside categories, then build a revision plan with owners and target dates before anyone starts revising.
+2. Read Structural vs. Targeted Revisions — a short reference page for when you're mid-revision and need to assess how much a change actually requires.
+3. Read AI as a Production Partner — covers how AI's most useful role shifts in the production phase, with specific prompts for structural review and self-editing.
+4. Read the Peer Evaluation #1 module, including the BARS framework and the Maple & Main calibration exercise. Complete this before drafting your evaluation.
+5. Complete and submit Peer Evaluation #1 individually.
+6. Continue project production — revising based on employer feedback and moving forward on any sections not yet started.

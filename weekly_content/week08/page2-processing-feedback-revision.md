@@ -3,7 +3,7 @@ week: 8
 page: 2
 title: Processing feedback and revision
 created: 2026-04-06
-last_updated: 2026-04-06
+last_updated: 2026-04-07
 status: draft
 competencies:
   - area: Professionalism
@@ -21,8 +21,6 @@ The overview video introduces the core question: for each piece of feedback, wha
 ---
 
 ## Sorting employer feedback
-
-Not all feedback requires the same response. Treating every comment as an equal priority creates busy work and risks destabilizing sections that don't need to change. A simple sorting pass before your team starts revising prevents this.
 
 Sort feedback into three categories:
 
@@ -46,30 +44,14 @@ Sort feedback into three categories:
 
 ## Building a revision plan
 
-Sorting feedback is useful only if it leads to a concrete plan. A revision plan converts your sorted feedback into specific tasks with owners and target dates. It also makes visible whether any feedback item requires structural rethinking versus a targeted edit — a distinction that matters a lot for how much time to allocate.
+Sorting feedback is useful only if it leads to a concrete plan. A revision plan converts your act-on items into specific tasks with owners and target dates.
 
 [TEMPLATE: Feedback Response Plan — columns: feedback item | category (act on / note / set aside) | revision required | owner | target date]
 
-A few practical points about the plan:
+Three things that make a revision plan actually work:
 
 **Assign one owner per item.** "The whole team" owns nothing. If a feedback item touches a section that one person is primarily responsible for, that person owns the revision.
 
-**Distinguish revision type before you estimate time.** A targeted edit (changing a statistic, tightening a paragraph, adding a missing definition) takes an hour. A structural revision (reframing a section's argument, reorganizing findings, starting a new section from scratch) takes a day. Knowing which type you're dealing with before you start protects the production schedule.
+**Distinguish revision type before you estimate time.** A targeted edit takes an hour. A structural revision takes a day. Knowing which you're dealing with before you start protects the production schedule. The next page covers this distinction in detail.
 
-**Note it in your Change Log.** If your deliverable includes a Change Log documenting how employer feedback was incorporated, this revision plan is the seed of that record. Keep it in a shared document your team can reference.
-
----
-
-## Structural vs. targeted revisions
-
-Before allocating time and effort to a revision, identify which type it is.
-
-**Targeted revisions** address specific, bounded issues: incorrect data, a missing citation, a section that needs a clearer opening sentence, a recommendation that's too vague. The surrounding work stays intact. A targeted revision can usually be completed in a single work session by the section owner without coordinating the rest of the team.
-
-**Structural revisions** affect how the work is organized or argued, not just what it says. If the employer's feedback means the main finding of a section needs to change, or a significant portion of the analysis needs to be redone, or the logic that links several sections together needs rethinking, that's structural. Structural revisions need to be flagged to the whole team because they often have downstream effects — a change in one section may require updates in the sections that follow from it.
-
-A useful test: if you made this change and didn't tell any of your teammates, would they notice a problem in their own sections? If yes, it's structural.
-
-*Example: A process improvement team's employer says "the current-state workflow you've described doesn't match how the team actually operates in Q1." If the analysis was built on that workflow description, almost everything derived from it needs revisiting. That's structural. The team needs to know before anyone starts revising.*
-
-*Compare: The same team's employer says "the statistic you cited for error rates is from 2021 — we have more recent data I can send." That's targeted. One person updates one figure. Nobody else is affected.*
+**Note it in your Change Log.** This revision plan is the seed of the Change Log documenting how employer feedback was incorporated into your deliverable. Keep it in a shared document your team can reference throughout the project.

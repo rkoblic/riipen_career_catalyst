@@ -13,7 +13,7 @@ design_doc: week08-design-doc.md
 
 ## Content Architecture
 
-Week 8 is a **Pattern D (Dual anchor)** week with elements of Pattern C. Two distinct instructional challenges run in parallel: processing employer feedback from Check-In #1 and completing Peer Evaluation #1, the first graded individual deliverable. There is no employer touchpoint, which frees the largest production block in the course so far. The week reduces to five content pieces: a Week Overview, a Feedback Processing & Revision module, a standalone AI as a Production Partner page (a deliberate arc milestone — Week 8 is where the production partner role is first introduced as content), a Peer Evaluation #1 anchor prompt, and a What's Next. The flow is Overview → Feedback Processing → AI as Production Partner → Peer Evaluation anchor → What's Next.
+Week 8 is a **Pattern D (Dual anchor)** week with elements of Pattern C. Two distinct instructional challenges run in parallel: processing employer feedback from Check-In #1 and completing Peer Evaluation #1, the first graded individual deliverable. There is no employer touchpoint, which frees the largest production block in the course so far. The week reduces to six content pieces: a Week Overview, a Feedback Processing & Revision module, a Structural vs. Targeted Revisions page (a reference learners reach for mid-revision, distinct from the sorting/planning content), a standalone AI as a Production Partner page (a deliberate arc milestone), a Peer Evaluation #1 anchor prompt, and a What's Next. The flow is Overview → Feedback Processing → Structural vs. Targeted → AI as Production Partner → Peer Evaluation anchor → What's Next.
 
 ---
 
@@ -148,10 +148,11 @@ Brief transitional page orienting students toward Week 9. Check-In #2 is approac
 ### Content Pieces
 
 - [ ] **Page 1 — Week 8 Overview** (Orientation text + AI-generated video)
-- [ ] **Page 2 — Processing Feedback & Revision** (Standalone module)
-- [ ] **Page 3 — AI as a Production Partner** (Standalone module)
-- [ ] **Page 4 — Peer Evaluation #1** (Assignment prompt with embedded guidance)
-- [ ] **Page 5 — What's Next** (Transitional prompt)
+- [ ] **Page 2 — Processing Feedback & Revision** (Standalone module — sorting + revision plan)
+- [ ] **Page 3 — Structural vs. Targeted Revisions** (Standalone module — mid-revision reference)
+- [ ] **Page 4 — AI as a Production Partner** (Standalone module)
+- [ ] **Page 5 — Peer Evaluation #1** (Assignment prompt with embedded guidance)
+- [ ] **Page 6 — What's Next** (Transitional prompt)
 
 ### Links to Source (Curated Links)
 
