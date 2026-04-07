@@ -10,9 +10,9 @@ status: draft
 
 # Video Script: From feedback to forward motion
 
-In professional consulting and agency work, the revision cycle after a client meeting is part of the project, not a detour from it. Clients who give precise, demanding feedback are giving you information. That information is what you need to build something they'll actually use.
+In professional project work, client feedback is rarely a clean list of instructions. Sometimes it's specific and pointed. Sometimes it's vague and hedged. Sometimes the most important thing the client said was a passing comment halfway through the meeting that nobody flagged as significant. The quality of the feedback varies. Your ability to work with it can't.
 
-The challenge most teams face after a feedback-heavy meeting is knowing where to start. A community outreach team might hear that their target population analysis is too narrow, that the employer wants more emphasis on older residents. A process improvement team might hear that the workflow they analyzed doesn't reflect how the department actually operates in the first quarter. Both of those are substantive course corrections. Both also come alongside smaller observations, preferences, and contextual notes that don't require any changes at all.
+The teams that make the most progress after a client meeting aren't necessarily the ones who got the clearest feedback. They're the ones who know how to extract what's useful from whatever they got. That means distinguishing between a direction change and a stylistic preference, between a concern that affects the whole analysis and one that touches a single paragraph, between something the client said clearly and something you're inferring. Getting that wrong is expensive. A team that spends three days revising sections the client didn't flag is a team that's behind on the sections the client did.
 
-Moving from a progress meeting into production without sorting what you heard first is how teams end up revising sections that didn't need revision and missing the ones that did. This week, organize before you act.
+This week your job is to translate a conversation into decisions. Do that first, before anyone opens a document.
 
