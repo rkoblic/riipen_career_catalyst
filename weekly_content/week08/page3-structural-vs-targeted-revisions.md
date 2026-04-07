@@ -45,3 +45,8 @@ If you made this change and didn't tell any of your teammates, would they notice
 Most teams underestimate structural revisions and overestimate targeted ones. A section that needs to be reargued from the beginning isn't a "quick fix" — and treating it like one is how teams end up with a partially revised document the day before it's due.
 
 When you fill out the Feedback Response Plan from the previous page, categorize each act-on item as structural or targeted before assigning it. If you're not sure which type it is, discuss it as a team before anyone starts writing. The five-minute conversation is worth more than the hour spent revising in the wrong direction.
+
+[CURATED LINK: Resource on professional revision practice (~6–8 min)]
+- Option 1: "Revising Your Writing" — Purdue Online Writing Lab — https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html — Practical framework distinguishing global revision (structure and argument) from local revision (sentence-level editing); directly maps to the structural vs. targeted distinction on this page.
+- Option 2: "Editing and Proofreading" — UNC Writing Center — https://writingcenter.unc.edu/tips-and-tools/editing-and-proofreading/ — Clear guide to editing for clarity and coherence, useful when working through targeted revisions at the sentence and paragraph level.
+- Option 3: "How to Incorporate Feedback into Your Work" — MindTools — https://www.mindtools.com/pages/article/feedback-loops.htm — Professional framing of feedback as iterative information; useful for teams deciding how to prioritize and act on employer input.

@@ -39,8 +39,3 @@ Before sending a section to a teammate or merging into the shared document, ask:
 AI cannot tell you whether a revision addresses the employer's actual concern — it wasn't at the meeting. If you ask AI to evaluate your revised section without explaining what the original feedback was and why you made the changes you did, you'll get a generic quality review, not a meaningful assessment of whether the feedback was genuinely addressed.
 
 The standard is the same as earlier in the course: if you can explain and defend the work, it's yours. If AI produced something you can't account for, it doesn't belong in your deliverable.
-
-[CURATED LINK: Resource on professional revision and iteration practice (~6–8 min)]
-- Option 1: "Revising Your Writing" — Purdue Online Writing Lab — https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html — Practical framework distinguishing global revision (structure and argument) from local revision (sentence-level editing); directly applicable to the structural vs. targeted distinction covered in the previous module.
-- Option 2: "Editing and Proofreading" — UNC Writing Center — https://writingcenter.unc.edu/tips-and-tools/editing-and-proofreading/ — Clear guide to editing for clarity and coherence, useful for the self-editing stage of the revision process.
-- Option 3: "How to Incorporate Feedback into Your Work" — MindTools — https://www.mindtools.com/pages/article/feedback-loops.htm — Professional framing of feedback as iterative information rather than criticism; useful for teams navigating how to prioritize and act on employer input.
