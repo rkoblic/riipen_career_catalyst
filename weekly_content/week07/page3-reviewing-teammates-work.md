@@ -81,17 +81,21 @@ This isn't policing your teammate's AI use. It's catching the kinds of errors AI
 
 ## What actionable feedback looks like
 
-Useful feedback has three qualities: it's specific, it points to the place in the piece it's about, and it says what to do, not just what's wrong.
+Useful feedback has three qualities: it's specific, it points to the place in the piece it's about, and it gives your teammate something to work with, not just a verdict.
 
 Vague: "This section is confusing."
 
-Actionable: "The third paragraph introduces a finding that isn't connected to the main claim in the opening. A bridging sentence would make the logic clearer."
+Actionable: "I'm not totally following how the finding in the third paragraph connects to the main claim in the opening. It might help to add a sentence that makes the logic clearer."
 
 Vague: "Not enough evidence here."
 
-Actionable: "The recommendation isn't supported by specific data. The environmental footprint figures from the site audit would strengthen it directly."
+Actionable: "Is there any data from the site audit that would support this recommendation directly? The environmental footprint figures might be a good fit."
 
-The goal isn't to rewrite your teammate's work. It's to give them enough to improve it themselves. One or two structural observations per piece, referenced to specific places, is more useful than a comprehensive redline.
+Notice the framing in both of the actionable versions. One names the reviewer's own confusion rather than declaring the piece broken ("I'm not following" rather than "this isn't connected"). The other is framed as a question rather than a directive. Feedback is often subjective, and framing it this way opens a conversation instead of handing down a critique. You're a reader telling your teammate how the piece landed for you and inviting them to talk about it, not ruling on whether it works.
+
+It also helps the feedback get used. If a comment reads as a verdict, even feedback that's technically correct can put your teammate on the defensive and stall the work. A few habits help: frame observations from your own perspective as a reader ("I got a bit lost here" rather than "this is unclear"), ask a question when you're not sure ("was this meant to connect to the earlier point?"), and acknowledge the thinking behind a choice before suggesting a change. None of this softens the substance of the feedback. It just keeps the door open for a conversation instead of an argument.
+
+The goal isn't to rewrite your teammate's work. It's to give them enough to improve it themselves. One or two structural observations per piece, referenced to specific places and framed in a way they can take in, is more useful than a comprehensive redline.
 
 ---
 

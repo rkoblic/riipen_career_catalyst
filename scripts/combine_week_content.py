@@ -251,6 +251,54 @@ def add_page_content(doc, content, page_num, title, video_scripts=None):
             i += 1
             continue
 
+        # Markdown table — detect by pipe row followed by separator row
+        if stripped.startswith("|") and stripped.endswith("|") and i + 1 < len(lines):
+            next_stripped = lines[i + 1].strip()
+            is_separator = (
+                next_stripped.startswith("|")
+                and next_stripped.endswith("|")
+                and set(next_stripped.replace("|", "").replace(":", "").replace(" ", "")) <= {"-"}
+                and "-" in next_stripped
+            )
+            if is_separator:
+                # Collect all table rows
+                header_cells = [c.strip() for c in stripped.strip("|").split("|")]
+                i += 2  # skip header and separator
+                body_rows = []
+                while i < len(lines):
+                    row = lines[i].strip()
+                    if not (row.startswith("|") and row.endswith("|")):
+                        break
+                    body_rows.append([c.strip() for c in row.strip("|").split("|")])
+                    i += 1
+
+                num_cols = len(header_cells)
+                table = doc.add_table(rows=1 + len(body_rows), cols=num_cols)
+                table.style = "Light Grid Accent 1"
+                table.autofit = True
+
+                # Header row
+                for col_idx, cell_text in enumerate(header_cells):
+                    cell = table.rows[0].cells[col_idx]
+                    cell.text = ""
+                    p = cell.paragraphs[0]
+                    process_inline(p, cell_text, size=11)
+                    for run in p.runs:
+                        run.font.bold = True
+
+                # Body rows
+                for row_idx, row in enumerate(body_rows, start=1):
+                    for col_idx in range(num_cols):
+                        cell = table.rows[row_idx].cells[col_idx]
+                        cell.text = ""
+                        cell_text = row[col_idx] if col_idx < len(row) else ""
+                        p = cell.paragraphs[0]
+                        process_inline(p, cell_text, size=11)
+
+                # Spacer paragraph after table
+                doc.add_paragraph()
+                continue
+
         # VIDEO placeholder — inline the video script if available
         if stripped.startswith("[VIDEO:"):
             p = doc.add_paragraph()
@@ -287,7 +335,10 @@ def main():
         sys.exit(1)
 
     # Separate content pages from video scripts and interactives
-    all_md = sorted(week_dir.glob("page*.md"))
+    def page_sort_key(p):
+        m = re.match(r"page(\d+)", p.name)
+        return (int(m.group(1)) if m else 9999, p.name)
+    all_md = sorted(week_dir.glob("page*.md"), key=page_sort_key)
     content_files = [f for f in all_md if "-video.md" not in f.name and "-interactive.md" not in f.name]
     video_files = [f for f in all_md if "-video.md" in f.name]
 

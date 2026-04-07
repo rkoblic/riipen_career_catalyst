@@ -1,160 +1,118 @@
-# Week 7 Content — Change Log
+# Week 7 — Notes from Rachel's Pass
 
-Notes on edits made during review, what changed, and why. For reference when working on related pages.
-
----
-
-## Page 1 — Overview
-
-- **Reframed the opener around production**, not Check-In #1. This week's bulk is project work; the content exists to support that. The old opener gave equal weight to the meeting and the production work, which misrepresented where learners' time actually goes.
-- **Pulled Check-In #1 instructional content off the page.** The "not a formal presentation… questions-based working session" detail belongs on the Check-In #1 pages, not the overview. Overview pages should orient, not teach.
-- **Added situational framing for the modules.** Now says explicitly that some modules will hit harder than others depending on what you're working on and when, and that learners may need to look beyond this week's pages for resources specific to their piece. This was missing.
-- **Suggested order of completion now leads with "start producing."** The old order treated the modules as a queue to clear before project work; the new order frames them as just-in-time supports that fit around production.
-- **Removed stale references** to "Receiving Feedback Well" and "Feedback Protocol Card" — those pages don't exist in week 7.
-- **Updated `[VIDEO:]` placeholder** to match the new video script title.
-
-## Page 1 — Video Script
-
-- Rewritten separately. New title: *What makes a check-in useful*. Frames the topic as a transferable professional skill (the rhythm of weekly check-ins) rather than a Check-In #1-specific briefing.
+Hi Kim — I've gone through Week 7 and made a fair number of changes. This is a quick guide to what I changed and why. The first section is the patterns I noticed across the week — those are the ones I think are most worth carrying into Week 9 and beyond. The second section is brief page-by-page notes so you can find specifics for any page.
 
 ---
 
-## Page 2 — From Plan to Product
+## Patterns to carry forward
 
-- **Reframed the opener positively.** Old version led with "documents aren't graded for effort or thoroughness," which is a negative frame and also misleading — effort and thoroughness do matter in professional work. New opener leads with what professional documents are *for* (reader action) and acknowledges that research and effort reach the client through usable writing.
-- **Reworked "polished vs complete" to focus on prose register, not formatting.** Old italic example was about inconsistent heading levels and font sizes — which duplicates Week 6 page 5 (Formatting professional deliverables) and reframes "polish" as a formatting problem. New example contrasts a hedged academic-register recommendation against a direct, actionable one. Closing line now positions the two pages as complementary: Week 6 page 5 = structural side of polish, this page = prose side.
-- **Added "When hedging is the right call" section** between the four revision moves and the polished/complete section. Cutting hedges is the default move, but some uncertainty is real. Section names four cases where hedged language is appropriate (forecasts, recommendations with external dependencies, findings from limited data, high-stakes claims) and frames the test as matching sentence-level confidence to evidence-level confidence. This was missing — without it, the page reads as "always cut hedges," which would push learners toward overstating findings.
-- **Updated revision move #2** to point at the new section so the four-move list and the hedging section reinforce each other.
-- **Em dashes removed**, parallel triplets and "X isn't Y, it's Z" patterns rewritten throughout.
+**Open with what something is *for*, not what it isn't or what people get wrong.** A few openers led with a failure mode ("the instinct is to be nice or to fix sentences") or a negative frame ("documents aren't graded for effort"). The production guide now flags this. I try to start with the thing's purpose and let failure modes show up later if at all.
 
-## Page 2 — Video Script
+**Watch where reusable content gets buried inside meeting-prep pages.** The original back half folded the feedback reception protocol inside the "Before Check-In #1" page, where learners would never find it again. The protocol applies in many contexts across the course and in students' careers (peer review, employer meetings, professional life). When something is conceptually portable, give it room to be found again later.
 
-- **Removed colon-labeled formats** ("An environmental sustainability audit team writes:" / "The professional version of the same finding:"). These read fine on a page but sound robotic when narrated. Restructured as flowing "Imagine a team turning in a sentence like this" prose.
-- **Replaced parallel-triplet closer** ("strip the hedging, name the specific problem, connect it to a concrete consequence") with a two-part move. Triplets are a flagged AI-ism in the instructional video guide.
+**Course checkpoints get their own page.** The WIP Summary is the week's required checkpoint deliverable — an important thing students have to do — and the original draft tucked its requirements inside the same Check-In #1 prep page. Required deliverables need to be unmissable: clear page, clear title, clear "what this checkpoint is" framing up front. If a student is scanning for what they have to submit this week, it should not be hiding three headings deep inside a page about something else.
 
----
+**Right-weight pages to the actual stakes.** The back half was modeled on Kickoff (Week 3) and Direction Check (Week 5) with three before/during/after pages. Check-In #1 is a 30-minute working meeting where the team drives the questions — not a pivotal employer event. I collapsed those three pages into one. When a moment isn't carrying the same weight as an earlier-course parallel, the structure should reflect that.
 
-## Page 3 — Reviewing Your Teammates' Work
+**Reference earlier-week frameworks instead of restating them.** Note-taking is taught on Week 3 page 3, the post-meeting debrief on Week 5 page 4, and AI note-takers were introduced in Week 3. Wherever those came up again here, I trimmed the restatement and pointed back, focusing only on what's *different* this time.
 
-- **Opener no longer leads with a failure mode.** Removed "the instinct to either be nice or to fix sentences is strong." That's a failure-mode opener (per the production guide), and the video already covers that instinct.
-- **Added a second opener paragraph framing peer review as a managerial habit and an AI-era employable skill.** The critical-reading muscle is the same one that separates strong AI use from blind trust. Worth being direct about.
-- **Added a "Start with the big question" section before the four lenses.** Asks fitness-for-purpose first ("does this piece do what it's supposed to do?") before zooming in on execution. If the answer is no, the feedback isn't line-level — it's a refocusing conversation. The four lenses are the wrong tool for that case.
-- **Renamed the four-lenses section** to "Four lenses for sharpening a piece" so the sequence reads as step back → sharpen.
-- **Added "What this does not mean" lines to all four lenses.** Heads off misuse and makes the feedback culture explicit. Specifically:
-  - *Clarity* isn't dumbing down or stripping out terminology a client will know.
-  - *Argument structure* doesn't mean every section needs the same shape.
-  - *Evidence quality* isn't a footnote count.
-  - *Tone* is not tone policing — it's about client-appropriateness, not flattening personal voice.
-- **Added "One more pass: catching AI-assisted errors" section** after the four lenses. Four concrete checks: real sources, accurate quotes, suspicious specificity, generic boilerplate. Framed as a function of peer review (the writer is the worst person to catch their own AI errors), not as policing AI use.
-- **Format references softened, not stripped.** Most Career Catalyst projects produce reports or decks (per the Project & Employer Engagement Framework), so the page mentions "section of a report, slide in a deck, or another piece of the team's deliverable" without overreaching to videos or prototypes.
-- **Em dash in the opener removed.**
+**Watch for guidance that's too definitive or extreme.** The "From Plan to Product" page told learners to cut hedge language. That's good advice — most academic hedging is reflexive and worth cutting — but stated as a blanket rule, it pushes learners to overstate findings in cases where uncertainty is real (forecasts, limited data, dependencies outside their control). The fix isn't to soften the original advice; it's to help learners distinguish the default case from the exceptions. Whenever a page is giving a strong directional rule, check whether learners also need to know where that rule stops applying.
 
-## Page 3 — Video Script
+**On the human / interpersonal stuff, lean on your own EQ and workplace experience.** Anywhere we're giving advice on how to *act* with other people — giving feedback, receiving it, navigating a meeting, managing a tense moment — AI tends to miss the softer texture of how those things actually play out at work. The clearest example this week was the actionable-feedback examples on page 3: technically specific, but blunt in a way that would make a reader bristle. I rewrote them to lead with the reviewer's own experience ("I'm not following…") and to ask a question rather than declare a verdict, because feedback is often subjective and language like that opens a conversation. Worth a pass on any page that's coaching a human interaction, asking yourself whether the advice would actually land the way you'd want it to in a real workplace. (This one is partly stylistic — our instincts may differ — so take it as input rather than a rule.)
 
-- **Title updated** from generic "Reviewing Your Teammates' Work" to "Structural feedback vs. line editing," which names what the video actually teaches.
-- **Second example swapped** from a written section (digital skills evaluation) to a slide in a deck, so the framework is visibly format-portable. First example (market positioning section) stayed.
-- **Minor tightening** throughout. No em dashes, no first person, no colon-labeled formats.
+**Check that each page connects to what's actually happening for learners that week.** The thing I'd flag here is stepping back and asking: in this specific week, what is the learner *doing*, and what feedback, conversations, or work is coming at them? The receiving-feedback page is the example. This week, learners are getting feedback from two directions — teammates reviewing each other's drafts (which may mostly be written comments on documents), and employers responding to their work in Check-In #1 (face-to-face). The original page covered only the synchronous side, which made sense in isolation but missed half of what learners are actually navigating this week. I added an async section so the page connects to both sources of feedback the week is generating. Worth scanning each page through that lens: given everything else happening this week, is the page meeting learners where they actually are?
+
+**AI-ism patterns I scrubbed throughout.** A few rhetorical tics consistently read as AI-generated even when they're not. I'd suggest watching for these in your own draft pass:
+- "X isn't Y, it's Z" parallels ("this isn't a design question, it's an argument question")
+- Parallel triplets ("specific, useful, and focused")
+- "The X is the point" / "the Y happened but the Z didn't" closers
+- Em dashes
+- Colon-labeled formats in video scripts ("A team writes:")
+- "AI cannot generate the X. It wasn't in the room"-style aphorisms
+
+The instructional video guide and content production guide flag most of these.
 
 ---
 
-## Page 4 — Working with Data and Visuals
+## Page-by-page notes
 
-- **Added a new opening paragraph** establishing that almost every professional project leverages data in some form (survey results, usage metrics, financial figures, research findings). Frames data presentation as a transferable professional skill before diving into format choice. The original opener jumped straight to the format question without making the broader case for why this skill matters.
-- **Reworked the second opener paragraph** to drop the "isn't X, it's Y" construction ("isn't a design question; it's an argument question") and the "lands as evidence or as noise" contrastive framing, which skirted the failure-mode-opener rule.
-- **Em dashes scrubbed throughout.** Multiple instances replaced with commas, periods, or "rather than" constructions.
-- **"X isn't Y, it's Z" patterns softened.** "Tables are for comparison and reference" / "Charts are for shape and movement" reworked to drop the parallel aphoristic feel. "The data is decoration, not evidence" rewritten as "the data is doing decorative work rather than evidentiary work."
-- **Parallel triplet trimmed** in the AI section ("generating chart types, suggesting formats for specific data structures, or producing a rough visual you can refine" → two-part structure).
-- **Tightened the AI verification list** from a triplet ("numbers match, labels are accurate, chart type fits") to a two-part check, since the labels point was the weakest of the three.
+### Page 1 — Overview
 
-## Page 4 — Video Script
+- Reframed the opener around production (the bulk of the week's time), not Check-In #1.
+- Removed Check-In #1 instructional content from the page (overviews orient, they don't teach).
+- Suggested order now leads with "start producing" rather than treating modules as a queue to clear first.
+- Updated module count; removed stale references to pages that don't exist this week.
 
-- **"70%" written out as "seventy percent"** in two places, since the script is narrated in Lumen5 and digit-based percentages read awkwardly aloud.
-- **Removed the colon-labeled format** in the simpler-finding example ("A sentence does it better:" → "A sentence does it better."). Also softened "if the finding is simpler" with a "say," lead-in so it flows more naturally as spoken narration.
-- No other changes — script was already in good shape (no em dashes, opens with concept not definition, uses environmental sustainability audit as the running example consistent with page 2's video, one-sentence closer).
+### Page 1 video script
 
----
+- New title: *What makes a check-in useful*. Frames the topic as a transferable professional habit rather than a Check-In #1 briefing.
 
-## Restructure of pages 5–8 — Check-In #1, WIP Summary, feedback reception, and team check-ins
+### Page 2 — From Plan to Product
 
-The back half of Week 7 was originally split into three before/during/after pages mirroring the Kickoff (Week 3) and Direction Check (Week 5) treatment. On review, that was the wrong weight for Check-In #1, which is a 30-minute lightweight working meeting where the team drives questions rather than a pivotal employer event. The before-page also absorbed two distinct pieces of content that learners would want to reference later: the feedback reception protocol and the Work-in-Progress Summary checkpoint requirements. Both were invisible buried inside a "Before Check-In #1" page.
+- Reframed opener around what professional documents are *for*, not what they're not graded on.
+- Reworked the "polished vs. complete" example from formatting (duplicates Week 6 page 5) to prose register, where this page adds value.
+- **Added a "When hedging is the right call" section.** Without it, the "cut hedges" advice would push learners to overstate findings.
+- Added an intro paragraph for the academic-vs-professional table.
 
-**New page structure (back half of Week 7):**
+### Page 3 — Reviewing Your Teammates' Work
 
-| Old | New |
-|---|---|
-| page4 — Working with data and visuals | page5 — Working with data and visuals (renumbered) |
-| page5 — Before Check-In #1 | page4 — Receiving feedback well + page6 — The Work-in-Progress Summary + part of page7 — Check-In #1 |
-| page6 — During Check-In #1 | folded into page7 — Check-In #1 |
-| page7 — After Check-In #1 | folded into page7 — Check-In #1 |
-| (none) | page8 — Internal team check-ins (new) |
-| page8 — What's next | page9 — What's next (renumbered) |
+- Removed a failure-mode opener; added framing of peer review as a managerial habit and AI-era employable skill.
+- **Added a "Start with the big question" section** before the four lenses, asking fitness-for-purpose first. If a piece isn't doing the right job, the four lenses are the wrong tool.
+- Added "What this does not mean" lines to all four lenses to head off misuse (clarity ≠ dumbing down, tone ≠ tone policing, etc.).
+- **Added "One more pass: catching AI-assisted errors"** after the four lenses. Four concrete checks; framed as a function of peer review, not policing AI use.
+- **Softened the actionable-feedback examples** (lead with reviewer's confusion, ask a question) and added a paragraph explaining that this framing opens a conversation rather than delivering a verdict.
 
-### Page 4 — Receiving feedback well (NEW)
+### Page 3 video script
 
-- **Extracted from old page 5** as a standalone reference page. The feedback reception protocol applies in two near-term places (peer review of teammates' work, employer Check-In meetings) and many more across the course and in professional life. It was hidden inside the Check-In prep page where learners would never find it again.
-- **Reframed for both teammate and employer feedback contexts.** Old version was framed only for the employer meeting.
-- **Added "When feedback styles differ" section** — practical equity angle on cultural variation in feedback delivery norms (directness, formality, openness of disagreement). Frames the protocol as portable across these styles because it focuses on the receiver, not the giver.
-- **Added "When feedback isn't useful" section** — names the research finding that learners and professionals from underrepresented groups often receive vaguer, more personality-focused feedback than their peers. Points to the clarify step as the practical tool for either turning vague feedback into something concrete or surfacing that nothing concrete is behind it.
-- **Feedback Protocol Card converted to `[DOWNLOADABLE: ...]` placeholder.** Will be produced as a printable one-page reference card later.
-- **AI-isms scrubbed** — removed "Clarifying isn't arguing. It's understanding," "Acknowledgment doesn't mean agreement. It means the message landed," and the "isn't X, it's Y" defensive-response cluster. Em dashes reduced.
+- Title now names what the video actually teaches: *Structural feedback vs. line editing*.
+- Second example swapped to a slide so the framework reads as format-portable.
+
+### Page 4 — Receiving feedback well *(new page — extracted from old "Before Check-In #1")*
+
+- Pulled out as standalone because the protocol applies in many contexts (peer review, employer meetings, professional life).
+- Reframed for both teammate and employer feedback, not just the employer meeting.
+- Added a "When feedback styles differ" section on cultural variation.
+- Added a "When feedback isn't useful" section, naming the research finding that learners from underrepresented groups often receive vaguer, more personality-focused feedback. Clarify step is the practical tool.
+- **Split the page into conversational vs. asynchronous contexts.** Listen / Clarify / Acknowledge / Decide-later is now scoped to face-to-face (the employer meeting). Added a new async section for written feedback: don't read tone in, question your reaction, use the gap as an asset, use AI as a processing tool not a reply generator.
+- Feedback Protocol Card converted to `[DOWNLOADABLE: ...]` placeholder.
 
 ### Page 5 — Working with data and visuals
 
-- **Renumbered from page 4 to page 5** to make room for the new Receiving feedback well page after Reviewing your teammates' work. Content unchanged; only the `page` field in frontmatter and the filename were updated.
+- Added an opening paragraph framing data presentation as a transferable skill before diving into format choice.
+- Reworked the second opener to drop contrastive "isn't X, it's Y" framing.
+- Renumbered from page 4 to make room for the new feedback page.
 
-### Page 6 — The Work-in-Progress Summary (NEW)
+### Page 5 video script
 
-- **Extracted from old page 5** as a standalone checkpoint deliverable page. The WIP Summary is the week's checkpoint, and checkpoint deliverables warrant their own page so requirements are findable and unambiguous.
-- **New "What this checkpoint is (and isn't)" section** up front since this is now a standalone deliverable page — learners need format and purpose context before the section breakdown.
-- **Four sections promoted to H3 subheadings** for scannability when learners come back to find a specific part.
-- **Submission section moved here** from the old "After Check-In #1" page. Fixed the "serves neither purpose" logic slip (only one purpose was named).
-- **AI-isms scrubbed** — "That discomfort is the point," "The quality of your questions determines the quality of the meeting," "AI cannot generate the substance of the summary. It doesn't know..." Em dashes reduced.
-- **Reframed entire page from employer-facing to team-facing.** First draft of this page implicitly treated the WIP Summary as a meeting pre-read: the opener compared it to consulting status reports sent to clients, and each of the four sections justified its existence in terms of what it communicates to the employer ("answers the employer's first unspoken question," "creates the shared baseline for the meeting," "gives the employer something concrete to engage with"). That framing contradicts the design doc, which is clear that the employer does not receive or read the document. Rewrite flips every "why" from employer-facing to team-facing:
-  - **Opener** now frames the analog as internal prep notes and talking points teams write before client meetings, not status updates sent to clients.
-  - **"What this checkpoint is" section** explicitly states the employer will not receive it, you should not send it to them, and it is not a pre-read or agenda. The point of the writing is the act of writing itself, not communication to anyone outside the team.
-  - **Completed work** — vague memory is rosier than reality; writing forces honest stock-taking.
-  - **Current status** — gives the team a shared picture; surfaces internal disagreement before the meeting rather than mid-meeting.
-  - **Challenges encountered** — blockers that don't get written down get forgotten or hedged into invisibility under pressure; pre-writing makes them harder to drop.
-  - **Specific questions** — writing a question precisely is what reveals whether the team actually knows what it's asking. Precision happens through team revision, not in real time.
-  - **AI guidance** sharpened: AI can't do the thinking the writing is supposed to force; if AI generates the words first, you skip the surfacing and end up with a plausible document that tells you nothing new.
+- "70%" written out as "seventy percent" since it's narrated.
 
-### Page 7 — Check-In #1 (NEW combined)
+### Page 6 — The Work-in-Progress Summary *(new page — extracted from old "Before Check-In #1")*
 
-- **Replaces the three before/during/after pages.** Single page with four H2 sections: page-level opener, Preparing for the meeting, During the meeting, After the meeting. Right weight for a 30-minute working meeting that doesn't carry the Kickoff/Direction Check stakes.
-- **Meeting duration corrected from 60 to 30 minutes.** Time breakdown updated: 3 min status / 18–20 min questions / 5 min observations / 2–3 min priorities. The original drafts had it at 60 minutes throughout.
-- **Reframed open vs. closed questions.** Old version dismissed "What do you think of our work so far?" and "Is our approach going in the right direction?" as questions that "won't generate useful responses." New framing: those are legitimate openers that need to be paired with specific follow-ups, not bad questions to avoid. Treats them as conversation starters with built-in follow-up structure.
-- **AI Note Taker referenced, not re-introduced.** Names Otter.ai, Granola, and built-in transcription as tools "from earlier in the course," with "the same cautions you encountered at the Kickoff and Direction Check apply." (Initially introduced in Week 3 page 2.) Pulled into the role-assignment section instead of getting its own subsection.
-- **Note-taking content compressed** to avoid duplicating Week 3 page 3's full Note-taking checklist. Single in-meeting tip about flagging ambiguity, no separate framework restatement.
-- **Debrief content compressed and references Week 5.** Old version restated the four-question debrief framework already taught in Week 5 page 4. New version says "the mechanics are the same ones you used after the Direction Check," names the four capture points in one line, and focuses on what's *different* this time: no formal summary deliverable, debrief feeds straight into the working list.
-- **AI-isms scrubbed** — "This is context, not a presentation," "the meeting happened but the learning didn't," "AI cannot generate the content of the debrief. It wasn't in the room." Em dashes reduced throughout.
-- **Weekly Progress Check-In removed from this page** — moved to its own standalone page (page 8).
-- **Feedback Protocol Card reference** points back to the Receiving feedback well page.
-- **Interactive placeholder retained** at the end and updated to reference the receiving feedback page.
+- Pulled out as a standalone checkpoint deliverable so the requirements are findable and unambiguous.
+- Added an upfront "What this checkpoint is (and isn't)" section.
+- **Reframed the entire page from employer-facing to team-facing.** First draft implicitly treated the WIP Summary as a pre-read sent to the employer; the design doc is clear the employer never sees it. Every "why" was rewritten — completed work is honest stock-taking, current status is the team's shared internal picture, challenges get pre-named so they don't hedge into invisibility under meeting pressure, specific questions get precision through team revision (not real time).
+- AI guidance sharpened: AI can't do the thinking the writing is supposed to force.
 
-### Page 8 — Internal team check-ins (NEW)
+### Page 7 — Check-In #1 *(new combined page)*
 
-- **New instructional page** on internal team check-ins as a routine professional rhythm. Covers daily standups, weekly working syncs, and async written check-ins as common formats; what makes a check-in actually useful (specificity, honesty about blockers, action-oriented closing, equal airtime); and embeds the Weekly Progress Check-In as the course's specific structured prompt.
-- **The Weekly Progress Check-In is framed as a suggested format**, not a brand-new behavior. Teams should already be checking in weekly throughout the course; this page just offers a tighter prompt for those who want one. Follow-up: Week 1 needs an edit to establish weekly team check-ins as an ongoing expectation from the start of the course. Captured in project memory.
-- **"Equal airtime" point** included as a small equity nod (quiet teammates often have the information you need most; round-robin and direct questions help).
-- **No video** for this page.
+- Replaces three before/during/after pages with one — right weight for a 30-minute working meeting.
+- Meeting duration corrected from 60 to 30 minutes throughout, with a new time breakdown.
+- **Reframed open vs. closed questions.** Old version dismissed broad questions like "what do you think of our work so far?" as bad. New framing treats them as legitimate openers that need specific follow-ups paired with them.
+- AI Note Taker referenced as a tool from earlier weeks, not re-introduced.
+- Note-taking and debrief content compressed; references Week 3 and Week 5 rather than restating frameworks.
+- Small wording fix: at Check-In #1, the team brings *questions about* the work, not the work itself.
+
+### Page 8 — Internal team check-ins *(new page)*
+
+- New instructional page on internal team rhythms (standups, weekly syncs, async written check-ins) and what makes any check-in useful.
+- Embeds the Weekly Progress Check-In as a suggested format, not a brand-new behavior. Teams should already be checking in weekly by this point in the course; this just offers a tighter prompt for those who want one.
+- Includes an "equal airtime" point as a small equity nod.
 
 ### Page 9 — What's next
 
-- **Renumbered from page 8 to page 9** to accommodate the new Internal team check-ins page. Content unchanged.
-
-### Page 1 — Overview (updates)
-
-- **Module count updated** from "three skill modules" to "four skill modules" in the opener prose, then trimmed in the suggested order to keep step 2 evergreen. Step 2 now reads "Work through the skill modules as they become relevant" without naming individual modules, so the overview won't need re-editing if module lineup changes.
-- **Check-In #1 framing** updated to reflect the single combined page and to point to both the Work-in-Progress Summary page and the Check-In #1 page for what to submit and how to prepare.
-- **No standalone "Weekly Progress Check-In" callout** — the practice is part of teams' ongoing weekly rhythm and doesn't warrant overview-level prominence. The Internal team check-ins page is mentioned as a soft pointer in step 6 of the suggested order for teams that want a tighter format.
-- **`last_updated` bumped** to 2026-04-08.
+- Added a second opener orienting learners to Week 8's shape: no employer meeting, biggest production block of the course so far, first peer evaluation.
+- Reframed "How to prepare" — rubric review happens in Week 8 (activity 8.06), so the genuinely useful prep work right now is gathering specific observations across the project.
 
 ---
 
-## Page 8 — What's Next
-
-- **Added a second opener paragraph** orienting learners to the shape of the upcoming week: no employer meeting, biggest production block of the course so far, time going to feedback-driven revisions and the first peer evaluation. Verified against Week 8 design doc — Peer Evaluation #1 is correctly named as the graded deliverable, and Week 8 genuinely has no employer touchpoint and the largest production block to date. The original page named only the peer eval, which underrepresented the dual focus of the week.
-- **Em dashes removed** from the Peer Evaluation section ("their teammates' work — reading drafts… debrief — will have concrete observations").
-- **Three parallel triplets reworked.** The page had three triplets in a very short space ("their draft work, their participation, and their collaboration"; "reading drafts, giving specific feedback, participating in the prep session and debrief"; "what a teammate produced, what you suggested, and how they responded"). Two were rewritten to drop the parallel-list rhythm; the third was retained as a natural list of observation types since it's load-bearing for the "How to prepare" guidance.
-- **Added a sentence noting that learners will get dedicated time** in Week 8 to review the rubric, walk through the rating dimensions, and use a calibration scenario. Heads off anxiety and reflects what activity 8.06 actually provides — without this, learners might worry they're walking into the eval cold.
-- **Reframed "How to prepare."** Original said "Review the Peer Evaluation #1 rubric before next week," but Week 8 has dedicated time for that (activity 8.06). New version focuses on the genuinely useful prep work learners can do *now* but won't have time for in Week 8: gathering specific observations from across the project. Frames it as raw-material capture rather than a rubric review task.
+Happy to talk through any of this if it's useful, or if you'd want to push back on anything. The patterns section is the part I'd most want to land for Week 9 onward.

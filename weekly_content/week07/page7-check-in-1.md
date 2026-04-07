@@ -18,7 +18,7 @@ competencies:
 
 Working meetings to unblock production are a routine professional rhythm. Once a project is underway, teams meet with the people they're producing the work for to surface questions, test assumptions, and get the input they need to keep moving. These are not status presentations and they are not approval gates. They are short, working conversations where the team comes in with specific questions and the client or sponsor acts as a resource.
 
-Check-In #1 is your team's first meeting of this kind in the Development phase. It's different from the Direction Check earlier in the course (the meeting where you confirmed the project's overall direction with your employer before starting full production). At the Direction Check, you brought a plan and asked for sign-off. Here, you bring the work you've been building and ask the employer to help you move it forward. The employer is not evaluating a presentation. They are responding to what you bring them.
+Check-In #1 is your team's first meeting of this kind in the Development phase. It's different from the Direction Check earlier in the course (the meeting where you confirmed the project's overall direction with your employer before starting full production). At the Direction Check, you brought a plan and asked for sign-off. Here, you bring questions about the work you've been building and ask the employer to help you move it forward. The employer is not evaluating a presentation. They are responding to what you bring them.
 
 The meeting is short, about 30 minutes, and may end early if your team has covered what it needs to. Making it useful is mostly a matter of preparation: knowing what to ask, who's leading what, and how you'll capture what you hear.
 

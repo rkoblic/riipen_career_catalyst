@@ -20,15 +20,17 @@ Professional documents need to be written so a reader can act on them. The resea
 
 The video above walks through two concrete before/after examples showing the difference between academic-style and professional-style writing. The key moves are the same regardless of project type.
 
+Most of the writing experience you've built up to this point has been academic, and academic writing has its own conventions about structure, voice, and how arguments get built. Those conventions don't all carry over to professional documents, and a few of them actively work against you. The table below names the main differences so you can spot the academic habits in your own draft and decide where to revise.
+
 **Academic vs. professional writing: key distinctions**
 
-| Academic | Professional |
-|---|---|
-| Builds to a conclusion | Leads with the main finding or recommendation at the top |
-| Hedges to show awareness of complexity ("it has been observed that") | States findings directly; if uncertain, says why rather than hedging by default |
-| Demonstrates the research process | Presents only what the reader needs to act; cut the methodology summary unless asked |
-| Uses passive voice to appear objective ("it is recommended") | Uses active voice because it's clearer ("we recommend") |
-| Assumes a reader who will work through the argument | Assumes a reader who will skim first; headers and short paragraphs are not stylistic choices |
+| Academic                                                             | Professional                                                                                 |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Builds to a conclusion                                               | Leads with the main finding or recommendation at the top                                     |
+| Hedges to show awareness of complexity ("it has been observed that") | States findings directly; if uncertain, says why rather than hedging by default              |
+| Demonstrates the research process                                    | Presents only what the reader needs to act; cut the methodology summary unless asked         |
+| Uses passive voice to appear objective ("it is recommended")         | Uses active voice because it's clearer ("we recommend")                                      |
+| Assumes a reader who will work through the argument                  | Assumes a reader who will skim first; headers and short paragraphs are not stylistic choices |
 
 ---
 

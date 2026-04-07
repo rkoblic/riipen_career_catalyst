@@ -3,7 +3,7 @@ week: 7
 page: 4
 title: Receiving Feedback Well
 created: 2026-04-07
-last_updated: 2026-04-07
+last_updated: 2026-04-08
 status: draft
 competencies:
   - area: Professionalism
@@ -16,7 +16,7 @@ competencies:
 
 Every professional who produces work for someone else gets feedback on it. From a manager on a draft proposal, from a colleague on a slide they're presenting tomorrow, from a client on a recommendation that misses what they actually needed. The skill of taking that feedback in without immediately defending against it is one of the more reliable predictors of how quickly someone grows in a role. It's also one of the harder things to do well.
 
-This page covers how to receive feedback in a way that keeps you learning from it. The protocol applies in two places this week, and in many more across the rest of the course and your career: when a teammate reads your draft and tells you what's not working, and when your employer responds to the work your team brings to a check-in meeting. Both situations call for the same set of habits.
+This page covers how to receive feedback in a way that keeps you learning from it. Feedback shows up in two main forms, and the habits that help you receive it well are slightly different in each. Some feedback comes in conversation: an employer in a check-in meeting, a teammate pulling you aside after a working session, a manager catching you in a hallway. Some comes asynchronously: comments left in a document, a Slack message, an email reply on a draft. Both kinds happen this week — your teammates will likely leave most of their review comments asynchronously, while your employer's feedback at Check-In #1 will come in conversation. The sections below cover both.
 
 ---
 
@@ -30,7 +30,9 @@ The protocol below won't make the discomfort go away. It creates a structure tha
 
 ---
 
-## The reception protocol: Listen → Clarify → Acknowledge → Decide later
+## Receiving feedback in conversation: Listen → Clarify → Acknowledge → Decide later
+
+When feedback comes in real time — in a meeting, a working session, a quick exchange after class — you don't get to step away and process before responding. The protocol below is for that case. It's a structure for staying in listening mode when the instinct is to argue.
 
 **Listen.** Hear the feedback before you respond to it. Don't start formulating your reply while the other person is still talking. If you catch yourself thinking "but we chose that because...," pause and listen to the end. Most feedback gets more specific or more nuanced as the person keeps explaining, and the version you would have argued with after the first sentence often isn't the version they actually meant.
 
@@ -39,6 +41,24 @@ The protocol below won't make the discomfort go away. It creates a structure tha
 **Acknowledge.** Name what you heard. "So the concern is that our recommendation doesn't address the operational constraints you mentioned earlier" tells the other person you understood them and gives them the chance to confirm or correct. Acknowledging is not the same as agreeing. You're confirming that the message landed, not committing to act on it.
 
 **Decide later.** Don't commit to a response or a course of action in the moment. You don't have to agree with every piece of feedback, and you don't have to decide what to do with it on the spot. Your job during the conversation is to hear and understand. The decision about what to do with the feedback happens after, with your team or on your own, once you have time to weigh it against everything else you know about the work.
+
+---
+
+## Receiving feedback asynchronously
+
+A lot of the feedback you'll get on your work won't arrive in person. It will show up as a comment on a document, a message in Slack, a reply on an email thread. Async feedback has one big advantage over face-to-face feedback: there's a built-in gap between when you read it and when you respond. That gap is the most useful thing about it. Use it.
+
+It also has one big disadvantage: written feedback strips out tone, facial expression, and pacing. You only have the words, and your brain will fill in the rest. The same comment can read as helpful or dismissive depending on what mood you're in when you read it, and the version you imagine is rarely the version the person meant.
+
+A few habits help:
+
+**Don't read tone into text that isn't there.** A short comment isn't a curt one. "This doesn't work for me" written in a doc comment is almost never as cold as it sounds in your head. The person typing it was likely in a hurry, not annoyed. Assume the most generous version of what was written, the way you'd want someone to read your own quick comments.
+
+**Question your reaction before you act on it.** If a comment makes you bristle, that's information, but it's information about you, not about the comment. Notice the reaction, then ask what specifically set it off. Was it the substance, or the wording? Would the same point have landed differently in a meeting? Often the answer is yes, and the feedback itself is fine — it was the medium that stung. Separating those two things keeps you from arguing with a teammate who didn't actually say what you reacted to.
+
+**Use the gap.** You don't owe an immediate reply to a comment or a Slack message. Read it, sit with it for a few hours or overnight, and come back to it when you're not reacting. Almost everything you would have written in the first ten minutes will read as overcooked the next morning. The clarify and acknowledge moves from the protocol above still apply — they just happen in writing, on your timeline.
+
+**Use AI to help you process, carefully.** If a piece of written feedback is bothering you and you can't tell why, it can help to talk it through with an AI tool before you respond. Paste in the comment, explain what you were trying to do, and ask the model to help you separate the substance of the feedback from your reaction to it, or to draft a clarifying question you could ask the person who wrote it. This is processing, not outsourcing. The goal is to get yourself to a place where you can respond clearly, not to have AI write the response for you. Anything you actually send back should still be in your own words.
 
 ---
 
