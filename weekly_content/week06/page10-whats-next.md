@@ -1,9 +1,9 @@
 ---
 week: 6
-page: 9
+page: 10
 title: What's Next
 created: 2026-04-01
-last_updated: 2026-04-07
+last_updated: 2026-04-06
 status: draft
 ---
 

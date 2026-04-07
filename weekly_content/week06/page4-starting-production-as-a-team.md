@@ -1,9 +1,9 @@
 ---
 week: 6
-page: 3
+page: 4
 title: Starting Production as a Team
 created: 2026-04-02
-last_updated: 2026-04-02
+last_updated: 2026-04-06
 status: draft
 competencies:
   - area: Teamwork

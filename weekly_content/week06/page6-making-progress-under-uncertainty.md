@@ -1,9 +1,9 @@
 ---
 week: 6
-page: 5
+page: 6
 title: Making progress under uncertainty
 created: 2026-04-01
-last_updated: 2026-04-02
+last_updated: 2026-04-06
 status: draft
 competencies:
   - area: Critical Thinking

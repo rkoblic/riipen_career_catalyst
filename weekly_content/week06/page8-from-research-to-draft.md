@@ -1,9 +1,9 @@
 ---
 week: 6
-page: 7
+page: 8
 title: From research to draft
 created: 2026-04-01
-last_updated: 2026-04-02
+last_updated: 2026-04-06
 status: draft
 competencies:
   - area: Critical Thinking

@@ -16,6 +16,6 @@ That moment is here. The kickoff, the research, the Direction Check are behind y
 
 The feedback you ask for is no longer "is this the right direction?" It's "is this draft any good?"
 
-Production may also reveal a gap planning might hide: the difference between what the project needs and what you already know how to do. You may be asked to use a skill you haven't built yet. That's normal professional occurrence and a great opportunity. Find a resource. Ask a colleague. Do the research. AI can also be a strategic partner here. The work still has to be yours, but you don't have to start from zero.
+Production may also reveal a gap planning might hide: the difference between what the project needs and what you already know how to do. You may be asked to use a skill you haven't built yet. That's a normal professional occurrence and a great opportunity. Find a resource. Ask a colleague. Do the research. AI can also be a strategic partner here. The work still has to be yours, but you don't have to start from zero.
 
 That's production. Making the thing, learning as you go, asking for help when you need it.

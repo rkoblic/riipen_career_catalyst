@@ -1,9 +1,9 @@
 ---
 week: 6
-page: 8
+page: 9
 title: Navigating disagreement
 created: 2026-04-01
-last_updated: 2026-04-07
+last_updated: 2026-04-06
 status: draft
 competencies:
   - area: Teamwork
@@ -14,9 +14,9 @@ competencies:
 
 # Navigating disagreement
 
-Most teams run into some kind of disagreement once production starts: about direction, about quality, about how the work is divided. A few teams don't. Either way, knowing how to handle a disagreement before you're in one tends to make a real difference when it actually surfaces.
+Many teams run into some kind of disagreement once production starts: about direction, about quality, about how the work is divided. Some teams don't. Either way, knowing how to handle a disagreement before you're in one tends to make a real difference when it actually surfaces.
 
-This page covers production-phase disagreement specifically. It's a different situation from the general collaboration norms earlier in the course. This is about what to do when a teammate's piece is going the wrong direction, or when the employer's Direction Check feedback doesn't quite match what your team thinks would produce the best result.
+This page covers production-phase disagreement between teammates specifically. It's a different situation from the general collaboration norms earlier in the course. This is about what to do when a teammate's piece is going the wrong direction, or when team members see the quality bar or the workload split differently.
 
 A note on format: this page uses "section" and "draft" because most Riipen projects produce a written deliverable, but the same approach applies to disagreements about a deck, a prototype, a video, or any other format your team is producing.
 
@@ -49,22 +49,6 @@ For all three, the approach is the same: name what you're seeing specifically, a
 "I noticed your section is organized around X, but I read the brief as asking for Y. Am I missing something?" gives your teammate a chance to explain their reasoning. "I don't think this is right" doesn't.
 
 Most production disagreements come down to interpretation: both teammates read the same material and reached different conclusions about what to do with it. Leading with curiosity rather than evaluation keeps the conversation productive and preserves the relationship. In a professional context, that matters because you're still working together after the conversation ends.
-
----
-
-## When employer direction feels wrong
-
-Sometimes the Direction Check feedback doesn't match what your team believes would produce the best work. This is a different situation from disagreeing with a teammate. You're navigating a professional relationship where the other party has authority over the project.
-
-**Default to the employer's direction** when it's a question of preference, format, or framing. They know their audience and their context better than you do.
-
-**Push back gracefully** when your team has a specific reason, based on your research, to think a different approach would better serve the project goal. The framing matters here:
-
-"Based on what we found about [topic], we were thinking [approach] might address the goal more directly. We wanted to check that with you before we proceed." This offers a perspective and invites dialogue. It doesn't position the employer as having made an error.
-
-Pushing back gracefully looks like a specific, evidence-based suggestion offered before you commit to an alternative approach. A few things that don't count: arguing about the feedback, expressing frustration in your team channel, going quiet and hoping the issue resolves itself, or unilaterally continuing with your original direction regardless of what the employer said.
-
-**Document the decision.** Whatever your team decides (whether you follow the employer's direction as given or raise a question about it), note it. If the team proceeds under employer direction and someone had a concern, that concern should be in your own records. If the project takes an unexpected turn later, documentation of what was decided and why is worth having.
 
 ---
 
