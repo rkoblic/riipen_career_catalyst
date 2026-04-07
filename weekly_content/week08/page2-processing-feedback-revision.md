@@ -50,4 +50,4 @@ Once sorted, convert your act-on items into a concrete plan.
 
 **Distinguish revision type before estimating time.** A targeted edit takes an hour; a structural revision takes a day. The next page covers this distinction.
 
-**Keep it in a shared document.** This plan is the seed of your Change Log — the record of how employer feedback was incorporated into your deliverable.
+**Keep it in a shared document and add to it throughout the project.** This plan is the seed of your Change Log — a running record submitted with your final deliverable that documents the feedback your team received and how you addressed it. Every time you incorporate employer input, the Change Log grows. Start it now.

@@ -29,6 +29,16 @@ To prepare, keep the evidence that informed your own evaluation close. When you 
 
 ---
 
+## Status Update to Employer
+
+Starting this week, send a brief Status Update to your employer through Riipen between check-ins. This is a short async message — a few sentences — that lets the employer know where your project stands and flags anything that needs their input before Check-In #2.
+
+A useful update covers three things: what your team has made progress on since Check-In #1, what you've revised based on their feedback, and any outstanding questions or decision points where their input would help. You don't need to wait until you have complete sections to send this — a brief status message keeps the employer in the loop and surfaces blockers early.
+
+This standing prompt continues through the rest of the project. Each week between check-ins, a brief update goes out.
+
+---
+
 ## How to prepare
 
 - **Keep advancing your draft.** The more complete your sections are before Check-In #2, the more specific your questions can be. Vague drafts produce vague questions.
