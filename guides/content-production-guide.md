@@ -347,6 +347,14 @@ These principles are established in the development plan process. During content
 
 18. **Hyperlink tools consistently.** When a tool, resource, or external reference is mentioned in learner-facing content, link the first mention with a markdown link in the form `[**Tool name**](URL)`. Drop bare-text URLs in parentheses; the link does the same work without the visual clutter. Subsequent mentions of the same tool can stay unlinked plain text. For tools with distinct subpages worth pointing at separately (e.g., Canva's general site vs. its chart templates), each subpage URL gets its own link the first time it appears.
 
+19. **Required deliverables and checkpoints get their own findable page.** When a week has a graded deliverable, a required checkpoint, or another mandatory student action, give it its own page with a clear title and a "What this checkpoint is (and isn't)" section up front. Don't tuck required submissions inside a meeting-prep or context-setting page where they'll be missed. A learner scanning for "what do I actually have to do this week?" should find each requirement unmissable. Reusable concepts (e.g., a feedback reception protocol) that apply in multiple contexts across the course also earn their own findable page rather than living buried inside the page where they first come up.
+
+20. **Watch for guidance that's too definitive when the real answer has exceptions.** When a page gives a strong directional rule (cut hedge language, lead with the recommendation, write in active voice), check whether learners also need to know where that rule stops applying. The fix isn't to soften the original advice — it's to surface the exceptions explicitly so learners can distinguish the default case from edge cases. Stated as a blanket rule, "cut all hedges" pushes learners to overstate findings; paired with "and here's when hedging is the right call," it teaches judgment instead of compliance.
+
+21. **On human and interpersonal advice, draw on real workplace experience.** Anywhere a page is coaching a human interaction — giving feedback, receiving it, navigating a meeting, managing a tense moment — AI tends to miss the softer texture of how those things actually play out at work. Read your draft as if you were the learner about to follow it in a real workplace. Would the advice land the way you'd want it to? Does the example dialogue sound like something a person would actually say? Blunt-but-technically-correct guidance is a common failure mode here. Reframe verdicts as conversation openers: questions instead of declarations ("Is there any data that would support this directly?"), reader-perspective framings ("I'm not following how this connects…" rather than "this isn't connected"), and acknowledgments of the choice behind the work before suggesting a change. Feedback is often subjective, and language that opens a conversation is more accurate, not just softer.
+
+22. **Check that each page connects to what's actually happening for learners that week.** Step back and ask: in this specific week, what is the learner *doing*, what feedback or conversations are coming at them, and what work is in front of them? Does each page meet learners at that moment? A page on receiving feedback in a week where learners are getting feedback from two directions (employer in a meeting, teammates in document comments) needs to address both. A page that only covers half of what's actually happening this week leaves learners on their own for the other half. The week's design doc, employer touchpoint arc, and the surrounding pages should all inform what each individual page covers.
+
 ---
 
 ## AI Guidance Principles
@@ -514,6 +522,10 @@ Before considering a page complete:
 - [ ] Language is format-agnostic where the deliverable type isn't fixed (or marked as written-specific where appropriate)
 - [ ] Course-specific terms (team sync, Direction Check, etc.) are explained in plain language on first use
 - [ ] Recurring frameworks (DEAL, rubrics) are referenced rather than re-taught when learners have encountered them before
+- [ ] Required deliverables and checkpoints have their own dedicated page (not buried inside a meeting-prep or context-setting page)
+- [ ] Strong directional rules either have no real exceptions or surface the exceptions explicitly
+- [ ] Pages coaching human interactions read like advice that would actually land in a real workplace
+- [ ] The page connects to what learners are actually doing and receiving this specific week (not just what the page is about in isolation)
 - [ ] Content for recurring course elements aligns with the relevant rubric or framework document (`rubrics/`)
 - [ ] First mention of each external tool is hyperlinked; bare-text URLs removed
 - [ ] Accessibility basics covered where relevant: real heading styles, color isn't the only signal, descriptive link text, captions on video
