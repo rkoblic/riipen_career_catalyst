@@ -30,10 +30,7 @@ The video above walks through what multi-author integration looks like in practi
 - **Register shifts.** One section reads as formal academic prose, the next as conversational. Match the register across the document.
 - **Transition gaps.** Sections that start cold, without any signal that the document has shifted focus. A short orienting sentence at the opening of each major section goes a long way.
 
-[CURATED LINK: Multi-author document integration and editing]
-- Option 1: "How to Edit a Document Written by Multiple Authors" — ThoughtCo — https://www.thoughtco.com/how-to-edit-collaborative-documents-1692988 — Practical guidance on the specific challenges of collaborative editing (voice consistency, redundancy, structural gaps) with concrete revision strategies.
-- Option 2: "The Guide to Collaborative Writing" — Grammarly Business Blog — https://www.grammarly.com/business/learn/collaborative-writing/ — Covers the full workflow of team writing, with a strong section on the integration review and common problems that appear in assembled drafts.
-- Option 3: "Writing With Others: How to Make Collaborative Writing Work" — MindTools — https://www.mindtools.com/amtbj63/collaborative-writing — Balanced treatment of the process and interpersonal dimensions of collaborative writing; useful for teams dealing with both document coherence and differing writing styles.
+[CURATED LINK: "Collaborative and Group Writing" (article) — The Writing Center at UW-Madison — https://writing.wisc.edu/handbook/process/collaborative-and-group-writing/] A practical reference on the specific challenges of writing as a team, including how to integrate sections written by different people, resolve inconsistencies, and review assembled drafts for coherence.
 
 ---
 
