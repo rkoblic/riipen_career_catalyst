@@ -3,7 +3,7 @@ week: 9
 page: 2
 title: Strengthening your draft
 created: 2026-04-09
-last_updated: 2026-04-09
+last_updated: 2026-04-15
 status: draft
 competencies:
   - area: Communication
@@ -15,6 +15,8 @@ competencies:
 # Strengthening your draft
 
 Professional teams produce deliverables in parts, then assemble them. The assembly stage is where a document either becomes a coherent whole or reveals itself as a collection of sections. This module covers three things that happen at this stage: integrating work written by different people, testing whether your recommendations are actionable, and managing scope decisions that tend to surface under the pressure of a deadline.
+
+[VIDEO: Making a team document read as one]
 
 ---
 
