@@ -77,3 +77,5 @@ What to look for:
 - Sections that are strong vs. sections that need more work before the final version
 
 After the review, the team should triage: which problems get fixed before submission, and which are known gaps to address after Check-In #2 feedback. Not everything needs to be fixed now. But every team member should understand the current state of the full document, not just their own piece of it.
+
+The structural review prompts introduced in the previous module apply here too. Running the full assembled draft through a structural review ("identify weak arguments, unclear transitions, or places where evidence doesn't support the claim being made") can surface issues that are hard to catch when reading section by section. Apply it to the assembled document after your team has done the human read-through, not as a substitute for it.
