@@ -4,7 +4,7 @@ page: 2
 title: Strengthening your draft
 type: video-script
 created: 2026-04-09
-last_updated: 2026-04-09
+last_updated: 2026-04-15
 status: draft
 ---
 
@@ -18,4 +18,4 @@ The fix isn't to rewrite everything in one voice. It's to do one integration pas
 
 A community outreach team discovered during their internal review that three sections each introduced the target population slightly differently: one defined it by geography, one by age, one by program participation. Any reader trying to understand who the project is actually for would come away confused. None of the individual sections was wrong. The problem only appeared when they were read in sequence.
 
-The integration pass is the move. Read the full draft end-to-end, out loud or silently, and mark every place where you lose the thread. That's the list you work from.
+Both of those problems were invisible when each team member was writing their own section. They only showed up when someone read the document through as a single piece. That's what the integration pass is for — and it's the only way to find them.

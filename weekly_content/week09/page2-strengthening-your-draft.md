@@ -40,7 +40,7 @@ A strong deliverable does more than report what you found. It gives the employer
 
 The gap between "here's what we found" and "here's what you should do about it" is where many teams lose points. The findings may be solid; the recommendations that follow from them may be too vague to act on.
 
-A useful test for each recommendation: could your employer pick this up on Monday and know what to do? "Improve community engagement" fails the test. "Develop a monthly update email for the 200 program participants on your current mailing list, starting with a single pilot in Q3" passes it. The second version is specific, time-bounded, and scoped to what the employer can actually do.
+A useful test for each recommendation: could your employer pick this up on Monday and know what to do? "Streamline the intake workflow" fails the test. "Reduce the intake form from 12 fields to 6 by removing the three fields the operations manager flagged as unused, before the August system rollout" passes it. The second version is specific, time-bounded, and scoped to what the employer can actually do.
 
 **Using AI to test actionability**
 
