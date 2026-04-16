@@ -3,7 +3,7 @@ week: 9
 page: 3
 title: Having the peer evaluation conversation
 created: 2026-04-09
-last_updated: 2026-04-09
+last_updated: 2026-04-16
 status: draft
 competencies:
   - area: Teamwork
@@ -64,7 +64,7 @@ What makes an agreement specific enough to be useful:
 
 **Too vague to act on:** "We'll communicate more consistently."
 
-**Specific enough:** "Yasmin will send a brief message in the team channel by end of day Thursday each week summarizing what she's finished, even if it's only a sentence."
+**Specific enough:** "Marcus will send a brief message in the team channel by end of day Thursday each week summarizing what he's finished, even if it's only a sentence."
 
 The agreement doesn't have to cover every piece of feedback. Focus on the changes that would have the most effect on how the team is working. Two or three genuinely owned commitments are more useful than a long list nobody follows.
 
