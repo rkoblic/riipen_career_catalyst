@@ -3,7 +3,7 @@ week: 9
 page: 5
 title: Check-In #2
 created: 2026-04-09
-last_updated: 2026-04-09
+last_updated: 2026-04-16
 status: draft
 competencies:
   - area: Communication
@@ -40,13 +40,13 @@ Walk through the draft with your team before the prep session. Every section whe
 
 At Check-In #1, your team was preparing questions about decisions you hadn't fully made yet. Now you've made them. The questions should reflect that: you're not asking for general direction, you're asking whether the specific choices you made were the right ones.
 
-Your team also has more context about how to use working sessions productively. Questions informed by the internal review gate findings, the peer evaluation process, and your team's own assessment of the draft's strengths and weaknesses will be sharper than the questions your team was able to bring three weeks ago.
+Your team also has more context about how to use working sessions productively. Questions informed by the internal review gate findings, the peer evaluation process, and your team's own assessment of the draft's strengths and weaknesses will be sharper than the questions your team was able to bring at Check-In #1.
 
 ### Anticipate what the employer will ask
 
 Employers in these meetings often ask questions about reasoning, not just findings. Why did your team approach the problem this way? Why didn't you pursue a particular direction? What's the evidence base for this recommendation?
 
-You can use AI to anticipate this. After preparing your questions, try: "Here's a brief summary of our project and the current state of our draft: [paste summary]. What questions is an employer likely to ask about this work in a quality review meeting?" Review what AI generates and use it to identify any places where your team's reasoning is thin. If AI surfaces a question your team can't answer, decide how to handle it before the meeting.
+You can use AI to anticipate this. The same approach your team used before Check-In #1 applies here, focused on quality and reasoning questions rather than progress ones. Review what AI generates and use it to identify any places where your team's reasoning is thin. If AI surfaces a question your team can't answer, decide how to handle it before the meeting.
 
 ### The brief status opening
 
@@ -63,7 +63,7 @@ A reasonable shape for the 30 minutes:
 - **Employer observations (about 5 minutes).** After your questions, the employer may have observations that didn't come up in response to yours. This is often where the most direct quality feedback surfaces.
 - **Preview of what's next (about 2 minutes).** Let the employer know what the near-final version will include and roughly when they'll see it. This keeps them oriented and gives you a natural close.
 
-If anything the employer says is ambiguous, clarify in the moment: "Just to confirm — are you saying you'd like more primary source data in this section, or that the methodology itself needs explaining?" An answer that goes unclarified tends to get interpreted differently by different team members in the debrief.
+If anything the employer says is ambiguous, clarify in the moment: "Just to confirm: are you saying you'd like more primary source data in this section, or that the methodology itself needs explaining?" An answer that goes unclarified tends to get interpreted differently by different team members in the debrief.
 
 ---
 

@@ -3,7 +3,7 @@ week: 9
 page: 6
 title: Reflection #3
 created: 2026-04-09
-last_updated: 2026-04-09
+last_updated: 2026-04-16
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -12,7 +12,7 @@ competencies:
 
 # Reflection #3
 
-By this point in the course, the DEAL framework itself is familiar. The challenge in this third reflection is depth, not familiarity. The Describe and Experience stages of DEAL tend to come naturally once a learner has practiced them a few times. The Examine stage is where most reflections stop short, and where this one asks you to go further.
+The DEAL framework is familiar by now. What this reflection asks for is depth in the Examine stage, which is where most reflections stop short. The Describe and Experience stages tend to come naturally once a learner has practiced them. The harder work is the examination itself, and that's where this submission raises the bar.
 
 You have more to work with this time. The stretch of the course you're drawing from, the feedback and production period your team has been in, is the most concentrated of the whole project. There's more that happened, more decisions made under pressure, more moments where something worked or didn't. Depth comes from choosing the right moment and examining it closely, not from summarizing everything that's occurred.
 
