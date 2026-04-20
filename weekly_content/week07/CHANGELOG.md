@@ -113,6 +113,12 @@ The instructional video guide and content production guide flag most of these.
 - Added a second opener orienting learners to Week 8's shape: no employer meeting, biggest production block of the course so far, first peer evaluation.
 - Reframed "How to prepare" — rubric review happens in Week 8 (activity 8.06), so the genuinely useful prep work right now is gathering specific observations across the project.
 
+**Retroactive edits during the Week 8 pass:**
+
+- Dropped "Peer Evaluation #1" as the section heading and out of the body text. It isn't the first graded individual deliverable of the course, and the numbered labeling reads like internal shorthand. Using "the mid-project peer evaluation" instead — descriptive, evergreen, and consistent with the framing on the Week 8 overview.
+- Added the reciprocal framing (each teammate will do the same for you), consistent with the Week 8 overview.
+- Added a short note that the employer will also complete a brief mid-project evaluation, feeding the same Professional Engagement component of the grade. This matches the dual-evaluation framing on the Week 8 overview.
+
 ---
 
 Happy to talk through any of this if it's useful, or if you'd want to push back on anything. The patterns section is the part I'd most want to land for Week 9 onward.

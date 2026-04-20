@@ -1,32 +1,45 @@
 ---
 week: 8
-page: 5
-title: Peer Evaluation #1
+page: 2
+title: Mid-Project Peer Evaluation
 created: 2026-04-06
-last_updated: 2026-04-06
+last_updated: 2026-04-20
 status: draft
 competencies:
+  - area: Teamwork
+    subskill: Reliability
+  - area: Teamwork
+    subskill: Collaborative Contribution
   - area: Teamwork
     subskill: Constructive Feedback
   - area: Teamwork
     subskill: Shared Accountability
-  - area: Teamwork
-    subskill: Reliability
-  - area: Communication
-    subskill: Written Clarity
 ---
 
-# Peer Evaluation #1
+# Mid-Project Peer Evaluation
 
-In professional environments, giving structured, evidence-based feedback on a colleague's contribution is a normal part of how teams operate. Annual reviews, project retrospectives, 360-degree feedback processes — these all require the same underlying skill: being able to observe your teammates' behavior over time, form a considered assessment, and communicate it in a way that is specific, fair, and useful. That skill doesn't come naturally to most people, and this evaluation is designed to develop it.
+In professional environments, giving structured, evidence-based feedback on a colleague's contribution is a normal part of how teams operate. Annual reviews, project retrospectives, and 360-degree feedback processes all require the same underlying skill: being able to observe your teammates' behavior over time, form a considered assessment, and communicate it in a way that is specific, fair, and useful. That skill doesn't come naturally to most people, and this evaluation is designed to develop it.
 
-Peer Evaluation #1 is a graded individual deliverable. It asks you to evaluate each teammate's contribution to the project using a qualitative feedback framework and behaviorally anchored ratings. The evaluation is formative — its primary purpose is to surface team dynamics while there is still time to change them, not to finalize grades. The results come back to you before a structured team discussion next week where you'll use the feedback to agree on specific changes.
+The Mid-Project Peer Evaluation is a required individual deliverable that will contribute to your peers' Professional Engagement grade. It asks you to evaluate each teammate's contribution to the project using a qualitative feedback framework and behaviorally anchored ratings. The evaluation is formative. It exists to surface team dynamics while there's still time to act on them. You'll receive anonymized feedback from your peers next week, and your team will have the chance to discuss it and agree on specific changes at the suggested Team Processing Session.
+
+---
+
+## The assignment
+
+The Mid-Project Peer Evaluation has four parts, each completed individually for every teammate.
+
+- **Part A: Qualitative feedback.** Three prompts per teammate using the Continue/Start/Adjust framework, each with a two-sentence minimum.
+- **Part B: BARS ratings.** Four dimensions per teammate (Reliability, Contribution, Constructive Engagement, Accountability), each with a specific behavioral evidence example.
+- **Part C: Self-evaluation.** The same four dimensions, completed for yourself.
+- **Part D: Team pulse.** Two brief questions about your team's overall dynamics, visible only to your instructor.
+
+The rest of this page walks through each part in more detail.
 
 ---
 
 ## The Continue/Start/Adjust framework
 
-For each teammate, you'll answer three qualitative prompts. Each response must be at least two sentences and must reference specific behavior — not general impressions.
+For each teammate, you'll answer three qualitative prompts. Each response must be at least two sentences and must reference specific behavior, not general impressions. Responses that don't meet this standard are flagged for instructor review.
 
 **Continue:** "What is the most valuable contribution this teammate makes to the team's work? Describe a specific example."
 
@@ -38,19 +51,19 @@ This prompt surfaces behavioral gaps without framing them as failures. The frami
 
 **Adjust:** "What is one specific behavior this teammate could change to improve how the team works together?"
 
-This prompt is deliberately softer than "stop." Adjustment is more accurate than cessation in most cases — the behavior may be fine in small doses and counterproductive at scale, or it may be valuable in the right context and misapplied in this one.
+This prompt is deliberately softer than "stop." Adjustment is more accurate than cessation in most cases: the behavior may be fine in small doses and counterproductive at scale, or it may be valuable in the right context and misapplied in this one.
 
 **What makes a response specific:**
 
 *Vague Continue:* "Alex is a great communicator and always seems engaged."
 
-*Specific Continue:* "Alex was the only teammate who reviewed my draft section before the Check-In #1 prep session and sent specific comments about where the argument was thin. That kind of review, which nobody else did, helped me strengthen the section before the employer saw it."
+*Specific Continue:* "Alex was the only teammate who reviewed my draft section before our prep session for last week's check-in with our employer and sent specific comments about where the argument was thin. That kind of review, which nobody else did, helped me strengthen the section before the employer saw it."
 
 ---
 
 *Vague Start:* "It would be good if Jamie participated more in meetings."
 
-*Specific Start:* "During the Check-In #1 prep session, Jamie didn't contribute any questions to the list we were building, even when asked directly. If Jamie came to team sessions with at least one prepared question or concern, it would change how those conversations go."
+*Specific Start:* "During our prep session for last week's check-in with our employer, Jamie didn't contribute any questions to the list we were building, even when asked directly. If Jamie came to team sessions with at least one prepared question or concern, it would change how those conversations go."
 
 ---
 
@@ -62,9 +75,9 @@ This prompt is deliberately softer than "stop." Adjustment is more accurate than
 
 ## BARS ratings
 
-For each teammate, you'll also rate their behavior on four dimensions using Behaviorally Anchored Rating Scales (BARS). BARS replace abstract 1–5 numbers with concrete behavioral descriptions. Your job is to match what you've observed to the description that most closely fits.
+For each teammate, you'll also rate their behavior on four dimensions using Behaviorally Anchored Rating Scales (BARS). BARS replace abstract numeric ratings with concrete behavioral descriptions. Your job is to match what you've observed to the description that most closely fits.
 
-Each rating requires a 1–2 sentence behavioral example as evidence. Ratings without specific evidence are flagged for instructor review.
+Each rating requires a 1–2 sentence behavioral example as evidence. Ratings without specific evidence are flagged for instructor review. If you're uncertain between two ratings, select the lower one and explain why in your evidence.
 
 ---
 
@@ -82,7 +95,7 @@ Each rating requires a 1–2 sentence behavioral example as evidence. Ratings wi
 
 **Weak evidence:** "They're usually pretty reliable."
 
-**Strong evidence:** "Before the Check-In #1 meeting, this teammate agreed to draft the status update by Wednesday evening. They sent it Thursday morning, after the prep session had already started, and it required significant editing because it hadn't incorporated the team's agreed framing from Monday. Another teammate had to cover it on the fly."
+**Strong evidence:** "Before last week's check-in with our employer, this teammate agreed to draft the status update by Wednesday evening. They sent it Thursday morning, after the prep session had already started, and it required significant editing because it hadn't incorporated the team's agreed framing from Monday. Another teammate had to cover it on the fly."
 
 ---
 
@@ -100,7 +113,7 @@ Each rating requires a 1–2 sentence behavioral example as evidence. Ratings wi
 
 **Weak evidence:** "They contributed to the project but could have done more."
 
-**Strong evidence:** "This teammate completed their assigned section of the competitive landscape analysis on time and at a quality level where I only had to make minor edits before it could go into the shared document. When the team was under pressure preparing for Check-In #1, they also volunteered to draft the WIP Summary without being asked."
+**Strong evidence:** "This teammate completed their assigned section of the competitive landscape analysis on time and at a quality level where I only had to make minor edits before it could go into the shared document. When the team was under pressure preparing for last week's check-in with our employer, they also volunteered to draft the WIP Summary without being asked."
 
 ---
 
@@ -109,7 +122,7 @@ Each rating requires a 1–2 sentence behavioral example as evidence. Ratings wi
 
 | Rating | Descriptor | What it looks like |
 |---|---|---|
-| **4** | Actively improves team communication | Regularly offers specific, actionable input that makes the team's work better. Engages thoughtfully with others' ideas — builds on them, asks questions, identifies gaps. Navigates disagreements by focusing on the work rather than the person. |
+| **4** | Actively improves team communication | Regularly offers specific, actionable input that makes the team's work better. Engages thoughtfully with others' ideas, building on them, asking questions, and identifying gaps. Navigates disagreements by focusing on the work rather than the person. |
 | **3** | Participates constructively | Participates in team discussions and responds to feedback from others. Shares their perspective when asked. Does not create communication friction. Accepts feedback without defensiveness. |
 | **2** | Minimally engaged | Participates only when directly prompted or gives feedback that is vague and unhelpful (e.g., "looks good" without specifics). Does not initiate discussion or build on others' ideas. May agree with everything to avoid conflict. |
 | **1** | Disengaged or counterproductive | Does not engage meaningfully in team discussions. May dominate without listening, dismiss others' contributions, or create an environment where teammates hesitate to share ideas. |
@@ -118,7 +131,7 @@ Each rating requires a 1–2 sentence behavioral example as evidence. Ratings wi
 
 **Weak evidence:** "They're pretty quiet in meetings but always supportive."
 
-**Strong evidence:** "When I shared a draft section, this teammate's only response was 'seems fine' — this happened twice across two different drafts. I've had to ask them directly for more specific feedback and they haven't engaged beyond surface-level comments. Their silence makes it hard to know if the section is actually working or if they're just not reading it."
+**Strong evidence:** "When I shared a draft section, this teammate's only response was 'seems fine.' This happened twice across two different drafts. I've had to ask them directly for more specific feedback and they haven't engaged beyond surface-level comments. Their silence makes it hard to know if the section is actually working or if they're just not reading it."
 
 ---
 
@@ -129,8 +142,8 @@ Each rating requires a 1–2 sentence behavioral example as evidence. Ratings wi
 |---|---|---|
 | **4** | Owns team outcomes | Takes responsibility for the team's success, not just their individual section. Identifies problems proactively and mobilizes the team to address them. When something goes wrong, focuses on solutions rather than blame. Supports teammates who are struggling. |
 | **3** | Takes personal responsibility | Takes responsibility for their own work and supports the team's goals. Acknowledges when they've made a mistake. Participates in problem-solving when issues arise. |
-| **2** | Deflects or waits | Tends to deflect responsibility when things go wrong or waits for others to address problems. May attribute issues to external factors rather than examining their own role. |
-| **1** | Avoids responsibility | Does not take responsibility for outcomes. Blames teammates or external factors. Does not participate in addressing team challenges. May undermine team cohesion through disengagement. |
+| **2** | Deflects or waits | Tends to deflect responsibility when things go wrong or waits for others to address problems. May blame external factors (the employer, the timeline, the tools) rather than examining their own role. |
+| **1** | Avoids responsibility | Does not take responsibility for outcomes. Blames teammates or external factors. Does not participate in addressing team challenges. May actively undermine team cohesion through gossip, complaints, or disengagement. |
 
 **Evidence prompt:** "Describe a specific situation where this teammate took responsibility for a team outcome (or failed to do so)."
 
@@ -140,19 +153,9 @@ Each rating requires a 1–2 sentence behavioral example as evidence. Ratings wi
 
 ---
 
-## Calibration exercise: Maple & Main
-
-Before rating real teammates, complete the calibration exercise below. You'll read a profile of a fictional teammate — Jordan, working on the Maple & Main Credit Union project — and rate them on all four BARS dimensions. The exercise then walks you through the calibrated ratings and where common miscalibrations happen.
-
-[INTERACTIVE: Maple & Main calibration exercise — Jordan profile, individual BARS rating, guided debrief showing calibrated ratings and common errors (~10 min)]
-
-Complete this before moving to the assignment below.
-
----
-
 ## The self-evaluation
 
-In addition to evaluating your teammates, you'll rate yourself on the same four BARS dimensions. Your self-ratings are not shared with teammates and do not affect the peer evaluation score — they're used for two things.
+In addition to evaluating your teammates, you'll rate yourself on the same four BARS dimensions. Behavioral evidence for your self-ratings is encouraged but not required. Your self-ratings are not shared with teammates and do not affect the peer evaluation score. They're used for two things.
 
 First, they create a calibration signal. If your self-rating is significantly higher than your teammates' ratings of you on any dimension, that gap is worth understanding. It might mean you and your teammates experienced the same events differently, or it might mean there's a blind spot worth examining. You'll have an opportunity to reflect on this next week.
 
@@ -162,25 +165,22 @@ Rate yourself honestly. The ratings that are hardest to give yourself honestly a
 
 ---
 
-## The assignment
+## What you'll receive
 
-Peer Evaluation #1 has four parts, completed individually for each teammate.
+Before next week's team discussion, you'll see the results from Parts A and B:
 
-**Part A — Qualitative feedback (Continue/Start/Adjust)**
-Three prompts per teammate. Each response must be at least two sentences and must reference specific, observable behavior. Responses that are shorter than two sentences or that lack behavioral specifics will be flagged as insufficient.
+- **Qualitative feedback (Part A):** the comments your teammates wrote about you, anonymized. You see what was said but not who said it.
+- **BARS ratings (Part B):** your averaged score on each of the four dimensions. You don't see the specific rating each teammate gave.
 
-**Part B — BARS ratings**
-Four dimensions per teammate (Reliability, Contribution, Constructive Engagement, Accountability), each with a 1–2 sentence behavioral evidence example. Use the descriptors above. If you are uncertain between two ratings, select the lower one and explain why in your evidence.
+Parts C and D stay with your instructor. Your self-evaluation (Part C) is used to flag calibration gaps. If your self-rating diverges significantly from what your teammates said, your instructor may follow up. The team pulse responses (Part D) are read by your instructor as an early-warning signal and aren't shared with anyone else.
 
-**Part C — Self-evaluation**
-The same four BARS dimensions, completed for yourself. Evidence statements are encouraged but not required.
+---
 
-**Part D — Team pulse (instructor-only)**
-Two brief questions about your team's overall dynamics. Your responses are visible only to the instructor and are not shared with teammates. Answer honestly — these questions exist to give the instructor visibility into situations that don't surface in the structured evaluation.
+## Submission and grading
 
 **Submission:** [PLATFORM: TBD — submission instructions depend on platform choice]
 
-**Grading:** Peer Evaluation #1 contributes to the Professional Engagement component of your final grade. Evaluations are assessed for completeness and specificity of evidence, not for the ratings you assign. There is no "correct" rating to give a teammate — the standard is that your ratings are grounded in specific behavioral observations and that your evidence supports them.
+**Grading:** The Mid-Project Peer Evaluation contributes to the Professional Engagement component of your final grade alongside employer feedback and instructor observation. See the [**Professional Engagement assignment page and rubric**](URL_TBD) for how those three evidence sources combine. Evaluations are graded on completeness and specificity of evidence. There is no "correct" rating to give a teammate. The standard is that your ratings are grounded in specific behavioral observations and that your evidence supports them.
 
 ---
 
@@ -188,6 +188,6 @@ Two brief questions about your team's overall dynamics. Your responses are visib
 
 AI may be used to help you articulate an observation more clearly or to check whether your feedback is specific enough. For example, after writing a Continue response, you might ask: "Does this feedback reference a specific behavior, or does it read as a general impression?" That's a legitimate use of AI as a review tool.
 
-AI cannot generate the evaluation itself. The qualitative feedback must reflect your actual observations of your teammate's behavior, and the ratings must reflect your genuine assessment. The learning in this activity happens in the act of evaluating — thinking carefully about what you've actually observed, deciding what it means, and figuring out how to say it usefully. AI-generated responses bypass that process entirely.
+AI cannot generate the evaluation itself. The qualitative feedback must reflect your actual observations of your teammate's behavior, and the ratings must reflect your genuine assessment. The learning in this activity happens in the act of evaluating: thinking carefully about what you've actually observed, deciding what it means, and figuring out how to say it usefully. AI-generated responses bypass that process entirely.
 
 **Disclosure required.** If AI was used to help draft or refine any part of your evaluation, include a one-sentence disclosure with your submission. If AI was not used, include a one-sentence statement to that effect.

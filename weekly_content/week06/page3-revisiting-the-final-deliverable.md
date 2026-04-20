@@ -3,7 +3,7 @@ week: 6
 page: 3
 title: Revisiting the Final Deliverable
 created: 2026-04-06
-last_updated: 2026-04-06
+last_updated: 2026-04-20
 status: draft
 competencies:
   - area: Critical Thinking
@@ -39,6 +39,20 @@ You're not reading to memorize. You're reading to notice. A few things worth pay
 **What the deliverable actually includes.** The assignment describes the components of the final package. Some of those components may not be what you assumed. Compare the list against the direction your team has taken so far. Are there components you haven't been building toward yet? Are there components you assumed were required that actually aren't?
 
 **What's implied but not stated.** A rubric can only say so much. Read between the lines. If "clarity of communication" is weighted heavily, that's a signal about how polished the writing, formatting, or visual design needs to be. If "strategic reasoning" is central, that's a signal about how much of your work should be analysis versus description.
+
+---
+
+## The Change Log: a component to start now
+
+One thing the assignment description names that's easy to miss in a first read is the Change Log. It's a separate document submitted alongside the Final Deliverable, not a section inside it. The Change Log documents the substantive feedback your team received during the project and how you addressed it (or your rationale for taking a different approach). It's the basis for one full dimension of the rubric, Responsiveness to Feedback.
+
+You can start your Change Log now. The Direction Check is the first major piece of employer feedback your team has received, and any internal review feedback you've already incorporated into your draft is exactly the kind of input it tracks. Reconstructing weeks of changes the day before submission is a much harder job than maintaining a running document as you go.
+
+A simple format works:
+
+| Feedback item | Source | How the team addressed it (or rationale for not) |
+
+One row per piece of substantive feedback. The Change Log doesn't need to capture every minor edit. The rubric is asking whether you engaged meaningfully with the input you received, not whether you logged every comma change.
 
 ---
 
