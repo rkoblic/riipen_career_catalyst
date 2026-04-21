@@ -8,16 +8,14 @@ last_updated: 2026-04-21
 status: draft
 ---
 
-# Video Script: What you learned isn't what you did
+# Video Script: What transferable learning actually sounds like
 
-Here's a scenario. You're in a conversation six months from now with someone who might hire you. They ask about your Career Catalyst project. Your first instinct is to describe what the team built. The client was a mid-size credit union. You did a competitive analysis. You recommended a rebrand. The deliverable was a forty-page strategic document.
+The gap between what you did and what you learned is easier to see in concrete examples. Here's what it looks like across three different kinds of project.
 
-The interviewer asked what you learned. That answer described what the team produced.
+Community outreach for a nonprofit. A learner working on this might write, "I learned how the Harbor Street Center runs their volunteer orientations." That's a sentence about the work. The learning version reads differently. Something like, "I learned that volunteer orientation works best when it front-loads what the volunteer will actually do, rather than the organization's history. People retain more when they can picture the task they'll do next week."
 
-Here's the version that answers the actual question. "I learned how to scope ambiguous client requests. The client came to us asking for a rebrand. What they actually needed was a clearer sense of who they were serving. Figuring out the difference between the ask and the need was the hardest part of the work, and it's the part that's stuck with me."
+Same gap on a process improvement project. A learner might write, "I learned about the invoice approval workflow at this company." Still a sentence about the work. The learning version sounds more like, "I learned that written workflows rarely match the actual workflows. The official version is the first pass. The useful version comes from asking people what they do when the official steps don't work."
 
-The client dropped out. The sector dropped out. The specific deliverable dropped out. What remained was a piece of professional judgment the speaker can carry into any future project.
+One more. Social media strategy for a small business. "I learned what kind of content performs best on their Instagram." Same thing. The learning version might be, "I learned how to tell when a content strategy is sustainable. A pattern can work for six weeks and then stop because the person running it runs out of variations. The strategy itself was fine."
 
-That's the shift to practice. The sentence you want is the one that survives being read by someone who wasn't there. If your statement needs the client name or the project type to make sense, it hasn't fully transferred yet.
-
-Try this on a piece of your own work. Take one thing you've gotten better at over the last few weeks. Write it down. Remove every proper noun and see what's left. If the sentence still reads useful, it's transferable. If it collapses, it's still tied to the project.
+Each strong version still sounds specific. But none of them need this project or this client to make sense. That's what makes them transferable.

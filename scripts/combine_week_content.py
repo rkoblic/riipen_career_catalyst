@@ -323,6 +323,54 @@ def add_page_content(doc, content, page_num, title, video_scripts=None):
         i += 1
 
 
+def inline_video_scripts_in_md(content, videos):
+    """Return the page content with each [VIDEO:] placeholder followed by the
+    corresponding video script rendered as a markdown blockquote, so the
+    script appears inline in the combined markdown output."""
+    videos = list(videos)  # copy so we can pop
+    lines = content.split("\n")
+    output_lines = []
+    for line in lines:
+        output_lines.append(line)
+        stripped = line.strip()
+        if stripped.startswith("[VIDEO:") and videos:
+            script = videos.pop(0)
+            output_lines.append("")
+            output_lines.append("> **▶ Video script**")
+            output_lines.append(">")
+            for script_line in script.split("\n"):
+                s = script_line.strip()
+                if s in ("---", "***", "___"):
+                    continue
+                if s.startswith("# "):
+                    output_lines.append(f"> *{s[2:].strip()}*")
+                    output_lines.append(">")
+                elif s:
+                    output_lines.append(f"> {s}")
+                else:
+                    output_lines.append(">")
+            output_lines.append("")
+    return "\n".join(output_lines)
+
+
+def build_combined_markdown(pages_data, video_scripts, week_num, summary_parts):
+    """Build a single combined markdown string from all pages, with video
+    scripts inlined at their [VIDEO:] placeholders."""
+    parts = []
+    parts.append(f"# Week {int(week_num)} — Content Review\n")
+    parts.append(f"\n**RIIPEN CAREER CATALYST** — {' + '.join(summary_parts)}\n")
+    parts.append("\n---\n")
+
+    for idx, (page_num, _title, content, _filepath) in enumerate(pages_data):
+        parts.append(f"\n**PAGE {page_num}**\n\n")
+        page_videos = video_scripts.get(str(page_num), [])
+        parts.append(inline_video_scripts_in_md(content, page_videos))
+        if idx < len(pages_data) - 1:
+            parts.append("\n\n---\n")
+
+    return "".join(parts)
+
+
 def main():
     args = parse_args()
 
@@ -377,27 +425,38 @@ def main():
         heading_style.font.name = FONT_NAME
         heading_style.font.color.rgb = DARK_BLUE
 
-    # Add cover info
+    # Compute summary info (used by both markdown and docx outputs)
     page_count = len(content_files)
-    p = doc.add_paragraph()
-    add_formatted_text(p, f"Week {int(week_num)} — Content Review", size=24, bold=True)
-    p = doc.add_paragraph()
-    add_formatted_text(p, "RIIPEN CAREER CATALYST", size=11, bold=True, color=MUTED)
-    p = doc.add_paragraph()
     summary_parts = [f"{page_count} pages"]
     if video_count:
         summary_parts.append(f"{video_count} video scripts")
-    add_formatted_text(p, " + ".join(summary_parts), size=11, color=MUTED)
-    doc.add_page_break()
 
-    # Process each content page (video scripts are inlined at their placeholders)
+    # Collect page data once, used by both outputs
+    pages_data = []
     for idx, filepath in enumerate(content_files):
         raw = filepath.read_text(encoding="utf-8")
         meta = extract_frontmatter(raw)
         content = strip_frontmatter(raw)
         page_num = meta.get("page", str(idx + 1))
         title = meta.get("title", filepath.stem)
+        pages_data.append((page_num, title, content, filepath))
 
+    # Build and save combined markdown alongside the docx
+    combined_md = build_combined_markdown(pages_data, video_scripts, week_num, summary_parts)
+    md_output_path = output_path.with_suffix(".md")
+    md_output_path.write_text(combined_md, encoding="utf-8")
+
+    # Add cover info to the docx
+    p = doc.add_paragraph()
+    add_formatted_text(p, f"Week {int(week_num)} — Content Review", size=24, bold=True)
+    p = doc.add_paragraph()
+    add_formatted_text(p, "RIIPEN CAREER CATALYST", size=11, bold=True, color=MUTED)
+    p = doc.add_paragraph()
+    add_formatted_text(p, " + ".join(summary_parts), size=11, color=MUTED)
+    doc.add_page_break()
+
+    # Process each content page (video scripts are inlined at their placeholders)
+    for idx, (page_num, title, content, _filepath) in enumerate(pages_data):
         # Page label
         p = doc.add_paragraph()
         add_formatted_text(p, f"PAGE {page_num}", size=10, bold=True, color=MUTED)
@@ -406,12 +465,13 @@ def main():
         add_page_content(doc, content, page_num, title, video_scripts=video_scripts)
 
         # Page break between pages (not after the last one)
-        if idx < len(content_files) - 1:
+        if idx < len(pages_data) - 1:
             doc.add_page_break()
 
-    # Save
+    # Save docx
     doc.save(str(output_path))
     print(f"Created: {output_path}")
+    print(f"Also created: {md_output_path}")
     print(f"  Content pages: {page_count}")
     print(f"  Video scripts: {video_count} (inlined at placeholders)")
     for f in content_files:

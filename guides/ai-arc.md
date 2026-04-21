@@ -2,7 +2,7 @@
 
 Reference document mapping every AI touchpoint across the 15-week course. Used for content production planning, not student-facing.
 
-**Content status:** Weeks 1–6 have produced content. Weeks 7–15 are design doc only.
+**Content status:** Weeks 1–10 have produced content. Weeks 11–15 are design doc only.
 
 ---
 
@@ -47,7 +47,9 @@ Reference document mapping every AI touchpoint across the 15-week course. Used f
 | AI for notes-to-draft process | 6 | Page 3 |
 | AI as production partner | 7 | Design doc |
 | Actionability testing | 9 | Design doc |
-| AI as quality reviewer (capstone) | 10 | Design doc |
+| AI as quality reviewer (whole-document evaluation) | 10 | Page 3 |
+| AI for presentation structure (slide narratives, speaker notes) | 12 | Design doc |
+| AI for Q&A prep and Socratic partner for deep reflection | 14 | Design doc |
 | AI for professional self-presentation | 15 | Design doc |
 
 ---
@@ -151,7 +153,7 @@ Reference document mapping every AI touchpoint across the 15-week course. Used f
 | **Disclosure** | Required on WIP Summary |
 | **New prompt strategies** | Stress-testing via anticipated questions; data visualization generation |
 | **Accountability mechanism** | WIP presentation — employer sees progress live |
-| **Content status** | ❌ Design doc only |
+| **Content status** | ✅ Produced |
 
 ### Week 8 — From feedback to forward motion
 **Phase:** Production & refinement
@@ -165,7 +167,7 @@ Reference document mapping every AI touchpoint across the 15-week course. Used f
 | **Disclosure** | Required if AI used to draft/refine qualitative feedback |
 | **New prompt strategies** | Production partner role — AI for drafting support, structural review, gap identification, self-editing (not generation) |
 | **Accountability mechanism** | Peer evaluation must reflect genuine observations |
-| **Content status** | ❌ Design doc only |
+| **Content status** | ✅ Produced |
 
 ### Week 9 — Strengthening your work
 **Phase:** Production & refinement
@@ -179,7 +181,7 @@ Reference document mapping every AI touchpoint across the 15-week course. Used f
 | **Disclosure** | Required on both deliverables |
 | **New prompt strategies** | Actionability testing: "Which recommendations are too vague to act on? What's missing — specificity, feasibility, prioritization?" |
 | **Accountability mechanism** | Draft Deliverable quality; team processing agreement authenticity |
-| **Content status** | ❌ Design doc only |
+| **Content status** | ✅ Produced |
 
 ### Week 10 — Connecting theory and practice
 **Phase:** Quality review & integration
@@ -193,8 +195,8 @@ Reference document mapping every AI touchpoint across the 15-week course. Used f
 | **Disclosure** | Not required until Week 11 submission |
 | **New prompt strategies** | Quality reviewer: "Read this as someone unfamiliar with the project. Where do you get lost?" / "Does this read as one piece or like sections by different people?" / "What are the three weakest points?" |
 | **Accountability mechanism** | Near-Final Package quality |
-| **Content status** | ❌ Design doc only |
-| **Design note** | Final AI skill-building module; marks end of explicit AI instruction |
+| **Content status** | ✅ Produced |
+| **Design note** | Primary AI-evaluation skill of the course. Not the final AI module — Weeks 12, 14, and 15 introduce additional AI skills specific to presentation, Q&A prep, and self-presentation. |
 
 ### Week 11 — Quality and craft
 **Phase:** Quality review & integration
@@ -295,8 +297,8 @@ Reference document mapping every AI touchpoint across the 15-week course. Used f
 - **Advanced prompting techniques:** Added to Week 4. Covers iterative prompting, chain of thought, few-shot examples, and custom GPTs/Gems/Projects.
 
 ### Still to watch during Weeks 7-15 production
-- **Weeks 7-15 are design doc only.** The AI arc described in the design docs is well-structured but will need to be translated into the same content patterns established in Weeks 1-6 (AI at point of need, example prompts, accountability mechanisms).
-- **The "production partner" shift (Week 8)** and "quality reviewer" capstone (Week 10) are important arc moments that will need dedicated attention during content production.
+- **Weeks 11-15 are design doc only.** The AI arc described in the design docs is well-structured but will need to be translated into the same content patterns established in earlier weeks (AI at point of need, example prompts, accountability mechanisms).
+- **The "production partner" shift (Week 8)** and the whole-document quality reviewer move (Week 10) are important arc moments that are now produced. Later new-skill introductions (presentation structure in Week 12, Q&A prep and reflection Socratic partner in Week 14, professional self-presentation in Week 15) are still design-doc only.
 - **AI ethics beyond privacy and bias** — The course doesn't address intellectual property, AI and labor displacement, or broader societal implications. This is probably appropriate for a professional skills course (vs. an AI ethics course), but worth noting.
 - **Tool-specific guidance** may need updating as AI tools evolve. The custom GPT/Gem/Projects guidance references specific product names that could change.
 - **Week 3 content vs. design doc:** Design doc mentions AI for research more prominently than the produced content does. The content integrates AI guidance into the research page but doesn't have a dedicated AI section. This is probably fine — it follows the "AI at point of need" principle.

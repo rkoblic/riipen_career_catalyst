@@ -10,10 +10,10 @@ status: draft
 
 # Video Script: The question you'll have to answer in every interview
 
-In every interview, every performance review, every graduate school application, a version of the same question comes up. Tell me about a project you worked on. What did you learn.
+Every interview asks a version of the same question. Tell me about a project. What did you learn from it?
 
-Most people answer by describing the project. The client, the deliverable, what the team produced. That's the answer to a different question. What's actually being asked is what you can do now that you couldn't do before.
+Most people answer by describing the project. They walk through what the team produced and what role they played. What a hiring manager or admissions committee is listening for is what's changed in you. What you can do now that you couldn't do before.
 
-The difference is the difference between a project summary and a credential. Summaries fade fast. The client's name becomes unfamiliar in six months. What survives is the sentence you can still say about yourself years later. "I know how to scope ambiguous client needs." "I can tell when a research question is too broad." "I learned to distinguish useful criticism from tone policing."
+Here's what the two sound like side by side. "We did a competitive analysis for a credit union and recommended a rebrand." That's the project. "I got better at noticing when a client's ask doesn't match their actual need." That's the learning. One describes the work your team produced. The other describes you.
 
-Several weeks into the project, you've almost certainly gotten better at specific things that aren't on your to-do list. This week's work is the practice of naming them while they're still fresh.
+Several weeks into this project, you've almost certainly gotten better at specific things. This week is the practice of naming them, while they're still fresh.

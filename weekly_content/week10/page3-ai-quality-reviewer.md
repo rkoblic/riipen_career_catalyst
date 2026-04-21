@@ -14,30 +14,32 @@ competencies:
 
 Professional work usually has a moment before something goes out the door when someone else reads it first. A colleague, an editor, a sharp teammate who hasn't been buried in the draft for three weeks and can still see it fresh. The point of that second read is to catch what the producer can't catch anymore, because they're too close to the work.
 
-This week you learn to use AI in that role. Your team has complete enough draft content to evaluate as a whole. AI as a quality reviewer is what you use in that moment.
-
-This is also the last new AI skill the course introduces. From here, you apply the full toolkit you've built (research prompting, Socratic partner, production partner, and now quality reviewer) independently through the remaining phases of the course.
+This week you learn to use AI in that role on your assembled draft as a whole document.
 
 ---
 
-## What the quality reviewer role is
+## How this differs from the production partner role
 
-AI in this role is different from AI as a production partner, which you met last week. Production partner helps while you're building: drafting a section, refining a paragraph, stress-testing a recommendation. Quality reviewer happens after you have something complete enough to evaluate.
+You met AI as a production partner last week, helping while you build: one section at a time, improving what you're actively working on. Quality reviewer is the whole-document version of the same idea. You hand AI the assembled draft and ask for evaluation. What comes back is a list of things to examine, not a rewrite.
 
-You hand AI a complete draft or section and ask for evaluation. What comes back is a list of things to examine, not a rewrite.
+The general AI habits from last week (running prompts through more than one model, giving the model permission to say nothing) still apply. What's new this week is the scope.
 
-Four things quality review is good at:
+---
 
-- **Reading for consistency across sections.** Team-produced documents often drift. Voice shifts between authors, terminology changes mid-way through, the same concept gets defined differently in two places. AI is good at catching these seams because it reads the whole document in one pass, which no single teammate does.
-- **Flagging logical gaps and unsupported claims.** Anywhere a section asserts something without grounding it in evidence or prior setup, AI will usually notice. It won't always be right that the gap is real, but it's a useful list to examine.
+## What whole-document review is good for
+
+Four things AI does well when it has the full document in front of it that don't show up as clearly at the section level.
+
+- **Reading for consistency across sections.** Team-produced documents drift. Voice shifts between authors, terminology changes mid-way through, the same concept gets defined differently in two places. AI catches these seams because it reads the whole document in one pass, which no single teammate does.
+- **Finding cross-section gaps.** Places where one section references something that should have been set up earlier but wasn't, or where the executive summary makes a claim the findings don't actually support. These aren't visible section-by-section.
 - **Identifying tone mismatches.** Sections written under different pressures often carry different registers. A rushed section may sound abrupt; a heavily-edited one may sound overqualified. Both read awkwardly next to each other.
-- **Surfacing where an unfamiliar reader would lose the thread.** This is the one AI does best. You and your teammates are saturated in this project; an unfamiliar reader isn't. AI can simulate that unfamiliar reader more reliably than anyone on your team can at this point.
+- **Surfacing where an unfamiliar reader would lose the thread.** This is the one AI does best. You and your teammates are saturated in this project; an unfamiliar reader isn't. AI can simulate that reader more reliably than anyone on your team can at this point.
 
 ---
 
 ## Prompt strategies
 
-Three prompt templates you can adapt to your own draft.
+Three prompt templates you can adapt to your assembled draft.
 
 **Fresh reader**
 > Read this document as someone who has never heard of this project or client. Where do you get lost? Where do you have to re-read? Be specific about the paragraph or sentence.
@@ -52,18 +54,16 @@ What to do with the output: treat AI's list as questions to investigate, not ver
 
 ---
 
-## Working with AI well in this role
+## Finishing-stage uses
 
-Two moves that consistently improve the output.
+AI is also useful for smaller finishing work. The inconsistencies and gaps that accumulate across a long project are easier to catch when AI reads the document fresh than when your team tries to spot them after weeks of editing.
 
-**Give the model explicit permission to say nothing.** LLMs default to being helpful. Hand a solid section to a model and ask what's wrong with it, and the model will generate critique even when there's nothing substantive to critique. Add a line to your prompt: "If this section is working, say so and move on." Models respond well to being released from the expectation of finding problems.
+- **Citation and reference formatting.** Paste your references list and ask: "Are these all formatted consistently in [APA, Chicago, or whatever style your team chose]? Flag any that are incomplete or mixed." You can also run in-text citations against the references list to catch ones that don't match an entry.
+- **Acronym and terminology consistency.** Ask: "List every acronym in this document. For each, say where it's first introduced and whether it's defined there." The same prompt works for any term your team uses in more than one way.
+- **Cross-references and internal pointers.** If your document has phrases like "as discussed in Section 3" or "see Figure 2 below," ask AI to verify each one still points to something real. These break easily during revision.
+- **Figure and table captions.** AI can draft caption language in a consistent style, or check that your existing captions are numbered sequentially and follow the same pattern.
+- **Table of contents and heading hierarchy.** Ask AI to generate a TOC from the document and compare it to the one your team wrote. Discrepancies usually mean either the TOC is out of date or a heading has drifted from its original level.
+- **Executive summary sharpness.** Paste the summary and the body and ask: "Does this summary reflect the main findings and recommendations in the body? What's in the summary that isn't supported by the body, and what's in the body but missing from the summary?"
+- **Likely employer questions.** Paste the draft and ask: "Read this as the employer receiving it for a document review. What are the three questions you'd have?" Use the list to decide what to tighten before submission.
 
-**Use more than one model if the stakes are high.** Different LLMs surface different things. Running your draft through two models shows the overlap (usually the real issues) and the divergence, which is often useful in itself. Differences reveal what each model is more or less sensitive to. You don't have to act on every flag from either.
-
----
-
-## When to use quality review this week
-
-The production block and the internal review gate are where this tool first earns its place. Before your team runs the internal review gate manually, try the fresh reader prompt on your assembled sections. Whatever the model flags becomes input to the review. Anywhere your team notices the same issue independently, that's a real problem. Anywhere the model flags something your team doesn't see, decide whether the model is catching a seam or generating noise.
-
-Using AI this way is also the warm-up for the remaining weeks. The near-final package, the final deliverables submission, and the final presentation all benefit from a fresh-reader pass before they leave your team. This week is the first chance to build the habit.
+Some of these get more useful as the draft gets closer to final. Citations and cross-references matter most once the document is shaped. Starting the habit this week means it's not all happening the night before submission.

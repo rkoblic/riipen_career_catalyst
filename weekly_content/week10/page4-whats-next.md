@@ -9,42 +9,32 @@ status: draft
 
 # What's next
 
-The Development phase ends with this week. The Refinement phase begins with the next session, and it brings a different kind of work: sharpening what exists rather than building what doesn't yet.
+Your team has spent this week pulling independent pieces into one whole. That's the hardest invisible work on any project, and most teams finish this week further along than they realize.
+
+The shape of your deliverable is now largely there. Next week the kind of work changes.
 
 ---
 
-## The near-final package
+## Entering Refinement
 
-The first major milestone of the Refinement phase is a near-final version of your deliverable, submitted for a document review meeting with your employer. This is different from the question-driven working sessions you've had at recent check-ins. In a document review, the deliverable speaks for itself. The employer reads the near-final package in advance and comes with their own assessment of what's complete, what's missing, and what still needs strengthening.
+Refinement is where work goes from complete to strong. That takes real attention. The intensity shifts but doesn't drop.
 
-The weeks leading into that review are where your team's internal review gate output, the integration work from this week's production block, and any remaining feedback from your last check-in should visibly reshape the draft. A strong document review is one where the employer can see that the work has moved forward on the specific things they raised.
+The focus moves from building new sections to making what's there stronger. That means tighter prose, stronger evidence, and cleaner logic between sections. The bar rises at the same time. Your employer stops asking you questions and starts reading the work the way a client would.
 
----
+The first checkpoint of the phase is a near-final version of your deliverable. Your team submits it, and then meets with your employer after they've had a chance to read through it. This is different from the working-session check-ins you've been having. The employer comes in with their own assessment of what's working and what still needs strengthening. The work itself is what drives the conversation.
 
-## Previewing Reflection #4
-
-The next graded individual submission is [**Reflection #4**](URL_TBD), due in an upcoming session. The prompt is already written, and reading it now is deliberate.
-
-The prompt asks you to examine the gap between the plan your team made for this project and the work your team actually produced. That gap is clearest while you're still in the production work. Step back a few weeks from now, and the shift in direction that felt obvious last month will have blurred. The decision that felt consequential in the moment will read as the only thing that could have happened. Reading the prompt now gives you a head start on noticing.
-
-Three questions to carry into your work over the coming weeks:
-
-- **Where did the plan hold up?** Name specific places where what you predicted matched what happened.
-- **Where did you have to change course, and what triggered the change?** The shift itself, and the signal that caused it.
-- **What did you include that wasn't in the plan, and why?** Unplanned additions are often where the strongest learning is.
+The submission is completion-based and isn't assessed against the final rubric. What it does is give the employer something substantial enough to respond to. The more coherent what you submit, the more specific the feedback that comes back.
 
 ---
 
-## Previewing the Final Deliverables rubric
+## Revisit the Final Deliverables rubric
 
-"Near-final" is judged against the final rubric. Knowing what the final rubric asks for before you submit the near-final version helps your team prioritize what still needs to change. [**The Final Deliverables rubric**](URL_TBD) is worth a full read before the end of the week.
+Take some time to reread [**the Final Deliverables rubric**](URL_TBD) before the next session. The near-final version isn't assessed against it, but the final version is. The rubric is the clearest picture your team has of what good looks like at the end of the project. Reading it now gives you a sharper sense of where the work needs to end up.
 
 ---
 
 ## How to prepare
 
-- Read the Reflection #4 prompt linked above. You don't need to start drafting. The noticing begins the moment you know what the prompt is about.
-- Scan the Final Deliverables rubric. Your team's priorities for Refinement should be visible in the rubric dimensions.
-- Enter the next session with the output from this week's internal review gate in hand: the concrete list of what still needs to change.
-- **Audit your Change Log before the near-final package submission.** Your team started the Change Log when you logged the Direction Check feedback, and it's been developing since. By now it should be a substantive record of employer feedback received and how your team addressed it. If entries are thin or inconsistent, use the remaining time before submission to catch up. The near-final package is read alongside the Change Log. The Responsiveness to Feedback dimension of the Final Deliverables rubric is where it shows up in the grade.
-- **AI disclosure** is required on the near-final package submission. Track AI use across the final production week so the disclosure reflects what actually happened, rather than getting reconstructed later.
+- Enter the next session with the output from this week's internal review gate in hand: the list of what still needs to change.
+- **Audit your Change Log before the near-final submission.** The log has been running since the Direction Check. By now it should be a substantive record of employer feedback received and how your team addressed it. If entries are thin or inconsistent, use the remaining time to catch up. The Change Log is what lets your team show the employer how their earlier feedback shaped the near-final version. That matters when you sit down together to talk through the work.
+- **AI disclosure** is required on the near-final submission. Track AI use across the coming week so the disclosure reflects what actually happened rather than getting reconstructed later.

@@ -199,16 +199,25 @@ def add_header(doc, logo_path=None):
 
 
 def add_title(doc, title_text):
-    """Add the document title in Riipen style — orange accent."""
-    para = doc.add_paragraph()
+    """Add the document title in Riipen style — orange accent.
+
+    Applies Word's Heading 1 style so the title is part of the document
+    outline (navigable in Word, preserved when pasted into Google Docs).
+    """
+    para = doc.add_paragraph(style="Heading 1")
     add_formatted_text(para, title_text, HEADING_FONT, H1_SIZE, ORANGE, bold=True)
     set_paragraph_spacing(para, before=360, after=0)
     return para
 
 
 def add_heading(doc, text, level=1):
-    """Add a heading in Riipen style."""
-    para = doc.add_paragraph()
+    """Add a heading in Riipen style.
+
+    Applies Word's Heading N paragraph style so headings appear in the
+    document outline and survive paste into Google Docs as real headings.
+    The run-level font overrides apply Riipen brand styling on top.
+    """
+    para = doc.add_paragraph(style=f"Heading {min(level, 6)}")
 
     if level == 1:
         add_formatted_text(para, text, HEADING_FONT, H1_SIZE, DARK_BLUE, bold=True)

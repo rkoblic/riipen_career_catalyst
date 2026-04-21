@@ -19,17 +19,18 @@ The second of those is the bigger shift. Most learners around this point in a pr
 
 ## What's due this week
 
-Nothing graded or submitted. Your next graded submission is Reflection #4, due in an upcoming session. The next team checkpoint is the near-final package, which opens the Refinement phase.
+Nothing graded or submitted. Your next graded submission is Reflection #4, due in a couple of weeks. The next team checkpoint deliverable is a near-final package, which opens the Refinement phase.
 
-This isn't a slack week. The absence of a deliverable is there on purpose. The Development phase ends this week, and your team needs uninterrupted time to pull the sections of your project together, surface the remaining integration work, and enter Refinement with a package that's substantially complete.
+This is the home stretch of building. The Development phase ends this week, and it's the final window your team has to pull the pieces together before the employer reads the work in near-final form. The decisions you make over the next several days about scope, integration, and priority are the ones the employer responds to next. Teams that use this week well walk into the near-final review with a package that's already cohesive. Keep pushing.
 
 ---
 
-## Suggested order of completion
+## Your work this week
 
-1. Start with a team sync. Use your check-in debrief notes and your team processing agreement to align on integration priorities before anyone starts independent production. The production block this week is the largest in the course. Teams that head into it without a shared plan spend a lot of the block working at cross purposes.
-2. Read the What You're Actually Learning module. Two moves on one page: surfacing what the project has actually taught you, and making those learnings articulable in a form that travels beyond this specific project. Reading it before you start the production block lets you notice your own skill growth while the work is live.
-3. Read the AI as Quality Reviewer module. This is the last new AI skill the course introduces, and it's immediately useful on the integration work you're about to do.
-4. Do the production block. Apply the integration, actionability, and scope skills from last week, and use the AI quality reviewer prompts on your assembled sections.
-5. Run a second internal review gate. Shorter than the first one your team ran. The output is a concrete list of what still needs to change before the near-final version.
-6. Read What's Next for forward prep: the Reflection #4 prompt, the Final Deliverables rubric, and what to bring into the opening of the Refinement phase.
+Order depends on your team. Here's what's on the week, to sequence however makes sense for where you are.
+
+- Read **What You're Actually Learning**. Two moves on one page: surfacing what the project has actually taught you, and putting those learnings in a form that travels beyond this specific project. Worth reading early so you can notice your own skill growth while the work is live.
+- Read **AI as Quality Reviewer**. The last new AI skill the course introduces, and it's immediately useful on the integration work you're about to do.
+- Keep working on your contributions. Apply the integration, actionability, and scope skills from last week, and run the AI quality reviewer prompts on your assembled sections.
+- Run a second internal review gate before the week ends. Shorter than the first one your team ran. The output is a concrete list of what still needs to change before the near-final version.
+- Read **What's Next** for forward prep: the Reflection #4 prompt, the Final Deliverables rubric, and what to bring into the opening of the Refinement phase.
