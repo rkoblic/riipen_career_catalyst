@@ -202,6 +202,7 @@ Pattern: alternating working-meetings and document-review meetings. Weeks 7 and 
 
 - **"Peer Evaluation #1"** → "Mid-Project Peer Evaluation" (pairs with "End-of-Project Peer Evaluation" in Week 14/15)
 - **"Check-In #N"** → evergreen relational phrasing ("the check-in with your employer," "the last check-in," "your next check-in")
+- **"Status Update to Employer" standing prompt is cut.** Appeared in early design docs as a recurring between-meetings update; Week 8 explicitly dropped it and it was never re-introduced. Later design docs (Weeks 10, 12, 13) still reference it as "continuing" — always cut when encountered. Does not appear in any produced content.
 - **Specific grade percentages** → assessment component names ("the Professional Engagement component of your final grade")
 - **Em dashes** → avoided everywhere; **banned in video scripts** (don't translate to narrated audio)
 - **AI-isms to scrub:** "X isn't Y, it's Z," parallel triplets, "the place where Y lives," aphoristic closers, colon-labeled video formats ("A team writes:"), "AI cannot X. It wasn't in the room"-style mic-drops
