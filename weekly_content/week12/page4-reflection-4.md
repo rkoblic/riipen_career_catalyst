@@ -16,9 +16,19 @@ competencies:
 
 # Reflection #4
 
-Your team is now close enough to a finished deliverable to see the distance between where this project started and where it ended up. Reflection #4 sits at that vantage point. Like the reflections before it, it asks you to anchor on a specific moment. What is different is the kind of moment. You are looking for one where you noticed that your understanding of the project, the deliverable, or your own capabilities had shifted visibly from what you assumed earlier in the course.
+Your team is now close enough to a finished deliverable to see the distance between where this project started and where it ended up. Reflection #4 sits at that vantage point.
 
-Those moments usually make visible something that has been happening quietly across the past several weeks. The gap between the plan your team made at the start of the project and the work you have actually produced has widened or changed shape, and in the moment you saw it. That is the material for this reflection.
+## The prompt
+
+Choose a specific moment from the past three weeks where your understanding of the project, the deliverable, or your own capabilities shifted visibly from what you assumed earlier in the course. The moment does not have to be dramatic. It could be a revision that changed how your team thought about a finding, a conversation that reframed the problem you were solving, a piece of feedback that landed differently than expected, or a quiet realization during production that the work was different from what the original plan described.
+
+Use the DEAL framework. Describe what happened, examine what caused the shift and what it reveals about how you learn through practice, and articulate what you now understand about connecting prior knowledge to real work that you did not understand when the project began.
+
+### Connecting to your goals
+
+Look back at what you wrote on the Your Starting Point questionnaire about the skills and experiences you were bringing into the project, and about the professional challenge you wanted to work on. How have those strengths actually shown up in the work you've produced? Were there capabilities you overestimated at the start, or skills you did not list that turned out to matter more than you expected? As you look at what your team has built, what is your honest read on the substance of what you contributed, not just the hours?
+
+You do not need to have neat answers. Naming the tension honestly is part of the work.
 
 ---
 
@@ -45,20 +55,6 @@ Once you have a candidate moment in mind, it helps to generate surrounding mater
 - **What did we produce that we did not plan?** Some of what is in the final deliverable was never in the original plan at all. It showed up as the team did the work. Those additions usually reveal something about what the project actually needed that only became clear in the doing.
 
 [SCENARIO CARD: Plan-vs-reality — weak vs. strong pair. Weak: a surface description of what changed in the project. Strong: an examination that names what the change revealed about how the learner would approach similar work next time, not just what happened in this one.]
-
----
-
-## The prompt
-
-Choose a specific moment from the past three weeks where your understanding of the project, the deliverable, or your own capabilities shifted visibly from what you assumed earlier in the course. The moment does not have to be dramatic. It could be a revision that changed how your team thought about a finding, a conversation that reframed the problem you were solving, a piece of feedback that landed differently than expected, or a quiet realization during production that the work was different from what the original plan described.
-
-Use the DEAL framework. Describe what happened, examine what caused the shift and what it reveals about how you learn through practice, and articulate what you now understand about connecting prior knowledge to real work that you did not understand when the project began.
-
-### Connecting to your goals
-
-Look back at what you wrote on the Your Starting Point questionnaire about the skills and experiences you were bringing into the project, and about the professional challenge you wanted to work on. How have those strengths actually shown up in the work you've produced? Were there capabilities you overestimated at the start, or skills you did not list that turned out to matter more than you expected? As you look at what your team has built, what is your honest read on the substance of what you contributed, not just the hours?
-
-You do not need to have neat answers. Naming the tension honestly is part of the work.
 
 ---
 

@@ -20,17 +20,23 @@ The last stretch of work on any deliverable is a judgment call, not a checklist.
 
 This is a professional skill that academic work rarely asks for. In most courses, revision continues until the deadline and stops because time runs out. Final iteration on a client deliverable stops because the team has made a call. Your team is about to make one.
 
-[VIDEO: The revision that made it worse]
-
 ---
 
-## Triaging the Near-Final Review feedback
+## Triaging feedback on your near-final deliverables
 
-The Near-Final Review is the largest pool of feedback you will get from the employer before the deliverable is final. Every item in the debrief notes from that meeting lands in one of three categories.
+This is the largest pool of feedback you will get from the employer before the deliverable is final. Every item in the debrief notes from last week's meeting lands in one of three categories.
 
 - **Requires revision.** The item points at something the team agrees should change before submission, and the change is feasible in the time remaining. These go on the production list.
 - **Acknowledge in the Change Log without changing the deliverable.** The team heard the feedback, considered it, and has a deliberate reason not to act on it (scope, disagreement after discussion, or judgment that the current version is stronger). These get a Change Log entry that captures both the feedback and the reasoning. Not changing something is a defensible decision when the reasoning is visible.
 - **Out of scope. Document and move on.** The item is real but falls outside what this project was ever going to cover, or would require rework the remaining time does not support. Log it briefly and stop there.
+
+### When the employer's feedback is thin
+
+Sometimes the debrief is a few lines. Sometimes it's "looks good, ship it." A busy partner signing off without a long list is normal late in a project, not a sign your team is off track. It does leave the triage with less to work on, though, so the team needs another input for this week's revision.
+
+Use the AI quality reviewer prompts from Week 10 to generate it. The fresh-reader, consistency-check, and weakest-link prompts are designed exactly for this stage: whole-document review of an assembled draft. Run them on your current draft and treat what comes back as a candidate list.
+
+The candidate list then runs through the same three-category triage above. Some flags will be real revision items. Some will be acknowledgment-only (AI noticing a surface inconsistency that is actually intentional). Some will be out of scope. The difference between AI-generated candidates and employer feedback is the source, not the process. Your team still makes the call on each item.
 
 ### How to tell the difference
 
@@ -43,7 +49,7 @@ A few cues help separate the three categories when the team is deciding in real 
 
 ### The Change Log as defense, not just record
 
-Your team's Change Log has been running since the Direction Check. By this point in the project it is a substantive record of every round of feedback your team has received and what the team did in response. That record matters differently now than it did six weeks ago.
+Your team's Change Log has been running for several weeks. By this point in the project it is a substantive record of every round of feedback your team has received and what the team did in response. That record matters differently now than it did six weeks ago.
 
 On the Final Deliverables rubric, the Responsiveness to Feedback dimension evaluates whether your team engaged with the feedback the employer provided. Engagement is not the same thing as compliance. A team that changed everything the employer mentioned may be less responsive, in the rubric's sense, than a team that changed some things, acknowledged others with clear reasoning, and documented both.
 
@@ -72,10 +78,3 @@ Low-risk final-stage work includes polish, consistency passes, error catching, f
 High-risk final-stage work includes structural rewrites, re-scoping the argument, generating new content or new sections, and revising findings after the analysis has already been built on top of them. These changes are sometimes necessary, but they almost always introduce problems that the remaining time cannot fully resolve. If a change of this kind is on the table, the team should be able to say specifically what breaks if they don't make it, and what is likely to break if they do.
 
 The rule of thumb is simple. If a revision would have felt routine three weeks ago but feels risky now, the work is probably in the second category. Treat it as a judgment call, not a default action.
-
----
-
-[CURATED LINK: A practitioner-focused piece on knowing when a professional document is done, or on the move from substantive revision to final polish.]
-- Option 1: [When Is Your Writing "Done Enough"?] — https://hbr.org/2019/08/stop-trying-to-write-something-perfect — Harvard Business Review article on the professional practice of shipping work before it feels finished. Criteria: practitioner audience, HBR authority, evergreen framing. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 2: [The Art of the Final Edit] — https://hbr.org/2014/11/the-science-of-when-you-need-in-person-communication — Harvard Business Review's Writing & Editing collection has several short reads on the move from substantive edits to copy-level cleanup. Pick one that lands on when to stop revising rather than how to revise. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 3: [Revision vs. Editing: Knowing the Difference] — https://www.grammarly.com/blog/revising-vs-editing/ — Grammarly Business blog article that distinguishes substantive revision from final-pass editing. Practitioner-focused, evergreen, short read. REPLACE_WITH_ACTUAL_URL — verify.

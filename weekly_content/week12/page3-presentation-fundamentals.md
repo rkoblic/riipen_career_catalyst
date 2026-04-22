@@ -22,17 +22,19 @@ That changes what the presentation is for. The question is no longer what to inc
 
 This page walks through the fundamentals of professional presentations and introduces AI as a new kind of structuring tool. At the bottom, you will draft the first version of your team's presentation outline. That outline is working material for now. Refinement and rehearsal come later.
 
-[VIDEO: Not a report, a story]
-
 ---
 
 ## Knowing your audience
 
-The employer has been in every meeting that shaped this project. The Kickoff, the Direction Check, two working check-ins, and the Near-Final Review. By the time your team presents, they already know the project's scope, the research, the deliverable, and most of what's inside it.
+The employer has been in every meeting that shaped this project. By the time your team presents, they already know the scope, the research, and most of what's in the deliverable — including the conclusions and recommendations, which they have already seen and given feedback on.
 
-What they do not yet know is what your team has concluded and what your team recommends they do. Those are what the presentation delivers.
+The presentation is not delivering new information. It is doing three other things.
 
-The starting position for planning is the opposite of what most teams instinctively do. Most teams plan a presentation as if the audience needs to be brought from zero to the findings. Your audience is not at zero. Planning from their real starting position frees up time to spend on the parts that genuinely haven't been said yet: the synthesis, the implications, and the recommendations.
+- **Signaling what matters most.** The deliverable contains the full set of findings. The presentation is where your team takes a position on which two or three of them matter most, and why. That emphasis is the work of the presentation; it is not visible in the document.
+- **Assembling the project into a single argument.** The audience has seen the pieces. They have not seen them delivered as one thing, in the order your team chose, in the shape of an argument. A good presentation is the first time the project holds together as a story rather than a sequence of meetings and drafts.
+- **Asking the client to act.** A document sits on someone's desk. A presentation happens in a room with the client in it, and closes by asking them to do something with the work. Professional presentations end on the ask, not on the findings.
+
+Most teams plan a presentation as if the audience needs to be brought from zero to the findings. Your audience is not at zero. Planning from where they actually are frees up time for the parts that genuinely add something on the day: the emphasis, the synthesis, and the ask.
 
 ### The hidden audience
 
@@ -50,12 +52,11 @@ The most common failure mode in a team presentation is a chronological march thr
 
 For this project specifically, that means leading with the problem your team's work was actually solving, pulling forward the two or three findings that shifted the team's thinking most, and closing on what the client should do with them. Your deliverable contains the full set of findings. The presentation is where the team signals which ones matter most.
 
-There are canonical resources on how professional presenters structure a presentation as an argument rather than a report. Read or watch the one linked below before your team drafts the narrative arc in the outline.
+There are canonical resources on how professional presenters structure a presentation as an argument rather than a report. Watch the one below before your team drafts the narrative arc in the outline.
 
-[CURATED LINK: How to structure a business presentation as a narrative argument — ~8–10 min read or watch.]
-- Option 1: "How to Give a Killer Presentation" — https://hbr.org/2013/06/how-to-give-a-killer-presentation — Harvard Business Review piece by TED curator Chris Anderson, walking through how he coaches speakers to build a talk around a single through-line. Evergreen, practitioner-authoritative. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 2: "The Pyramid Principle: Structure Your Thinking" — https://untools.co/pyramid-principle — A short, clean explainer of Barbara Minto's pyramid principle, the structuring framework most consulting firms still use for client presentations. Practitioner-focused, evergreen. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 3: "The Secret Structure of Great Talks" — https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks — Nancy Duarte's TED talk on narrative structure, using famous speeches to show how story arc operates in practice. Slightly longer (~18 min); pick this if a video suits the cohort better than text. REPLACE_WITH_ACTUAL_URL — verify.
+**Watch:** [TED's secret to great public speaking](https://youtu.be/-FOCpMAww28) — Chris Anderson (TED curator), ~8 min. The four-part framework for building a talk around a single through-line, giving the audience a reason to care, building the idea from concepts they already know, and making the idea worth sharing.
+
+**Go deeper:** [10 Tips for Achieving Presentation Zen](https://presentationzen.com/blog/storytelling-and-presentation-zen-tips) — Garr Reynolds, ~8–10 min read. Picks up where Anderson leaves off. Where Anderson teaches structure, Reynolds teaches narrative craft: conflict, change, resolution, and what filmmakers and storytellers know about holding an audience.
 
 ---
 
@@ -67,10 +68,7 @@ A useful test for your team as you build slides: any slide that works as an emai
 
 Professional designers have written extensively on what makes a slide work. The resource below is a good starting point before your team starts building slides.
 
-[CURATED LINK: Principles of effective slide design for business presentations — ~8–10 min read.]
-- Option 1: "Structure Your Presentation Like a Story" — https://hbr.org/2012/10/structure-your-presentation-li — Harvard Business Review piece by Nancy Duarte on the interplay between slide structure, audience, and narrative. Evergreen, HBR-authoritative. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 2: "How to Make a 'Good' Presentation 'Great'" — https://hbr.org/2022/06/how-to-make-a-good-presentation-great — HBR piece with a practical checklist on slide design, pacing, and visual hierarchy. Practitioner-focused. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 3: "Designing Slides That Work" — https://www.presentationzen.com/presentationzen/top-ten-slide-tips.html — Garr Reynolds' ten-rule primer from Presentation Zen. Practitioner-authoritative, though hosted on a personal site; verify stability. REPLACE_WITH_ACTUAL_URL — verify.
+**Watch:** [Create Slides People Will Remember](https://youtu.be/OeV2fHEM4RI) — Duarte, ~2 min. A tight primer on slide development: use slides selectively, write the speech before the slides, keep each slide to one concept readable in three seconds, and use visuals rather than projected text.
 
 ---
 
@@ -82,10 +80,7 @@ Preventing that takes deliberate coordination, not just practice. The practice h
 
 Rehearse the handoffs as a separate pass. Most teams rehearse their own sections and then do one full run-through. The transitions are the first thing to crack in that run because they have not been practiced on their own. The resource below covers coordination patterns for multi-speaker presentations in more depth.
 
-[CURATED LINK: Coordinating a multi-speaker team presentation — ~6–8 min read or watch.]
-- Option 1: "Mastering the Art of the Team Presentation" — https://hbr.org/2017/05/how-to-make-your-teams-next-presentation-effective — HBR piece on how to make a team presentation feel coordinated rather than stitched together. Practitioner-focused, evergreen. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 2: "How to Coordinate a Group Presentation" — https://www.toastmasters.org/resources/public-speaking-tips/working-as-a-team — Toastmasters' short guide on group presentation coordination, with practical handoff and rehearsal advice. Practitioner-authoritative. REPLACE_WITH_ACTUAL_URL — verify.
-- Option 3: "7 Tips for Group Presentations" — https://www.thinkoutsidetheslide.com/group-presentation-tips/ — Dave Paradi's concrete, checklist-style guide on multi-speaker presentation logistics and handoffs. Short and practical. REPLACE_WITH_ACTUAL_URL — verify.
+**Watch:** [8 Tips for How to do a Group Presentation](https://youtu.be/rF13U3CNDPY) — Lighthouse Communications, ~6 min. Covers transitions between speakers, a three-meeting rehearsal cadence (planning → table read → formal rehearsal), how non-speaking team members should behave on stage, and Q&A dynamics (including the "pile-on" effect to avoid).
 
 ---
 
@@ -112,6 +107,20 @@ Once the outline exists, AI can draft first-pass speaker notes from your finding
 > For this slide, draft speaker notes based on the underlying finding. Keep it conversational, not scripted. About forty-five seconds of narration.
 
 The speaker then rewrites the notes in their own voice. Speaker notes that sound like AI sound obvious when delivered live. The team is the one who was in the meetings, and the audience can hear it when the voice behind the words is the team's rather than a tool's.
+
+### Tools that turn an outline into slides
+
+Several tools can build a first-pass slide deck once your team has the outline:
+
+- **Claude** and **Gemini.** General-purpose AI assistants. Paste the outline and key messages and they can draft slide titles, speaker notes, and suggested visuals slide by slide. Claude can also render a working HTML slide deck live in the conversation.
+- **Gamma.ai.** Purpose-built for AI slide generation. Paste your content and it produces a designed deck you can edit.
+- **Beautiful.ai.** Design automation. You outline the slides; it handles visual layout using a template system.
+
+Use them to accelerate the production step, not to replace the structural thinking. A deck produced from a one-line prompt will look polished and say almost nothing — the same failure mode as the language caution above. Teams that have already written the key messages and the narrative arc get something usable back. Teams that haven't, don't.
+
+A workable pattern: draft the outline manually. Feed the outline (not the full deliverable) into one of these tools to produce a first-pass deck. Revise by hand from there, keeping the voice, emphasis, and ordering your team chose through the outline.
+
+One more reason this matters: anything on a slide is something the employer may ask about during or after the presentation. A slide generated by AI that no team member can actually explain becomes a liability in the room — a question about a claim on a slide no one built is hard to answer well. If a slide is in the final deck, someone on the team has to be able to defend what it says. Q&A preparation comes later in the course; this is the first step toward it.
 
 ### A reminder
 
