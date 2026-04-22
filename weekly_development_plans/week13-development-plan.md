@@ -64,7 +64,7 @@ The week's central page. Combines the Home Stretch mindset frame (13.03), the Fi
 
 **What this submission is**
 - What the Final Deliverables package includes: the deliverable components specified in the project brief, the Change Log, and the AI disclosure statement (AI-generated text, ~150 words)
-- What the rubric assesses: five dimensions with weights (Deliverable Quality 30%, Analytical Rigor 25%, Actionability 20%, Communication 15%, Responsiveness to Feedback 10%); the package is evaluated, not just the deliverable content — the Change Log and disclosure are part of what's graded (AI-generated text, ~200 words)
+- What the rubric assesses: five dimensions with weights (Deliverable Quality 25%, Analytical Rigor 25%, Actionability 25%, Communication 15%, Responsiveness to Feedback 10%); the package is evaluated, not just the deliverable content — the Change Log and disclosure are part of what's graded (AI-generated text, ~200 words)
 - What 30% of the course grade means here: this is the single highest-weighted submission; it carries more than any individual reflection, any peer evaluation, and any other checkpoint in the course (AI-generated text, ~100 words)
 
 **Final Deliverable Checklist** (absorbs 13.02)
@@ -226,7 +226,7 @@ Bridge to Weeks 14–15. Absorbs the forward prep activity (13.09) — previewin
 
 ### Flags / Dependencies
 
-- [ ] **Final Deliverables rubric cross-check** (Page 2). Confirm rubric dimensions and weights (Deliverable Quality 30%, Analytical Rigor 25%, Actionability 20%, Communication 15%, Responsiveness to Feedback 10%) are accurate before finalizing copy. The 30%-of-course-grade framing depends on the weight being correct.
+- [x] **Final Deliverables rubric cross-check** (Page 2). Confirmed rubric dimensions and weights against `rubrics/final-deliverables-rubric-draft.md`: Deliverable Quality 25%, Analytical Rigor 25%, Actionability 25%, Communication 15%, Responsiveness to Feedback 10%. Design doc had incorrect weights (30/25/20/15/10) — corrected in both the development plan and produced content.
 - [ ] **Reflection #5 prompt authoring.** Page 4 references what the prompt will ask students to examine (the full course arc; the most significant shift in understanding or capability). Confirm the prompt is written to that framing before content production, so the preview language on Page 4 matches the prompt students actually see. If TBD, coordinate with whoever owns reflection prompt authoring.
 - [ ] **End-of-Project Peer Evaluation instructions.** Page 4 states the evaluation uses the same BARS framework as the Mid-Project Peer Evaluation in Week 8, with four Teamwork subskill dimensions. Confirm alignment before finalizing the preview framing. Also confirm the evaluation is summative (contributes to final grade) as the plan assumes.
 - [ ] **Change Log as established artifact.** Every Change Log reference in this week's content treats the log as an artifact the team has been maintaining since Week 6. Do not re-explain what the Change Log is or how to structure entries on any Week 13 page. If a team reaches Week 13 without a substantive Change Log, Week 13 content cannot solve that — the Page 2 framing should name the gap honestly ("the log should be substantive by now") rather than offering a last-minute tutorial.
