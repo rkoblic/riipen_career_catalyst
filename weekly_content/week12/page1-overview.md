@@ -9,7 +9,7 @@ status: draft
 
 # The last week before it ships
 
-Your team's Final Deliverables are due next week, carrying the largest grade weight of any single deliverable in the course. This week is the last substantial block of work before that submission. The Near-Final Review feedback is in hand, the employer is not available for another round, and the deliverable has to reach submission-ready shape in the seven days that follow.
+Your team's Final Deliverables are due next week, carrying the largest grade weight of any single deliverable in the course. This week is the last substantial block of work before that submission. The feedback from last week's near-final review is in hand, the employer is not available for another round, and the deliverable has to reach submission-ready shape in the seven days that follow.
 
 Alongside the finalization work, the presentation arc starts here. Presentations close the project at the end, and the outline for yours gets drafted this week so there's something to refine later rather than build from scratch when the deadline is closer.
 
@@ -29,7 +29,7 @@ Nothing else is submitted this week. **Final Deliverables are due next week** an
 
 ## Suggested order of completion
 
-1. Check in as a team as you head into the home stretch. Walk through the Near-Final Review feedback together and agree on what's getting revised before anyone starts revising.
+1. Check in as a team as you head into the home stretch. Walk through the feedback from last week's review together and agree on what's getting revised before anyone starts revising.
 2. Read **Final Iteration** before you dig back into the project work. The triage framework and the "knowing when to stop" guidance both apply this week, and the page is short enough to read ahead of time.
 3. Use your project work time for targeted revision and final polish, not new content. The AI quality reviewer prompts from the last couple of weeks still apply at this stage.
 4. Read **Presentation Fundamentals** and draft your presentation outline using the template on that page. The outline is a working draft for now. Refinement and rehearsal happen in a couple of weeks, and the outline is submitted as a checkpoint at that point, not this week.

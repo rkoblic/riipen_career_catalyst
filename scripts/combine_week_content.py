@@ -5,6 +5,10 @@ Combine all markdown content files for a week into a single .docx for review.
 Not branded — just clean formatting with proper headers, body text, and page breaks
 between pages. Intended for pasting into Google Docs for stakeholder review.
 
+Video scripts (`-video.md`) are inlined at `[VIDEO:]` placeholders; audio scripts
+(`-audio.md`) are inlined at `[AUDIO:]` placeholders. Interactive source docs
+(`-interactive.md`) are excluded.
+
 Usage:
     python3 scripts/combine_week_content.py <week_number> [output.docx]
 
@@ -116,14 +120,15 @@ def process_inline(paragraph, text, size=11, color=DARK_BLUE):
 
 
 VIDEO_SCRIPT_COLOR = RGBColor(0x8B, 0x5C, 0x0A)  # dark amber for video script label
+AUDIO_SCRIPT_COLOR = RGBColor(0x0A, 0x5C, 0x8B)  # dark teal for audio script label
 
 
-def add_video_script_inline(doc, script_content):
-    """Render a video script inline where the [VIDEO:] placeholder was."""
+def _add_script_inline(doc, script_content, label, color):
+    """Render a video or audio script inline where its placeholder was."""
     # Label
     p = doc.add_paragraph()
     p.paragraph_format.left_indent = Inches(0.25)
-    add_formatted_text(p, "▶ VIDEO SCRIPT", size=10, bold=True, color=VIDEO_SCRIPT_COLOR)
+    add_formatted_text(p, f"▶ {label}", size=10, bold=True, color=color)
 
     # Render script body as indented muted paragraphs (skip H1 title)
     for line in script_content.split("\n"):
@@ -145,17 +150,30 @@ def add_video_script_inline(doc, script_content):
     # End label
     p = doc.add_paragraph()
     p.paragraph_format.left_indent = Inches(0.25)
-    add_formatted_text(p, "▶ END VIDEO SCRIPT", size=10, bold=True, color=VIDEO_SCRIPT_COLOR)
+    add_formatted_text(p, f"▶ END {label}", size=10, bold=True, color=color)
 
 
-def add_page_content(doc, content, page_num, title, video_scripts=None):
+def add_video_script_inline(doc, script_content):
+    _add_script_inline(doc, script_content, "VIDEO SCRIPT", VIDEO_SCRIPT_COLOR)
+
+
+def add_audio_script_inline(doc, script_content):
+    _add_script_inline(doc, script_content, "AUDIO SCRIPT", AUDIO_SCRIPT_COLOR)
+
+
+def add_page_content(doc, content, page_num, title, video_scripts=None, audio_scripts=None):
     """Add a single page's markdown content to the document.
 
     video_scripts: dict mapping page number (str) to list of stripped video
     script contents, to be inlined at [VIDEO:] placeholders.
+
+    audio_scripts: dict mapping page number (str) to list of stripped audio
+    script contents, to be inlined at [AUDIO:] placeholders.
     """
     video_scripts = video_scripts or {}
+    audio_scripts = audio_scripts or {}
     page_videos = list(video_scripts.get(str(page_num), []))  # copy so we can pop
+    page_audios = list(audio_scripts.get(str(page_num), []))
     lines = content.split("\n")
     i = 0
     in_list = False
@@ -308,6 +326,15 @@ def add_page_content(doc, content, page_num, title, video_scripts=None):
             i += 1
             continue
 
+        # AUDIO placeholder — inline the audio script if available
+        if stripped.startswith("[AUDIO:"):
+            p = doc.add_paragraph()
+            add_formatted_text(p, stripped, size=10, italic=True, color=MUTED)
+            if page_audios:
+                add_audio_script_inline(doc, page_audios.pop(0))
+            i += 1
+            continue
+
         # Other placeholders — render as grey italic
         if stripped.startswith("[INTERACTIVE:") or \
            stripped.startswith("[CURATED LINK:") or stripped.startswith("[TEMPLATE:") or \
@@ -323,20 +350,20 @@ def add_page_content(doc, content, page_num, title, video_scripts=None):
         i += 1
 
 
-def inline_video_scripts_in_md(content, videos):
-    """Return the page content with each [VIDEO:] placeholder followed by the
-    corresponding video script rendered as a markdown blockquote, so the
-    script appears inline in the combined markdown output."""
-    videos = list(videos)  # copy so we can pop
+def _inline_scripts_of_type_in_md(content, scripts, marker_prefix, label):
+    """Return the page content with each placeholder of the given marker prefix
+    (e.g. '[VIDEO:' or '[AUDIO:') followed by the corresponding script rendered
+    as a markdown blockquote."""
+    scripts = list(scripts)  # copy so we can pop
     lines = content.split("\n")
     output_lines = []
     for line in lines:
         output_lines.append(line)
         stripped = line.strip()
-        if stripped.startswith("[VIDEO:") and videos:
-            script = videos.pop(0)
+        if stripped.startswith(marker_prefix) and scripts:
+            script = scripts.pop(0)
             output_lines.append("")
-            output_lines.append("> **▶ Video script**")
+            output_lines.append(f"> **▶ {label}**")
             output_lines.append(">")
             for script_line in script.split("\n"):
                 s = script_line.strip()
@@ -353,9 +380,17 @@ def inline_video_scripts_in_md(content, videos):
     return "\n".join(output_lines)
 
 
-def build_combined_markdown(pages_data, video_scripts, week_num, summary_parts):
-    """Build a single combined markdown string from all pages, with video
-    scripts inlined at their [VIDEO:] placeholders."""
+def inline_video_scripts_in_md(content, videos):
+    return _inline_scripts_of_type_in_md(content, videos, "[VIDEO:", "Video script")
+
+
+def inline_audio_scripts_in_md(content, audios):
+    return _inline_scripts_of_type_in_md(content, audios, "[AUDIO:", "Audio script")
+
+
+def build_combined_markdown(pages_data, video_scripts, audio_scripts, week_num, summary_parts):
+    """Build a single combined markdown string from all pages, with video and
+    audio scripts inlined at their placeholders."""
     parts = []
     parts.append(f"# Week {int(week_num)} — Content Review\n")
     parts.append(f"\n**RIIPEN CAREER CATALYST** — {' + '.join(summary_parts)}\n")
@@ -364,7 +399,10 @@ def build_combined_markdown(pages_data, video_scripts, week_num, summary_parts):
     for idx, (page_num, _title, content, _filepath) in enumerate(pages_data):
         parts.append(f"\n**PAGE {page_num}**\n\n")
         page_videos = video_scripts.get(str(page_num), [])
-        parts.append(inline_video_scripts_in_md(content, page_videos))
+        page_audios = audio_scripts.get(str(page_num), [])
+        with_videos = inline_video_scripts_in_md(content, page_videos)
+        with_both = inline_audio_scripts_in_md(with_videos, page_audios)
+        parts.append(with_both)
         if idx < len(pages_data) - 1:
             parts.append("\n\n---\n")
 
@@ -387,8 +425,14 @@ def main():
         m = re.match(r"page(\d+)", p.name)
         return (int(m.group(1)) if m else 9999, p.name)
     all_md = sorted(week_dir.glob("page*.md"), key=page_sort_key)
-    content_files = [f for f in all_md if "-video.md" not in f.name and "-interactive.md" not in f.name]
+    content_files = [
+        f for f in all_md
+        if "-video.md" not in f.name
+        and "-audio.md" not in f.name
+        and "-interactive.md" not in f.name
+    ]
     video_files = [f for f in all_md if "-video.md" in f.name]
+    audio_files = [f for f in all_md if "-audio.md" in f.name]
 
     if not content_files:
         print(f"Error: No content files found in {week_dir}/")
@@ -403,6 +447,16 @@ def main():
         script_content = strip_frontmatter(raw)
         video_scripts.setdefault(page_num, []).append(script_content)
     video_count = len(video_files)
+
+    # Build audio script lookup: page number -> list of script contents
+    audio_scripts = {}
+    for af in audio_files:
+        raw = af.read_text(encoding="utf-8")
+        meta = extract_frontmatter(raw)
+        page_num = meta.get("page", "0")
+        script_content = strip_frontmatter(raw)
+        audio_scripts.setdefault(page_num, []).append(script_content)
+    audio_count = len(audio_files)
 
     # Determine output path
     if args.output:
@@ -430,6 +484,8 @@ def main():
     summary_parts = [f"{page_count} pages"]
     if video_count:
         summary_parts.append(f"{video_count} video scripts")
+    if audio_count:
+        summary_parts.append(f"{audio_count} audio scripts")
 
     # Collect page data once, used by both outputs
     pages_data = []
@@ -442,7 +498,7 @@ def main():
         pages_data.append((page_num, title, content, filepath))
 
     # Build and save combined markdown alongside the docx
-    combined_md = build_combined_markdown(pages_data, video_scripts, week_num, summary_parts)
+    combined_md = build_combined_markdown(pages_data, video_scripts, audio_scripts, week_num, summary_parts)
     md_output_path = output_path.with_suffix(".md")
     md_output_path.write_text(combined_md, encoding="utf-8")
 
@@ -461,8 +517,8 @@ def main():
         p = doc.add_paragraph()
         add_formatted_text(p, f"PAGE {page_num}", size=10, bold=True, color=MUTED)
 
-        # Add content, passing video scripts for inline insertion
-        add_page_content(doc, content, page_num, title, video_scripts=video_scripts)
+        # Add content, passing video and audio scripts for inline insertion
+        add_page_content(doc, content, page_num, title, video_scripts=video_scripts, audio_scripts=audio_scripts)
 
         # Page break between pages (not after the last one)
         if idx < len(pages_data) - 1:
@@ -474,10 +530,13 @@ def main():
     print(f"Also created: {md_output_path}")
     print(f"  Content pages: {page_count}")
     print(f"  Video scripts: {video_count} (inlined at placeholders)")
+    print(f"  Audio scripts: {audio_count} (inlined at placeholders)")
     for f in content_files:
         print(f"    - {f.name}")
     for vf in video_files:
         print(f"    - {vf.name} (inlined)")
+    for af in audio_files:
+        print(f"    - {af.name} (inlined)")
 
 
 if __name__ == "__main__":

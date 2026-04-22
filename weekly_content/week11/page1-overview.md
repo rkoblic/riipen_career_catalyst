@@ -9,11 +9,13 @@ status: draft
 
 # From building to polishing
 
-The Refinement phase begins this week. The shift it represents is less about what you're doing and more about what you're doing it for. The work is largely built. The question now is whether it's ready for a professional audience to read independently.
+This week we're moving into the Refinement phase. The work is largely built. The question now is whether the team is ready to walk the employer through it. A deliverable that's substantively strong but visually inconsistent, or analytically right but difficult to navigate, lands differently than one where both the content and the presentation are ready. This week is the structured opportunity to close that gap.
 
-That distinction matters more than it might seem. A deliverable that's substantively strong but visually inconsistent, or analytically right but difficult to navigate, performs differently in a document review than one where both the content and the presentation are ready. This week gives you the structured opportunity to close that gap before the employer sees the near-final package.
+A good near-final meeting should feel light. If the work has been coming together steadily and the team has been sharing progress at each check-in, the employer already has a sense of what's coming, and the meeting mostly confirms direction. In practice, that also means the team drives. Employers might skim the package rather than read it in depth, and sometimes haven't opened it when the meeting starts. A team that comes in prepared to walk through highlights and surface its own questions gets useful input regardless of how much prep the employer did.
 
-[VIDEO: What document reviews actually test]
+The week is also a support window. Your employer gives you their read, and your instructor sees the same submission through the platform and can follow up with the team on anything that needs more support before the final push. Where the work isn't quite where it needs to be, this is where that gets addressed.
+
+[VIDEO: The meeting that should feel light]
 
 ---
 
@@ -21,14 +23,14 @@ That distinction matters more than it might seem. A deliverable that's substanti
 
 **Near-Final Package** (team checkpoint, completion-based)
 
-Your team assembles all deliverable components into a single, near-final package and submits it through the Riipen platform with the Change Log attached. This is the checkpoint that opens the Near-Final Review meeting with your employer.
+Your team assembles all deliverable components into a single, near-final package and submits it through the Riipen platform with the Change Log attached. When you submit, the package is automatically shared with your employer, so aim to submit it well in advance of your next meeting so they have time to review.
 
 ---
 
 ## Suggested order of completion
 
-1. **Read the Quality and Craft module.** Before your team starts polishing, align on what "polished" actually means at this stage and how to run the internal review gate that should happen before the employer sees the work. This takes about 30 minutes and sets the standard for the production block.
-2. **Do the production block.** Apply the quality standard and run the internal review gate on your assembled sections using the checklist from the Quality and Craft module. Use the AI quality reviewer prompts you practiced recently to supplement your manual pass. This is the main production time for the week.
-3. **Submit the Near-Final Package.** When your team is satisfied that the package meets the completion criteria, submit it through the Riipen platform with your Change Log attached and your AI disclosure included.
-4. **Complete the Near-Final Review preparation.** Read the Near-Final Review page and do the prep work: finalizing your Change Log walkthrough and developing your targeted questions before the meeting.
-5. **Read What's Next.** Brief forward-look at the final deliverable submission and what the Near-Final Review feedback should feed into.
+1. **Read the Quality and Craft module.** A short checklist for the internal review your team runs before submission, with pointers back to the deeper guidance from Weeks 7, 9, and 10. Roughly 10 minutes.
+2. **Do the work.** Apply the quality standard and run the internal review gate on your assembled sections using the checklist from Quality and Craft. The AI quality reviewer prompts from recent weeks supplement your manual pass.
+3. **Submit the Near-Final Package** through the Riipen platform, with the Change Log attached and AI disclosure included.
+4. **Prepare to walk your employer through the package.** The next page covers how to run the meeting, including the walkthrough, the Change Log summary, and the targeted questions you'll bring.
+5. **Read What's Next** for a forward-look at the final deliverable submission and what the employer's feedback feeds into.
