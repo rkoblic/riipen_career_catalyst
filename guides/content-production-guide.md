@@ -396,9 +396,9 @@ For each curated link specified in the development plan, provide **three options
 - A one-sentence rationale for why this option is a good fit
 
 **Selection criteria for curated links:**
-- **Authoritative source** — published by a recognized organization, institution, or established professional voice (e.g., Harvard Business Review, MindTools, a well-known professional development platform). Articles, YouTube videos, and short courses are all fair game. Avoid personal blogs, low-authority content farms, or paywalled academic journals.
+- **Authoritative source** — published by a recognized organization, institution, or established professional voice (e.g., TED, MindTools, Duarte, Presentation Zen, Toastmasters, a well-known professional development platform). Articles, YouTube videos, and short courses are all fair game. Avoid personal blogs, low-authority content farms, or paywalled academic journals.
 - **Stable URL** — prefer institutional or organizational URLs that are unlikely to break. YouTube channels from established organizations or educators are fine. Avoid medium.com posts, LinkedIn articles, or other platforms where content can be deleted by the author.
-- **Accessible** — no paywall, no login required, no aggressive pop-ups. Learners should be able to click and read immediately.
+- **Accessible** — no paywall, no login required, no aggressive pop-ups. Learners should be able to click and read immediately. **Harvard Business Review (hbr.org) is paywalled and should not be used**, even when the content is a strong thematic fit.
 - **Appropriate length** — the curated link should fill the time budget noted in the development plan (typically 5–10 minutes of reading or viewing). A 30-minute video is too long; a 200-word blog post is too thin.
 - **Evergreen** — avoid content tied to a specific year, trend cycle, or news event. Prefer timeless professional guidance over "Top 10 Tips for 2024."
 - **Inclusive and professional** — no content that assumes a specific cultural context, uses exclusionary language, or adopts a tone inconsistent with the course's professional framing.

@@ -3,7 +3,7 @@ week: 12
 page: 3
 title: Presentation fundamentals
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 status: draft
 competencies:
   - area: Communication
@@ -21,6 +21,8 @@ A final presentation is the only moment in the project where your team's work ge
 That changes what the presentation is for. The question is no longer what to include. Most of your project's findings cannot fit. The question is what the audience should leave the room believing or doing, and what has to be said out loud for that to happen.
 
 This page walks through the fundamentals of professional presentations and introduces AI as a new kind of structuring tool. At the bottom, you will draft the first version of your team's presentation outline. That outline is working material for now. Refinement and rehearsal come later.
+
+The concepts this page covers are also the four dimensions the Final Presentation is graded on at the end of the course: narrative structure, visual support, speaker coordination, and Q&A performance. Open [**the Final Presentation rubric**](URL_TBD) alongside this page to see the exact assessment language. Reading it now gives you a clearer picture of where the work needs to end up.
 
 ---
 
