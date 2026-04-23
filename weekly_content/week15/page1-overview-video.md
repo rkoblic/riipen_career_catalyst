@@ -10,12 +10,10 @@ status: draft
 
 # Video Script: The last mile
 
-Fifteen weeks is a long time. If you started this course wondering whether you would really end up with something worth presenting to a professional audience, and you are now preparing to do exactly that, something has changed. That change is what this week is about.
+In a professional engagement, the client's strongest impression of your team is formed in the last two weeks, not the first thirteen. A strong middle with a weak close gets described as "it was okay." A competent middle with a clean close gets described as "we'd hire them again." That is why this week matters.
 
-The work itself is mostly done. Your Final Deliverables are with the employer. Your presentation has been rehearsed. Your reflection has been started. What is left is the last mile: delivering the work live, closing the experience with your team, and translating what you built into forms that last beyond the course.
+The Final Presentation is where your employer sees you stand behind the work. They have already seen the content. What they are watching this week is how you handle questions about your trade-offs and whether the team shows up aligned.
 
-Each of those three things asks something a little different. The presentation asks you to stand behind the work in front of the people who commissioned it. The team closing asks you to take the experience seriously enough to name what you built together and what you learned from each other. The reflection and the peer evaluation ask you to look back across the whole fifteen weeks and say something specific and honest about what happened.
+The same pattern operates inside the team. Good consulting firms make their people debrief after every project because a project you do not examine is hours spent, not skill built. That is what the team closing this week is for.
 
-None of those are formalities. They are the skills that make professional work stick.
-
-This is the final week. We are glad you made it here.
+Six months from now, when you ask this employer to be a reference for you, they will already have an answer. It is being formed right now.

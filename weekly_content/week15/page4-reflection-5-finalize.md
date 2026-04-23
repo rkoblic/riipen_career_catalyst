@@ -1,6 +1,6 @@
 ---
 week: 15
-page: 3
+page: 4
 title: Reflection #5 — Finalize and Submit
 created: 2026-04-22
 last_updated: 2026-04-22
@@ -16,9 +16,9 @@ competencies:
 
 # Reflection #5 — Finalize and Submit
 
-You started Reflection #5 last week. The prompt, the conceptual frame (Transfer), the scaffolding on how Reflection #5 differs from the earlier reflections, and the drafting guidance all live on the [**Reflection #5 page from earlier in the course**](../week14/page3-transfer-reflection-5.md). That is the source for anything substantive about the prompt itself, the rubric dimensions, or how to think about selecting and articulating an anchor experience. Go back to it if you need the full framing. This page is for the final push: incorporating what surfaced this week, completing the DEAL stages you held for now, and submitting.
+You started Reflection #5 last week. The prompt, conceptual frame (Transfer), and drafting guidance all live on the [**Reflection #5 page from earlier in the course**](../week14/page3-transfer-reflection-5.md); go back to it for the full framing. This page is for the final push: incorporating what surfaced this week, completing the DEAL stages you held for now, and submitting.
 
-By the time you sit down to this session, the Final Presentation has happened and your team closing is done. That matters more than it might feel like it does. The presentation and the closing are not incidental to the reflection; they are part of the experience the reflection is about. The last stages of Reflection #5 — Articulate and Learn — are where the fullest version of the fifteen-week arc comes into the reflection, and both of those stages land better with the week's culminating experiences available to draw from.
+By the time you sit down to finalize Reflection #5, the Final Presentation and team closing are both done. That matters — the Articulate and Learn stages land better with those experiences available to draw from, because the presentation and the closing are part of what the reflection is about.
 
 This is the last reflection in the portfolio. It is also the one most likely to matter beyond this course. What you write here is close to what you will eventually say in a hiring conversation, a graduate school application, or a performance review about what this experience produced in you as a professional.
 
@@ -38,7 +38,7 @@ The rubric is the same as every reflection in the portfolio: Descriptive Specifi
 
 ## Incorporating what surfaced this week
 
-The presentation and the team closing are two of the richest sources of material you have had for a reflection. Both are recent, and recency is usually a risk — the most recent experience is often not the right anchor. For Reflection #5, that is still true. The point is not to replace the anchor you chose last week with something from this week. The point is to let this week's experiences inform the claim you are making about it.
+The presentation and the team closing are two of the richest sources of material you have had for a reflection. Both are recent, and recency is usually a risk — the most recent experience is often not the right anchor. For Reflection #5, that still holds. Use this week's experiences to inform the claim you are making about last week's anchor, not to replace it.
 
 A few specific places where this week's material tends to show up in a strong reflection:
 
@@ -50,13 +50,13 @@ A few specific places where this week's material tends to show up in a strong re
 
 Occasionally this week's experience surfaces a more significant moment than the one you drafted around. That can happen. The question to test it against is whether the new moment actually changed more about how you work professionally than the original anchor did, or whether it is just the most vivid thing in recent memory.
 
-If a genuinely more significant moment has surfaced, rewriting around it is the right move. A later-drafted Reflection #5 built on a stronger anchor is still a strong reflection. If the original anchor holds and the new material adds texture, keep the original and let the new material strengthen the articulation. Changing anchors because the most recent thing feels most alive is the documented failure mode — recency bias, and it is one of the patterns the reflection is specifically designed to push against.
+If a genuinely more significant moment has surfaced, rewriting around it is the right move. If the original anchor holds and the new material adds texture, keep the original and let the new material strengthen the articulation. Changing anchors because the most recent thing feels most alive is recency bias — a failure mode the reflection is designed to push against.
 
 ---
 
 ## AI guidance for the final push
 
-The boundaries are the same as every reflection in the portfolio, applied at their most demanding here.
+The boundaries are the same as every reflection in the portfolio. They matter most here.
 
 **AI-assisted drafting is off-limits.** AI cannot supply the experience, the identification of what changed in how you work, or the articulation of what that change means. Those three things are the reflection itself. Using AI to generate any of them produces a reflection about a generic professional insight rather than a reflection about you.
 
@@ -86,4 +86,4 @@ A short checklist. Not every item needs a paragraph; the point is that you know 
 
 ---
 
-This is the last of five reflections. What you have written across the portfolio is a record of your own professional development across fifteen weeks — a record few learners keep in this much detail about their own work. Reflection #5 is the capstone of that record, and the piece most likely to be useful to you in professional contexts after the course is over. It is worth the time to finish it well.
+This is the last of five reflections. What you have written across the portfolio is a record of your own professional development across fifteen weeks, and Reflection #5 is the capstone of that record. It is also the piece most likely to be useful to you in professional contexts after the course is over.

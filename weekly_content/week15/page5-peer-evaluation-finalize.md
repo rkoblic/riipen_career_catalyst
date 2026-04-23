@@ -1,6 +1,6 @@
 ---
 week: 15
-page: 4
+page: 5
 title: End-of-Project Peer Evaluation — Finalize and Submit
 created: 2026-04-22
 last_updated: 2026-04-22
@@ -22,7 +22,7 @@ competencies:
 
 You began this evaluation last week with an instructions review and behavioral-evidence gathering across the full project. What is left is writing the evaluation itself: qualitative feedback for each teammate, BARS ratings with behavioral evidence, a contribution allocation, a self-evaluation, and the closure questions that go to your instructor.
 
-This is the largest time block of the week, and the most complex instrument in the course. That is not an accident. The peer evaluation is the feedback your teammates carry out of this project into whatever comes next — and also the feedback you will receive in return. Generic feedback ("good teammate, easy to work with") does not survive first contact with a new team. Specific behavioral feedback is something a colleague can actually act on, months or years after the fact. That is the professional skill the evaluation builds. By the time you are in a performance review writing feedback for a coworker, or filling out a 360 for someone you worked alongside for a year, the habit of writing evidence-based feedback will be a habit you already have.
+This will likely take you the most time this week, and it is the most involved piece of work the course asks you to complete. The peer evaluation is the feedback your teammates carry out of this project into whatever comes next — and the feedback you will receive in return. Generic feedback ("good teammate, easy to work with") does not travel. Specific behavioral feedback is something a colleague can act on, months or years after the fact. That is the professional skill the evaluation builds. When you are later asked to write feedback on a coworker in a performance review or a 360, evidence-based feedback will already be how you write.
 
 The evaluation reflects the full project arc, not the final weeks alone. A teammate who started slowly but stepped up significantly in the Refinement phase is not the same as a teammate who coasted throughout. A teammate who led early and faded is not the same as a teammate who showed up consistently across every phase. The prompt framing is explicit: considering the entire project from the first weeks through the Final Presentation.
 
@@ -84,9 +84,9 @@ Unequal does not mean dramatically unequal. A team where everyone contributed me
 
 The same four BARS dimensions, rated for yourself. Behavioral evidence is encouraged though not required.
 
-Self-evaluation tends to distort in two directions. Over-rating, usually as a defensive move, tends to show up as 4s across the board without supporting evidence. Under-rating, often as a modesty move, tends to show up when the self-rating is noticeably lower than the teammates' ratings. Neither is useful to your instructor, and neither is useful to you later when you look back at the portfolio.
+Self-evaluation tends to distort in two directions. Over-rating, usually as a defensive move, shows up as 4s across the board without supporting evidence. Under-rating, often as a modesty move, shows up when the self-rating is noticeably lower than the teammates' ratings. Neither is useful.
 
-What the self-evaluation actually is: a calibration signal. It is not graded. It will not affect your teammates' evaluations. It is used by your instructor to flag moments where the self-view and the peer view diverge significantly, and by you as a concrete piece of self-assessment that will hold up better in future reflection than a vague sense of how you think you did.
+What the self-evaluation actually is: a calibration signal. It is not graded, and it does not affect your teammates' evaluations. Your instructor uses it to flag moments where the self-view and the peer view diverge significantly. For you, it is a concrete piece of self-assessment that holds up better in future reflection than a vague sense of how you think you did.
 
 The ratings that are hardest to give yourself honestly are usually the most informative.
 
@@ -94,7 +94,7 @@ The ratings that are hardest to give yourself honestly are usually the most info
 
 Two brief questions visible only to your instructor. These capture what the public-facing parts of the evaluation cannot — patterns or observations about team dynamics that the team should not have to negotiate, but that the instructor can use as context for grading and future cohort design.
 
-These are low-stakes from a grade perspective and high-signal from a course-design perspective. Short, honest, specific. If nothing of note happened, a short honest "nothing of note" is a fine answer.
+These are low-stakes from a grade perspective and high-signal from a course-design perspective. Short, honest, specific. If nothing of note happened, a one-line "nothing of note" is a fine answer.
 
 ---
 
@@ -129,4 +129,27 @@ A short checklist.
 
 ---
 
-Writing this evaluation well is a real professional skill. The habit of writing feedback that is specific enough to act on, honest enough to be credible, and calibrated across a full project rather than the last thing you remember is something you will use in every team you join from here. Give your teammates the feedback you would want to receive.
+## What you'll receive
+
+Feedback from this evaluation arrives after Week 15 ends. Do not expect to see it before the course closes.
+
+### From the peer evaluation
+
+When results are released, you'll see anonymized versions of Parts A and B:
+
+- **Qualitative feedback (Part A):** the Continue/Start/Adjust comments your teammates wrote about you, anonymized. You see what was said but not who said it.
+- **BARS ratings (Part B):** your averaged score on each of the four dimensions. You don't see the specific rating each teammate gave.
+
+The contribution allocation (Part C), your self-evaluation (Part D), and the closure questions (Part E) stay with your instructor. These are used for grading calibration and course design, and are not shared with your teammates.
+
+### From the employer
+
+Your employer also submits a final evaluation covering communication, preparedness, responsiveness, and the quality of the partnership. This contributes to your Professional Engagement score alongside the peer evaluation and instructor observation. Whether the specific ratings are shared back to you is a program-level decision; they contribute to your grade either way.
+
+### Processing the feedback without a team session
+
+Unlike the Mid-Project evaluation, there is no structured team processing session for this feedback. It arrives after the course has closed and the team has dispersed. Read it alone. The observations that converge across multiple teammates are the most reliable signal — start there.
+
+---
+
+The habit of writing feedback that is specific, credible, and calibrated across the full project is something you will use in every team you join from here.

@@ -9,9 +9,9 @@ status: draft
 
 # Closing the course
 
-This is the final week. Fifteen weeks ago, most of your team had not met each other, did not know your employer, and had not yet done the work you are about to present. What you carry into this week is the product of every research session, draft, feedback conversation, and revision that came before it. That is worth naming before the week moves on. The work is real.
+This is the final week. Fifteen weeks ago, most of your team had not met each other, did not know your employer, and had not yet done the work you are about to present. What you carry into this week is the product of every research session, draft, feedback conversation, and revision that came before it.
 
-The week itself is the most submission-heavy of the course: a live presentation to the employer, a final reflection on what the experience produced in you as a professional, and a peer evaluation that closes the feedback loop with your teammates. The presentation is this week's central event. The reflection and peer evaluation both began in draft form last week and finalize here, so the heaviest new work is the presentation and the team closing that follows it. What you rehearsed last week is what you deliver this week.
+The week itself is submission-heavy: a live presentation to the employer, a final reflection on what the experience produced in you as a professional, and a peer evaluation that closes the feedback loop with your teammates. But you got a great start on all of these in the last couple of weeks. Now it's just time to bring it home.
 
 [VIDEO: The last mile]
 
@@ -25,7 +25,7 @@ Three submissions, one employer meeting, and a team closing.
 - **Reflection #5** — individual, graded. The fifth and final DEAL reflection in the Reflection Portfolio component of your grade. Drafting began last week; finalization happens this week.
 - **End-of-Project Peer Evaluation** — individual. Contributes to the Professional Engagement component of your final grade. Evidence gathering began last week; ratings and submission happen this week.
 
-Alongside the three submissions, your team has the Final Presentation itself, a structured team closing after the presentation, and the final async coordination of the project.
+Alongside the three submissions, your team has the Final Presentation itself, a structured debrief and team closing right after, and the final async coordination of the project.
 
 ---
 
@@ -33,9 +33,9 @@ Alongside the three submissions, your team has the Final Presentation itself, a 
 
 The three submissions depend on each other in ways that raise the quality of the later ones if you sequence the earlier ones first. Specifically: the Final Presentation and the team closing that follows it both generate material that strengthens Reflection #5 and the End-of-Project Peer Evaluation. Writing the reflection or completing the evaluation before presenting means drafting from an incomplete experience.
 
-1. **Polish the presentation** (this week's first block). Targeted adjustments from last week's rehearsal. Not a full rerun.
+1. **Polish the presentation.** Targeted adjustments from last week's rehearsal, not a full rerun.
 2. **Deliver the Final Presentation** to your employer.
-3. **Run the team closing** right after the presentation, while the experience and the employer's feedback are fresh. This is the last time your team works together as a team, and it is also where the last pieces of evidence for the reflection and the peer evaluation surface.
+3. **Debrief and run the team closing** right after the presentation, while the experience and the employer's feedback are fresh. These are the last working moments of the team together, and where the last pieces of evidence for the reflection and the peer evaluation surface.
 4. **Finalize Reflection #5** and submit. The Describe and Examine stages are largely drafted from last week; this session is for Articulate and Learn, informed by the presentation and closing.
 5. **Finalize the End-of-Project Peer Evaluation** and submit. Rate the full project arc with behavioral evidence, including the final-week observations from the rehearsal, presentation, and closing.
 6. **Read the final module** (Articulating Your Experience) and close the course. Forward-facing — how to translate the project experience into professional language for resumes, interviews, and networking.

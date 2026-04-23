@@ -49,8 +49,6 @@ The video is a short framing piece for the morning of the presentation — what 
 
 ### What helps on the day, and what does not
 
-By the morning of the presentation, the useful work is mostly done. Your team has rehearsed, the deck is built, and your speaker notes have been reviewed. The last few hours before the session are not the time to change the substance. They are the time to arrive calm enough to deliver what you have already prepared.
-
 A few things that tend to help in the final hours:
 
 - A short walk or some time away from the material before the session. Most people present better after a brief mental break than after one more re-read of the deck.
@@ -65,17 +63,13 @@ A few things that tend to hurt:
 - Over-caffeinating. A second or third coffee tends to surface as a shaky hand or a rushed opening.
 - Rewriting your section from memory. The version your team rehearsed is the version your teammates are expecting to hear.
 
-### Nerves are normal
-
-If you are nervous, that is a normal response to doing something that matters in front of people whose opinion you care about. It is not a sign that something is wrong. Presentation nerves tend to run highest right before the session starts and drop quickly once the first speaker begins. Your team has already delivered this presentation once in rehearsal; what happens live is a version of the same thing, with a different audience. The preparation is real, and it carries you further than it feels like it will in the last ten minutes before you start.
-
 ---
 
 ## Final presentation polish
 
-Your team has a final polish block on the calendar this week. The session is short, and it has a specific job: targeted adjustments based on what last week's rehearsal surfaced. It is not a second rehearsal, and it is not the time to overhaul the deck.
+This week your team should make time to put the final polish on your presentation. The goal is targeted adjustments based on what last week's rehearsal surfaced. It is not a second rehearsal, and it is not the time to overhaul the deck.
 
-### What the polish session is for
+### What the polish is for
 
 Three things are usually worth the time:
 
@@ -101,7 +95,15 @@ What you get back is another pass of stress-testing. Read the questions out loud
 
 ## The presentation
 
-The Final Presentation is held as a single session. The employer and the course supervisor are both present. The format is roughly the same across cohorts, though exact timing depends on what your employer agreed to:
+### Who you are actually presenting to
+
+It is easy to walk into the Final Presentation treating the employer as an external evaluator. By this point in the project, they are not. They have reviewed drafts and shaped the direction of the work alongside your team across fifteen weeks. They are seeing the finished version of something they have been part of, and what they want from the session is a clean view of what the team did and why, so they can decide what to do with it.
+
+That changes how to read the room. Questions in Q&A are usually interest, not attack. An employer who presses on a recommendation is engaged; a silent one is not. If rehearsal went to imagined critics, recalibrate now. The people in the room want the work to be useful to them. Your job in the session is to make it easy for them to see how.
+
+### The format
+
+The Final Presentation is held as a single session. The employer and your instructor are both present. The format is roughly the same across cohorts, though exact timing depends on what your employer agreed to:
 
 - **Presentation: 20–30 minutes.** Your team delivers the work: context, approach, key findings, recommendations, and what they mean for the employer. Everyone on the team speaks.
 - **Q&A: approximately 15 minutes.** The employer asks questions and your team responds live.
@@ -118,7 +120,7 @@ The feedback portion of the session is short, and it is useful far beyond the gr
 - What they said they would do next. If the employer names any action they plan to take based on the work, write down the exact phrasing. You will want it for your reflection and for any future reference to the project.
 - What surprised the team. Reactions that were different from what the team expected are usually the most informative.
 
-These notes become the last entry in the Change Log and feed both Reflection #5 and the End-of-Project Peer Evaluation later in the week.
+These notes feed both Reflection #5 and the End-of-Project Peer Evaluation later in the week.
 
 ### Q&A: the defend-your-work moment
 
@@ -137,43 +139,4 @@ If your team used AI in creating presentation slides or speaker notes, include a
 
 If AI was not used, a one-line statement to that effect on the final slide is fine.
 
----
-
-## After the presentation: debrief and team closing
-
-The forty-five minutes after the presentation is one of the most useful working blocks of the week, and it is easy to lose if the team disperses immediately when the employer logs off. Two things happen in that window, in order:
-
-### Part one: debrief
-
-Right after the session ends, capture what just happened while it is fresh. The person taking notes during the employer feedback window has the start of it; the rest of the team fills in what they remember. A short list of questions keeps this focused:
-
-- What resonated with the employer? Which parts of the presentation did they respond to most directly?
-- What got challenged? Which questions in Q&A did they press on, and how did the team handle them?
-- What surprised us? Reactions that were different from what the team expected, in either direction.
-- What will we do differently in the next presentation we give? Not a self-critique session — a short list of transferable observations for the next time.
-
-The debrief notes are the last entry in the Change Log. This is the final closing of the running record your team has been maintaining since the Direction Check.
-
-### Part two: team closing
-
-The team closing is a designed activity, not a social afterthought. Teams that end without acknowledging what they built together miss a developmental opportunity that is harder to recover later. The closing also generates the last pieces of material that feed Reflection #5 and the End-of-Project Peer Evaluation — the reflection on what the team accomplished sharpens the individual reflection's anchor, and the acknowledgments of specific teammate contributions surface behavioral evidence for the evaluation.
-
-Most professional teams that work together for months and then disband do not do a structured closing. That is a loss. The people who have worked on a team together for a real stretch of time have learned specific things from each other, and naming those things out loud is what lets the team experience transfer into how each person works next.
-
-### A light template
-
-Three sections, a few minutes each. Not a worksheet.
-
-**We did this together.** Two or three specific accomplishments the team is proud of. Not a list of everything; the things that actually stand out when the team looks back.
-
-**I learned this from each of you.** One specific thing each teammate learned from each of the others. Specific is the operative word. "I learned that you hold a steady line in a disagreement without making it personal" is useful. "I learned that you are a good teammate" is not.
-
-**I want to acknowledge.** One recognition per teammate. A specific contribution, or a moment where a teammate showed up in a way that mattered to the team. Recognition is different from evaluation; this is not the place to hedge or balance critique.
-
-Go around the team once for each section. Let people take a beat to think before they speak. The closing works better when the acknowledgments are specific than when they are long.
-
-### How the closing feeds what comes next
-
-What surfaces during the closing is not only useful to the team. It is also the last pool of material you have before drafting Reflection #5 and the End-of-Project Peer Evaluation. The individual acknowledgments are behavioral evidence — specific observations of how a teammate worked — which is exactly what the peer evaluation asks for. The reflection on what the team accomplished is material for the reflection's articulation of learning, because much of what you will say about yourself as a professional is inseparable from what you did with this team.
-
-That is why the closing is sequenced before the reflection and evaluation are finalized, not after. Writing either one before the closing means writing from an incomplete experience.
+Immediately after the session ends, your team moves into the debrief and team closing covered on the next page. Do not disperse when the employer logs off — the conversation that follows is where a significant part of this week's value lives.
