@@ -14,21 +14,15 @@ competencies:
 
 # Final Deliverables submission
 
-This page covers what to submit, how to verify the package is ready, what the rubric assesses, and how to use the Change Log and AI disclosure on this submission. Read it before the production block, not while you're assembling.
+This page covers what to submit, how to verify the package is ready, what the rubric assesses, and how to use the Change Log and AI disclosure on this submission. Read it before diving in, not while you're assembling.
 
 ---
 
 ## The home stretch
 
-The last week before a professional deliverable ships is predictable in a specific way. Teams that have been building for months arrive at the end and suddenly see all the things they wish they'd done differently. The gaps look larger than they did two weeks ago. The version in the drive looks worn.
+This week is about finishing, not dramatic improvements. The triage framework from last week still applies — requires action, acknowledge in the Change Log, or out of scope — and most remaining items at this stage belong in the second or third category.
 
-What this moment calls for is not more revision. It calls for judgment.
-
-[VIDEO: Trust your process]
-
-The triage framework from last week still applies here: every remaining item is either a change that has to happen before submission, something to acknowledge in the Change Log without changing the deliverable, or something genuinely out of scope to document and move on from. The distinction that matters most in the home stretch is between changes that would break something if you don't make them, and changes that would be nice to make if time permitted. The first category is small. The second is large, and acting on it this late tends to introduce problems faster than it resolves them.
-
-The version your team is submitting has gone through the Near-Final Review, been revised based on that feedback, reviewed again by your team, and revised again. Trust what that process produced. The remaining moves are a final read-through, a consistency pass, and submission.
+The version your team is submitting has been through the Near-Final Review, revisions based on that feedback, an internal review, and another round of revisions. Trust what that process produced. The remaining moves are a final read-through, a consistency pass, and submission.
 
 ---
 

@@ -15,7 +15,7 @@ The deliverable is substantially done. Next week is where the package gets a fin
 
 ## Finalize and submit
 
-The shape of the Final Deliverables is already there. What's left next week is a final read-through, a consistency pass on formatting and language, a whole-document AI quality-review pass on the assembled package, and the submission itself. Final Deliverables carry the largest grade weight of any single deliverable in the course.
+The shape of the Final Deliverables is already there. What's left next week is a final read-through, a consistency pass on formatting and language, a whole-document AI quality-review pass on the assembled package, and the submission itself.
 
 ---
 

@@ -8,12 +8,12 @@ last_updated: 2026-04-21
 status: draft
 ---
 
-# Video Script: What finishing well actually requires
+# Video Script: Before you submit
 
-In most professional contexts, the final stretch of a project is not where the hardest work happens. The hardest work happened weeks ago: the research, the analysis, the drafts and revisions and employer feedback. What the final stretch asks for is a different discipline: the ability to stop improving and start finishing.
+Before you submit, something worth saying out loud.
 
-That distinction is harder than it sounds. Every team reaches the end of a project with a list of things that could still be better. Some of those things should change. Most of them shouldn't. Not because the work is perfect, but because late-stage changes carry costs that aren't obvious from inside the document, and the version your team has built is better than it looks from this close to it.
+Twelve weeks ago your team didn't have a project, a brief, a scope, or a deliverable. This week, you submit all of it.
 
-Finishing well is a professional skill. It looks calmer than producing. It's more deliberate, more focused on what's already done than on what's missing. The question it asks is not "what could still be better?" but "what does this need to go out the door in its best current form?"
+Most professional teams skip this part and move straight to the next thing. The ones who last don't. They tell each other good work. They take the evening. They let the finish be a finish.
 
-That's what this week is for.
+Submission isn't the end of the course. But this is the end of building the thing. Sit with it. Be proud of yourself. You've earned it.

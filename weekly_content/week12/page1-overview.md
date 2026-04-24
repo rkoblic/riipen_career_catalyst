@@ -23,7 +23,7 @@ No employer meeting this week, but you'll have the chance to check in one more t
 
 **Reflection #4.** Individual submission, graded (rubric-based, contributes to the Reflection Portfolio component of your final grade). The fourth DEAL reflection. Due this week.
 
-Nothing else is submitted this week. **Final Deliverables are due next week** and carry the largest grade weight of any single deliverable in the course. Your scheduled project work this week is the last substantial block before that submission.
+Nothing else is submitted this week. **Final Deliverables are due next week.** Your scheduled project work this week is the last substantial block before that submission.
 
 ---
 
