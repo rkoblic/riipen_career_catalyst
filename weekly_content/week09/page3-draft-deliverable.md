@@ -121,7 +121,7 @@ A draft that has been structurally assembled but contains sections that are outl
 
 ---
 
-## AI guidance
+## Using AI
 
 The production-oriented AI skills introduced over the previous weeks apply here. Using AI for structural review of the assembled draft, stress-testing recommendations for actionability, checking for consistency across sections, and organizing your team's notes into a revision plan are all appropriate uses.
 

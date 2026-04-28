@@ -27,6 +27,7 @@ Watch the video above before your kickoff — it walks through the full meeting 
 - **Track your questions as the employer talks.** Cross off what's been answered. When it's your turn, lead with what's still genuinely open.
 - **Signal transitions clearly.** "Thank you, that's really helpful. We have some questions, starting with scope." Not: "Umm, ok, should we ask questions now?"
 - **Let the conversation flow.** If the employer is sharing useful context, don't interrupt to get through your list. Your prioritized questions ensure you cover the most important things if time runs short.
+- **Before you wrap, propose the recurring meeting time.** "Before we wrap, we'd like to set up a 30-minute biweekly check-in for the rest of the project. Would [day/time] work as a standing slot?" Have a default ready so you're not scheduling by email afterward. Guidance on running these meetings comes later this week.
 
 ---
 

@@ -3,7 +3,7 @@ week: 3
 page: 4
 title: After the Kickoff
 created: 2026-03-28
-last_updated: 2026-03-30
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Communication
@@ -44,40 +44,12 @@ Within 24 hours of the meeting, send a follow-up message to your employer contac
 
 A good follow-up message briefly summarizes the key takeaways (scope, timeline, next steps) and flags any open questions. It shows the employer that your team was listening carefully and gives them a chance to correct any misunderstandings before they become problems.
 
+Your follow-up message should also confirm the recurring biweekly meeting time you agreed on at the kickoff. If you didn't get to schedule it during the meeting itself, propose a specific time here — the standing meeting page covers how to set up the recurring meeting in detail.
+
 [TEMPLATE: Post-meeting follow-up message — thanking the employer and confirming key takeaways]
 
 ---
 
-## Identifying gaps and open questions
+## Where this leads
 
-After you've compared notes and processed what you heard, take stock of where you stand. Some things are now confirmed. Others are assumptions you haven't tested yet. And some are genuine unknowns that neither the project brief nor the kickoff addressed.
-
-The ability to distinguish between these three categories — confirmed, assumed, and unknown — is critical for the Kickoff Summary and for the research you'll do next. Here's what each looks like in practice:
-
-- **Confirmed:** "The employer said the deliverable is a set of recommendations, not a full report." You heard this directly and your team agrees on what was said. This goes into your Kickoff Summary as fact.
-- **Assumed:** "They probably want us to focus on the local market since that's where they operate." This feels reasonable based on context, but the employer didn't actually say it. Flag it — you need to verify before building your project around it.
-- **Unknown:** "We don't know how they'll evaluate our recommendations or who the final audience is." This didn't come up in the meeting at all. It's a gap you need to fill, either through follow-up with the employer or through your own research.
-
-Ask your team: What do we know for certain? What are we filling in based on context or expectation? And what are we completely missing? Writing this down, even informally, prevents your team from treating assumptions as facts as the project progresses.
-
----
-
-## Deliverable: Kickoff Summary
-
-### What the Kickoff Summary is for
-
-The Kickoff Summary is a factual record, not an analysis. It documents what the employer shared during the kickoff meeting: what they stated, what they confirmed, and what remains open. The purpose is to create a reference document your team can rely on as you move into deeper project work.
-
-This is a completion-based checkpoint. You're not being graded on the quality of your analysis (that comes later in the Context Analysis & Project Plan). You're being evaluated on whether your summary accurately and completely captures what was discussed. A strong Kickoff Summary gives your team a solid foundation to build on. A vague one forces you to work from memory and assumptions when the stakes get higher.
-
-The reason this deliverable is completion-based rather than graded is that accuracy matters more than polish at this stage. The course is checking whether your team can capture and organize real information from a professional interaction, not whether you can write a polished report. That skill is coming, but the foundation has to be accurate first.
-
-### Kickoff Summary format
-
-[TEMPLATE: Kickoff Summary format — confirmed scope, deliverables, success criteria, timeline, key contacts, open questions]
-
-### Submission and AI disclosure
-
-Submit your Kickoff Summary as a team through the Riipen platform. All team members should review and confirm the accuracy of the final version before submission.
-
-AI-assisted organization is permitted and encouraged. If you used AI tools to transcribe the meeting, structure your notes, or organize the summary, that's exactly the kind of professional AI use this course supports. Disclose what tools you used and how. The content itself, the substance of what was discussed, must come from the actual meeting. AI cannot generate information that wasn't shared by the employer.
+Once your team has debriefed, processed what was heard, and sent the follow-up, draft the Kickoff Summary together. The next page walks through what goes in the Summary, the completion criteria, and how to handle the confirmed / assumed / unknown distinction that's central to a useful record.

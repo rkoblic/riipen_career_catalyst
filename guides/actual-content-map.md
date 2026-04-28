@@ -25,12 +25,13 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p1 Building Your Team *(video: Your Team Starts Now)*
 - p2 Using AI Responsibly *(video: The skill gap; interactive: Review This AI Output)*
 - p3 Team Formation & Charter
-- p4 Employer Outreach Message
-- p5 Researching an Organization
-- p6 Communication Skills for Client Meetings
-- p7 What's next
+- p4 Setting Your Team's Rhythm
+- p5 Employer Outreach Message
+- p6 Researching an Organization
+- p7 Communication Skills for Client Meetings
+- p8 What's next
 
-**Introduces:** Team Charter, outreach message template, organizational research.
+**Introduces:** Team Charter, standing weekly team meetings, outreach message template, organizational research.
 
 ## Week 3 — Kickoff Meeting
 
@@ -38,13 +39,15 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p2 Preparing for the kickoff *(video: How to write a meeting agenda that actually works)*
 - p3 During the kickoff *(video: What actually happens in a kickoff meeting; interactive: Reading between the lines)*
 - p4 After the kickoff
-- p5 Continuing your research *(video: How to research a landscape you know nothing about)*
-- p6 Reflection #1
-- p7 What's next
+- p5 The Kickoff Summary (Type D deliverable page; split out 2026-04-28)
+- p6 Establishing the standing meeting
+- p7 Continuing your research *(video: How to research a landscape you know nothing about)*
+- p8 Reflection #1
+- p9 What's next
 
-**Introduces:** Kickoff meeting protocol, note-taking, AI note-takers, post-meeting debrief, Reflection #1 (first DEAL reflection).
+**Introduces:** Kickoff meeting protocol, note-taking, AI note-takers, post-meeting debrief, **Kickoff Summary deliverable** (completion-based team checkpoint; standalone page following the deliverable-page template), **standing biweekly employer meeting cadence (30-min recurring) + meeting norms + async off-week updates**, Reflection #1 (first DEAL reflection).
 
-**Employer touchpoint:** Kickoff.
+**Employer touchpoint:** Kickoff. *Cadence established this week sets the rhythm for every employer touchpoint after Week 3.*
 
 ## Week 4 — Context Analysis & Project Plan
 
@@ -64,9 +67,10 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p2 Before the Direction Check *(video: How to walk through a document with a stakeholder)*
 - p3 During the Direction Check *(video: Listening without defending)*
 - p4 After the Direction Check
-- p5 What's next
+- p5 The Direction Check Summary (Type D deliverable page; split out 2026-04-28)
+- p6 What's next
 
-**Introduces:** Direction Check (document review with employer), stakeholder walkthrough, post-meeting debrief pattern (reused from Week 3).
+**Introduces:** Direction Check (document review with employer), stakeholder walkthrough, post-meeting debrief pattern (reused from Week 3), **Direction Check Summary deliverable** (completion-based team checkpoint; standalone page following the deliverable-page template).
 
 **Employer touchpoint:** Direction Check / document review.
 
@@ -94,10 +98,9 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p5 Working with data and visuals *(video: Working with Data and Visuals)*
 - p6 The Work-in-Progress Summary
 - p7 Check-In #1 (single consolidated page — working meeting, not three-page before/during/after)
-- p8 Internal team check-ins
-- p9 What's next
+- p8 What's next
 
-**Introduces:** Peer review (four lenses + AI-assisted-error pass), feedback-reception protocol (sync + async), WIP Summary deliverable (team-facing, not sent to employer), internal team check-in rhythms.
+**Introduces:** Peer review (four lenses + AI-assisted-error pass), feedback-reception protocol (sync + async), WIP Summary deliverable (team-facing, not sent to employer).
 
 **Employer touchpoint:** Check-In #1 (30-minute question-driven working meeting).
 
@@ -164,11 +167,14 @@ Week count: 505 min → 490 min after cuts. Structure reduces to 4 pages (vs. 9 
 Pattern: alternating working-meetings and document-review meetings. Weeks 7 and 9 don't ask the employer to read documents; Weeks 5 and 11 do.
 
 ### Deliverable checkpoints
-- Week 4: Context Analysis & Project Plan (first formal team deliverable)
-- Week 7: WIP Summary (team-facing, internal)
-- Week 8: Mid-Project Peer Evaluation (individual, graded)
-- Week 9: Draft Deliverable (internal assembly, completion-based, not sent to employer)
-- Week 11 (planned): Near-final package (employer document review)
+- Week 2: Team Charter (Type D — completion-based team checkpoint, internal)
+- Week 3: Kickoff Summary (Type D — completion-based team checkpoint, internal)
+- Week 4: Context Analysis & Project Plan (Type A — first formal graded team deliverable, employer-shared)
+- Week 5: Direction Check Summary (Type D — completion-based team checkpoint, internal)
+- Week 7: Work-in-Progress Summary (Type D — completion-based team checkpoint, internal)
+- Week 8: Mid-Project Peer Evaluation (Type C — graded individual, instrument-based)
+- Week 9: Draft Deliverable (Type D — internal assembly, completion-based, not sent to employer)
+- Week 11: Near-Final Package (Type D — completion-based; pre-meeting submission, employer reads in advance)
 
 ### Reflections (DEAL, 800–1200 words, four rubric dimensions: Descriptive Specificity, Critical Examination, Personal Accountability, Articulation of Learning)
 - Reflection #1 (Week 3) — first DEAL reflection

@@ -26,31 +26,34 @@ Every deliverable you produce in a professional context answers a version of the
 
 This document has four parts, and each one serves a distinct purpose. Understanding why each part exists — not just what goes in it — will help you produce something that's genuinely useful to your employer rather than something that just checks boxes.
 
----
+When you submit this deliverable, it's automatically shared with your employer. They'll read it ahead of your next check-in — the Direction Check — and it forms the basis of that conversation. You're not writing this for a grade; you're writing it for the person who needs to decide whether your team is on the right track.
 
+**[TEMPLATE: Context Analysis & Project Plan]**
+
+---
 ## The four parts
 
 ### Part 1: Organizational & project context (~1 page)
 
 **Purpose:** Demonstrates that your team understands the organization and project well enough to analyze them. This is where the employer decides whether to trust the rest of the document.
 
-This isn't a restatement of the brief. It's evidence that you were listening during the kickoff, that you've done your homework, and that you understand the real problem — not just the headline version. If the kickoff revealed nuances the brief didn't capture, this is where you show that.
+This shouldn’t just be a restatement of the brief. It should provide evidence that you were listening during the kickoff, that you've done your homework, and that you understand the problem. If the kickoff revealed nuances the brief didn't capture, this is where you show that.
 
 ### Part 2: Research findings (~1.5–2 pages)
 
 **Purpose:** Shows what your team learned through independent research and — critically — what it means for the project.
 
-Your employer knows their organization from the inside. What they don't have is an outside perspective. This section is where you bring something new to the table: patterns you noticed, gaps you identified, context the employer may not have considered. The value isn't in the facts themselves — it's in the synthesis.
+Your employer knows their organization from the inside. What they might not have is an outside perspective. This section is where you bring something new to the table: patterns you noticed, gaps you identified, context the employer may not have considered. The value isn't in the facts themselves — it's in the synthesis.
 
 ### Part 3: Strategic implications (~1 page)
 
 **Purpose:** Connects your research to a point of view on the project — what you think it means and what you recommend.
 
-This is the section your employer cares about most. It's where you move from describing what you found to arguing what should be done about it. A strong strategic implications section gives the employer confidence that your team is thinking, not just executing instructions.
+This is the section your employer cares about most. It's where you move from describing what you found to arguing what should be done about it. A strong strategic implications section gives the employer confidence that your team is thinking about turning your findings into tangible recommendations.
 
 ### Part 4: Project plan (~1.5–2 pages)
 
-**Purpose:** Tells the employer what to expect — what you'll deliver, when, what you've decided not to do, and what might go wrong.
+Purpose: Tells the employer what to expect — what you'll deliver, when, what you consider to be out of scope, and what might go wrong.
 
 Your employer is investing their time in this project. A clear plan with named tradeoffs and identified risks tells them your team is being realistic. It also gives them a chance to course-correct before you start building.
 
@@ -118,7 +121,11 @@ During the integration pass, look for:
 
 AI can be a useful editor for this step. Try asking it to identify inconsistencies, flag unclear transitions, or highlight places where sections seem to contradict each other.
 
-### Using AI to get oriented
+---
+
+## Using AI
+
+### Getting oriented
 
 Some of the work this week may involve methods, frameworks, or research directions you haven't encountered before. That's expected. Part of professional work is figuring out how to do something you haven't done before, and AI is genuinely useful here — not to do the work for you, but to get you oriented quickly.
 

@@ -1,9 +1,9 @@
 ---
 week: 3
-page: 6
+page: 8
 title: Reflection #1
 created: 2026-03-28
-last_updated: 2026-03-30
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -46,7 +46,7 @@ If you're stuck choosing, ask yourself: what moment from the past three weeks ke
 
 ---
 
-## Rubric dimensions
+## How you'll be assessed
 
 Your reflection will be evaluated on four dimensions, equally weighted at 25% each. The rubric is the same across all five reflections in the portfolio — what changes is the depth expected as you gain fluency with the model. For this first attempt, depth and honesty matter more than polish.
 
@@ -74,7 +74,7 @@ These are the patterns that keep first reflections at the surface. Knowing them 
 
 ---
 
-## Using AI as a thinking partner
+## Using AI
 
 AI can be a useful sounding board for reflection, but it can't reflect for you. The experience is yours, the examination has to come from your own thinking, and the learning has to be something you actually articulate.
 
@@ -84,7 +84,7 @@ Where AI can't help: AI wasn't in the room. It doesn't know what happened, what 
 
 ---
 
-## Format and submission
+## Submission
 
 **Length:** 800–1200 words. The range is a guide, not a hard boundary. A shorter reflection that is specific, honest, and insightful is stronger than a longer one that is vague and performative. That said, reflections under 700 words rarely achieve sufficient depth in the Examine stage, and reflections over 1400 words usually indicate you're describing too broadly rather than examining deeply.
 

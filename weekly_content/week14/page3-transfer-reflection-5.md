@@ -99,7 +99,7 @@ The rubric calls this Articulation of Learning. It is one of four dimensions the
 
 The prompt, experiential pool, and DEAL structure are the same framework you have been using since the first reflection in the course. What changes is the scope of the experience you draw from and the depth bar on what you articulate.
 
-### Using AI as a Socratic partner
+### Using AI
 
 The AI strategy for reflections is the same strategy you have used on every reflection since the first one. AI serves as a thinking partner that pushes back on surface observations and surfaces assumptions you have not named. The strategy applies at its most demanding here because the claim you are defending is also the most demanding.
 

@@ -54,7 +54,7 @@ If a genuinely more significant moment has surfaced, rewriting around it is the 
 
 ---
 
-## AI guidance for the final push
+## Using AI
 
 The boundaries are the same as every reflection in the portfolio. They matter most here.
 
@@ -70,7 +70,7 @@ Read what comes back as pressure, not as an answer. If the pushback makes you re
 
 ---
 
-## Before you submit
+## Submission
 
 A short checklist. Not every item needs a paragraph; the point is that you know what is in your submission before you send it.
 

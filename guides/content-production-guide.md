@@ -203,48 +203,7 @@ say.]
 
 ### What's next page structure
 
-Every week ends with a "What's next" page (always the last page in the week). These are short bridging pages that connect the current week's work to what's coming. Use this standard structure:
-
-```markdown
----
-week: [N]
-page: [last]
-title: What's Next
-created: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-status: draft
----
-
-# What's next
-
-[1–2 sentences connecting what was just completed to what's
-coming. Frame the transition, not the logistics.]
-
----
-
-## [Name of the next major milestone or event]
-
-[What it is, why it matters, what the learner should expect.
-This is the core section — every what's-next page needs it.]
-
----
-
-## [Optional: "How to prepare" or "What to do now"]
-
-[Specific preparation steps, pre-reading, rubrics to review,
-or structural setup to do before next week. Use a bulleted or
-numbered list if there are concrete actions. Skip this section
-if there's genuinely nothing to prepare.]
-```
-
-**What's-next page rules:**
-- **No `competencies` field** — these are structural, not instructional.
-- **H1 is always "What's next."** No variation.
-- **First H2 names the next milestone specifically** — "The Direction Check," "The Work-in-Progress presentation," not generic headings like "What's coming."
-- **Optional second H2 for actionable preparation.** Use "How to prepare" or a similarly specific heading. Include pre-reading links, rubrics to review, or concrete setup tasks. Skip if there's nothing specific to prepare.
-- **Keep it short.** This is a bridge, not a content page.
-- **No video placeholders.**
-- **Sentence case headings.**
+Every week ends with a "What's next" page. See [whats-next-page-guide.md](./whats-next-page-guide.md) for the canonical structure, template, prose-style rules, cross-week-arc checklist, worked examples, and per-week audit.
 
 ### Video script files
 
@@ -347,7 +306,7 @@ These principles are established in the development plan process. During content
 
 18. **Hyperlink tools consistently.** When a tool, resource, or external reference is mentioned in learner-facing content, link the first mention with a markdown link in the form `[**Tool name**](URL)`. Drop bare-text URLs in parentheses; the link does the same work without the visual clutter. Subsequent mentions of the same tool can stay unlinked plain text. For tools with distinct subpages worth pointing at separately (e.g., Canva's general site vs. its chart templates), each subpage URL gets its own link the first time it appears.
 
-19. **Required deliverables and checkpoints get their own findable page.** When a week has a graded deliverable, a required checkpoint, or another mandatory student action, give it its own page with a clear title and a "What this checkpoint is (and isn't)" section up front. Don't tuck required submissions inside a meeting-prep or context-setting page where they'll be missed. A learner scanning for "what do I actually have to do this week?" should find each requirement unmissable. Reusable concepts (e.g., a feedback reception protocol) that apply in multiple contexts across the course also earn their own findable page rather than living buried inside the page where they first come up.
+19. **Required deliverables and checkpoints get their own findable page, and follow the structure in [`guides/deliverable-page-template.md`](deliverable-page-template.md).** When a week has a graded deliverable, a required checkpoint, or another mandatory student action, give it its own page with a clear title and a "What this checkpoint is (and isn't)" section up front. Don't tuck required submissions inside a meeting-prep or context-setting page where they'll be missed. A learner scanning for "what do I actually have to do this week?" should find each requirement unmissable. The deliverable page template defines the canonical section order, naming standards, and which sections are required vs. conditional based on deliverable type (graded team / graded individual / instrument-based / completion-based). Reusable concepts (e.g., a feedback reception protocol) that apply in multiple contexts across the course also earn their own findable page rather than living buried inside the page where they first come up.
 
 20. **Watch for guidance that's too definitive when the real answer has exceptions.** When a page gives a strong directional rule (cut hedge language, lead with the recommendation, write in active voice), check whether learners also need to know where that rule stops applying. The fix isn't to soften the original advice — it's to surface the exceptions explicitly so learners can distinguish the default case from edge cases. Stated as a blanket rule, "cut all hedges" pushes learners to overstate findings; paired with "and here's when hedging is the right call," it teaches judgment instead of compliance.
 

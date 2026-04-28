@@ -58,7 +58,7 @@ If you are uncertain between two ratings on a dimension, the Mid-Project rule st
 
 ---
 
-## Using AI to organize observations
+## Using AI
 
 AI is permitted for the organizational work of assembling evidence across fifteen weeks. It is not permitted to generate observations or assign ratings. The same boundary as the Mid-Project evaluation applies, restated because the organizational support is more useful when you have more material to sort.
 
@@ -82,4 +82,8 @@ Three moves, in roughly this order:
 - **Gather evidence across the full arc.** For each teammate, scan the project phase by phase and note specific behavioral examples. At this stage you are gathering observations, not assigning ratings. Aim for at least one piece of evidence per phase per teammate, and note where evidence is thin. Your Change Log, team meeting notes, and any notes-to-self you kept during earlier check-ins and working sessions are useful memory aids for the earlier phases. Reach for the specific, not the general. "She reliably brought drafts to the shared folder two days before each team sync" is evidence. "She was reliable" is not.
 - **Build a short noticing list for the final week.** For each teammate, write down which dimensions have thin evidence and what you want to watch for during the rehearsal and Final Presentation. Those two events are the last sources of behavioral evidence you will have. Going into them with specific attention ("I need another observation on Constructive Engagement for teammate X") is more useful than trying to reconstruct observations after the fact.
 
-**Submission:** Next week, individually through the Riipen platform. [PLATFORM: TBD]
+---
+
+## Submission
+
+Next week, individually through the Riipen platform. [PLATFORM: TBD]

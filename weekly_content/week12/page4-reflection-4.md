@@ -18,6 +18,8 @@ competencies:
 
 Your team is now close enough to a finished deliverable to see the distance between where this project started and where it ended up. Reflection #4 sits at that vantage point.
 
+This is your fourth graded reflection — an individual submission graded as part of the Reflection Portfolio.
+
 ## The prompt
 
 Choose a specific moment from the past three weeks where your understanding of the project, the deliverable, or your own capabilities shifted visibly from what you assumed earlier in the course. The moment does not have to be dramatic. It could be a revision that changed how your team thought about a finding, a conversation that reframed the problem you were solving, a piece of feedback that landed differently than expected, or a quiet realization during production that the work was different from what the original plan described.
@@ -68,7 +70,7 @@ Personal Accountability also deserves attention on a plan-versus-reality reflect
 
 ---
 
-## Using AI as a thinking partner
+## Using AI
 
 By Reflection #4, the AI strategy for reflections is well-established. AI serves as a Socratic partner: something that pushes back on surface observations, asks follow-up questions you would not ask yourself, and surfaces assumptions you have not named. The same boundary as every earlier reflection applies: AI cannot supply the experience, the examination, or the articulated learning. A reflection that could have been written by any learner in any project has not met the standard regardless of whether AI was used.
 
@@ -82,7 +84,7 @@ Where AI tends to help most at this stage is pushing past a first interpretation
 
 ---
 
-## Format and submission
+## Submission
 
 **Length:** 800–1200 words. Under 700 rarely reaches the depth expected at this stage. Over 1400 usually means the description is covering too much ground rather than examining deeply. One specific shift, closely examined, beats a survey of several.
 

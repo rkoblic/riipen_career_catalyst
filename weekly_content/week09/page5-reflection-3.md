@@ -22,6 +22,8 @@ You've just finished the most concentrated production stretch of the course. You
 
 Where Reflection #1 looked at entering a new professional situation and Reflection #2 looked at navigating ambiguity in your first major deliverable, this reflection looks at what it's like to work through substantive, sometimes hard feedback while the work is still in motion. Reflection #3 asks you to sit with one specific moment from these weeks and examine what it taught you about how you receive, process, and act on feedback from others. Depth comes from examining a single experience closely, not from summarizing everything that happened.
 
+This is your third graded reflection — an individual submission graded as part of the Reflection Portfolio.
+
 ---
 
 ## The prompt
@@ -78,7 +80,7 @@ Three moves that tend to deepen examination on a feedback-themed reflection:
 
 ---
 
-## Using AI as a thinking partner
+## Using AI
 
 This is the third reflection where AI is available as a thinking partner. The boundary is the same as in your first two reflections: AI cannot supply the experience, the examination, or the articulated learning. A reflection that could have been written by any learner in any project hasn't met the standard regardless of what tools were used.
 
@@ -94,7 +96,7 @@ The intellectual work is yours. AI helps you see where you haven't gone far enou
 
 ---
 
-## Format and submission
+## Submission
 
 **Length:** 800–1200 words. Under 700 rarely achieves sufficient depth at this stage. Over 1,400 usually means the description is too broad. One experience, deeply examined, beats three experiences at the surface.
 

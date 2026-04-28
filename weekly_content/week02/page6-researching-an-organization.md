@@ -1,6 +1,6 @@
 ---
 week: 2
-page: 5
+page: 6
 title: Researching an Organization
 created: 2026-03-19
 last_updated: 2026-03-30

@@ -34,5 +34,5 @@ Most of this week is project work. The sequence below is a guide for fitting the
 3. **Read the Work-in-Progress Summary page** and draft the summary as a team. This is both your checkpoint deliverable and your shared starting point for meeting prep.
 4. **Read the Check-In #1 page** to understand how the meeting runs, then run your team prep session to develop questions and assign roles.
 5. **Meet with your employer** for Check-In #1, then debrief as a team immediately after while the conversation is fresh.
-6. **Keep producing**, folding in any direction from the meeting where it helps. If your team is looking for a tighter rhythm for its weekly check-ins, the Internal team check-ins page suggests a format.
+6. **Keep producing**, folding in any direction from the meeting where it helps.
 

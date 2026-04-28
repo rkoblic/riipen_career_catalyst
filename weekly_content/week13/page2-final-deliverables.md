@@ -87,7 +87,7 @@ The most important Change Log entries to check now are the ones from the Near-Fi
 
 ---
 
-## AI guidance
+## Using AI
 
 At this stage, AI is for checking, not creating. Appropriate uses include: formatting consistency passes, coherence checking across sections, prose tightening, error catching, and running the fresh reader or weakest-link prompts on assembled sections you haven't looked at in a while. Using AI to check the Change Log for completeness is a particularly good application: "here are the feedback items I've logged; what looks thin or missing?"
 
@@ -99,7 +99,7 @@ AI-assisted editing and quality review are appropriate. AI-generated content sub
 
 ---
 
-## Submission logistics
+## Submission
 
 Before submitting:
 - Confirm all three components are in the package: deliverable, Change Log, AI disclosure

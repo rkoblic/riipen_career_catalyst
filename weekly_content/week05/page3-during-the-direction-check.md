@@ -3,7 +3,7 @@ week: 5
 page: 3
 title: During the Direction Check
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Communication
@@ -52,4 +52,4 @@ This happens. Some employers are less hands-on, some are genuinely satisfied wit
 
 **Try asking more targeted questions.** General approval often means the employer hasn't found a reason to object, not that they've carefully evaluated every element. Specific questions can draw out feedback that "looks good" didn't: "Are there any risks we haven't considered?" or "Is there anything about the audience for this deliverable that would change how we structure it?"
 
-If targeted questions still don't surface substantive feedback, that's OK. There are ways to pressure-test your approach after the meeting. See the After the Direction Check page for how to use AI as a critical reviewer when the employer doesn't provide the pushback themselves.
+If targeted questions still don't surface substantive feedback, that's OK. There are ways to pressure-test your approach after the meeting. See the Direction Check Summary page for how to use AI as a critical reviewer when the employer doesn't provide the pushback themselves.

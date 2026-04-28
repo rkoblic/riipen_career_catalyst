@@ -98,7 +98,7 @@ These are low-stakes from a grade perspective and high-signal from a course-desi
 
 ---
 
-## AI guidance
+## Using AI
 
 The same boundary as the Mid-Project evaluation applies, extended to cover the contribution allocation.
 
@@ -112,7 +112,7 @@ The same boundary as the Mid-Project evaluation applies, extended to cover the c
 
 ---
 
-## Before you submit
+## Submission
 
 A short checklist.
 

@@ -34,7 +34,7 @@ Think of it as a working agreement. It captures what you've discussed and decide
 
 Your first meeting should produce real agreement on three things:
 
-**How you'll communicate.** What platform will you use for day-to-day coordination? How quickly do you expect responses? What warrants a message vs. a meeting? Teams that don't clarify this end up with one person checking Slack constantly and another who doesn't see messages for two days.
+**How you'll communicate.** What platform will you use for day-to-day coordination? How quickly do you expect responses? What warrants a message vs. a meeting? Teams that don't clarify this end up with one person checking Slack constantly and another who doesn't see messages for two days. This is also where you'll lock in your standing weekly meeting time, which the Setting Your Team's Rhythm page goes into in more depth.
 
 **How you'll make decisions.** When the team disagrees, how do you resolve it? Majority vote? Discussion until consensus? Does anyone have a final call on specific areas? Most teams skip this until they're already in a disagreement, and by then it's harder to have the conversation calmly.
 
@@ -80,7 +80,7 @@ You won't agree on everything, and that's fine. If you're stuck on something, tr
 
 The charter template covers four areas. For each one, document what your team actually discussed and agreed to, not what sounds good on paper.
 
-- **Communication norms.** Platform(s), response time expectations, meeting cadence, how you'll share files and updates.
+- **Communication norms.** Platform(s), response time expectations, standing meeting time and format (see Setting Your Team's Rhythm), how you'll share files and updates.
 - **Contribution expectations.** How you'll divide work, what happens if someone can't deliver on time, how you'll flag problems early rather than at the deadline.
 - **Decision-making process.** How the team resolves disagreements, whether any decisions require full consensus vs. majority agreement.
 - **Conflict handling.** What you'll do when something isn't working. This is the section most teams want to skip, and it's the one that matters most.

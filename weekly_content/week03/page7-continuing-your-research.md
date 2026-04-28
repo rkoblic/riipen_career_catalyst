@@ -1,9 +1,9 @@
 ---
 week: 3
-page: 5
+page: 7
 title: Continuing Your Research
 created: 2026-03-28
-last_updated: 2026-03-30
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Critical Thinking

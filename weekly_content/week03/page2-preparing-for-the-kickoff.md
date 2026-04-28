@@ -3,7 +3,7 @@ week: 3
 page: 2
 title: Preparing for the Kickoff
 created: 2026-03-28
-last_updated: 2026-03-30
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Communication
@@ -73,7 +73,7 @@ Before the meeting, decide how your team will capture what's discussed. There ar
 - **Built-in transcription.** Zoom, Teams, and Google Meet all offer built-in transcription. Turn it on if it's available. The raw transcript won't be perfect, but it gives you a searchable record to work from afterward.
 - **Dedicated AI note-taking tools.** Tools like [Otter.ai](https://otter.ai/) and [Granola](https://www.granola.ai/) offer free tiers and can join your meeting to transcribe, summarize key points, and flag action items automatically. They're worth exploring if you want more than a raw transcript.
 - **Manual notes + AI cleanup.** If you can't use a transcription tool, designate one team member to take rough notes during the meeting. Immediately afterward, feed those notes into an AI tool and ask it to organize them by topic. The sooner you do this, the easier it is to fill gaps while the conversation is still fresh.
-- **Prompting for structure.** When you ask AI to help organize your notes, give it context. Share the raw notes, the project brief, and the format you want the output in (for example, the Kickoff Summary template on the After the Kickoff page). The more context AI has, the more useful its output will be. This is the "give AI enough context" strategy you practiced earlier in the course, applied here for the first time with real meeting content.
+- **Prompting for structure.** When you ask AI to help organize your notes, give it context. Share the raw notes, the project brief, and the format you want the output in (for example, the Kickoff Summary template on the Kickoff Summary page). The more context AI has, the more useful its output will be. This is the "give AI enough context" strategy you practiced earlier in the course, applied here for the first time with real meeting content.
 
 **A warning about AI-generated summaries.** Whether you're using a dedicated tool or cleaning up notes after the fact, AI summaries frequently get things wrong — misattributing who said what, inventing details that sound plausible but weren't discussed, or flattening nuance into oversimplified bullet points. Always review AI-generated summaries against your own memory and notes. Treat them as a starting draft, not a finished record.
 
@@ -92,6 +92,7 @@ The research you've already done on the employer's organization is your foundati
 - [ ] Consolidate your team's questions into a single prioritized list. Start with the most important unknowns, the things you genuinely need answers to before you can begin working.
 - [ ] Assign roles for the meeting: who will ask the primary questions, who will take notes, and who will manage time. If your team has more than three members, double up on note-taking so you have multiple perspectives to compare afterward.
 - [ ] Identify any assumptions your team is making about the project. Write them down. The meeting is your chance to confirm or correct them. For example, you might be assuming the deliverable is a written report when the employer hasn't specified a format, or that the project focuses on a particular market or audience based on your research rather than anything the employer has said.
+- [ ] Decide on a default day and time you'd propose for a recurring 30-minute biweekly check-in with the employer. You'll raise this at the end of the kickoff, so come with a specific slot in mind rather than scheduling by email afterward.
 - [ ] Test your technology. Make sure your camera, microphone, and meeting platform are working. This sounds basic, but fumbling with tech in the first two minutes of a professional meeting is a poor first impression.
 
 ---
@@ -107,6 +108,7 @@ A kickoff agenda doesn't need to be elaborate. A shared document (Google Doc, or
 - Brief team introductions (1–2 minutes)
 - Employer overview of the project: context, scope, success criteria, timeline, key contacts (led by the employer)
 - Team questions (your prioritized list from the pre-meeting prep)
+- Confirming a recurring biweekly check-in time
 - Next steps and follow-up
 
 Keep the agenda in the same shared workspace your team is using for project documents so everyone can reference it during the meeting. Include it in your confirmation message to the employer so they can review and flag anything they'd like to add or adjust.

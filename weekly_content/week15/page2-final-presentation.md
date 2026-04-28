@@ -26,7 +26,7 @@ This is the culmination of the three-week presentation arc. The conceptual work 
 
 ---
 
-## What you are being assessed on
+## How you'll be assessed
 
 The Final Presentation is graded against the Final Presentation rubric and carries significant weight in your final grade. It is its own assessment; it does not re-grade the Final Deliverables your team has already submitted. A team can have strong deliverables and a weak presentation, or the other way around. What this rubric captures is what happens in the room.
 

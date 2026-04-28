@@ -176,18 +176,22 @@ Parts C and D stay with your instructor. Your self-evaluation (Part C) is used t
 
 ---
 
-## Submission and grading
+## How you'll be assessed
 
-**Submission:** [PLATFORM: TBD — submission instructions depend on platform choice]
-
-**Grading:** The Mid-Project Peer Evaluation contributes to the Professional Engagement component of your final grade alongside employer feedback and instructor observation. See the [**Professional Engagement assignment page and rubric**](URL_TBD) for how those three evidence sources combine. Evaluations are graded on completeness and specificity of evidence. There is no "correct" rating to give a teammate. The standard is that your ratings are grounded in specific behavioral observations and that your evidence supports them.
+The Mid-Project Peer Evaluation contributes to the Professional Engagement component of your final grade alongside employer feedback and instructor observation. See the [**Professional Engagement assignment page and rubric**](URL_TBD) for how those three evidence sources combine. Evaluations are graded on completeness and specificity of evidence. There is no "correct" rating to give a teammate. The standard is that your ratings are grounded in specific behavioral observations and that your evidence supports them.
 
 ---
 
-## AI guidance
+## Using AI
 
 AI may be used to help you articulate an observation more clearly or to check whether your feedback is specific enough. For example, after writing a Continue response, you might ask: "Does this feedback reference a specific behavior, or does it read as a general impression?" That's a legitimate use of AI as a review tool.
 
 AI cannot generate the evaluation itself. The qualitative feedback must reflect your actual observations of your teammate's behavior, and the ratings must reflect your genuine assessment. The learning in this activity happens in the act of evaluating: thinking carefully about what you've actually observed, deciding what it means, and figuring out how to say it usefully. AI-generated responses bypass that process entirely.
 
 **Disclosure required.** If AI was used to help draft or refine any part of your evaluation, include a one-sentence disclosure with your submission. If AI was not used, include a one-sentence statement to that effect.
+
+---
+
+## Submission
+
+[PLATFORM: TBD — submission instructions depend on platform choice]

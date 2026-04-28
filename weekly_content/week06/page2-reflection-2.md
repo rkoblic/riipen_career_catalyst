@@ -22,7 +22,7 @@ Where Reflection #1 looked at what it was like to enter a new professional situa
 
 ---
 
-This is your second DEAL reflection. You worked through the framework once in Week 3, and the rubric and the four dimensions are the same. If you need a refresher on how DEAL works or what each stage is asking for, the Week 3 reflection page and the reflection portfolio framework are the references. This page focuses on what's different about this one: the experience pool you're drawing from, the competency it asks you to surface, and the higher bar for depth.
+This is your second DEAL reflection — an individual submission graded as part of the Reflection Portfolio. You worked through the framework once in Week 3, and the rubric and the four dimensions are the same. If you need a refresher on how DEAL works or what each stage is asking for, the Week 3 reflection page and the reflection portfolio framework are the references. This page focuses on what's different about this one: the experience pool you're drawing from, the competency it asks you to surface, and the higher bar for depth.
 
 ---
 
@@ -50,7 +50,7 @@ Personal accountability is where most first reflections fall short. That means e
 
 ---
 
-## Using AI as a thinking partner
+## Using AI
 
 AI was introduced as a thinking partner for reflection earlier in the course, and this is its second application. The boundary is the same: AI cannot supply the experience, the examination, or the articulated learning. A reflection that could have been written by any learner in any project hasn't met the standard regardless of what tools were used.
 
@@ -64,7 +64,7 @@ In all three cases, the intellectual work is yours. AI helps you see where you h
 
 ---
 
-## Format and submission
+## Submission
 
 **Length:** 800–1200 words. Under 700 words rarely achieves sufficient depth in the Examine stage. Over 1,400 words usually indicates the description is too broad. Pick one experience and go deeper, not wider.
 

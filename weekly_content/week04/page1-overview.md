@@ -26,7 +26,7 @@ This is a single document with four parts:
 1. **Organizational & project context** — demonstrating your understanding of the organization and the project
 2. **Research findings** — what your research uncovered and what it means
 3. **Strategic implications** — connecting your findings to a point of view on how to approach the project
-4. **Project plan** — what you'll do, what you won't, and why, with milestones, timeline, and risks identified
+4. **Project plan** — 4. 	Project plan — what work you’ll engage with and what’s out of scope (and why), with milestones, timeline, and risks identified
 
 One submission per team. AI disclosure is required regardless of whether AI was used.
 

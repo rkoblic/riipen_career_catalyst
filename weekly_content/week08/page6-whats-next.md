@@ -3,7 +3,7 @@ week: 8
 page: 6
 title: What's Next
 created: 2026-04-06
-last_updated: 2026-04-20
+last_updated: 2026-04-28
 status: draft
 ---
 
@@ -27,3 +27,4 @@ Start identifying your questions before the week ends. The sections you've been 
 - **Review your debrief notes from Check-In #1.** Some items your team noted at the time may look different after a week of production. Notes-category feedback can become act-on once you're further in.
 - **Skim the Check-In #2 materials** before the week starts so you know what preparation looks like.
 - **Hold onto your peer evaluation notes.** When the results come back, you'll want the evidence that informed your own ratings within reach to make sense of what you receive.
+- **Reflection #3 lands next week.** It asks you to anchor on a specific moment where feedback, collaboration, or a team interaction taught you something about how you work with others. The Team Processing Session, the peer eval results, and the mid-project survey are all natural sources. Start noticing while the moments are fresh.

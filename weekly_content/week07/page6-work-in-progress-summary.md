@@ -64,7 +64,7 @@ A short summary that covers these three things genuinely is enough. Length is no
 
 ---
 
-## Using AI on the summary
+## Using AI
 
 AI can help you organize and clarify the summary after your team has agreed on its substance. Restructuring for clarity, tightening language, making sure the four sections read in a logical order. Those are appropriate uses of AI as a production partner.
 

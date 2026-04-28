@@ -102,13 +102,12 @@ The instructional video guide and content production guide flag most of these.
 - Note-taking and debrief content compressed; references Week 3 and Week 5 rather than restating frameworks.
 - Small wording fix: at Check-In #1, the team brings *questions about* the work, not the work itself.
 
-### Page 8 — Internal team check-ins *(new page)*
+### Page 8 — Internal team check-ins *(removed 2026-04-28)*
 
-- New instructional page on internal team rhythms (standups, weekly syncs, async written check-ins) and what makes any check-in useful.
-- Embeds the Weekly Progress Check-In as a suggested format, not a brand-new behavior. Teams should already be checking in weekly by this point in the course; this just offers a tighter prompt for those who want one.
-- Includes an "equal airtime" point as a small equity nod.
+- Page removed and useful content moved to Week 2 page 4 (Setting Your Team's Rhythm). Reasoning: introducing the practice of standing weekly meetings in Week 7 is too late — teams need this rhythm from the start of the project. The four habits (specificity, honesty, action-oriented closing, equal airtime), the Weekly Progress Check-In structured prompt, and the meeting-formats material now live in Week 2 alongside the team charter, where teams are first negotiating how they'll work together.
+- Week 7 page 9 (What's next) renumbered to page 8.
 
-### Page 9 — What's next
+### Page 8 — What's next *(was page 9)*
 
 - Added a second opener orienting learners to Week 8's shape: no employer meeting, biggest production block of the course so far, first peer evaluation.
 - Reframed "How to prepare" — rubric review happens in Week 8 (activity 8.06), so the genuinely useful prep work right now is gathering specific observations across the project.

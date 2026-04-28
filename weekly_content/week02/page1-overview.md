@@ -27,7 +27,7 @@ You have two deliverables this week, both completion-based:
 ## Suggested order of completion
 
 1. Start with the Using AI Responsibly module. It gives you a shared frame for how your team will use AI throughout the course.
-2. Then move into your first team meeting and charter negotiation.
+2. Then move into your first team meeting and charter negotiation. As part of that conversation, set a standing weekly meeting time. The Setting Your Team's Rhythm page covers why this matters and how to pick a format that fits your team.
 3. Draft and send your outreach message to the employer once your team has met and reviewed the project brief together.
 4. Begin your organizational research on the employer. You'll want to arrive at the kickoff meeting informed.
 5. Review the Communication Skills for Client Meetings page before the kickoff.
