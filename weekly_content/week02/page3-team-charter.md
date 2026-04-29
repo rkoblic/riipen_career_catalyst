@@ -3,7 +3,7 @@ week: 2
 page: 3
 title: Team Formation & Charter
 created: 2026-03-19
-last_updated: 2026-03-30
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Teamwork
@@ -16,7 +16,7 @@ competencies:
 
 # Team Formation & Charter
 
-In any professional setting, the teams that work well together aren't the ones that got lucky with chemistry. They're the ones that had honest conversations early about how they'd work together. Consulting firms do this at project kickoff. Product teams do it when they form a new squad. Agencies do it when they staff a new account. The format varies, but the practice is the same: get aligned on how you'll work before the work gets hard.
+The teams that work well together usually had honest conversations early about how they'd actually work together. Consulting firms, product teams, and agencies all do some version of this at the start of a project: get aligned on how you'll work before the work gets hard.
 
 That's what the Team Charter is for. It's your team's first real negotiation.
 
@@ -83,13 +83,13 @@ The charter template covers four areas. For each one, document what your team ac
 - **Communication norms.** Platform(s), response time expectations, standing meeting time and format (see Setting Your Team's Rhythm), how you'll share files and updates.
 - **Contribution expectations.** How you'll divide work, what happens if someone can't deliver on time, how you'll flag problems early rather than at the deadline.
 - **Decision-making process.** How the team resolves disagreements, whether any decisions require full consensus vs. majority agreement.
-- **Conflict handling.** What you'll do when something isn't working. This is the section most teams want to skip, and it's the one that matters most.
+- **Conflict handling.** What you'll do when something isn't working. Easy to skim past in a first meeting; harder to build later, once there's an actual conflict you need a way to handle.
 
 ### What "Done" Looks Like
 
 The charter is complete when all team members have reviewed the final version and agree that it accurately reflects what was discussed. It should represent the whole team's understanding, not one person's interpretation of the meeting.
 
-A complete charter addresses each of the four areas above with enough specificity that your team could actually use it to resolve a disagreement. "We'll communicate well" doesn't count. "We'll use Slack for day-to-day coordination and respond within 24 hours on weekdays" does. If a section could apply to any team without changing a word, it's too vague to be useful.
+A complete charter addresses each of the four areas above with enough specificity that your team could actually use it to resolve a disagreement. "We'll communicate well" doesn't count. "We'll use Slack for day-to-day coordination and respond within 24 hours on weekdays" does.
 
 ### AI Use and Disclosure
 

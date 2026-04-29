@@ -3,7 +3,7 @@ week: 1
 page: 8
 title: Professional Email Basics
 created: 2026-03-27
-last_updated: 2026-03-27
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Communication
@@ -68,7 +68,7 @@ Here's an example of a strong introductory message from a project team to an emp
 - **Brief context.** The team establishes that they've read the brief without over-explaining.
 - **Specific ask.** Instead of "let's find a time to meet," they propose a timeframe and format.
 - **Professional but human.** The tone is respectful and warm without being stiff or overly casual.
-- **Short.** Everything the reader needs, nothing they don't.
+- **Short.** It says what it needs to and stops.
 
 ---
 

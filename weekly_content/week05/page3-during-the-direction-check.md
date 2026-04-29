@@ -26,7 +26,7 @@ Follow the structure your team agreed on. The person presenting should focus on 
 
 Keep an eye on time. You have 30 minutes. If your highlights stretch past 10 minutes, you're eating into the feedback time that makes this meeting valuable. Better to cut your highlights short and leave more room for conversation.
 
-After your highlights, transition to feedback with a specific question, not a vague one. "We'd love to hear your reaction, and especially whether the priorities we've identified match what matters most to your team" is a starting point. Then listen.
+After your highlights, hand off to the employer with a specific question. "We'd love to hear your reaction, and especially whether the priorities we've identified match what matters most to your team" is a starting point. Then listen.
 
 ---
 

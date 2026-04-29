@@ -3,7 +3,7 @@ week: 1
 page: 4
 title: AI in Today's Workplace & This Course
 created: 2026-03-27
-last_updated: 2026-03-27
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Critical Thinking
@@ -20,11 +20,11 @@ AI has fundamentally changed how professional work gets done. Whether you're ent
 
 ## How professionals use AI right now
 
-AI isn't a future trend; it's current practice. The shift has been fast enough that the workplace you're preparing to enter looks meaningfully different from even a few years ago.
+AI is already in use across most fields, and the workplace you're preparing to enter looks meaningfully different from even a few years ago.
 
-A nonprofit program director uses AI to analyze survey responses from hundreds of community members, identifying themes that would have taken days to surface manually. A journalist uses AI to cross-reference public financial filings while investigating a story, then verifies every finding against original documents before publishing. An urban planner uses AI to model traffic patterns under different scenarios, then presents the tradeoffs to city council with her own recommendations about which approach best serves the community. A human resources team uses AI to draft initial job descriptions, then rewrites them to reflect the organization's culture and values in ways AI can't capture.
+A journalist uses AI to cross-reference public financial filings while investigating a story, then verifies every finding against original documents before publishing. A human resources team uses AI to draft initial job descriptions, then rewrites them to reflect the organization's culture and voice.
 
-The common thread isn't any one tool or industry. It's that AI is changing the *shape* of professional work: what used to take days might take hours, and what used to be impossible for a small team is now within reach. But in every case, the professional brings the judgment, the context, and the accountability. AI accelerates the work. It doesn't replace the thinking.
+Across these examples, AI is changing the shape of the work: what used to take days might take hours, and what used to be impossible for a small team is now within reach. But the professional is still the one bringing judgment, context, and accountability.
 
 Pick one of these to get a fuller picture of how AI is showing up in professional work, then browse the tools directory to see what's available:
 
@@ -38,7 +38,7 @@ Pick one of these to get a fuller picture of how AI is showing up in professiona
 
 AI tools like ChatGPT, Claude, and Gemini are language models. They generate text by predicting what words are most likely to come next, based on patterns in the massive amount of text they were trained on. They're extremely good at producing text that *sounds* right. They are not reasoning, understanding, or looking things up.
 
-This matters because it explains most of AI's strengths and limitations at once. AI is great at drafting, organizing, brainstorming, and summarizing because those tasks rely on language patterns. AI is unreliable for facts, citations, and recent information because it isn't retrieving knowledge. It's generating plausible-sounding text. When AI gives you a statistic, it's not looking it up. It's producing the kind of number that typically appears in that kind of sentence.
+This matters because it explains most of AI's strengths and limitations at once. AI is great at drafting, organizing, brainstorming, and summarizing because those tasks rely on language patterns. AI is unreliable for facts, citations, and recent information because it isn't retrieving knowledge — it's generating plausible-sounding text. When AI gives you a statistic, it isn't looking it up; it's producing the kind of number that fits the shape of the sentence.
 
 You don't need to understand the technical details. But keeping this mental model in mind ("pattern-matching, not thinking") will help you use AI well and spot when it's failing.
 
@@ -69,9 +69,9 @@ This course treats AI as a professional tool, not a shortcut. You're expected to
 
 **What requires disclosure.** For graded deliverables, you must disclose how you used AI in your process. This doesn't mean listing every prompt. It means being transparent about the role AI played: Did it help you brainstorm? Did it draft text that you then rewrote? Did you use it to check your reasoning? The disclosure requirement is itself a learning exercise. Describing how you used AI forces you to reflect on your own process, distinguish between AI's contribution and your own thinking, and develop the professional habit of documenting your methodology. In consulting, research, and many other fields, documenting how you arrived at your conclusions is standard practice. It's also how your instructor can give you better feedback on your actual skill development.
 
-**The defend-your-work standard.** This is the core principle. If you can explain your reasoning, describe your process, and defend the choices in your work, it's yours, regardless of what tools you used to produce it. If you can't, it doesn't matter whether a human or an AI generated it. The issue is the same: you're submitting work you don't understand.
+**The defend-your-work standard.** This is the core principle. If you can explain your reasoning, describe your process, and defend the choices in your work, it's yours, regardless of what tools you used to produce it. If you can't, you're submitting work you don't understand — and that's the problem, whether the source was AI or anything else.
 
-This isn't about catching you using AI. It's about ensuring that AI use actually contributes to your learning. Professionals who rely on AI without understanding the output make expensive mistakes. Building the habit of understanding and owning your work starts here.
+The point isn't to catch you using AI — it's to make sure AI use actually strengthens your thinking rather than substituting for it. Professionals who lean on AI without understanding the output get caught out, often publicly. Building the habit of owning your work starts here.
 
 ---
 

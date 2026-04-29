@@ -3,7 +3,7 @@ week: 1
 page: 5
 title: Project Browsing & Your Starting Point
 created: 2026-03-27
-last_updated: 2026-03-27
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -32,7 +32,7 @@ Your team will be assigned based on the preferences you submit this week and oth
 
 You'll have access to multiple project briefs, each describing a different organization and the work they need done. Before you commit to your preferences, take a systematic approach to reviewing them.
 
-**Skim first, then deep-read.** Start by reading through all of the available briefs quickly. Get a sense of the range: the industries represented, the types of deliverables, the scope of work. Resist the urge to fall in love with the first brief that sounds interesting. Anchoring on your first impression is one of the most common decision-making biases, and the skim-first strategy is a deliberate countermeasure. Professionals use the same approach in grant review, hiring, and vendor selection: see the full range of options before committing attention to any one of them. That exposure to the full set is what makes genuine comparison possible.
+**Skim first, then deep-read.** Start by reading through all of the available briefs quickly. Get a sense of the range: the industries represented, the types of deliverables, the scope of work. Resist the urge to fall in love with the first brief that sounds interesting — you can't really compare your options until you've seen the full set.
 
 After your initial skim, pick two or three briefs that genuinely interest you and read them carefully. For each one, think about:
 
@@ -63,7 +63,7 @@ This means the questionnaire is only useful if it's honest. Aspirational answers
 
 The second part asks for your ranked project selections with a brief written rationale for each. This isn't a formality. It's your first exercise in evidence-based reasoning in this course.
 
-A strong rationale goes beyond "this sounds interesting." It connects the project to something specific: a skill you want to develop, an industry you're curious about, a type of deliverable that aligns with your career direction. Requiring written justification isn't a hoop to jump through. It forces you to move from gut feeling to articulated reasoning, which surfaces assumptions and makes them available for examination. It also creates a record you can revisit later in your reflections to see how your criteria and priorities evolved. Writing decision memos, justifying recommendations, and defending your reasoning are professional skills that start here.
+A strong rationale goes beyond "this sounds interesting." It connects the project to something specific: a skill you want to develop, an industry you're curious about, a type of deliverable that aligns with your career direction. Writing it down forces you to move from gut feeling to articulated reasoning, and it creates a record you can revisit later in your reflections to see how your priorities evolved.
 
 A useful structure: name the project, state what draws you to it, and explain what you'd hope to gain from working on it. Two or three sentences per selection is sufficient. Be specific and honest.
 

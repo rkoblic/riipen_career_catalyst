@@ -3,7 +3,7 @@ week: 1
 page: 2
 title: What Is Experiential Learning?
 created: 2026-03-27
-last_updated: 2026-03-27
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -20,11 +20,11 @@ In most professional roles, nobody hands you a textbook and a test date. You're 
 
 ## Why this matters in an AI-enabled workplace
 
-AI can summarize a report, draft an email, or generate a project plan in seconds. What it can't do is navigate a difficult conversation with a teammate, read the room in a client meeting, or decide which of three imperfect options your team should pursue. Those judgment calls come from experience, and experience only develops when you actually do the work.
+AI can summarize a report or draft an email faster than you can. What it can't do is navigate a difficult conversation with a teammate or decide which of three imperfect options your team should pursue. Those judgment calls come from experience, and experience only develops when you actually do the work.
 
 That's the gap this course is designed to close. You'll develop the skills that AI can't replace: professional communication, team collaboration, critical thinking under real constraints, and the ability to reflect on your own performance and improve. These are the capabilities employers consistently say they're looking for, and they're the ones that are hardest to build in a traditional classroom.
 
-The AI tools available to you will keep getting better. Your ability to work effectively with people, make sound judgments, and learn from experience is what makes those tools useful rather than just fast.
+The AI tools available to you will keep getting better. Your ability to work effectively with people, make sound judgments, and learn from experience is what makes those tools worth using.
 
 ---
 
@@ -72,7 +72,7 @@ A few things will feel different from day one:
 
 - **Ambiguity is part of the process.** Real projects don't come with answer keys. Your employer contact won't always give you perfectly clear instructions, and that's realistic. Learning to ask the right clarifying questions is part of the skill set you're building.
 - **Your team is your primary learning environment.** Most of what you produce will be collaborative. That means the quality of your team's working relationship directly affects the quality of your learning.
-- **Reflection is not optional.** The reflection assignments in this course aren't afterthoughts. Writing about what you experienced forces you to move from a vague sense of "that went well" or "that was hard" to a specific understanding of what happened and why. That process of articulation turns tacit experience into knowledge you can actually apply to the next situation. It's where some of the deepest learning happens.
-- **Progress looks different.** You won't feel like you've "mastered" something after one module. Skills like professional communication and team collaboration develop gradually, over repeated cycles of practice and feedback. Trust the process.
+- **Reflection is not optional.** The reflection assignments in this course aren't afterthoughts. Writing about what you experienced forces you to move from a vague sense of "that went well" or "that was hard" to a specific understanding of what happened and why. That process of articulation turns tacit experience into knowledge you can actually apply to the next situation.
+- **Progress looks different.** You won't feel like you've "mastered" something after one module. Skills like professional communication and team collaboration develop gradually, over repeated cycles of practice and feedback.
 
-The payoff is that by the end of this course, you won't just know about professional skills. You'll have practiced them, reflected on them, and have concrete evidence of your growth to show for it.
+By the end of the course you'll have practiced these skills, reflected on them, and built up concrete evidence of your growth.

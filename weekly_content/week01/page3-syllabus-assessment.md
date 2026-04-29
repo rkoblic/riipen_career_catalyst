@@ -3,7 +3,7 @@ week: 1
 page: 3
 title: Syllabus & Assessment Review
 created: 2026-03-27
-last_updated: 2026-03-27
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Professionalism
@@ -18,7 +18,7 @@ Before you dive into project work, it's worth understanding how this course is s
 
 ## Read the syllabus
 
-Start by reading through the full course syllabus. Take your time with it. Learners who engage with the syllabus early report lower anxiety, better time management, and fewer surprises later in the semester. In professional settings, the equivalent action is reading the full scope of work or project charter before starting, a baseline habit that many new hires skip, often to their detriment. This is the reference document you'll come back to throughout the semester when you have questions about expectations, policies, or deadlines.
+Start by reading through the full course syllabus. Take your time with it — knowing what's coming makes the rest of the semester easier to navigate. The professional equivalent is reading the full scope of work before starting a project: easy to skip, easy to regret. The syllabus is the reference document you'll come back to throughout the semester when you have questions about expectations, policies, or deadlines.
 
 [LINKED RESOURCE: Course syllabus document]
 
@@ -38,7 +38,7 @@ The course is organized into five phases, each with a different focus. Understan
 
 **Integration.** The final phase brings everything together. You'll present your finished work to the employer and complete a capstone reflection that looks back across the entire experience, connecting what you learned to where you're headed next.
 
-Each phase builds on the one before it. The foundation work makes discovery possible, discovery informs development, development gives you something to refine, and refinement prepares you for a strong final delivery.
+Each phase builds on the one before it.
 
 ---
 
@@ -86,9 +86,9 @@ The assessment structure reflects how professional work is actually evaluated: t
 
 **Graded deliverables.** These are the major assignments that carry weight toward your final grade. They include project deliverables your team produces for the employer (research, plans, presentations) and individual reflections where you demonstrate your learning. Each graded deliverable has a rubric that's available in advance so you know exactly what's expected.
 
-**Completion-based items.** Some activities are graded on completion rather than quality. These include the Your Starting Point Questionnaire, the team charter, and certain process checkpoints. Making these completion-based rather than quality-graded is a deliberate choice: it removes performance pressure so you can be genuinely honest (especially on self-assessments), while the completion requirement ensures the course infrastructure that depends on them actually works. Grading the questionnaire on quality, for example, would incentivize polished answers, which would undermine its purpose as an honest baseline. Complete them honestly and on time.
+**Completion-based items.** Some activities are graded on completion rather than quality — the Your Starting Point Questionnaire, the team charter, and certain process checkpoints. These are graded on completion because grading them on quality would push you toward polished answers when what we actually need is honest ones. Complete them honestly and on time.
 
-**The reflection portfolio.** Throughout the course, you'll complete a series of structured reflections using the DEAL model (which you'll learn about later this week). These reflections are individually graded and build on each other. Together, they form a portfolio that tracks your growth across the full experience. The portfolio is cumulative and spaced throughout the semester rather than a single final reflection because capturing learning as it happens is far more accurate than trying to reconstruct it at the end. The progressive structure also lets you see your own growth trajectory over time, which reinforces the skills you're building. This mirrors professional practice as well: performance reviews, project retrospectives, and career development portfolios all depend on ongoing documentation rather than end-of-term summaries.
+**The reflection portfolio.** Throughout the course, you'll complete a series of structured reflections using the DEAL model (which you'll learn about later this week). These reflections are individually graded and build on each other across the semester. Reflecting in the moment is more accurate than reconstructing months of work at the end, and the spacing lets you see your own growth as it happens. Performance reviews and project retrospectives work the same way in professional settings.
 
 **The defend-your-work standard.** For any graded submission, you should be prepared to explain your reasoning, your process, and the choices you made. This is especially relevant for work where AI was used as a tool. If you can explain and defend it, it's your work. If you can't, it isn't.
 
@@ -110,4 +110,4 @@ Here's an overview of what's due across the course. Use this to plan ahead and s
 
 [TEMPLATE: Deliverable timeline table — specific dates to be added when finalized]
 
-The timeline is deliberately front-loaded with smaller, completion-based tasks and shifts toward larger, graded project deliverables as the course progresses. This scaffolding is intentional: the early weeks build habits, relationships, and foundational skills while the stakes are low, so that when the pressure increases during the production-heavy middle of the course, you have a solid foundation to work from. The reflection assignments are spaced evenly throughout, giving you regular checkpoints to process what you're learning.
+The timeline front-loads smaller, completion-based tasks and shifts toward larger graded project deliverables as the course progresses. The early weeks are about building habits and relationships while the stakes are low, so the production-heavy middle of the course has something solid to stand on. Reflection assignments are spaced evenly throughout.

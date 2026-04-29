@@ -3,7 +3,7 @@ week: 4
 page: 2
 title: Understanding the Deliverable
 created: 2026-03-24
-last_updated: 2026-04-01
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Critical Thinking
@@ -24,7 +24,7 @@ competencies:
 
 Every deliverable you produce in a professional context answers a version of the same question: what do you know, what does it mean, and what should we do about it? The Context Analysis & Project Plan is no different.
 
-This document has four parts, and each one serves a distinct purpose. Understanding why each part exists — not just what goes in it — will help you produce something that's genuinely useful to your employer rather than something that just checks boxes.
+This document has four parts, and each one serves a distinct purpose. Knowing why each part exists, not just what goes in it, helps you produce something your employer can actually use.
 
 When you submit this deliverable, it's automatically shared with your employer. They'll read it ahead of your next check-in — the Direction Check — and it forms the basis of that conversation. You're not writing this for a grade; you're writing it for the person who needs to decide whether your team is on the right track.
 
@@ -49,11 +49,11 @@ Your employer knows their organization from the inside. What they might not have
 
 **Purpose:** Connects your research to a point of view on the project — what you think it means and what you recommend.
 
-This is the section your employer cares about most. It's where you move from describing what you found to arguing what should be done about it. A strong strategic implications section gives the employer confidence that your team is thinking about turning your findings into tangible recommendations.
+This is the section your employer cares about most. It's where you move from describing what you found to saying what should happen as a result. A strong strategic implications section gives the employer confidence that your team can turn findings into tangible recommendations.
 
 ### Part 4: Project plan (~1.5–2 pages)
 
-Purpose: Tells the employer what to expect — what you'll deliver, when, what you consider to be out of scope, and what might go wrong.
+**Purpose:** Tells the employer what to expect — what you'll deliver, when, what you consider to be out of scope, and what might go wrong.
 
 Your employer is investing their time in this project. A clear plan with named tradeoffs and identified risks tells them your team is being realistic. It also gives them a chance to course-correct before you start building.
 
@@ -63,7 +63,7 @@ Your employer is investing their time in this project. A clear plan with named t
 
 The four parts build on each other. Part 1 establishes credibility. Part 2 provides the evidence base. Part 3 draws conclusions from that evidence. Part 4 translates those conclusions into action. If any part is weak, the parts that follow it are undermined.
 
-This means Parts 3 and 4 are only as strong as the research in Part 2, and Part 2 only works if Part 1 has established that your team understands the context well enough for the research to be relevant. Treat them as a connected argument, not four independent sections.
+Parts 3 and 4 are only as strong as the research in Part 2, and that research only works if Part 1 has shown your team understands the context. Treat the document as a connected argument, not four independent sections.
 
 ---
 
@@ -127,7 +127,7 @@ AI can be a useful editor for this step. Try asking it to identify inconsistenci
 
 ### Getting oriented
 
-Some of the work this week may involve methods, frameworks, or research directions you haven't encountered before. That's expected. Part of professional work is figuring out how to do something you haven't done before, and AI is genuinely useful here — not to do the work for you, but to get you oriented quickly.
+Some of the work this week may involve methods, frameworks, or research directions you haven't encountered before. That's expected. Part of professional work is figuring out how to do something you haven't done before, and AI is genuinely useful here for getting oriented fast.
 
 **Figure out what to research.** If you're looking at your project brief and aren't sure where to start, ask AI to help you scope the work.
 
@@ -145,7 +145,9 @@ Some of the work this week may involve methods, frameworks, or research directio
 
 > "Here's our draft competitive analysis for [project]. What are we missing? What questions would a senior consultant ask about this analysis?"
 
-**Important:** AI can help you figure out what to look into and how to approach it. It can't do *your* research or *your* analysis. The frameworks are generic; the application to your specific project requires your judgment and your team's understanding of the employer's context. At the Direction Check, your employer will ask about your findings and your reasoning. "AI told us to look at competitor pricing" is not a defensible answer. "We researched competitor pricing because our initial scoping suggested it was a key factor, and here's what we found" is. Use AI to orient yourself, then make the work your own.
+**Important:** AI can help you figure out what to look into and how to approach it. It can't do *your* research or *your* analysis. The frameworks are generic; the application to your specific project requires your judgment and your team's understanding of the employer's context.
+
+At the Direction Check, your employer will ask about your findings and your reasoning. "AI told us to look at competitor pricing" is not a defensible answer. "We researched competitor pricing because our initial scoping suggested it was a key factor, and here's what we found" is. Use AI to orient yourself, then make the work your own.
 
 ### Going deeper: prompting techniques that help with complex work
 

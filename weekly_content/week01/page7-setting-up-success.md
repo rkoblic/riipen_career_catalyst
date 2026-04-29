@@ -3,7 +3,7 @@ week: 1
 page: 7
 title: Setting Yourself Up for Success
 created: 2026-03-27
-last_updated: 2026-03-27
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Professionalism
@@ -39,7 +39,7 @@ You don't need a complicated system. What you need is a weekly habit of looking 
 A simple approach:
 
 - **At the start of each week,** review what's due and what your team needs from you. Identify the two or three things that matter most.
-- **Block time for project work** the way you would for a class session. Research on behavior change consistently shows that specifying *when* and *where* you'll do something roughly doubles follow-through compared to just intending to do it. If it's not on your calendar, it's easy to let it slide.
+- **Block time for project work** the way you would for a class session. Putting it on your calendar — with a real time and place — makes it much more likely to actually happen than just planning to "get to it this week." If it's not on your calendar, it's easy to let it slide.
 - **Build in buffer time.** Team-based work generates unexpected tasks: a teammate needs your input, the employer responds with a question, something takes longer than expected. If your schedule is packed to the edges, any surprise becomes a crisis.
 - **Front-load the hard work.** If something requires deep focus (research, writing, analysis), do it early in the week when you have the most flexibility. Save lighter tasks (reading, review, logistics) for when your energy is lower.
 

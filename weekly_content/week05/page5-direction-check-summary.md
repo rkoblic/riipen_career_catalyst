@@ -14,17 +14,17 @@ competencies:
 
 # The Direction Check Summary
 
-In professional practice, when a verbal feedback conversation leads to decisions, someone writes those decisions down. Consultants do it after a stakeholder review. Product teams do it after a design critique. The written record is what makes sure the people who were in the room and the people who weren't are working from the same understanding.
+In professional practice, when a verbal feedback conversation leads to decisions, someone writes those decisions down. Consultants do it after a stakeholder review. Product teams do it after a design critique. A written record keeps everyone, including teammates who couldn't attend and the facilitator, working from the same understanding.
 
-The Direction Check Summary is your team's version of that practice. It's a one-page document, in three sections, that captures what the employer said in the Direction Check, what your team is changing as a result, and what's staying the same. Team submission, completion-based. Not graded for quality. Not shared with the employer. The Summary is for your team and your facilitator, so that what was heard and what was decided line up before you commit to production.
+The Direction Check Summary is your team's version of that practice. It's a one-page document, in three sections, that captures what the employer said in the Direction Check, what your team is changing as a result, and what's staying the same. It's a team submission, completion-based, and not shared with the employer. The Summary is for your team and your facilitator, so that what was heard and what was decided line up before you commit to production.
 
 ---
 
 ## What this checkpoint is (and isn't)
 
-The Summary is a record of what was heard and decided, not your interpretation of what the employer meant. Direct quotes are ideal. Paraphrases are acceptable when they're precise. Summaries like "the employer was generally positive" don't meet the bar.
+The Summary is a record of what was heard and decided, not your interpretation of what the employer meant.
 
-It is **not** a revised project plan. The plan revision is a separate piece of work, covered on the After the Direction Check page. The Summary documents the decisions; the plan revision implements them.
+It is **not** a revised project plan. The plan revision is a separate piece of work, covered on the After the Direction Check page. The plan revision is where those decisions get applied to the project plan itself.
 
 The submission is completion-based. It is verified, but not graded for quality. What "completion" means here is described in the criteria below.
 
@@ -36,7 +36,7 @@ The Summary has three sections. Each one exists for a reason that's about your t
 
 ### Section 1: Feedback received
 
-What the employer communicated, as specifically as possible. This is not your interpretation of what they meant. It's what they actually said. Direct quotes are ideal. Paraphrases are acceptable when they're precise. Summaries like "the employer was generally positive" don't meet the bar.
+What the employer communicated, as specifically as possible — what they actually said, not your interpretation of what they meant. Direct quotes are ideal. Paraphrases are acceptable when they're precise. Summaries like "the employer was generally positive" don't meet the bar.
 
 ### Section 2: Plan adjustments
 
@@ -44,7 +44,7 @@ What changes based on the feedback. Be concrete: "We're narrowing the user resea
 
 ### Section 3: Confirmed approach
 
-What stays the same, and why. This section is just as important as the adjustments. It confirms that you considered the feedback holistically, not just reactively, and that the parts of your plan that didn't change were deliberate decisions, not oversights.
+What stays the same, and why. This section is just as important as the adjustments. It shows that the team thought about the feedback as a whole, and that the parts of your plan that didn't change were deliberate.
 
 [TEMPLATE: Direction Check Summary — three-section format (feedback received, plan adjustments, confirmed approach) with prompting questions for each component (~100 words)]
 
@@ -52,7 +52,7 @@ What stays the same, and why. This section is just as important as the adjustmen
 
 ## What the completion criteria require
 
-A Summary that says everything is going well and offers no specific feedback or adjustments does not meet the criteria. Not because there is a requirement to manufacture problems, but because every direction check at this stage produces *something* — pushback, confirmation, a clarified priority, an unanswered question. A Summary without any specifics is either not honest or not looking closely enough.
+A Summary that says everything is going well and offers no specific feedback or adjustments does not meet the criteria. Not because there is a requirement to manufacture problems, but because every Direction Check at this stage produces something the team can name: pushback, confirmation, a clarified priority, or an unanswered question. A Summary that has none of those isn't capturing what actually happened.
 
 The criteria are:
 
@@ -80,7 +80,7 @@ AI can help you organize your notes and clarify your writing after you've captur
 
 AI cannot generate the substance of a conversation it wasn't part of. If your Summary reads like it could have been written before the meeting happened — generic, unspecific, with no reference to what your employer actually communicated — it hasn't met the completion criteria, regardless of how polished the writing is.
 
-Draft from your meeting notes first. Use AI to refine, not to originate.
+Draft from your meeting notes first, then bring AI in to tighten the writing.
 
 ---
 

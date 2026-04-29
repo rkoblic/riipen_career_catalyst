@@ -3,7 +3,7 @@ week: 4
 page: 4
 title: Strategy & Planning
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Critical Thinking
@@ -26,7 +26,7 @@ This page covers the second half of the Context Analysis & Project Plan: strateg
 
 This is the section your employer cares about most. Parts 1 and 2 show that you did the work. Part 3 shows that you thought about what it means.
 
-Your employer doesn't need a team that can gather information — they could do that themselves. What they need is a team that can look at what they found and say: here's what we think it means for this project, here's what we'd recommend, and here's why. That's the value of bringing in outside perspectives, and this is where you deliver on it.
+Your employer doesn't need a team that can gather information; they could do that themselves. What they need is a team that can look at the findings and say what they mean, what to recommend, and why. That's the value of bringing in outside perspectives, and this is where you deliver on it.
 
 This section is also your team's chance to get alignment before you start building. If your strategic read is off, the employer can tell you now, while it's still just a document. That's far better than discovering the misalignment weeks later when you've already built something based on the wrong assumptions.
 
@@ -47,11 +47,11 @@ The video above walks through the full chain — finding → conclusion → assu
 
 ### Why this section exists
 
-Your employer is about to invest their time in your project over the coming weeks. The project plan tells them what to expect: what you'll deliver, when, and what you've decided not to do. It's a commitment — not a binding contract, but a clear statement of intent that the employer can react to.
+Your employer is about to invest their time in your project over the coming weeks. The project plan tells them what to expect: what you'll deliver, when, and what you've decided not to do. It's a clear statement of intent that the employer can react to.
 
 A plan that lists everything the team could possibly do tells the employer nothing. A plan that names specific priorities, explains the tradeoffs behind them, and acknowledges what might go wrong tells the employer that your team is thinking realistically. That's the difference between a team the employer trusts to execute and a team the employer worries about.
 
-This section is also where the course asks you to do something the earlier parts didn't: think forward. Parts 1–3 are about what you've learned so far. Part 4 is about what you'll do with it. That requires a different kind of thinking — scoping, sequencing, anticipating problems — and it's where many teams discover that their ambitious ideas need to be trimmed to fit reality.
+This section is also where the course asks you to do something the earlier parts didn't: think forward. Parts 1–3 are about what you've learned so far. Part 4 is about what you'll do with it. That requires a different kind of thinking (scoping, sequencing, anticipating problems), and it's where many teams discover that their ambitious ideas need to be trimmed to fit reality.
 
 ### Making tradeoffs explicit
 
@@ -77,7 +77,7 @@ But this isn't a copy-and-paste exercise. You still need to think critically abo
 
 ### Risk identification and mitigation
 
-Things will go wrong. The question is whether your team has thought about what might go wrong and has a plan for when it does.
+Things will go wrong. The question is whether your team has thought ahead about what could break and how you'd respond.
 
 Risk identification means naming the specific things that could derail or degrade your project. Not vague concerns ("something might go wrong") but concrete risks with real consequences. Think about what's specific to your project and your team's situation:
 

@@ -3,7 +3,7 @@ week: 1
 page: 6
 title: Introduction to Reflective Practice (DEAL)
 created: 2026-03-27
-last_updated: 2026-03-27
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -12,7 +12,7 @@ competencies:
 
 # Introduction to reflective practice
 
-The most effective professionals aren't just good at doing things. They're good at learning from what they've done. They can look at a meeting that went sideways, a deliverable that missed the mark, or a collaboration that clicked, and extract something useful from it. That skill doesn't come naturally to most people. It has to be practiced, which is exactly what the reflection assignments in this course are designed to do.
+What separates the best professionals isn't raw skill — it's the habit of learning from their own experience. They can look at a meeting that went sideways or a collaboration that clicked and pull something useful out of it. That habit takes practice, which is what the reflection assignments in this course are designed to build.
 
 [VIDEO: Why reflective practice matters in professional work]
 
@@ -30,9 +30,9 @@ Here's what each stage requires:
 
 **Articulate Learning.** The final stage asks you to name what you learned and explain how you'll apply it. This isn't a vague "I learned the importance of communication." It's specific: "I learned that when I prepare questions in advance of a client meeting, I'm better at steering the conversation toward the information our team actually needs. Going forward, I'll spend 15 minutes before each meeting drafting targeted questions based on what we still need to know."
 
-You might wonder why the course uses a structured framework rather than a simpler format like "what went well / what would I change." The reason is that each DEAL stage addresses a specific way that informal reflection tends to go wrong. Most people jump straight from what happened to what they'll do next, skipping the analysis entirely. The Describe stage forces accuracy. The Examine stage forces genuine analysis rather than knee-jerk reactions. The Articulate Learning stage forces you to name something transferable rather than stopping at "it was a good experience." The structure is the point.
+You might wonder why the course uses a structured framework rather than a simpler format like "what went well / what would I change." The reason is that each DEAL stage addresses a specific way that informal reflection tends to go wrong. Most people jump straight from what happened to what they'll do next, skipping the analysis entirely. The Describe stage forces accuracy. The Examine stage forces real analysis rather than knee-jerk reactions. The Articulate Learning stage forces you to name something transferable rather than stopping at "it was a good experience."
 
-The power of DEAL is in the specificity. Vague reflection produces vague learning. Specific reflection, grounded in real events and concrete detail, produces insight you can actually use.
+DEAL only works if you stay specific. Vague reflection produces vague learning, every time.
 
 ---
 

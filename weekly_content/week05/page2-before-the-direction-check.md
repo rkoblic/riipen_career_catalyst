@@ -3,7 +3,7 @@ week: 5
 page: 2
 title: Before the Direction Check
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Communication
@@ -38,9 +38,9 @@ At some point during a project, you may encounter a gap between what the employe
 
 This is normal. It happens in every professional engagement, not just course projects. The difference between a team that handles it well and one that doesn't comes down to how early and how clearly they name the gap.
 
-Saying "we can't do that" is professional when it comes with context. "Based on what we've found so far, the original scope would require access to data we don't have. Here's what we can do instead, and here's why we think it still addresses your core question." That's not a failure. That's a team doing its job.
+Saying "we can't do that" is professional when it comes with context. "Based on what we've found so far, the original scope would require access to data we don't have. Here's what we can do instead, and here's why we think it still addresses your core question." That's the team doing its job, not failing at it.
 
-The worst version is silence: agreeing to something you can't deliver because the conversation feels uncomfortable. The employer would rather hear a realistic adjustment now than a disappointing deliverable later.
+The version to avoid is silence: agreeing to something you can't deliver because the conversation feels uncomfortable. The employer would rather hear a realistic adjustment now than a disappointing deliverable later.
 
 ---
 

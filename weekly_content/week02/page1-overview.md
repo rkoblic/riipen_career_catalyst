@@ -3,13 +3,13 @@ week: 2
 page: 1
 title: Week Overview
 created: 2026-03-19
-last_updated: 2026-04-01
+last_updated: 2026-04-28
 status: draft
 ---
 
 # Building Your Team
 
-This is the week your project becomes real. You've been assigned your team, the people you'll work with for the rest of the course on a project for a real employer. By the end of this week, you'll have a working agreement with your team and a professional message to your employer contact through the Riipen platform.
+You've been assigned your team this week — the people you'll work with for the rest of the course on a project for a real employer. By the end of the week, you'll have a working agreement with your team and a professional message to your employer contact through the Riipen platform.
 
 [VIDEO: Your team starts now]
 

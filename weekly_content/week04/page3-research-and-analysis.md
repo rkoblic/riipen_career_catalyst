@@ -3,7 +3,7 @@ week: 4
 page: 3
 title: Research & Analysis
 created: 2026-04-01
-last_updated: 2026-04-01
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Critical Thinking
@@ -24,7 +24,7 @@ This page covers the first two parts of the Context Analysis & Project Plan: org
 
 Your employer already knows their own organization. So why are they asking you to write about it? Because this section answers a question they can't help but have: *does this team actually understand what we do and what we need?*
 
-If the answer is yes, the employer trusts the rest of the document. If the answer is no — if the context section reads like a paraphrase of the brief or gets basic facts wrong — everything that follows is undermined, no matter how good it is. This section earns the credibility that the rest of the document depends on.
+If the answer is yes, the employer trusts the rest of the document. If the answer is no, everything that follows is undermined, no matter how good it is. A context section that reads like a paraphrase of the brief, or gets basic facts wrong, costs you the credibility the rest of the document depends on.
 
 It's also where you demonstrate that you were listening during the kickoff. The brief said one thing; the conversation may have revealed something different. Capturing that difference shows the employer that your team is paying attention, not just going through the motions.
 
@@ -59,9 +59,9 @@ The second version shows the team did more than read — they connected what the
 
 ### Why this section exists
 
-Your employer knows their organization from the inside. What they often don't have is an outside perspective — someone looking at their competitive landscape, their sector trends, or their audience with fresh eyes and no internal assumptions. That's what you're providing here.
+Your employer knows their organization from the inside. What they often don't have is an outside perspective: someone looking at their competitive landscape, their sector trends, or their audience without the internal assumptions. That's what you're providing here.
 
-This section is where the employer sees whether your team brought something new to the table. Research findings that just confirm what the employer already knows are safe but not useful. Findings that surface something the employer hadn't considered, or that challenge an assumption they've been operating on, are what make this deliverable worth reading.
+This section is where the employer sees whether your team brought something new to the table. Research findings that just confirm what the employer already knows don't earn their place in the document. Findings that surface something the employer hadn't considered, or that challenge an assumption they've been operating on, are what make this deliverable worth reading.
 
 It's also where you build the foundation for everything in Parts 3 and 4. Your strategic implications and project plan are only as strong as the research behind them. If this section is thin, the rest of the document is guesswork.
 

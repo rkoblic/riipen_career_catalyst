@@ -6,7 +6,7 @@ type: interactive-source
 interactive_type: critical-evaluation
 estimated_time: 5 min
 created: 2026-03-19
-last_updated: 2026-03-19
+last_updated: 2026-04-28
 status: draft
 ---
 
@@ -136,4 +136,4 @@ Below is every clickable passage in the stimulus text, with its expected action 
 
 **Shown after submission with a summary of results (e.g., "You flagged 6 of 8 passages that needed attention and chose the right action for 5 of them").**
 
-That passage had 10 reviewable segments. Eight needed some kind of attention. Two were fine to use. You just practiced six different evaluation moves: confirming basic facts at the source, looking up cited sources, tracking down original data, questioning relevance, recognizing when something is good enough to use, and checking for more recent information. Not every claim needed the same response, and that's the point. The skill isn't blanket skepticism. It's knowing which move to make for which kind of claim. When you use AI for research in this course, read every piece of output with this same question in mind: what's my next move with this?
+That passage had 10 reviewable segments. Eight needed some kind of attention. Two were fine to use. You just practiced six different evaluation moves: confirming basic facts at the source, looking up cited sources, tracking down original data, questioning relevance, recognizing when something is good enough to use, and checking for more recent information. Different claims call for different moves, and choosing the right one each time is most of the work. When you use AI for research in this course, read every piece of output with the same question in mind: what would you need to do before you'd trust this in your own work?

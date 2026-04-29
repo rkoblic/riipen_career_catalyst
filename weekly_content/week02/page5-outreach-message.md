@@ -44,4 +44,4 @@ You covered the fundamentals of professional correspondence earlier in the cours
 
 **After you send it.** Don't just send and wait. If you haven't heard back within two to three business days, send a brief, polite follow-up. Employer contacts are busy professionals, and a gentle nudge is expected and appropriate. You may also need to handle logistics like confirming the meeting platform, sharing calendar invites, or coordinating time zones.
 
-**AI use.** AI is permitted here. We recommend drafting the message yourself first, then using AI to refine your tone, tighten your language, or catch anything you missed. That's how most professionals use AI for correspondence: they write, then polish. It keeps your voice in the message and ensures the content is accurate to your actual situation.
+**AI use.** AI is permitted here. It can be helpful to draft the message yourself first, then use AI to refine your tone, tighten your language, or catch anything you missed. That's how thoughtful professionals use AI for correspondence: they write, then polish. It keeps your voice in the message and ensures the content is accurate to your actual situation.

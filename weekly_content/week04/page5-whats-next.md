@@ -3,7 +3,7 @@ week: 4
 page: 5
 title: What's Next
 created: 2026-03-24
-last_updated: 2026-04-02
+last_updated: 2026-04-28
 status: draft
 ---
 
@@ -30,4 +30,4 @@ Between now and the Direction Check, keep your document fresh in your mind. You 
 - **Name your assumptions.** What are you betting on, and what would change your mind?
 - **Identify where you're least certain.** Your employer's feedback will be most valuable on the areas where your team had the least clarity.
 
-The Direction Check goes best when your team arrives prepared to have a real conversation, not to defend a finished product, but to think through an approach together with the person who knows the project best.
+The Direction Check goes best when your team arrives prepared to think through an approach with the person who knows the project best.

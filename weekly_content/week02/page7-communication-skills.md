@@ -3,7 +3,7 @@ week: 2
 page: 7
 title: Communication Skills for Client Meetings
 created: 2026-03-19
-last_updated: 2026-03-30
+last_updated: 2026-04-28
 status: draft
 competencies:
   - area: Communication
@@ -14,27 +14,22 @@ competencies:
 
 # Communication Skills for Client Meetings
 
-Every employer meeting in this course is a professional interaction with a real person who has real expectations. How you communicate in those meetings shapes how the employer perceives your team and the quality of information you walk away with.
+The kickoff meeting may be the first meeting, but every employer meeting in this course is a professional interaction with a real person who has real expectations. How you communicate in those meetings shapes how the employer perceives your team and the quality of information you walk away with.
 
 This page covers three skills you'll use at every employer touchpoint throughout the course: how to run the meeting itself, how to ask good questions, and how to listen well.
 
 ---
-
-## Kickoff Best Practices
-
-The kickoff meeting is your team's first direct interaction with the employer. Here's how to make it count.
-
 ### Assign Roles Before You Walk In
 
-Before the meeting starts, your team should agree on who does what:
+Before a meeting starts, your team should agree on who does what:
 
 - **Who asks the questions.** This doesn't mean one person dominates. It means one person is responsible for making sure the key questions get asked and the conversation stays on track. Others can and should jump in, but having a lead prevents the awkward silence where everyone assumes someone else will speak.
-- **Who takes notes.** Dedicated note-taking is critical. The note-taker's job is to capture what was said, not interpret or summarize it. You'll have time to process after the meeting.
+- **Who takes notes.** Dedicated note-taking is critical, even if you are using an AI note-taker (more on that below). The human note-taker's job is to capture the most important parts of what was said. Avoid interpreting or summarize statements; the team will have time to process after the meeting.
 - **Who manages time.** Someone should be quietly tracking the clock. If you have 60 minutes and ten questions, you don't want to spend 40 minutes on the first two. A gentle "We have about 20 minutes left, should we move to our remaining questions?" keeps things moving without being rude.
 
 ### What You're Trying to Walk Away With
 
-Keep these goals in mind during the meeting:
+Keep these goals in mind during the kickoff meeting, in particular:
 
 - **Confirmed project scope.** What exactly does the employer want you to deliver? Not what you think they want, but what they've actually said.
 - **Success criteria.** How will the employer judge whether your work was useful? What does "good" look like to them?
@@ -51,7 +46,7 @@ If it's genuinely useful context, let it run and adjust your plan. If it's pulli
 
 ## Asking Good Questions
 
-Good questions are the difference between a meeting where you learn something and a meeting where you confirm what you already assumed.
+The questions you bring to the kickoff (and other meetings) shape what you actually learn from it. Coming in with a thoughtful list — and knowing how to push past surface-level answers when you get them — is most of how you make the meeting useful.
 
 [CURATED LINK: "How to Ask the Right Questions" (video) — MindTools — https://www.mindtools.com/ayjixxz/questioning-techniques-video/]
 
@@ -74,19 +69,19 @@ The most valuable information often comes from follow-up questions, not your ori
 - *"When you say [term], what does that look like in practice?"*
 - *"What's been tried before?"*
 
-These questions move you past surface-level answers into the thinking behind them, which is where the real insight lives.
+These questions move you past surface-level answers into the thinking behind them.
 
 ---
 
 ## Active Listening in Client Meetings
 
-Hearing someone talk and actually listening to what they're saying are two different things. In a professional meeting, active listening is what separates teams that understand their client from teams that think they do.
+In a professional meeting, listening well takes deliberate effort. You're tracking what's being said, your team's reactions, and what's worth pushing on later — which is harder than it sounds when you're also nervous and trying to remember your prepared questions.
 
 [CURATED LINK: "The Art of Active Listening" (video) — Harvard Business Review — https://youtu.be/aDMtx5ivKK0?si=FYw70dQBnseOR8VJ]
 
 ### Note-Taking Without Checking Out
 
-The best way to be present in a meeting is to not be buried in your notes. Consider using an AI transcription or note-taking tool to capture the conversation so your team can focus on listening, asking questions, and reading the room. You'll cover this in more detail before the kickoff meeting, but it's worth thinking about now: the more you can automate the capture, the more you can invest in the conversation itself.
+One of the best ways to be present in a meeting is to free yourself up from taking overly detailed notes. Consider using an AI transcription or note-taking tool to capture the conversation so your team can focus on listening, asking questions, and reading the room. You'll cover this in more detail before the kickoff meeting, but it's worth thinking about now: the more you can automate the capture, the more you can invest in the conversation itself.
 
 If you do take manual notes, keep them light:
 

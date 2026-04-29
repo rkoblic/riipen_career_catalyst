@@ -3,13 +3,13 @@ week: 4
 page: 1
 title: Week Overview
 created: 2026-03-24
-last_updated: 2026-04-01
+last_updated: 2026-04-28
 status: draft
 ---
 
 # From research to strategy
 
-Everything you've done so far in the course, forming your team, researching the organization, meeting the employer, has been building toward this week. Now you take what you've gathered and turn it into something that demonstrates real analytical thinking: the Context Analysis & Project Plan.
+You've formed a team, researched the organization, and met the employer. Everything in the course so far has been building toward this week. Now you take what you've gathered and turn it into something that demonstrates real analytical thinking: the Context Analysis & Project Plan.
 
 This is your first graded team deliverable, and it carries 10% of your final grade. More importantly, it's the document your employer will read before sitting down with your team to discuss your approach. What you write here shapes that conversation.
 
@@ -26,7 +26,7 @@ This is a single document with four parts:
 1. **Organizational & project context** — demonstrating your understanding of the organization and the project
 2. **Research findings** — what your research uncovered and what it means
 3. **Strategic implications** — connecting your findings to a point of view on how to approach the project
-4. **Project plan** — 4. 	Project plan — what work you’ll engage with and what’s out of scope (and why), with milestones, timeline, and risks identified
+4. **Project plan** — what work you’ll engage with and what’s out of scope (and why), with milestones, timeline, and risks identified
 
 One submission per team. AI disclosure is required regardless of whether AI was used.
 

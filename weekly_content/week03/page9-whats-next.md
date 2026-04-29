@@ -9,7 +9,7 @@ status: draft
 
 # What's next
 
-The next major deliverable in the course is the Context Analysis & Project Plan, your first graded team submission. It asks you to synthesize everything you've gathered so far — organizational research, kickoff meeting insights, post-kickoff landscape research — into a cohesive analysis with a clear project direction.
+The next major deliverable in the course is the Context Analysis & Project Plan, your first graded team submission. It asks you to synthesize everything you've gathered so far (organizational research, kickoff meeting insights, post-kickoff landscape research) into a cohesive analysis with a clear project direction.
 
 ---
 

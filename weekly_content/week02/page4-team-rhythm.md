@@ -14,7 +14,7 @@ competencies:
 
 # Setting Your Team's Rhythm
 
-Most professional teams have a regular rhythm of checking in with each other. Some do it daily in a 10-minute standup, some weekly in a longer working session, some asynchronously in a shared channel. The format varies. The pattern is the same: a standing time when the whole team is in the same conversation about the same work.
+Most professional teams have a regular rhythm of checking in with each other. Some do it daily in a 10-minute standup, some weekly in a longer working session, some asynchronously in a shared channel. What they share is a standing time when the whole team is in the same conversation about the same work.
 
 Your team will be working together on this project for the rest of the course. Every week from here on has something concrete you'll need to discuss together: feedback to review, decisions to make, deliverables to align on, blockers to surface. Setting a standing meeting time now, while you're forming the team, is much easier than trying to schedule one on the fly later when something is already going wrong.
 
@@ -26,7 +26,7 @@ When several people are working on different parts of the same project, work ten
 
 There's a second reason that matters more as the project progresses: a project plan written at the start gets stale fast. Reality diverges from the plan within days. Teams that revisit the plan against actual progress at a regular cadence keep moving. Teams that treat the plan as a one-time artifact usually discover the gap between plan and reality late, when there's less time to recover.
 
-A standing meeting is the cheapest way to catch both of these. It doesn't have to be long. It does have to be regular.
+A standing meeting is the cheapest way to catch both of these — what matters is that it actually happens every week, not how long it runs.
 
 ---
 
@@ -48,7 +48,7 @@ A few things to weigh as you decide:
 
 - **Time zones and schedules.** If your team spans time zones, or has very different course loads and work commitments, a weekly sync at a fixed time may be hard to land. A blended format with one shorter sync plus async updates often works better.
 - **Depth of conversation needed.** Some weeks you'll have real decisions to make together; others you're mostly heads-down on individual sections. A 45-minute weekly sync gives room for both. A 15-minute standup doesn't.
-- **What you'll actually do.** A meeting that gets skipped isn't a meeting. Pick something the whole team can realistically commit to every week, even on the busy ones.
+- **What you'll actually do.** Pick something the whole team can realistically commit to every week, even on the busy ones.
 
 You can revisit the format if it isn't working. The first choice doesn't have to be the final one. What matters is that you have a standing time on the calendar from this week forward.
 
@@ -56,9 +56,9 @@ You can revisit the format if it isn't working. The first choice doesn't have to
 
 ## What makes a check-in actually useful
 
-A meeting that runs every week isn't automatically useful. A few habits behind the ones that produce real value:
+A few habits behind weekly meetings that actually move the work forward:
 
-**Specificity over summary.** "We made progress on the report" is the kind of update that makes meetings feel like a waste of time. "I drafted the competitive landscape section and got stuck on whether to include two regional competitors" is the kind that lets a teammate respond. The harder a check-in is to skim past, the more useful it is.
+**Specificity over summary.** "We made progress on the report" is the kind of update that makes meetings feel like a waste of time. "I drafted the competitive landscape section and got stuck on whether to include two regional competitors" is the kind that lets a teammate respond.
 
 **Honesty about what's stuck.** The whole point of surfacing blockers is to get them unstuck. A team where nobody ever reports being blocked is either extraordinary or not telling the truth, and the second is much more common. Naming the blocker is what makes the check-in worth doing.
 

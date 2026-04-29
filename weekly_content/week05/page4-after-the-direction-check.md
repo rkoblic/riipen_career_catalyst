@@ -18,7 +18,7 @@ competencies:
 
 ## The immediate debrief
 
-Debrief as a team immediately after the meeting, while the conversation is fresh. Twenty-four hours from now, you'll remember the general feel of the meeting but not the specific language. The specific language is what matters.
+Debrief as a team immediately after the meeting, while the conversation is fresh. Twenty-four hours from now, you'll remember the general feel of the meeting but not the specific language, and the specific language is the part you'll need.
 
 If you used an AI note-taking tool during the meeting, pull up that transcript now alongside whatever manual notes your team took. Use both, but don't treat the AI transcript as a reliable record. These tools mishear words, attribute statements to the wrong speaker, and sometimes fabricate phrases that sound plausible but weren't said. Cross-check the AI transcript against your manual notes and your team's memory. Where they disagree, trust what your team actually heard.
 
@@ -29,7 +29,7 @@ Capture four things:
 - **Points of divergence:** Where did they push back, redirect, or express concern?
 - **Ambiguity:** What was unclear? What do you need to follow up on?
 
-This debrief is not the Direction Check Summary. It's the raw material for it. The debrief is a team conversation about what was heard. The Summary is the formal written record of what was decided.
+The debrief is the raw material for the Direction Check Summary, not the Summary itself. Use it to surface what was heard as a team; the Summary, written afterward, is where the team records what was decided.
 
 ---
 
@@ -39,7 +39,7 @@ The Direction Check Summary documents what was heard and decided. Revising the p
 
 Go through your existing plan and identify what the employer's feedback changes. Some changes are obvious: if they redirected your focus area, your research plan needs to shift. Others are subtler: if they emphasized a particular audience for the deliverable, your approach to structuring the final product may need to adjust even if the topic stays the same.
 
-Be specific about the connections. "We're adjusting the project plan based on feedback" is not a plan revision. "We're moving the competitive analysis earlier in the timeline because the employer indicated that understanding the competitive landscape is prerequisite to the recommendations they're looking for" is.
+Be specific about the connections. A plan revision should name the change and the reason. "We're adjusting the project plan based on feedback" is too vague. "We're moving the competitive analysis earlier in the timeline because the employer indicated that understanding the competitive landscape is prerequisite to the recommendations they're looking for" is the bar.
 
 If the employer confirmed your approach without major changes, the revision is lighter but still deliberate. Confirm what stays, tighten anything that was vague, and use the clarity from the conversation to sharpen your next steps.
 

@@ -12,7 +12,7 @@ competencies:
 
 # Researching an Organization
 
-Walking into a meeting with a professional contact without knowing anything about their organization is like showing up to a job interview without reading the job description. It signals that you didn't prepare, and it makes the meeting less productive for everyone. The research you do now helps you ask better questions, understand context faster, and make a stronger first impression at the kickoff.
+Walking into a meeting with a professional contact without knowing anything about their organization is like showing up to a job interview without reading the job description. It signals that you didn't prepare, and it makes the meeting less productive for everyone. The research you do now helps you ask better questions, understand context faster, and make a stronger first impression at the kickoff. It will also contribute to the Context Analysis and Project Plan deliverable that is due in two weeks.
 
 ---
 
@@ -41,6 +41,6 @@ Start with the organization's own website: their "About" page, press releases, a
 
 ## Using AI for Research
 
-AI is useful for *learning*, not for getting facts. If your employer operates in a field you've never encountered (healthcare technology, sustainable agriculture, financial services), AI is a great way to build your understanding. Have a conversation with it. Ask it to explain the industry in plain language, walk you through how the sector works, or clarify terminology you're seeing in your research. Think of it as a knowledgeable colleague you can ask basic questions without feeling embarrassed.
+AI is useful for *learning*, but be cautious of considering its output fact. If your employer operates in a field you've never encountered (healthcare technology, sustainable agriculture, financial services), AI is a great way to build your understanding. Have a conversation with it. Ask it to explain the industry in plain language, walk you through how the sector works, or clarify terminology you're seeing in your research. Think of it as a knowledgeable colleague you can ask basic questions without feeling embarrassed.
 
 AI can surface facts too, but its training data has a cutoff date, so anything recent (leadership changes, new products, recent news) may be missing or outdated. And since you'd need to verify what it tells you anyway, you're often better off just going to the company's website, LinkedIn, or a news search directly. Save AI for the learning part, and do your factual research at the source.

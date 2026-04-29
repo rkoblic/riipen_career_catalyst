@@ -10,11 +10,11 @@ status: draft
 
 # Video script: How to walk through a document with a stakeholder
 
-You have 30 minutes. The employer has your document. The temptation is to start at Part 1 and walk through everything in order. That's a mistake. You'll run out of time before you get to the parts where you actually need their input.
+You have 30 minutes, and the employer already has your document. Starting at Part 1 and walking through everything in order is a mistake. You'll run out of time before you reach the parts where you actually need their input.
 
 Open by framing the conversation. Tell the employer you'd like to highlight a few key areas and then get their feedback, rather than walk through the whole document. That signals you're going to use the time well.
 
-For those highlights, choose the areas where the employer's perspective matters most. That usually means your strongest finding and why it matters, the recommendation you're most confident about and the reasoning behind it, and the area where you're least certain and want their input.
+For those highlights, choose the areas where the employer's perspective matters most. That usually means your strongest finding, the recommendation you're most confident about, and somewhere you'd like their input because you're not sure yet.
 
 Here's what that sounds like. Say your team is working on a community outreach project for a nonprofit. Your first highlight might go like this: "The most important thing our research found is that the primary barrier to participation in programs like yours isn't awareness. It's transportation and scheduling. Three published studies on similar communities found the same pattern, and the organization's own data shows that sign-ups are highest in the neighborhoods closest to the current location. That's what's driving our recommendation."
 
