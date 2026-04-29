@@ -1,6 +1,6 @@
 ---
 week: 3
-page: 2
+page: 4
 title: Reading Between the Lines — What Did the Employer Actually Confirm?
 type: interactive-source
 interactive_type: simulated-scenario
@@ -10,7 +10,7 @@ last_updated: 2026-03-28
 status: draft
 ---
 
-# Reading between the lines — what did the employer actually confirm?
+# Reading between the lines: what did the employer actually confirm?
 
 ## Purpose
 
@@ -166,7 +166,7 @@ David says:
 
 **Correct answer:** B
 
-**Feedback if correct:** David said "language and cultural context are huge factors in everything we do." When a client tells you something is a "huge factor," believe them. This isn't background context — it's a lens that should shape how you research, what sources you prioritize, and what recommendations you make. Research on health behavior change that doesn't account for the cultural context of the target population would miss the point of the project.
+**Feedback if correct:** David said "language and cultural context are huge factors in everything we do." When a client tells you something is a "huge factor," believe them. This isn't background context. It's a lens that should shape how you research, what sources you prioritize, and what recommendations you make. Research on health behavior change that doesn't account for the cultural context of the target population would miss the point of the project.
 
 **Feedback if incorrect:**
 - A) David said language and cultural context are "huge factors in everything we do." Treating this as background noise would mean missing a core dimension of the project. When clients emphasize something, they're telling you what matters to them.

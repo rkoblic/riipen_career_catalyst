@@ -1,6 +1,6 @@
 ---
 week: 3
-page: 4
+page: 5
 title: After the Kickoff
 created: 2026-03-28
 last_updated: 2026-04-28
@@ -26,13 +26,13 @@ We recommend debriefing immediately, even if it's just ten minutes of quick note
 
 The gap between what was said in a meeting and what each person heard is often wider than teams expect. Two people can sit through the same conversation and walk away with different interpretations of what the employer meant, what was confirmed, and what's still open.
 
-That's not a failure of listening. It's how communication works, especially when you're processing new information under pressure. The professional skill is recognizing this and building a process to reconcile different perspectives before they become embedded assumptions.
+That's normal. Communication works that way, especially when everyone's processing new information under pressure. The professional skill is building a process to reconcile different perspectives before they harden into assumptions.
 
 Here's how to do it:
 
 **Compare notes as a team.** Have each person share what they captured, either from written notes, the meeting transcript, or memory. Don't start by debating what the employer meant. Start by establishing what was actually said. Where do your notes agree? Where do they diverge?
 
-**Separate the confirmed from the assumed.** Some things the employer stated clearly: "The deliverable is a competitive analysis report." Other things you may be inferring: "They seemed to want us to focus on the North American market." The first is confirmed information. The second is an assumption that needs verification. Getting comfortable with this distinction is one of the most valuable habits you'll build this semester.
+**Separate the confirmed from the assumed.** Some things the employer stated clearly: "The deliverable is a competitive analysis report." Other things you may be inferring: "They seemed to want us to focus on the North American market." The first is confirmed information. The second is an assumption that needs verification. This distinction is a habit you'll use all semester.
 
 **Flag what needs follow-up.** If something important is unclear or your team disagrees on what was said, write it down as an open question. You'll include these in your Kickoff Summary and can raise them in your next employer interaction.
 
@@ -44,7 +44,7 @@ Within 24 hours of the meeting, send a follow-up message to your employer contac
 
 A good follow-up message briefly summarizes the key takeaways (scope, timeline, next steps) and flags any open questions. It shows the employer that your team was listening carefully and gives them a chance to correct any misunderstandings before they become problems.
 
-Your follow-up message should also confirm the recurring biweekly meeting time you agreed on at the kickoff. If you didn't get to schedule it during the meeting itself, propose a specific time here — the standing meeting page covers how to set up the recurring meeting in detail.
+Your follow-up message should also confirm the recurring biweekly meeting time you agreed on at the kickoff. If you didn't get to schedule it during the meeting itself, propose a specific time here. The Establishing the Standing Meeting page (earlier this week) covers how to set up the recurring meeting in detail.
 
 [TEMPLATE: Post-meeting follow-up message — thanking the employer and confirming key takeaways]
 

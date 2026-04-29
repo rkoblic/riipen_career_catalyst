@@ -37,10 +37,10 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 
 - p1 Understanding your client *(video: Your first professional client meeting)*
 - p2 Preparing for the kickoff *(video: How to write a meeting agenda that actually works)*
-- p3 During the kickoff *(video: What actually happens in a kickoff meeting; interactive: Reading between the lines)*
-- p4 After the kickoff
-- p5 The Kickoff Summary (Type D deliverable page; split out 2026-04-28)
-- p6 Establishing the standing meeting
+- p3 Establishing the standing meeting *(moved before "During" 2026-04-28 so teams read it before the kickoff)*
+- p4 During the kickoff *(video: What actually happens in a kickoff meeting; interactive: Reading between the lines)*
+- p5 After the kickoff
+- p6 The Kickoff Summary (Type D deliverable page; split out 2026-04-28)
 - p7 Continuing your research *(video: How to research a landscape you know nothing about)*
 - p8 Reflection #1
 - p9 What's next
