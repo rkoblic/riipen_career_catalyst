@@ -16,17 +16,17 @@ competencies:
 
 How a deliverable is presented shapes how its content is received. Clean, consistent presentation signals that its authors are organized and professional. Inconsistent presentation signals the opposite, often before a reader has spent much time with the content itself.
 
-We're sharing this guidance at the outset of your production phase deliberately. The presentation habits you build now will persist through the rest of the project, and the internal review gate later in the course catches presentation problems but doesn't prevent them. Fixing inconsistent formatting under deadline pressure is significantly more disruptive than building good habits from the start.
+The final deliverable may feel a long way off, but a few of these habits picked up now save real time and effort later.
 
 Most of what follows focuses on written deliverables, since reports and similar documents are the most common form projects take. If your team is producing a deck, a prototype, a video, or another format, the same principles apply: consistency, clarity, hierarchy, and shared standards across team members. The section near the end of this page covers what those principles look like for non-document deliverables.
 
 ---
 
-## Why presentation matters from the start
+## Why presentation matters
 
 Readers form judgments about quality from visual hierarchy, white space, and consistency before they engage deeply with the content. For a team-authored deliverable, inconsistent presentation communicates something specific: that the pieces were produced independently and never integrated. That tends to be the experience the reader has, regardless of how good the underlying thinking was.
 
-Two rubric dimensions are directly affected. Communication (which includes clarity, organization, and professional presentation) is worth 15% of your final grade. Deliverable Quality (which assesses completeness, scope alignment, and depth of development) is worth 25%. Presentation is the infrastructure both dimensions depend on, so it's worth getting right from the start.
+Two rubric dimensions are directly affected. Communication (which includes clarity, organization, and professional presentation) is worth 15% of your final grade. Deliverable Quality (which assesses completeness, scope alignment, and depth of development) is worth 25%. Presentation is the infrastructure both dimensions depend on.
 
 [CURATED LINK: "How Professional Document Formatting Builds Business Credibility" (article, ~5 min) — Drafting Queens — https://draftingqueens.com/blog/how-professional-document-formatting-builds-business-credibility] An overview of why deliverable presentation signals competence to a reader. Covers visual consistency, hierarchy, and the specific choices that contribute to a professional finished product.
 
@@ -35,6 +35,8 @@ Two rubric dimensions are directly affected. Communication (which includes clari
 ## Standards for written deliverables
 
 These are the conventions that most professional written deliverables (reports, briefs, plans, strategies) follow. Departures from them should have a reason.
+
+[DOWNLOADABLE EXAMPLE: Annotated sample deliverable demonstrating each standard in this section. Margin callouts point to the heading hierarchy, white space, table format, chart formatting, callout box use, and terminology consistency. Students should download and skim before reading the standards below.]
 
 **Headings and hierarchy**
 
@@ -69,7 +71,7 @@ Useful for key findings, important caveats, or information a reader might want t
 
 Decide on terms before drafting begins and coordinate across the team. If the employer calls their product a "platform," use "platform" throughout, rather than mixing in "tool," "system," or "solution." Inconsistent terminology can read as careless and can also raise questions for a professional reader about whether the authors understand what they're describing.
 
-The [Neuron tools directory](https://www.theneuron.ai/top-tools/) from earlier in the course is worth revisiting now that you're in production. The productivity and content creation categories both include tools relevant to deliverable work: chart builders, table generators, and formatting aids worth browsing.
+The [Neuron tools directory](https://www.theneuron.ai/top-tools/) from earlier in the course is worth revisiting now that you're in development. The productivity and content creation categories both include tools relevant to deliverable work: chart builders, table generators, and formatting aids worth browsing.
 
 ---
 
@@ -166,7 +168,7 @@ Use this before submitting your piece to the shared workspace, and again when th
 
 **Language and style**
 
-- [ ] Terminology is consistent throughout (coordinate with your team before producing)
+- [ ] Terminology is consistent throughout (coordinate with your team before development begins)
 - [ ] All lists use parallel grammatical structure (all items begin with the same part of speech)
 - [ ] Capitalization is consistent within headings and lists
 - [ ] Acronyms are defined on first use

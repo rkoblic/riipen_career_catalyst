@@ -14,7 +14,7 @@ competencies:
 
 # Revisiting the Final Deliverable
 
-Before your team starts producing, take thirty minutes to go back and re-read the Final Deliverables assignment description and rubric. You saw these in Week 1 as part of your syllabus review, when everything about your project was still abstract. You now have a project, a direction, a team, and a set of research findings. Re-reading the assignment with all of that in mind is a different experience than reading it cold in Week 1, and the things you notice this time are the things that should shape how your team produces.
+Before your team starts development, take thirty minutes to go back and re-read the Final Deliverables assignment description and rubric. You saw these at the start of the course as part of your syllabus review, when everything about your project was still abstract. You now have a project, a direction, a team, and a set of research findings. Re-reading the assignment with all of that in mind is a different experience than reading it cold, and the things you notice this time are the things that should shape how your team works through development.
 
 [LINKED RESOURCE: Final Deliverables assignment description and rubric]
 
@@ -22,9 +22,9 @@ Before your team starts producing, take thirty minutes to go back and re-read th
 
 ## Why now
 
-The Final Deliverables package is the culminating work of the course. It's due in Week 13, and almost everything you do between now and then (the drafting, the internal reviews, the employer check-ins, the revisions) is in service of it. Production is the phase where your team is actually building toward it, which makes now the right time to get specific about what "it" is.
+The Final Deliverables package is the culminating work of the course. It's due near the end, and almost everything you do between now and then (the drafting, the internal reviews, the employer check-ins, the revisions) is in service of it. Development is the phase where your team is actually building toward it, which makes now the right time to get specific about what "it" is.
 
-Teams that revisit the rubric at the start of production tend to make clearer decisions about what to prioritize and where to spend their limited time. Teams that don't tend to produce work that's strong in the areas they happened to focus on and weak in the areas they forgot were being assessed. The rubric tells you what's being assessed, which tells you where effort pays off.
+Teams that revisit the rubric at the start of development tend to make clearer decisions about what to prioritize. Teams that skip this step usually end up strong on the things they happened to focus on and weak on the things they forgot were being assessed. The rubric tells you what's being assessed, which tells you where effort pays off.
 
 ---
 
@@ -32,9 +32,9 @@ Teams that revisit the rubric at the start of production tend to make clearer de
 
 You're not reading to memorize. You're reading to notice. A few things worth paying attention to this time:
 
-**The dimensions and their weights.** The rubric evaluates specific things and weights them differently. Notice which dimensions carry the most weight, and what each one is actually asking for. That's where production decisions should lean.
+**The dimensions and their weights.** The rubric evaluates specific things and weights them differently. Notice which dimensions carry the most weight, and what each one is actually asking for. That's where development decisions should lean.
 
-**What counts as strong evidence.** Each dimension describes what differentiates strong work from adequate work. Those descriptions are more specific than they might have seemed in Week 1, now that you know what your project involves. Read them with your project in mind: what would strong evidence of each dimension look like in your specific deliverable?
+**What counts as strong evidence.** Each dimension describes what differentiates strong work from adequate work. Those descriptions land more concretely now than they did at the start of the course, when you didn't yet know what your project would involve. Read them with your project in mind: what would strong evidence of each dimension look like in your specific deliverable?
 
 **What the deliverable actually includes.** The assignment describes the components of the final package. Some of those components may not be what you assumed. Compare the list against the direction your team has taken so far. Are there components you haven't been building toward yet? Are there components you assumed were required that actually aren't?
 
@@ -65,7 +65,7 @@ After you've each re-read the assignment and rubric individually, take fifteen m
 - Does the component list match what we've been planning to build, or do we need to adjust?
 - What does "strong" look like for our specific project on the highest-weighted dimensions?
 
-The goal isn't to redesign your project around the rubric. Your direction is set, and your employer is expecting the work you committed to during the Direction Check. The goal is to make sure that as production decisions start landing this week (section ownership, formatting standards, how deep to go on certain pieces), the rubric is informing them rather than surprising you in Week 13.
+The goal isn't to redesign your project around the rubric. Your direction is set, and your employer is expecting the work you committed to during the Direction Check. The goal is to make sure that as development decisions start landing this week (section ownership, formatting standards, how deep to go on certain pieces), the rubric is informing them rather than surprising you when you submit.
 
 ---
 
@@ -73,4 +73,4 @@ The goal isn't to redesign your project around the rubric. Your direction is set
 
 The Final Deliverables rubric reflects what makes professional project work credible to the people receiving it. The dimensions aren't arbitrary academic categories. They map to what a real employer, reviewing a real piece of work from a real team, would look at: is the reasoning sound, is the evidence there, is the work usable, is it presented well enough to take seriously. Reading the rubric with that in mind helps it land as professional guidance rather than grading criteria.
 
-When you're making production decisions this week, the test is double: does this choice serve the rubric, and does it serve the employer receiving the work? Most of the time, those two tests give you the same answer.
+When you're making development decisions this week, the test is double: does this choice serve the rubric, and does it serve the employer receiving the work? Most of the time, those two tests give you the same answer.

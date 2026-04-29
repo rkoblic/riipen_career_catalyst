@@ -14,7 +14,9 @@ competencies:
 
 # From research to draft
 
-By this point in the week, your team has met to plan the work, agreed on what the deliverable looks like, and assigned each person to a specific piece. You've done research for your assigned piece. Now you need to turn that research into a draft.
+By this point in the week, your team has met to plan the work, agreed on what the deliverable looks like, and assigned each person to a specific piece. You've done research for your piece. Now you start turning that research into a draft.
+
+Drafting isn't a one-week activity. This week, you're getting started by moving from notes to outline to a working first pass on the page. The draft will keep evolving through the rest of the development phase as internal team review and employer feedback at the check-ins shape where it goes. The bar for next week's first employer check-in is being far enough into the draft to know where the real gaps are, not where you imagine they might be. That's what makes the check-in useful.
 
 Most professional writing starts here rather than at a blank page: with notes, prior documents, and a stack of material the writer needs to make sense of. The gap between "I have a lot of material" and "I know what I'm going to say" is where the real analytical work happens, and it's the step that's easiest to rush. This page walks through how to close that gap for the piece you've been assigned.
 
@@ -54,13 +56,13 @@ An outline that looks complete isn't always one you can write from. Before you s
 - **Is the order defensible?** Can you articulate why A comes before B, beyond "it's the order I happened to write the points in"? If the order is arbitrary, a reader will feel it.
 - **Are the transitions obvious?** What connects each part to the next? If the answer is "they're just sitting next to each other," you don't have transitions yet. A strong outline already knows how its parts connect.
 
-If you can't answer all three, the outline needs more work. The most common production mistake is starting to write too early and having to restructure once you're already attached to what you've written.
+If you can't answer all three, the outline needs more work. The most common drafting mistake is starting to write too early and having to restructure once you're already attached to what you've written.
 
 ---
 
 ## Moving from outline to prose
 
-Your first draft just needs to get your ideas onto the page in a form you can revise. It doesn't need to be the version you'd submit. Knowing that takes some of the pressure off.
+Your first pass at drafting just needs to get your ideas onto the page in a form you can revise. It doesn't need to be the version you'd submit, and it doesn't need to be done by the end of the week. The draft will go through internal team review, employer feedback at the check-ins, and your own revision passes before it's delivered. Knowing that takes some of the pressure off.
 
 - **Work through your outline in order.** Following your outline sequentially keeps the logical flow intact and surfaces any setup that's missing. If a later part of your piece relies on something you were going to establish earlier, working in order catches it.
 - **Draft the introduction last.** If your piece has an opening or framing paragraph, save it for the end. Introductions are genuinely hard to write before you know what you're introducing. Draft the body first, then come back to the opening.

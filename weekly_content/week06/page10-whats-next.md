@@ -9,13 +9,13 @@ status: draft
 
 # What's next
 
-You've spent this week closing out Discovery and starting production. The next employer touchpoint is designed to help you use that progress, not just show it.
+You've spent this week closing out Discovery and starting development. The next employer touchpoint is designed to help you use that progress, not just show it.
 
 ---
 
 ## Check-In #1 — your first working session with the employer
 
-This meeting has a different purpose than the Direction Check. The Direction Check was a check on direction — you walked the employer through your approach and asked whether you were headed the right way before committing to production. This is a check on production: you've started building, and now you bring the specific questions and decision points you've hit while drafting so the employer can help you unblock them.
+This meeting has a different purpose than the Direction Check. The Direction Check tested whether your approach pointed the right way before you committed to building it. This meeting is about the building: you've started, and now you bring the specific questions and decision points you've hit while drafting so the employer can help you unblock them.
 
 The value of the meeting is proportional to how specific your questions are. "Are we on track?" wastes the time. "We're deciding between approach A and approach B for the competitive analysis — which would be more useful to your team?" uses it. The employer knows things about their organization, their audience, and their priorities that your research can't fully capture. This meeting is your chance to access that knowledge on the specific decisions you're making right now.
 

@@ -14,11 +14,15 @@ competencies:
 
 # Preparing your assigned piece
 
-By this point, your team has met to plan the work, and you know which piece of the deliverable you're responsible for. Before you can draft, you need to prepare: get clear on what your piece needs to do, pull together the material it will draw on, and figure out whether that material already exists or needs to be gathered.
+By this point, your team has met to plan the work, and you know which piece of the deliverable you're responsible for. Before you can draft, you need to prepare. That means getting clear on what your piece needs to do and assembling the material it will draw on, whether that material already exists or still needs to be gathered.
 
-What "preparation" looks like depends on what kind of piece you've been assigned. For some students, it's primarily research: going out and finding information the team doesn't have yet. For others, it's primarily synthesis: pulling together what the team already gathered during Discovery and making sense of it. For others, it's primarily analytical: taking material you already have and thinking through what it means, what the trade-offs are, and what you'd recommend. Most pieces involve some of all three, in different proportions.
+What "preparation" looks like depends on what kind of piece you've been assigned. Most pieces fall into one of three modes, or some mix of them:
 
-This page walks through how to prepare regardless of which mix your piece needs.
+- **Research-heavy.** Going out and finding information the team doesn't have yet.
+- **Synthesis-heavy.** Pulling together what the team gathered during Discovery and making sense of it.
+- **Analytical.** Taking material you already have and thinking through what it means, what the trade-offs are, and what you'd recommend.
+
+Most pieces involve some of all three in different proportions. This page walks through how to prepare regardless of which mix your piece needs.
 
 ---
 
@@ -52,7 +56,7 @@ Most pieces need some of each. A strategy recommendation, for example, may need 
 
 Some pieces depend on work that hasn't happened yet. A recommendations piece needs findings to recommend from. An implementation roadmap needs a recommendation to implement. An executive summary needs everything else first. If your piece isn't ready to prepare this week, your job is to help with what does need to get done: running interviews, contributing to the team's synthesis, supporting whatever upstream work the deliverable depends on right now.
 
-The same expectation will apply in reverse in later weeks. When your piece becomes the active work, the team members whose pieces are downstream of yours will be the ones contributing to it. Production teams move forward together, not as parallel tracks.
+The same expectation will apply in reverse in later weeks. When your piece becomes the active work, the team members whose pieces are downstream of yours will be the ones contributing to it. Development teams move forward together, not as parallel tracks.
 
 ---
 
@@ -72,7 +76,7 @@ Match the source type to the question. If your piece needs to argue something ab
 
 ## When you need a skill you haven't built yet
 
-Production sometimes asks you to use a method you haven't learned yet, or prepare a kind of piece you've never prepared before. That's a normal professional situation, and the response is the same as it is for working professionals: find a resource at the right level, learn just enough to do what your piece actually needs, and ask a colleague (or AI) when you get stuck.
+Development sometimes asks you to use a method you haven't learned yet, or prepare a kind of piece you've never prepared before. That's a normal professional situation, and the response is the same as it is for working professionals: find a resource at the right level, learn just enough to do what your piece actually needs, and ask a colleague (or AI) when you get stuck.
 
 **Methods you may need to use**
 
@@ -127,7 +131,7 @@ If you've followed these habits, the next page (From research to draft) describe
 
 ## What this looks like in practice
 
-Two teams, two different project types, two different ways Week 6 plays out.
+Two teams, two different project types, two different ways this week plays out.
 
 ### Team 1: User research project
 
@@ -135,7 +139,7 @@ Two teams, two different project types, two different ways Week 6 plays out.
 
 **Deliverable:** A user research report (~20 pages). Pieces: Context, User Research Findings, Recommendations, and Methodology & Executive Summary.
 
-**Week 6:**
+**This week:**
 
 - **Findings owner.** Drafts the interview protocol with team input, recruits younger commuters, runs 3 of 5 interviews. Heaviest individual workload this week.
 - **Context owner.** Contributes to the protocol conversation, then independently drafts the context piece from Discovery materials, since it doesn't depend on findings.
@@ -148,13 +152,13 @@ Two teams, two different project types, two different ways Week 6 plays out.
 
 **Deliverable:** A market entry strategy recommendation (~15 pages plus appendix). Pieces: Market Opportunity Analysis, Risks & Constraints, Prioritized Recommendation, and Implementation Roadmap.
 
-**Week 6:**
+**This week:**
 
 - **Market Opportunity Analysis owner.** Pulls together US Northeast market data from Discovery, benchmarks two or three comparable SaaS expansions, and drafts a working version of the opportunity picture. Heaviest individual workload this week.
-- **Recommendation owner.** Can't draft a recommendation until the opportunity analysis is firm. Facilitates a mid-week team synthesis conversation, captures the candidate strategic framings the team has been discussing, and contributes directly to the opportunity analysis.
+- **Recommendation owner.** Can't draft a recommendation until the opportunity analysis is firm. Uses part of the standing team meeting to facilitate a synthesis conversation, captures the candidate strategic framings the team has been discussing, and contributes directly to the opportunity analysis.
 - **Risks & Constraints owner.** Contributes to the opportunity analysis, where constraint-thinking sharpens the picture. Starts a candidate-risks list to bring to the team next week, once a recommendation is on the table.
 - **Implementation Roadmap owner.** The most downstream piece — depends on a recommendation that doesn't exist yet. Contributes to the opportunity analysis and supports the recommendation owner with the synthesis conversation.
 
 ### The pattern
 
-Notice what these two teams have in common. On both, one or two members are doing the heavy upstream work this week. The others are contributing to that work, not running their own parallel tracks. In later weeks, as different pieces become the active work, the contribution flows the other way. That's how production teams actually move forward.
+Notice what these two teams have in common. On both, one or two members are doing the heavy upstream work this week. The others are contributing to that work, not running their own parallel tracks. In later weeks, as different pieces become the active work, the contribution flows the other way. That's how development teams actually move forward.
