@@ -18,7 +18,7 @@ competencies:
 
 Your team is now close enough to a finished deliverable to see the distance between where this project started and where it ended up. Reflection #4 sits at that vantage point.
 
-This is your fourth graded reflection — an individual submission graded as part of the Reflection Portfolio.
+This is your fourth graded reflection, submitted individually as part of the Reflection Portfolio.
 
 ## The prompt
 
@@ -46,7 +46,7 @@ The prompt is not asking for a comparison of two documents. The Context Analysis
 
 That is a different move than earlier reflections. Reflection #1 asked you to examine what it was like to enter a new professional situation. Reflection #3 asked you to examine how you receive and act on feedback. This reflection asks you to connect specific experiences across several weeks to a broader understanding of professional practice. The strong version is not "I learned X during this project." It is "I learned X, and here is how it changes how I would approach similar work in the future."
 
-This connects directly to the Articulation of Learning dimension on the reflection rubric. That dimension is weighted equally with the other three, and on this reflection it is where the depth bar sits highest. A reflection that describes what happened and examines why without translating the learning into something transferable is not meeting the Reflection #4 standard.
+This connects to the Articulation of Learning dimension on the reflection rubric. That dimension is weighted equally with the other three, and on this reflection it is where the depth bar sits highest. A reflection that describes what happened and examines why without translating the learning into something transferable is not meeting the Reflection #4 standard.
 
 ### Generating material before you draft
 
@@ -64,7 +64,7 @@ Once you have a candidate moment in mind, it helps to generate surrounding mater
 
 The framework is familiar. The rubric is the same four dimensions, equally weighted: Descriptive Specificity, Critical Examination, Personal Accountability, Articulation of Learning. The reflection portfolio framework document is the reference if you want to revisit the descriptors.
 
-What shifts is the depth bar, particularly on Articulation of Learning. Your instructor reads this reflection with the three earlier ones in view. A Reflection #4 that lands at the same depth as Reflection #3 is not demonstrating growth over the portfolio. Integrative thinking, where specific experiences connect to broader professional understanding, is the expectation at this stage. "I learned that communication matters" is not integrative. "I learned that the way a scope decision gets made in Week 4 determines what kinds of questions are answerable by Week 10, and I'd want to fight harder for specificity at the planning stage next time" is closer.
+What shifts is the depth bar, particularly on Articulation of Learning. Your instructor reads this reflection with the three earlier ones in view. A Reflection #4 that lands at the same depth as Reflection #3 is not demonstrating growth over the portfolio. Integrative thinking, where specific experiences connect to broader professional understanding, is the expectation at this stage. "I learned that communication matters" is not integrative. "I learned that early-project scope decisions determine what kinds of questions are still answerable late in the analysis, and I'd want to fight harder for specificity at the planning stage next time" is closer.
 
 Personal Accountability also deserves attention on a plan-versus-reality reflection, because the framing can drift external. Describing how the project changed is not the same as examining your own role in those changes. The reflection is not about what the project did. It is about you.
 

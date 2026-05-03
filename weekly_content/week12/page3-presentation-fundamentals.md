@@ -16,7 +16,7 @@ competencies:
 
 # Presentation fundamentals
 
-A final presentation is the only moment in the project where your team's work gets compressed into a short window and delivered live. A document can be read at the audience's own pace, re-read when something is unclear, and skimmed to the parts that matter to the reader. A presentation has none of those affordances. The audience hears it once, in the order you choose, for as long as you take.
+A final presentation is the only moment in the project where your team's work gets compressed into a short window and delivered live. A document can be read at the audience's own pace and skimmed to the parts that matter to the reader. A presentation has none of those affordances. The audience hears it once, in the order you choose, for as long as you take.
 
 That changes what the presentation is for. The question is no longer what to include. Most of your project's findings cannot fit. The question is what the audience should leave the room believing or doing, and what has to be said out loud for that to happen.
 
@@ -28,7 +28,7 @@ The concepts this page covers are also the four dimensions the Final Presentatio
 
 ## Knowing your audience
 
-The employer has been in every meeting that shaped this project. By the time your team presents, they already know the scope, the research, and most of what's in the deliverable — including the conclusions and recommendations, which they have already seen and given feedback on.
+The employer has been in every meeting that shaped this project. By the time your team presents, they already know the scope, the research, and most of what's in the deliverable (including the conclusions and recommendations, which they have already seen and given feedback on).
 
 The presentation is not delivering new information. It is doing three other things.
 
@@ -36,7 +36,7 @@ The presentation is not delivering new information. It is doing three other thin
 - **Assembling the project into a single argument.** The audience has seen the pieces. They have not seen them delivered as one thing, in the order your team chose, in the shape of an argument. A good presentation is the first time the project holds together as a story rather than a sequence of meetings and drafts.
 - **Asking the client to act.** A document sits on someone's desk. A presentation happens in a room with the client in it, and closes by asking them to do something with the work. Professional presentations end on the ask, not on the findings.
 
-Most teams plan a presentation as if the audience needs to be brought from zero to the findings. Your audience is not at zero. Planning from where they actually are frees up time for the parts that genuinely add something on the day: the emphasis, the synthesis, and the ask.
+Most teams plan a presentation as if the audience needs to be brought from zero to the findings. Your audience is not at zero. Planning from where they actually are frees up time for what the day needs: synthesis and the ask.
 
 ### The hidden audience
 
@@ -52,7 +52,7 @@ Ask your employer contact who is likely to be in the room. If the answer changes
 
 The most common failure mode in a team presentation is a chronological march through what the team did. The audience hears what the team produced but not what it means for them. A story-shaped presentation organizes around the audience's question instead: what did you find, and what should we do about it?
 
-For this project specifically, that means leading with the problem your team's work was actually solving, pulling forward the two or three findings that shifted the team's thinking most, and closing on what the client should do with them. Your deliverable contains the full set of findings. The presentation is where the team signals which ones matter most.
+For this project specifically, that means leading with the problem your team's work was solving and closing on what the client should do about it. In between, pull forward the two or three findings that shifted the team's thinking most. Your deliverable contains the full set of findings. The presentation is where the team signals which ones matter most.
 
 There are canonical resources on how professional presenters structure a presentation as an argument rather than a report. Watch the one below before your team drafts the narrative arc in the outline.
 
@@ -92,7 +92,7 @@ Presentations are a new place to apply AI in this course. The quality reviewer r
 
 The reason presentations are a distinct application is that the raw material is different. Your team is not starting from the deliverable. You are starting from the deliverable plus everything the team knows about the audience, the project history, and the argument. AI can help organize that material into a shape, as long as the team is the one deciding what the shape should carry.
 
-The caution is specific. AI-generated presentation language tends toward generic polish — "Today we'll walk you through our findings, which have significant implications for your organization" — that sounds professional and says almost nothing. The sentences read fine and leave the audience with no clearer sense of what the presentation is about. Your team's voice, and your team's specific findings, have to drive what goes into the script. AI drafts a scaffold. The team fills in what the scaffold is carrying.
+The caution is specific. AI-generated presentation language tends toward generic polish: "Today we'll walk you through our findings, which have significant implications for your organization." That kind of sentence sounds professional and says almost nothing. The sentences read fine and leave the audience with no clearer sense of what the presentation is about. Your team's voice, and your team's specific findings, have to drive what goes into the script. AI drafts a scaffold. The team fills in what the scaffold is carrying.
 
 ### Prompt strategy: structuring a narrative
 
@@ -118,11 +118,11 @@ Several tools can build a first-pass slide deck once your team has the outline:
 - **Gamma.ai.** Purpose-built for AI slide generation. Paste your content and it produces a designed deck you can edit.
 - **Beautiful.ai.** Design automation. You outline the slides; it handles visual layout using a template system.
 
-Use them to accelerate the production step, not to replace the structural thinking. A deck produced from a one-line prompt will look polished and say almost nothing — the same failure mode as the language caution above. Teams that have already written the key messages and the narrative arc get something usable back. Teams that haven't, don't.
+Use them to accelerate the production step, not to replace the structural thinking. A deck produced from a one-line prompt will look polished and say very little, the same failure mode as the language caution above. Teams that have already written the key messages and the narrative arc get something usable back. Teams that haven't, don't.
 
 A workable pattern: draft the outline manually. Feed the outline (not the full deliverable) into one of these tools to produce a first-pass deck. Revise by hand from there, keeping the voice, emphasis, and ordering your team chose through the outline.
 
-One more reason this matters: anything on a slide is something the employer may ask about during or after the presentation. A slide generated by AI that no team member can actually explain becomes a liability in the room — a question about a claim on a slide no one built is hard to answer well. If a slide is in the final deck, someone on the team has to be able to defend what it says. Q&A preparation comes later in the course; this is the first step toward it.
+One more reason this matters: anything on a slide is something the employer may ask about during or after the presentation. A slide generated by AI that no team member can explain becomes a liability in the room. A question about a claim on a slide no one built is hard to answer well. If a slide is in the final deck, someone on the team has to be able to defend what it says. Q&A preparation comes later in the course; this is the first step toward it.
 
 ### A reminder
 

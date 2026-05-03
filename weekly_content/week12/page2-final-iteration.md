@@ -16,7 +16,7 @@ competencies:
 
 # Final iteration — knowing when to stop
 
-The last stretch of work on any deliverable is a judgment call, not a checklist. The professional question at this stage is not whether there is more that could be improved. There is always more. The question is whether the remaining work is worth more than the risk of breaking something that already works. Making that call deliberately is what separates a submitted deliverable from one that is still being changed when the deadline arrives.
+The last stretch of work on any deliverable is a judgment call. The professional question at this stage is not whether there is more that could be improved. There is always more. The question is whether the remaining work is worth more than the risk of breaking something that already works. Making that call deliberately is what separates a submitted deliverable from one that is still being changed when the deadline arrives.
 
 This is a professional skill that academic work rarely asks for. In most courses, revision continues until the deadline and stops because time runs out. Final iteration on a client deliverable stops because the team has made a call. Your team is about to make one.
 
@@ -34,7 +34,7 @@ This is the largest pool of feedback you will get from the employer before the d
 
 Sometimes the debrief is a few lines. Sometimes it's "looks good, ship it." A busy partner signing off without a long list is normal late in a project, not a sign your team is off track. It does leave the triage with less to work on, though, so the team needs another input for this week's revision.
 
-Use the AI quality reviewer prompts from Week 10 to generate it. The fresh-reader, consistency-check, and weakest-link prompts are designed exactly for this stage: whole-document review of an assembled draft. Run them on your current draft and treat what comes back as a candidate list.
+Use the AI quality reviewer prompts from earlier in the course to generate it. The fresh-reader, consistency-check, and weakest-link prompts are designed exactly for this stage: whole-document review of an assembled draft. Run them on your current draft and treat what comes back as a candidate list.
 
 The candidate list then runs through the same three-category triage above. Some flags will be real revision items. Some will be acknowledgment-only (AI noticing a surface inconsistency that is actually intentional). Some will be out of scope. The difference between AI-generated candidates and employer feedback is the source, not the process. Your team still makes the call on each item.
 
@@ -51,7 +51,7 @@ A few cues help separate the three categories when the team is deciding in real 
 
 Your team's Change Log has been running for several weeks. By this point in the project it is a substantive record of every round of feedback your team has received and what the team did in response. That record matters differently now than it did six weeks ago.
 
-On the Final Deliverables rubric, the Responsiveness to Feedback dimension evaluates whether your team engaged with the feedback the employer provided. Engagement is not the same thing as compliance. A team that changed everything the employer mentioned may be less responsive, in the rubric's sense, than a team that changed some things, acknowledged others with clear reasoning, and documented both.
+On the Final Deliverables rubric, the Responsiveness to Feedback dimension evaluates whether your team engaged with the feedback the employer provided. Engagement is not the same thing as compliance. A team that changed everything the employer mentioned may be less responsive, in the rubric's sense, than a team that changed some things and acknowledged others with clear reasoning, documenting both.
 
 What the Change Log makes possible is the sentence "we decided not to change X because Y." Without the log, that sentence sounds like an oversight. With it, the same decision is visibly deliberate. The employer reading the final package can see what their feedback produced, including the places it produced a considered decision not to change anything.
 

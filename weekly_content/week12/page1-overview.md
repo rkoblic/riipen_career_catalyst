@@ -9,7 +9,7 @@ status: draft
 
 # The last week before it ships
 
-Your team's Final Deliverables are due next week, carrying the largest grade weight of any single deliverable in the course. This week is the last substantial block of work before that submission. The feedback from last week's near-final review is in hand, the employer is not available for another round, and the deliverable has to reach submission-ready shape in the seven days that follow.
+Your team's Final Deliverables are due next week, carrying the largest grade weight of any single deliverable in the course. This week is the last full stretch of project work before that submission. The feedback from last week's near-final review is in hand, the employer is not available for another round, and the deliverable has to reach submission-ready shape in the seven days that follow.
 
 Alongside the finalization work, the presentation arc starts here. Presentations close the project at the end, and the outline for yours gets drafted this week so there's something to refine later rather than build from scratch when the deadline is closer.
 
@@ -23,7 +23,7 @@ No employer meeting this week, but you'll have the chance to check in one more t
 
 **Reflection #4.** Individual submission, graded (rubric-based, contributes to the Reflection Portfolio component of your final grade). The fourth DEAL reflection. Due this week.
 
-Nothing else is submitted this week. **Final Deliverables are due next week.** Your scheduled project work this week is the last substantial block before that submission.
+Nothing else is submitted this week. **Final Deliverables are due next week.** Your project work this week is the last full stretch before that submission.
 
 ---
 
