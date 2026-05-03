@@ -25,7 +25,7 @@ The weeks between now and then are where the check-in feedback, the team process
 
 Your team started the Change Log back when you logged the Direction Check feedback, and it's been developing since. By now it should be a substantive running record of feedback received and the decisions your team made in response. This week adds the next significant round: the employer's check-in feedback and the revisions that follow from it. The check-in page covers what and how to log.
 
-The reason keeping the Change Log current matters most right now is the document review that's coming. The employer reads the near-final package in advance and forms their own assessment before the meeting. The conversation is a substantially different experience when your team can say "here's what you raised at our first check-in, here's what you raised at the second, and here's how we addressed each one" than when the employer has to wonder whether their input had any effect. Updating the log as you make revisions is much easier than reconstructing it later.
+The reason keeping the Change Log current matters most right now is the document review that's coming. The employer reads the near-final package in advance and forms their own assessment before the meeting. The conversation goes very differently when your team can say "here's what you raised at our first check-in, here's what you raised at the second, and here's how we addressed each one" than when the employer has to wonder whether their input had any effect. Updating the log as you make revisions is much easier than reconstructing it later.
 
 ---
 

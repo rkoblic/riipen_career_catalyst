@@ -9,7 +9,9 @@ status: draft
 
 # What's next
 
-The next major event in the course is the Direction Check, your team's second meeting with your employer. This time, the conversation centers on the document you just submitted. Your employer will have read it, and they'll want to talk about your findings, your proposed approach, and where you're headed.
+If your team set up biweekly meetings with your employer at the kickoff, next week is your next one. If you haven't set up that recurring cadence, do it as soon as possible — these check-ins are how the project stays on track.
+
+Your next meeting is called the **Direction Check**, since the conversation will focus on the deliverable you submitted this week and the direction it sets out. Your employer will have had a chance to read it, and they may want to talk about your findings, your proposed approach, or where you're headed.
 
 ---
 

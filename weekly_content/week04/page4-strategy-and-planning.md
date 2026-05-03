@@ -41,6 +41,8 @@ The video above walks through the full chain — finding → conclusion → assu
 - **Be concrete.** "We recommend a more targeted approach" gives the employer nothing to react to. "We recommend a 90-day video pilot on TikTok and Instagram Reels" gives them something specific to evaluate.
 - **Don't be afraid to take a position.** A specific recommendation that needs adjusting is far more useful than a vague one that can't be evaluated. The Direction Check exists so the employer can redirect you — that's the process working, not failing.
 
+One important boundary: this is a recommendation document, not a build artifact. A specific recommendation gives the employer something to react to; a prototype or finished design says you've already committed. The Direction Check exists so they can redirect before production starts — going further than recommendation now risks redoing work if your direction shifts.
+
 ---
 
 ## Part 4: Project plan

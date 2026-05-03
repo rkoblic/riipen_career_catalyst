@@ -14,6 +14,6 @@ If your team has been working well with your employer, this week's meeting shoul
 
 That changes how to expect the meeting to go. Your employer has probably skimmed the package rather than read it closely. Busy people do. Some won't have opened it at all before the meeting starts, and that's also normal.
 
-What doesn't change is the team's job. You come in with a walkthrough of what's in the package, the questions you want their read on, and a clear sense of where you're uncertain. A team that drives the meeting gets useful input regardless of how much the employer prepared. A team that arrives expecting a structured review from the other side often leaves without much.
+What doesn't change is the team's job. You come in with a walkthrough of what's in the package, the questions you want their read on, and a clear sense of where you're uncertain. A team that drives the meeting gets useful input even when the employer arrived cold. A team that arrives expecting a structured review from the other side often leaves without much.
 
 If this week feels stressful, the fix is usually upstream.

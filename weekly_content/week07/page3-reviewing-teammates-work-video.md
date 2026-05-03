@@ -10,7 +10,7 @@ status: draft
 
 # Video Script: Structural feedback vs. line editing
 
-When you read a colleague's piece, the first instinct is usually to fix the small stuff. A clunky sentence, a word you'd change, a transition that's off. That's line editing, and it's the least useful thing you can do at this stage.
+When you read a colleague's piece, the first instinct is usually to fix the small stuff. A clunky sentence, a transition that's off. That's line editing, and it's the least useful thing you can do at this stage.
 
 Structural feedback asks a different question. Does this piece do what it's supposed to do? Does it have a clear claim? Does the evidence actually support it? Would someone who doesn't know the project follow it?
 

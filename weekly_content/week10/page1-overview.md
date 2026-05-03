@@ -21,7 +21,7 @@ The second of those is the bigger shift. Most learners around this point in a pr
 
 Nothing graded or submitted. Your next graded submission is Reflection #4, due in a couple of weeks. The next team checkpoint deliverable is a near-final package, which opens the Refinement phase.
 
-This is the home stretch of building. The Development phase ends this week, and it's the final window your team has to pull the pieces together before the employer reads the work in near-final form. The decisions you make over the next several days about scope, integration, and priority are the ones the employer responds to next. Teams that use this week well walk into the near-final review with a package that's already cohesive. Keep pushing.
+This is the home stretch of building. The Development phase ends this week, and it's the final window your team has to pull the pieces together before the employer reads the work in near-final form. The decisions you make over the next several days about scope and integration are the ones the employer responds to next. Teams that use this week well walk into the near-final review with a package that's already cohesive.
 
 ---
 

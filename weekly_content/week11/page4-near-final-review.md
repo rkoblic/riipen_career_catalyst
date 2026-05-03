@@ -14,7 +14,7 @@ competencies:
 
 # Reviewing your near-final package
 
-This meeting is the second document-sharing checkpoint in the course. Your team submitted the near-final package through the platform, and the meeting is where you walk the employer through it, surface the questions you want their read on, and get the last major directional input before the final submission.
+This meeting is the second document-sharing checkpoint in the course. Your team submitted the near-final package through the platform, and the meeting is where you walk the employer through it and surface the questions you want their read on. It's the last major directional input before the final submission.
 
 If the project has been going well, this meeting should feel light. You've been checking in with the employer for weeks. The big decisions have been on the table before. There shouldn't be surprises in the package that aren't already in the conversation.
 
@@ -30,7 +30,7 @@ The meeting has three parts, all driven by the team.
 
 **Hearing anything the employer raises on their own.** Whatever the employer has read or reacted to shows up here. Some meetings this is detailed; others it's general. Either way, it's input the team factors into the final push.
 
-Emphasis shifts meeting to meeting depending on how much the employer engaged with the package. The team drives regardless.
+Emphasis shifts meeting to meeting depending on how much the employer engaged with the package. The team's job stays the same.
 
 This meeting is also the last structured moment of support before the final push. The package is completion-based for a reason: the goal isn't to grade where the team is, it's to give the employer a chance to tell you where the work needs more, and your instructor a chance to see the same submission through the platform and follow up with the team on anything that needs it. If a section is behind, a piece of scope still needs a nudge, or the team is uncertain about a call, this is the window where that can be addressed.
 
@@ -76,7 +76,7 @@ Do this before submitting the Near-Final Package, not after. The employer reads 
 
 ### Prepare the walkthrough and Change Log summary
 
-Decide who on the team will walk the employer through the package. Pick two or three highlights for the opening: the key findings, the structure of the package, what's changed since the last check-in. Five minutes of this sets up the rest of the meeting regardless of how much the employer read ahead of time.
+Decide who on the team will walk the employer through the package. Pick two or three highlights for the opening: the key findings, the structure of the package, what's changed since the last check-in. Five minutes of this sets up the rest of the meeting whether the employer read closely or not.
 
 The Change Log summary is part of that opening. The structure is: here's the feedback we received at recent check-ins, here's what we did with it, here's where it shows up. You don't need to walk through every entry. A few representative ones are enough to signal that the team took prior feedback seriously.
 

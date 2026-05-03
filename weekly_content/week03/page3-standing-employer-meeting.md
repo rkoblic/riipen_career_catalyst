@@ -14,9 +14,9 @@ competencies:
 
 # Establishing the standing meeting
 
-The kickoff is a one-time event. Most of the work you do with the employer happens between meetings, but you still need a regular point of contact to keep the project on track. Locking in a recurring meeting at the end of the kickoff is one of the most useful things your team can do this week.
+A multi-week project needs a steady rhythm with the employer, not just a single conversation up front. Before the kickoff ends, your team will lock in a recurring biweekly check-in that runs through the rest of the course. That standing meeting is how you stay aligned, raise blockers, and pull the employer in on decisions as the project moves.
 
-This page covers how to propose that meeting at the kickoff, what to do afterward, and the norms that keep these meetings productive. Read it before the kickoff so you walk in knowing what you'll suggest.
+This page covers how to propose the meeting at the kickoff, what to do afterward, and the norms that keep these check-ins productive. Read it before the kickoff so you walk in knowing what you'll suggest.
 
 ---
 
@@ -24,7 +24,7 @@ This page covers how to propose that meeting at the kickoff, what to do afterwar
 
 A recurring meeting is how you keep a project from quietly going off the rails. Without one, communication drifts: questions pile up, small misalignments compound, and the team can spend weeks heading the wrong direction before anyone notices. A standing meeting gives you a built-in moment to raise decisions, flag blockers, and stay aligned with the employer.
 
-The cadence we recommend is **30 minutes, every other week**. That's enough time for a real working session without taking over a busy professional's calendar. The kickoff (60 minutes) is the exception; from here, your meetings get shorter and more focused.
+Your team's cadence for this course is **30 minutes, every other week**. That's enough time for a real working session without taking over a busy professional's calendar. The kickoff (60 minutes) is the exception; from here, your meetings get shorter and more focused.
 
 ---
 
@@ -36,7 +36,7 @@ In the last few minutes of the kickoff, raise it directly:
 
 > "Before we wrap, we'd like to set up a recurring 30-minute check-in every other week so we can keep you posted and pull you in on decisions as they come up. Would [day/time] work as a standing slot?"
 
-Have a default proposal ready: a specific day and time that works for everyone on your team. Offering "what works for you?" without a starting point usually leads to a longer conversation. If your first proposal doesn't work, offer two alternatives.
+Have a default proposal ready: a specific day and time that works for everyone on your team. It might feel more polite to ask "what works best for you?" but a clear proposal is actually easier on the employer's time. They can say yes or counter-offer in seconds. An open question forces them to think through their schedule and propose a slot, which is more work for them. If your first proposal doesn't land, offer two alternatives.
 
 If the meeting runs long and you don't get to it, raise it in your follow-up message. Don't let the week end without a confirmed time.
 
@@ -90,7 +90,20 @@ On the off-week (the week with no scheduled meeting), send the employer a short 
 
 A good async update is brief: three or four bullets covering what your team completed, what's underway, and any open questions or things you'd appreciate input on. You don't need a response. The point is visibility. An employer who sees consistent async updates feels confident the project is moving even if they've barely thought about it that week.
 
-[TEMPLATE: Async status update — brief written update for the off-week]
+Here's what one team's off-week update might look like:
+
+> Hi Ann,
+>
+> Quick check-in for the off-week:
+>
+> - **Completed:** Finalized the customer interview guide and scheduled five interviews for next week (Tues–Thurs). Wrapped up the competitor scan for the three companies you flagged at the kickoff.
+> - **Underway:** Pulling together the secondary research summary. Aiming to share it by Friday.
+> - **Open question:** Would you prefer the interview findings written up as a brief or as a short slide deck? Either format works for us; happy to default to whatever your team uses.
+>
+> See you on the 28th for our next check-in.
+>
+> Thanks,
+> Maya
 
 ---
 
@@ -106,9 +119,9 @@ When it happens, here's how to handle it:
 
 ---
 
-## When to escalate to your instructor
+## When to escalate to your Riipen Experience Manager
 
-Your instructor is there to help, not to mediate. Most communication friction with an employer is normal and resolves itself through the patterns above. But there are a few situations where you should bring your instructor in early rather than wait:
+Your Riiipen Experience Manager is there to help, not to mediate. Most communication friction with an employer is normal and resolves itself through the patterns above. But there are a few situations where you should bring your Experience Manager in early rather than wait:
 
 - **Two consecutive missed meetings with no async substitute.** A couple of reschedules is normal. This is the employer going dark for a full month.
 - **A sustained pattern of unanswered messages,** where more than a week passes with no response to a clearly worded question that the project depends on.

@@ -25,7 +25,7 @@ Watch the video above before your kickoff. It walks through the full meeting flo
 - **Transition to the employer's overview** with a clear ask: "We'd love to hear more about the project in your own words."
 - **Listen for emphasis, repetition, and gaps:** what the employer cares most about, where the brief and the conversation don't line up, and what they seem uncertain about.
 - **Track your questions as the employer talks.** Cross off what's been answered. When it's your turn, lead with what's still open.
-- **Signal transitions clearly.** "Thank you, that's really helpful. We have some questions, starting with scope." Not: "Umm, ok, should we ask questions now?"
+- **Signal transitions clearly.** A clear handoff ("Thank you, that's really helpful. We have some questions, starting with scope.") keeps the meeting moving. Have language ready so you're not improvising in the moment.
 - **Let the conversation flow.** If the employer is sharing useful context, don't interrupt to get through your list. Your prioritized questions ensure you cover the most important things if time runs short.
 - **Before you wrap, propose the recurring meeting time.** "Before we wrap, we'd like to set up a 30-minute biweekly check-in for the rest of the project. Would [day/time] work as a standing slot?" Have a default ready so you're not scheduling by email afterward. The Establishing the Standing Meeting page covers how these recurring meetings work.
 
@@ -35,9 +35,9 @@ Watch the video above before your kickoff. It walks through the full meeting flo
 
 How you present yourself during the meeting matters as much as what you say. The employer is forming impressions the entire time, not just when you're speaking.
 
-**Stay visibly engaged.** When the employer is talking, show that you're tracking: nod, maintain an attentive expression, and offer brief verbal signals when appropriate ("That makes sense," "Got it," a short clarifying question). Thirty minutes of silence while someone talks is uncomfortable for the speaker and communicates passivity. You don't need to fill every pause, but the employer should be able to tell that you're paying attention.
+**Stay engaged on camera.** The employer should be able to tell you're listening. That can look different for different people: nodding, brief verbal signals when appropriate ("That makes sense," "Got it"), a short clarifying question, or simply staying focused and responsive on camera. Thirty minutes of complete silence is uncomfortable for the speaker and can read as passive. You don't need to fill every pause; the goal is for the employer to feel heard, not for you to perform engagement in any one way.
 
-**Manage transitions.** The moments between sections of the meeting (after introductions, after the employer's overview, between questions) are where awkwardness tends to creep in. "Umm, ok, so... should we ask our questions now?" sets a very different tone than "Thank you, that gives us a lot to work with. We have a few questions, starting with scope." Decide in your huddle who handles transitions and what they'll say.
+**Manage transitions.** The moments between sections of the meeting (after introductions, after the employer's overview, between questions) are where the meeting can lose momentum. A clear handoff like "Thank you, that gives us a lot to work with. We have a few questions, starting with scope" sets a much stronger tone than waiting in silence or improvising on the fly. Decide in your huddle who handles transitions and what they'll say so no one is winging it in the moment.
 
 **Handle problems gracefully.** Your audio will cut out. Someone's internet will lag. You'll lose your train of thought mid-sentence. These things happen in every professional setting. When they do, pause, acknowledge it briefly ("Sorry about that, let me pick up where I left off"), and continue. Don't over-apologize, don't spiral, and don't let a thirty-second tech glitch derail the meeting. The recovery is what the employer remembers, not the glitch.
 

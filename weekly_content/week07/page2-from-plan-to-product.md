@@ -42,7 +42,7 @@ Knowing the distinctions is one thing. Sitting down with a draft you've already 
 
 2. **Flag every hedge phrase.** Search for "appears to," "seems to," "it may be argued," "it is evident that," and similar constructions. For each one, decide whether the hedge is doing real work (see the next section) or whether it's there by habit and can be cut for a direct statement.
 
-3. **Convert passive to active.** Look for sentences where something "was found," "has been determined," or "is recommended." Rewrite them so your team is the subject: "we found," "we recommend." It's shorter, clearer, and more credible.
+3. **Convert passive to active.** Look for sentences where something "was found," "has been determined," or "is recommended." Rewrite them so your team is the subject: "we found," "we recommend." It's shorter and more credible.
 
 4. **Ask what the reader should do with each paragraph.** If the answer isn't obvious, the paragraph is missing its interpretive move. Add a sentence that connects the evidence to the point: "This means...," "The implication for your team is...," "Based on this, we recommend..."
 

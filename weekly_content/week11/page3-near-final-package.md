@@ -22,7 +22,7 @@ This is near-final work. The deliverable is assembled, internally consistent, an
 
 The Near-Final Package is completion-based, which means it isn't quality-graded directly. But a substantive completion standard applies. Work that's clearly incomplete, missing major components, or hasn't been through any quality review doesn't meet the bar.
 
-The quality of the conversation at the meeting depends heavily on the quality of what you submit. A genuinely near-final package earns specific, useful feedback when the employer does look at sections closely. A package that isn't there yet tends to get general observations that are harder to act on, regardless of how much time the employer spent with it.
+The quality of the conversation at the meeting depends heavily on the quality of what you submit. A near-final package earns specific, useful feedback when the employer does look at sections closely. A package that isn't there yet tends to get general observations that are harder to act on, no matter how much time the employer spent with it.
 
 ---
 

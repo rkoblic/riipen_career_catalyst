@@ -17,13 +17,13 @@ The shape of your deliverable is now largely there. Next week the kind of work c
 
 ## Entering Refinement
 
-Refinement is where work goes from complete to strong. That takes real attention. The intensity shifts but doesn't drop.
+Refinement is where work goes from complete to strong. The intensity shifts but doesn't drop.
 
-The focus moves from building new sections to making what's there stronger. That means tighter prose, stronger evidence, and cleaner logic between sections. The bar rises at the same time. Your employer stops asking you questions and starts reading the work the way a client would.
+The focus moves from building new sections to making what's there stronger: tighter prose and cleaner logic between the pieces. The bar rises at the same time. Your employer stops asking you questions and starts reading the work the way a client would.
 
 The first checkpoint of the phase is a near-final version of your deliverable. Your team submits it, and then meets with your employer after they've had a chance to read through it. This is different from the working-session check-ins you've been having. The employer comes in with their own assessment of what's working and what still needs strengthening. The work itself is what drives the conversation.
 
-The submission is completion-based and isn't assessed against the final rubric. What it does is give the employer something substantial enough to respond to. The more coherent what you submit, the more specific the feedback that comes back.
+The submission is completion-based and isn't assessed against the final rubric. What it does is give the employer something substantial enough to respond to. A more coherent submission gets more specific feedback back.
 
 ---
 

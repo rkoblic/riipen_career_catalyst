@@ -9,11 +9,11 @@ status: draft
 
 # From draft to deliverable
 
-This is a production week. Most of your time will go to drafting and building your assigned piece of the team's deliverable — that's the work that moves the project forward, and the work the rest of this page is here to support.
+This is a production week. Most of your time will go to drafting and building your assigned piece of the team's deliverable. That's the work that moves the project forward, and the work the rest of this page is here to support.
 
 The four skill modules below cover situations that come up during production: turning a plan into a finished piece, reading and giving feedback on a teammate's work, taking in feedback well when it comes back at you, and handling data and visuals. Some will speak directly to what you're doing right now. Others may matter more later in the week, or for a teammate whose piece looks different from yours. Skim each one and dig into the parts that fit your situation. You may also need to look beyond this page. Your project will raise questions these modules don't answer, and finding the right resource for your specific piece is part of the work.
 
-There's also a checkpoint with your employer this week: Check-In #1, the first progress meeting in the Development phase. A short working meeting where your team brings questions and the employer helps you move the work forward. The pages on the Work-in-Progress Summary and Check-In #1 cover what to submit, what to expect, and how to prepare.
+There's also a checkpoint with your employer this week: Check-In #1, the first progress meeting in the Development phase. A short working meeting where your team brings questions and the employer helps you move the work forward. The pages on the Work-in-Progress Summary and Check-In #1 cover what to submit and how to prepare.
 
 [VIDEO: What makes a check-in useful]
 

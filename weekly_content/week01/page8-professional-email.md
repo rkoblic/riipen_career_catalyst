@@ -44,29 +44,26 @@ Most email mistakes aren't about grammar. They're about awareness: knowing who y
 
 ## Example: a well-structured professional email
 
-Here's an example of a strong introductory message from a project team to an employer contact. Notice how it covers the essentials without being long, and how the tone balances professionalism with warmth.
+Here's an example of a strong follow-up email from a student to a professional they briefly met at a career fair. The scenario is small, but the fundamentals are the same as any professional message: clear purpose, brief context, specific ask, appropriate tone.
 
-**Subject: Career Catalyst project team introduction**
+**Subject: Following up from the [University] career fair**
 
-> Dear Ms. Ramirez,
+> Dear Ms. Patel,
 >
-> My name is Alex Chen, and I'm writing on behalf of our project team at [university]. We've been assigned to work with GreenPath Solutions on the community engagement strategy project through the Career Catalyst program.
+> My name is Alex Chen. We spoke briefly at the [University] career fair on October 15 about Birchwood Studio's UX research process. I appreciated your perspective on how your team prototypes early in a project.
 >
-> Our team includes four members with backgrounds in marketing, communications, and public policy. We've reviewed the project brief and are looking forward to learning more about GreenPath's goals and how we can contribute.
+> If you have 20 minutes in the next few weeks, I'd love to ask a few follow-up questions about how someone with my background (interaction design, two internship projects) might be useful on a team like yours. I'm flexible on time and happy to do a call or video chat, whichever is easier for you.
 >
-> Would you be available for a 30-minute introductory meeting sometime during the week of [date]? We're flexible on timing and happy to work around your schedule.
->
-> Thank you for the opportunity to work with your organization. We're looking forward to getting started.
+> Either way, thank you again for taking the time at the fair. It was one of the more useful conversations I had that day.
 >
 > Best regards,
 > Alex Chen
-> On behalf of Team 4, Career Catalyst
 
 **What makes this work:**
 
 - **Clear purpose.** The reader knows within the first two sentences who is writing and why.
-- **Brief context.** The team establishes that they've read the brief without over-explaining.
-- **Specific ask.** Instead of "let's find a time to meet," they propose a timeframe and format.
+- **Brief context.** Alex anchors the message in a specific shared moment without over-explaining.
+- **Specific ask.** Instead of "let's connect sometime," they propose a length and a format.
 - **Professional but human.** The tone is respectful and warm without being stiff or overly casual.
 - **Short.** It says what it needs to and stops.
 

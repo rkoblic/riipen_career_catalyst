@@ -12,9 +12,9 @@ competencies:
 
 # AI as a production partner
 
-Earlier in the course, AI was most useful as a research tool. It helped you scope unfamiliar territory, organize notes, and stress-test your approach. In the production phase, its most useful role shifts. AI becomes a production partner: a tool for reviewing, tightening, and checking work you've already built.
+Earlier in the course, AI was most useful as a research tool. It helped you scope unfamiliar territory and stress-test your approach. In the production phase, its most useful role shifts. AI becomes a production partner: a tool for reviewing and tightening work you've already built.
 
-This is a genuinely different use than drafting from scratch. The value comes from asking AI to evaluate logic and structure: places where the argument is underdeveloped, where transitions are missing, where a claim isn't backed by the evidence in the same section.
+This is a different use than drafting from scratch. The value comes from asking AI to evaluate logic and structure: places where the argument is underdeveloped, where transitions are missing, where a claim isn't backed by the evidence in the same section.
 
 ---
 
@@ -22,7 +22,7 @@ This is a genuinely different use than drafting from scratch. The value comes fr
 
 **Structural review of a section you've drafted**
 
-Paste a section and ask: "Identify any places where the argument is weak, transitions are unclear, or evidence doesn't directly support the claim being made." This mirrors what a good editor does: read for logic and structure, not just for sentences.
+Paste a section and ask: "Identify any places where the argument is weak, the transitions are unclear, or the evidence doesn't support the claim being made." This mirrors what a good editor does: read for logic and structure, not just for sentences.
 
 **Gap identification after revision**
 
@@ -48,6 +48,6 @@ If you've used AI to help draft or refine a section, it often leaves fingerprint
 
 ## What AI can't do in this phase
 
-AI cannot tell you whether a revision addresses the employer's actual concern. It wasn't at the meeting. If you ask AI to evaluate your revised section without explaining what the original feedback was and why you made the changes you did, you'll get a generic quality review, not a meaningful assessment of whether the feedback was genuinely addressed.
+AI cannot tell you whether a revision addresses the employer's actual concern. It wasn't at the meeting. If you ask AI to evaluate your revised section without explaining what the original feedback was and why you made the changes you did, you'll get a generic quality review, not a meaningful assessment of whether the feedback was addressed.
 
 The standard is the same as earlier in the course: if you can explain and defend the work, it's yours. If AI produced something you can't account for, it doesn't belong in your deliverable.

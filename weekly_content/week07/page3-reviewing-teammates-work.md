@@ -14,7 +14,7 @@ competencies:
 
 Reading a colleague's work and giving them feedback that actually improves it is one of the most reliable habits of professional teams. It happens on every collaborative project, in every role that produces something a client or stakeholder will use. Done well, it makes the final piece better than any one person could have made alone.
 
-It's also one of the more transferable skills you'll build in this course. Reviewing work and giving useful feedback is a core managerial habit, and it's become even more valuable as AI tools produce more first drafts than ever. The critical reading involved (does this hold up, is the evidence real, does this piece do its job) is the same skill that separates strong use of AI from blind trust in it. It's an employable skill in its own right.
+It's also one of the more transferable skills you'll build in this course. Reviewing work and giving useful feedback is a core managerial habit, and it's become even more valuable as AI tools produce more first drafts than ever. The critical reading involved (does this hold up, does the evidence support what it's being used for) is the same skill that separates strong use of AI from blind trust in it. It's an employable skill in its own right.
 
 [VIDEO: Structural feedback vs. line editing]
 
@@ -56,7 +56,7 @@ Once the piece is doing the right job, run it through four lenses to sharpen it,
 
 *What this does not mean:* A footnote on every sentence. Evidence quality is about whether the evidence does the job the claim asks of it, not about volume.
 
-**Tone.** Is the language appropriate for a client audience? Watch for language that's too casual, too academic, or too opinionated for a professional deliverable.
+**Tone.** Is the language appropriate for a client audience? Watch for language that's too casual or too opinionated for a professional deliverable.
 
 *What this looks like:* A process improvement section concludes that "the organization's approach to quality control is frankly outdated and reflects a lack of investment in modern practices." The assessment may be accurate, but the language editorializes. A client-facing version names the gap and its consequence without the editorializing.
 
@@ -93,7 +93,7 @@ Actionable: "Is there any data from the site audit that would support this recom
 
 Notice the framing in both of the actionable versions. One names the reviewer's own confusion rather than declaring the piece broken ("I'm not following" rather than "this isn't connected"). The other is framed as a question rather than a directive. Feedback is often subjective, and framing it this way opens a conversation instead of handing down a critique. You're a reader telling your teammate how the piece landed for you and inviting them to talk about it, not ruling on whether it works.
 
-It also helps the feedback get used. If a comment reads as a verdict, even feedback that's technically correct can put your teammate on the defensive and stall the work. A few habits help: frame observations from your own perspective as a reader ("I got a bit lost here" rather than "this is unclear"), ask a question when you're not sure ("was this meant to connect to the earlier point?"), and acknowledge the thinking behind a choice before suggesting a change. None of this softens the substance of the feedback. It just keeps the door open for a conversation instead of an argument.
+It also helps the feedback get used. If a comment reads as a verdict, even feedback that's technically correct can put your teammate on the defensive and stall the work. A few habits help. Frame observations from your own perspective as a reader ("I got a bit lost here" rather than "this is unclear"). Ask a question when you're not sure ("was this meant to connect to the earlier point?"). And before suggesting a change, acknowledge the thinking behind the choice your teammate made. None of this softens the substance of the feedback. It just keeps the door open for a conversation instead of an argument.
 
 The goal isn't to rewrite your teammate's work. It's to give them enough to improve it themselves. One or two structural observations per piece, referenced to specific places and framed in a way they can take in, is more useful than a comprehensive redline.
 

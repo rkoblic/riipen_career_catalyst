@@ -18,7 +18,7 @@ competencies:
 
 As soon as the meeting ends, capture your team's reactions while they're fresh. Memory of conversations fades quickly, and the details that seem obvious right now will be fuzzy by tomorrow.
 
-We recommend debriefing immediately, even if it's just ten minutes of quick notes. Focus on three things: what surprised you, what you still need to find out, and what the employer seemed to care about most. This isn't the formal Kickoff Summary. It's a raw capture that will feed into it.
+Debrief immediately, even if it's just ten minutes of quick notes. Focus on three things: what surprised you, what you still need to find out, and what the employer seemed to care about most. This isn't the formal Kickoff Summary. It's a raw capture that will feed into it.
 
 ---
 

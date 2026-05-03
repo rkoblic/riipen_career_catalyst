@@ -12,7 +12,7 @@ competencies:
 
 # Employer Outreach Message
 
-In professional work, your first message to a client sets the tone for the entire relationship. This message is your team's introduction. It tells your employer contact who you are, that you've done your homework, and that you're ready to get started. You'll send it through the Riipen platform, but the same principles of professional correspondence apply: clear structure, purposeful tone, and attention to detail.
+In professional work, your first communication with a client sets the tone for the entire relationship. This message will be your team's introduction. It tells your employer contact who you are, that you've done your homework, and that you're ready to get started. You'll send it through the Riipen platform, but the same principles of professional email apply: clear structure, purposeful tone, and attention to detail.
 
 ---
 
@@ -34,7 +34,31 @@ This person is a professional contact, not a professor or a TA. Write the way yo
 
 You covered the fundamentals of professional correspondence earlier in the course. This is your first time applying them with a real professional audience. The same principles apply: clear purpose, purposeful paragraphs, and a professional tone.
 
-[TEMPLATE: Employer outreach message — structure and key elements]
+---
+
+## An Example
+
+Here's what a first outreach message might look like. It's not a template to copy. It's an example of how the three jobs above come together in a short, professional message.
+
+> Hi Daniel,
+>
+> We're your Career Catalyst project team for the term: Priya, Marcus, Salem, and Jamie, all in our final year at [University Name]. We're excited to be matched with NorthBay Outdoors on the customer retention research project.
+>
+> We've read through the brief together and have a working sense of where we'd like to begin: understanding how you currently identify repeat customers and what a useful research output would look like for your team. We'll bring our questions to the kickoff.
+>
+> Could we set up a 60-minute kickoff meeting next week? A few times that work on our end:
+>
+> - Tuesday, May 12, 10am to 1pm ET
+> - Wednesday, May 13, after 2pm ET
+> - Friday, May 15, 11am to 3pm ET
+>
+> If none of these work, we're happy to find another time. Let us know what platform you'd prefer (Zoom, Teams, Google Meet) and we'll send a calendar invite once we land on a time.
+>
+> Looking forward to meeting you,
+>
+> Priya, Marcus, Salem, and Jamie
+
+The message is short. It introduces the team in one sentence, references the project specifically without restating the brief, and makes the kickoff request easy to say yes to by offering concrete times and asking about platform.
 
 ---
 

@@ -30,8 +30,8 @@ The general AI habits from last week (running prompts through more than one mode
 
 Four things AI does well when it has the full document in front of it that don't show up as clearly at the section level.
 
-- **Reading for consistency across sections.** Team-produced documents drift. Voice shifts between authors, terminology changes mid-way through, the same concept gets defined differently in two places. AI catches these seams because it reads the whole document in one pass, which no single teammate does.
-- **Finding cross-section gaps.** Places where one section references something that should have been set up earlier but wasn't, or where the executive summary makes a claim the findings don't actually support. These aren't visible section-by-section.
+- **Reading for consistency across sections.** Team-produced documents drift. Voice shifts between authors, and the same concept gets defined two different ways. AI catches these seams because it reads the whole document in one pass, which no single teammate does.
+- **Finding cross-section gaps.** Places where one section references something that should have been set up earlier but wasn't, or where the executive summary makes a claim the findings don't support. These aren't visible section-by-section.
 - **Identifying tone mismatches.** Sections written under different pressures often carry different registers. A rushed section may sound abrupt; a heavily-edited one may sound overqualified. Both read awkwardly next to each other.
 - **Surfacing where an unfamiliar reader would lose the thread.** This is the one AI does best. You and your teammates are saturated in this project; an unfamiliar reader isn't. AI can simulate that reader more reliably than anyone on your team can at this point.
 
@@ -50,7 +50,7 @@ Three prompt templates you can adapt to your assembled draft.
 **Weakest-link analysis**
 > What are the three weakest points in this argument? Be specific about why each is weak. Is it the evidence, the reasoning, the scope, or the framing?
 
-What to do with the output: treat AI's list as questions to investigate, not verdicts to act on. Your team still makes the judgment call on each flagged item. Some flags will be real. Others will be AI noticing a surface inconsistency that's actually intentional. The point of the exercise is to surface a list. Your team decides what's on it.
+What to do with the output: treat AI's list as questions to investigate, not verdicts to act on. Your team still makes the judgment call on each flagged item. Some flags will be real. Others will be AI noticing a surface inconsistency that's intentional. This exercise surfaces a list. Your team decides what's on it.
 
 ---
 

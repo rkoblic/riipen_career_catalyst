@@ -18,7 +18,7 @@ competencies:
 
 # Mid-Project Peer Evaluation
 
-In professional environments, giving structured, evidence-based feedback on a colleague's contribution is a normal part of how teams operate. Annual reviews, project retrospectives, and 360-degree feedback processes all require the same underlying skill: being able to observe your teammates' behavior over time, form a considered assessment, and communicate it in a way that is specific, fair, and useful. That skill doesn't come naturally to most people, and this evaluation is designed to develop it.
+In professional environments, giving structured, evidence-based feedback on a colleague's contribution is a normal part of how teams operate. Annual reviews, project retrospectives, and 360-degree feedback processes all rest on the same underlying skill: observing a teammate's behavior over time and writing about it in a way another person can act on. That skill doesn't come naturally to most people, and this evaluation is designed to develop it.
 
 The Mid-Project Peer Evaluation is a required individual deliverable that will contribute to your peers' Professional Engagement grade. It asks you to evaluate each teammate's contribution to the project using a qualitative feedback framework and behaviorally anchored ratings. The evaluation is formative. It exists to surface team dynamics while there's still time to act on them. You'll receive anonymized feedback from your peers next week, and your team will have the chance to discuss it and agree on specific changes at the suggested Team Processing Session.
 
@@ -161,7 +161,7 @@ First, they create a calibration signal. If your self-rating is significantly hi
 
 Second, they give you concrete material for your self-assessment. A self-rating that's backed by specific behavioral evidence is a much more useful input for reflection than a vague sense of how you think you did.
 
-Rate yourself honestly. The ratings that are hardest to give yourself honestly are often the most informative.
+Rate yourself honestly. The dimensions where you hesitate the most are usually the ones worth paying attention to next week.
 
 ---
 
@@ -186,7 +186,7 @@ The Mid-Project Peer Evaluation contributes to the Professional Engagement compo
 
 AI may be used to help you articulate an observation more clearly or to check whether your feedback is specific enough. For example, after writing a Continue response, you might ask: "Does this feedback reference a specific behavior, or does it read as a general impression?" That's a legitimate use of AI as a review tool.
 
-AI cannot generate the evaluation itself. The qualitative feedback must reflect your actual observations of your teammate's behavior, and the ratings must reflect your genuine assessment. The learning in this activity happens in the act of evaluating: thinking carefully about what you've actually observed, deciding what it means, and figuring out how to say it usefully. AI-generated responses bypass that process entirely.
+AI cannot generate the evaluation itself. The qualitative feedback must reflect your own observations of your teammate's behavior, and the ratings must be your own assessment. The learning in this activity happens in the act of evaluating: thinking through what you've observed and deciding how to say it usefully. AI-generated responses bypass that process entirely.
 
 **Disclosure required.** If AI was used to help draft or refine any part of your evaluation, include a one-sentence disclosure with your submission. If AI was not used, include a one-sentence statement to that effect.
 

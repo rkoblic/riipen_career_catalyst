@@ -26,13 +26,13 @@ That's what the Team Charter is for. It's your team's first real negotiation.
 
 ### What the Team Charter Is Actually For
 
-The charter is a reference point your team will come back to when things get complicated. And they will. When someone misses a deadline, when you disagree on direction, when one person is doing more than their share, those are the moments when a charter earns its value. It gives you something concrete to point to: "Here's what we agreed. Let's talk about what's changed."
+The charter is a reference point your team will come back to when things get complicated. And they might. If someone misses a deadline, if you disagree on direction, if one person is doing more than their share—those are the moments when a charter earns its value. It gives you something concrete to point to: "Here's what we agreed. Let's talk about what's changed."
 
 Think of it as a working agreement. It captures what you've discussed and decided together. It can evolve as your team learns how it actually works, but you need a starting point.
 
 ### Three Things to Get Agreement On
 
-Your first meeting should produce real agreement on three things:
+Your first meeting as a team should produce real agreement on three things:
 
 **How you'll communicate.** What platform will you use for day-to-day coordination? How quickly do you expect responses? What warrants a message vs. a meeting? Teams that don't clarify this end up with one person checking Slack constantly and another who doesn't see messages for two days. This is also where you'll lock in your standing weekly meeting time, which the Setting Your Team's Rhythm page goes into in more depth.
 
@@ -50,7 +50,7 @@ Before you meet, review the charter template and think about your own working st
 
 ### Suggested Agenda
 
-Your first meeting will run about 90 minutes. Here's a structure that works:
+Your first meeting should run about 90 minutes. Here's a structure that works:
 
 1. **Introductions (15 min).** Go beyond what you shared in your intro posts. What are you good at? What do you want to get better at? What should your teammates know about how you work?
 

@@ -3,7 +3,7 @@ week: 7
 page: 8
 title: What's Next
 created: 2026-04-02
-last_updated: 2026-04-20
+last_updated: 2026-05-02
 status: draft
 ---
 
@@ -19,14 +19,16 @@ The week ahead has no employer meeting, which opens up the largest stretch of de
 
 The peer evaluation asks you to assess each teammate's contribution to the project so far, and each of them will do the same for you. It's the same kind of structured, evidence-based feedback you practiced this week, applied to a teammate rather than a piece of work.
 
-The quality of your evaluation depends on how closely you've been paying attention. Reviewers who have been actively engaged with their teammates throughout the project will have concrete observations to draw on. General impressions won't be enough.
+The quality of your evaluation depends on how closely you've been paying attention. Reviewers who have been engaged with their teammates throughout the project will have concrete observations to draw on. General impressions won't be enough.
 
 You'll get dedicated time in the upcoming week to review the rubric, walk through the rating dimensions, and practice with a calibration scenario before drafting your evaluation. You won't be writing it cold.
 
-Alongside the peer evaluation, your employer will also complete a brief mid-project evaluation of the team. You don't act on that directly, but it's an additional input into the same Professional Engagement component of your grade.
+Alongside the peer evaluation, your employer will also complete a brief mid-project evaluation of the team. You don't act on that, but it's an additional input into the same Professional Engagement component of your grade.
 
 ---
 
 ## How to prepare
 
-The most useful thing you can do now is start gathering raw material. Think back across the project to specific moments when a teammate produced something, made a suggestion, or responded to feedback. Those concrete observations are what the evaluation will ask you to draw on, and they're easier to capture while they're recent than to reconstruct later. Your self-evaluation is part of the process too, so note your own contributions with the same specificity.
+- **Start gathering raw material now.** Concrete observations are what the evaluation will ask you to draw on, and they're easier to capture while they're recent than to reconstruct later.
+- **Note specific moments from each teammate.** When did they produce something strong, ask the right question, respond well to feedback, or step in when the team needed it? Those specifics are what give your evaluation weight.
+- **Capture your own contributions too.** Self-evaluation is part of the process. Note your contributions with the same specificity you'd want from a teammate.

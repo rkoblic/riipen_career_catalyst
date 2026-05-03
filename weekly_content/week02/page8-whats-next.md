@@ -13,7 +13,7 @@ The next major milestone in the course is the employer kickoff meeting, your tea
 
 ---
 
-## The employer kickoff meeting
+## Looking ahead
 
 Before you get to the kickoff, it's worth spending time with the Context Analysis & Project Plan assignment and rubric. This is the first graded deliverable in the course, and it's informed by the kickoff.
 

@@ -29,7 +29,7 @@ The survey is scoped to what your employer can directly see: how the team operat
 
 ## When and why now
 
-Mid-project is the natural time for an employer to give feedback on team behavior. The relationship has had enough touch points that the employer has formed a real impression. And there is still time for that impression to influence the rest of the project. That's the entire reason mid-project feedback exists in professional contexts.
+Mid-project is the natural time for an employer to give feedback on team behavior. The relationship has had enough touch points that the employer has formed a real impression, and there's still time for that impression to influence the rest of the project.
 
 ---
 
@@ -55,6 +55,6 @@ Sometimes those two pictures will line up. Sometimes they won't, and the places 
 
 ## What you can do with this
 
-Knowing the survey is happening is itself useful. Everything your employer sees from your team is being noticed: how quickly you respond, how clearly you communicate, how professionally you show up. That's normal in any working relationship.
+Knowing the survey is happening is itself useful. Your employer has been forming an impression all along based on response times, clarity of communication, and follow-through, and the survey asks them to put a name on it. That's normal in any working relationship.
 
-The most useful thing you can do this week is keep being the kind of team that's easy to work with: respond on time, communicate clearly, follow through on what you said you'd do. The survey is the formal moment where habits the team has already been forming get named.
+The most useful thing your team can do this week is keep being the kind of team that's easy to work with. The survey is the formal moment where habits the team has already been forming get named.

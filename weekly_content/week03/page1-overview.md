@@ -19,20 +19,20 @@ This week centers on a single event: the employer kickoff meeting. It's your tea
 
 You have two deliverables this week:
 
-1. **Kickoff Summary.** A factual record of what the employer shared during the kickoff meeting: confirmed scope, deliverables, success criteria, timeline, key contacts, and open questions. This is a team submission and it's completion-based. One person drafts; everyone reviews and agrees on accuracy before submitting.
-2. **Reflection #1.** Your first graded individual reflection, worth approximately 5% of your final grade. You'll use the DEAL framework you learned earlier in the course to examine a specific experience from the first few weeks.
+1. **Kickoff Summary.** A team record of what the employer confirmed: scope, deliverables, success criteria, timeline, contacts, and open questions. Completion-based.
+2. **Reflection #1.** Your first graded individual reflection (~5% of your final grade), using the DEAL framework on an experience from the first few weeks.
 
 ---
 
 ## Suggested order of completion
 
-The kickoff meeting creates a natural before-and-after structure for the week. Here's the order that makes the most sense:
+The kickoff meeting creates a natural before-and-after structure for the week:
 
-1. **Before the meeting:** Work through the Preparing for the Kickoff page. Review video call etiquette, set up your AI note-taking tools, consolidate your team's questions, prepare your agenda, and send a confirmation message to the employer.
-2. **Plan the standing meeting cadence:** Work through the Establishing the Standing Meeting page. You'll propose a recurring biweekly check-in at the end of the kickoff, so come in knowing what cadence you'll suggest and how these meetings work after the kickoff.
-3. **During the meeting:** Follow the During the Kickoff page. Listen, take notes, and ask the questions your team prepared.
-4. **After the meeting:** Work through the After the Kickoff page. Debrief with your team while impressions are fresh, process what you heard, and send a follow-up message to the employer.
-5. **Draft the Kickoff Summary:** Work through the Kickoff Summary page. Use your team's notes to fill in the six fields, distinguish confirmed information from assumptions and unknowns, and submit before next week's production work begins.
-6. **Post-kickoff research:** Work through the Continuing Your Research page. Now that you know the actual project scope, do targeted research on the landscape and context relevant to your project. This feeds directly into the upcoming Context Analysis & Project Plan.
-7. **Reflection #1:** Write and submit your individual reflection. The kickoff meeting is a natural anchor experience, but you can draw from anything in the first few weeks of the course.
-8. **Look ahead:** Review the What's Next page to understand how your work this week connects to the next major deliverable.
+1. **Before the meeting:** Review the Preparing for the Kickoff, During the Kickoff, and After the Kickoff pages.
+2. **Plan your team's standing meeting cadence:** Decide what cadence you'll propose at the end of the kickoff.
+3. **Kick off:** Follow the advice covered on the During the Kickoff page. Listen, take notes, ask your team's questions.
+4. **After the meeting:** Debrief while it's fresh and send a follow-up message.
+5. **Draft the Kickoff Summary:** Submit before next week's work begins.
+6. **Post-kickoff research:** Work towards the upcoming Context Analysis & Project Plan deliverable following the guidance on the Continuing Your Research page. 
+7. **Reflection #1:** write and submit your first individual reflection.
+8. **Look ahead:** Review What's Next.

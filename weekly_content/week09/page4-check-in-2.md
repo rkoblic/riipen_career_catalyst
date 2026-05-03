@@ -18,7 +18,7 @@ This check-in follows the same working session format as the last one: your team
 
 At your last check-in, the most useful questions were about direction: is the approach right, are we focused on the right problem, does the framing match what the employer needs? You had partial work and needed to confirm you were building the right thing.
 
-Now you have a draft. The question has shifted from "are we on track?" to "is this good enough?" Your team can ask directly about quality, depth, completeness, and whether the work meets the bar the employer actually needs it to meet. That's a meaningfully different conversation, and it requires meaningfully different preparation.
+Now you have a draft. The question has shifted from "are we on track?" to "is this good enough?" Your team can ask directly about quality, depth, completeness, and whether the work meets the bar the employer needs it to meet. That's a different conversation, and the prep has to shift with it.
 
 The meeting runs about 30 minutes and may end earlier if your team covers what it needs to.
 

@@ -20,7 +20,7 @@ competencies:
 
 You've just finished the most concentrated production stretch of the course. Your team produced real work under pressure, processed feedback from multiple directions in a single session, and sat through the conversation that most workplaces avoid until something has gone wrong. There's more happening in this three-week window than in any earlier reflection pool.
 
-Where Reflection #1 looked at entering a new professional situation and Reflection #2 looked at navigating ambiguity in your first major deliverable, this reflection looks at what it's like to work through substantive, sometimes hard feedback while the work is still in motion. Reflection #3 asks you to sit with one specific moment from these weeks and examine what it taught you about how you receive, process, and act on feedback from others. Depth comes from examining a single experience closely, not from summarizing everything that happened.
+Where Reflection #1 looked at entering a new professional situation and Reflection #2 looked at navigating ambiguity in your first major deliverable, this reflection looks at what it's like to work through substantive, sometimes hard feedback while the work is still in motion. Reflection #3 asks you to sit with one specific moment from these weeks and examine what it taught you about how you take in and respond to feedback from others. Depth comes from examining a single experience closely, not from summarizing everything that happened.
 
 This is your third graded reflection — an individual submission graded as part of the Reflection Portfolio.
 
@@ -60,15 +60,15 @@ You don't need to have answers. Naming the connection, or the tension, is the po
 
 This is your third DEAL reflection. The framework is familiar. The rubric is the same. The four dimensions are Descriptive Specificity, Critical Examination, Personal Accountability, and Articulation of Learning, equally weighted, the same ones you've been assessed on in earlier reflections. If you need a refresher on any of these, the Week 3 reflection page and the reflection portfolio framework are the references.
 
-What's different is the depth the Examine stage is expected to reach. Reflection #2 asked you to push past what felt sufficient in #1. This one asks you to go further still. Your instructor reads this reflection with both earlier ones in view. A third reflection that holds the same depth as the second isn't meeting the standard; it's plateauing.
+What's different is the depth the Examine stage is expected to reach. Reflection #2 asked you to push past what felt sufficient in #1. This one asks you to go further still. Your instructor reads this reflection with both earlier ones in view. A third reflection that holds the same depth as the second is plateauing.
 
-Personal Accountability deserves specific attention on a feedback-themed reflection. Reflections that center on receiving feedback are particularly prone to staying external: describing what the feedback was, who gave it, and whether you agreed with it, without examining your own role in the situation that generated the feedback or your own patterns in how you responded to it. If you were the object of feedback this week, the reflection isn't really about the feedback. It's about you.
+Personal Accountability deserves specific attention on a feedback-themed reflection. Reflections that center on receiving feedback are prone to staying external: describing what the feedback was, who gave it, and whether you agreed with it, without examining your own role in the situation that generated the feedback or your own patterns in how you responded to it. If you were the object of feedback this week, write the reflection about yourself, not about the feedback.
 
 ---
 
 ## Going deeper in the Examine stage
 
-The Examine stage asks why something happened and what it means, not just what happened. Most reflections that stall at the surface do so because the writer moves too quickly from describing the experience to stating a lesson. The lesson usually sounds true but feels generic ("I learned that communication is important") because it hasn't been tested against the specific details of what actually occurred.
+The Examine stage asks why something happened and what it means, not just what happened. Most reflections that stall at the surface do so because the writer moves too quickly from describing the experience to stating a lesson. The lesson usually sounds true but feels generic ("I learned that communication is important") because it hasn't been tested against the specific details of what occurred.
 
 Three moves that tend to deepen examination on a feedback-themed reflection:
 

@@ -35,7 +35,7 @@ A standing meeting is the cheapest way to catch both of these — what matters i
 There's no single right format. A few that show up in real teams:
 
 - **Daily standup.** A short sync, usually 10 to 15 minutes, where each person says what they did yesterday, what they're doing today, and what's blocking them. The "standing" comes from the original idea that the meeting should be uncomfortable enough to keep short. Useful for fast-moving production work; usually too much overhead for a part-time student project.
-- **Weekly working sync.** A longer sync once a week, usually 30 to 45 minutes. Covers progress, blockers, decisions to make, and what each person owns for the coming week. This is the format most student teams settle on.
+- **Weekly working sync.** A longer sync once a week, usually 30 to 60 minutes. Covers progress, blockers, decisions to make, and what each person owns for the coming week. This is the format most student teams settle on.
 - **Async written check-in.** A structured update each team member posts to a shared channel or document, often weekly. Useful when team members are in different time zones or when schedules don't line up. Works only if everyone actually reads each other's updates.
 
 Many teams blend formats: a weekly sync as the main touchpoint, plus a quick async update mid-week when something needs to move before the next meeting.

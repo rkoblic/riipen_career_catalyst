@@ -3,7 +3,7 @@ week: 5
 page: 2
 title: Before the Direction Check
 created: 2026-04-01
-last_updated: 2026-04-28
+last_updated: 2026-05-02
 status: draft
 competencies:
   - area: Communication
@@ -79,11 +79,39 @@ Go through your Context Analysis & Project Plan and identify the 2-3 areas where
 
 If your team uses an AI note-taking tool, set it up before the meeting starts. It's a useful backup, but it's not a replacement for a human notetaker. AI transcripts miss nuance, misattribute speakers, and sometimes get key phrases wrong. You'll want both the transcript and someone on your team actively capturing what matters.
 
-**When the meeting doesn't go as planned:**
+---
 
-Sometimes the employer arrives without having read your document. Sometimes they raise a concern that shifts the entire conversation off your prepared agenda. These are not emergencies.
+## When the meeting doesn't go as planned
 
-If the employer hasn't reviewed your work, offer a brief verbal summary of your key findings and proposed approach, then shift your questions to be more exploratory than confirmatory. If the conversation shifts unexpectedly, follow the employer's lead. What they want to talk about is usually what matters most to them, even if it's not what you prepared for.
+Two things happen often enough to plan for. The employer arrives without having read your document, or the conversation shifts off your prepared agenda. Neither is an emergency.
+
+### When the employer hasn't read the document
+
+This is more common than you'd expect. Busy partners skim, and sometimes the document is still sitting unopened in their inbox when the call starts. The skill is making the meeting useful anyway.
+
+**Confirm early, and give them an out.** Don't spend five minutes presenting to someone who's reading the document for the first time over your shoulder. Open with something like: "Just to make sure we use the time well, did you get a chance to look at the document, or would it be more useful if we walked you through the key pieces?" That phrasing keeps the employer off the defensive and lets you adjust before you've burned your highlights.
+
+**Swap your agenda for a short verbal walkthrough.** Don't try to summarize the whole document. In about 5-7 minutes, cover:
+
+- The problem you understood you were solving, so they can correct you if you've drifted
+- The direction you're proposing
+- The biggest assumption or tradeoff you've made
+
+That's enough to give the employer something to react to without recapping every section.
+
+**Shift your questions from confirmatory to exploratory.** Confirmatory questions ("does our analysis hold up?") need someone who has read the work. Exploratory ones don't. Try:
+
+- "Does this match what you had in mind when you scoped the project?"
+- "Is there context we should know about that isn't in the brief?"
+- "What would make the final deliverable feel useful to you when you see it?"
+
+**Send a short written recap within 24 hours.** A few bullets is enough: the direction you walked through, what they confirmed, what's still open. This is your real chance to get them aligned in writing. It's lower-effort than re-reading the full document, and it gives them an easy place to flag anything later.
+
+**A note on tone.** Treat this as the norm rather than a failure. A meeting where the employer hasn't prepped can still be one of the most useful conversations of the project. Sometimes more so, because it forces your team to articulate the direction out loud.
+
+### When the conversation shifts off your agenda
+
+Sometimes the employer raises a concern that pulls the meeting in a different direction than you planned. Follow their lead. What they want to talk about is usually what matters most to them, even if it isn't what you prepared for. Capture what they say carefully, and use the last few minutes to confirm where that leaves your priorities for the next phase.
 
 [INTERACTIVE: Simulated Direction Check scenario. The employer redirects the project in a way the team didn't expect. Learners interpret what the employer is actually asking for, decide how to respond professionally, and identify what to capture for follow-up. Debrief surfaces the difference between reacting defensively and responding constructively. (~8-10 min)]
 

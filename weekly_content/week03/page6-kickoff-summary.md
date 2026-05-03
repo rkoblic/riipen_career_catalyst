@@ -3,7 +3,7 @@ week: 3
 page: 6
 title: The Kickoff Summary
 created: 2026-04-28
-last_updated: 2026-04-28
+last_updated: 2026-05-02
 status: draft
 competencies:
   - area: Communication
@@ -14,19 +14,19 @@ competencies:
 
 # The Kickoff Summary
 
-Teams in client-facing work write down the kickoff conversation: what the client said, what was confirmed, what was assumed, what's still open. They do it for themselves, not for the client. Without that record, the team ends up working from memory, and memory shifts.
+Teams in client-facing work recap the kickoff conversation: what the client said, what was confirmed, what was assumed, what's still open. They do it for themselves, not for the client. Without that record, the team ends up working from memory, and memory shifts.
 
-The Kickoff Summary is your team's version of that practice. Team submission, completion-based. Not graded for quality. Not shared with the employer. The Summary is for your team's reference and for course completion verification, so that the foundation your project builds on is the actual conversation rather than a half-remembered version of it.
+The Kickoff Summary is your team's version of that practice. It's a team submission, completion-based, and exists so the foundation your project builds on is the actual conversation rather than a half-remembered version.
 
 ---
 
 ## What this checkpoint is (and isn't)
 
-The Summary is a factual record of what the employer shared during the kickoff meeting. It documents what was stated, what was confirmed, and what remains open. It is not analysis or interpretation; that comes later in the Context Analysis & Project Plan.
+The Summary is a factual record of what the employer shared during the kickoff: what was stated, what was confirmed, what remains open. It is not analysis or interpretation; that comes in next week's Context Analysis & Project Plan.
 
-It is not sent to the employer. It is an internal artifact: the team consults it during research and production, and the course uses it to verify completion. The next employer-shared deliverable is the Context Analysis & Project Plan in Week 4.
+It's internal. Your team consults it during research and production; the course uses it to verify completion. It is not sent to the employer.
 
-The submission is completion-based. It is verified, but not graded for quality. The reason this deliverable is completion-based rather than graded is that accuracy matters more than polish at this stage. The course is checking whether your team can capture and organize real information from a professional interaction, not whether you can write a polished report. That skill is coming, but the foundation has to be accurate first.
+Verified for completion, not graded for quality. What's being checked is whether your team can accurately capture real information from a professional interaction, not whether you can write a polished report.
 
 ---
 
@@ -42,8 +42,6 @@ Before you fill in the Summary, take stock of where your team stands across thes
 - **Assumed:** "They probably want us to focus on the local market since that's where they operate." This feels reasonable based on context, but the employer didn't actually say it. Flag it. You need to verify before building your project around it.
 - **Unknown:** "We don't know how they'll evaluate our recommendations or who the final audience is." This didn't come up in the meeting at all. It's a gap you need to fill, either through follow-up with the employer or through your own research.
 
-Distinguishing between these three categories is what makes the Summary useful. Confirmed information is what you act on. Assumptions need to be verified before you build on them. Unknowns need to be tracked so they don't get forgotten.
-
 ### Summary format
 
 The Summary covers six fields: confirmed scope, deliverables, success criteria, timeline, key contacts, and open questions. The first five are about what the employer told you. The sixth is where assumptions and unknowns live: anything you flagged in the previous step that needs follow-up.
@@ -56,7 +54,7 @@ The Summary covers six fields: confirmed scope, deliverables, success criteria, 
 
 A Summary that fills every field with confident-sounding generalities does not meet the criteria. The point of the document is to surface what your team actually heard versus what it's inferring; a Summary with no flagged assumptions or open questions is almost certainly leaning on inferences it hasn't named.
 
-The criteria are:
+The criteria:
 
 - Each field accurately reflects what the employer communicated, not what your team is filling in
 - Assumptions are flagged explicitly rather than presented as confirmed information
@@ -68,9 +66,7 @@ Length isn't what's being checked. A short Summary that meets these three standa
 
 ## Using AI
 
-AI can help you organize your meeting notes and structure the Summary after your team has agreed on what was said. Transcribing the meeting, organizing rough notes by topic, formatting the document: those are appropriate uses of AI as a production partner.
-
-What AI cannot do is generate substance the employer didn't share. If your Summary contains specifics the employer never said (a deliverable format they didn't confirm, a success criterion they didn't mention, a timeline they didn't propose), the Summary has not met the criteria, regardless of how cleanly it's written.
+AI can help organize your meeting notes and structure the Summary after your team has agreed on what was said: transcribing, sorting rough notes by topic, formatting the document. What AI cannot do is generate substance the employer didn't share. If your Summary contains specifics the employer never said (a deliverable format they didn't confirm, a success criterion they didn't mention, a timeline they didn't propose), the Summary has not met the criteria, regardless of how cleanly it's written.
 
 The test: could your team point to where in the meeting (your manual notes, the transcript, a teammate's recollection) each line of the Summary came from? If yes, the foundation is accurate. If a line traces to AI inference rather than something said, cut it or flag it as an assumption.
 
@@ -78,8 +74,8 @@ The test: could your team point to where in the meeting (your manual notes, the 
 
 ## Submission
 
-**Kickoff Summary.** Team submission, due before Week 4 production starts. Submitted through the Riipen platform. All team members should review and confirm the accuracy of the final version before submission.
+**Kickoff Summary.** Team submission, due before next week's production starts. Submitted through the Riipen platform. All team members should review and confirm the accuracy of the final version before submission.
 
-The submission is a completion-based checkpoint: verified, not graded for quality. The Summary's purpose is to give your team an accurate foundation for the Context Analysis & Project Plan you'll produce next week. A Summary submitted after that work is already underway cannot serve that purpose. Late submissions do not meet the standard.
+The Summary's purpose is to give your team an accurate foundation for the Context Analysis & Project Plan you'll produce next week. A Summary submitted after that work is already underway can't serve that purpose, so late submissions don't meet the standard.
 
 **AI disclosure:** Required. If AI tools were used for transcription, organizing notes, or structuring the Summary, include a one-sentence disclosure describing how. If AI was not used, include a one-sentence statement to that effect. The substance of the Summary must come from the actual meeting regardless of whether AI helped with capture or formatting.

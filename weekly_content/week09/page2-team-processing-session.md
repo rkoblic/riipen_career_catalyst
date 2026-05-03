@@ -18,7 +18,7 @@ competencies:
 
 Two kinds of feedback arrive at your team this week, and both can be hard to work through honestly. The peer evaluation tells each of you how your teammates have experienced working with you across the project so far. The employer's mid-project survey tells your team how your working partner has experienced the project from outside. Some of what comes back will be validating. Some will be surprising, or feel off. How your team handles the conversation about all of it has a real effect on how the rest of the project goes.
 
-The Team Processing Session is a structured team conversation where you work through both feedback sources in a single sitting: your anonymized peer evaluation qualitative comments, your aggregated BARS averages (the behaviorally anchored scales from the peer evaluation) by dimension, and the employer's mid-project survey results. The goal is to come out of it with specific, named changes your team has actually committed to, not vague reassurances that things will improve.
+The Team Processing Session is a structured team conversation where you work through both feedback sources in a single sitting: your anonymized peer evaluation qualitative comments, your aggregated BARS averages (the behaviorally anchored scales from the peer evaluation) by dimension, and the employer's mid-project survey results. The goal is to come out of it with named changes your team has committed to, not vague reassurances that things will improve.
 
 ---
 
@@ -36,7 +36,7 @@ Read the employer's survey responses before the session as well. The employer's 
 
 ## Opening the conversation
 
-There's no single right way to start. One approach that tends to work: each team member shares one observation from their results that felt significant, whether validating or surprising. This isn't a defense or an appeal, it's just naming what stood out. It gets everyone into the conversation without anyone feeling like they're being targeted or evaluated first.
+There's no single right way to start. One approach that tends to work: each team member shares one observation from their results that felt significant, whether validating or surprising. The point is to name what stood out, not to defend or appeal it. It gets everyone into the conversation without anyone feeling singled out or evaluated first.
 
 A few examples of what that might sound like:
 
@@ -72,7 +72,7 @@ The employer's mid-project survey is a different kind of feedback from the peer 
 
 A few things to keep in mind while working through it as a team.
 
-**Start with the open-ended response.** That response is the most actionable part of the survey. It's the employer naming, in their own words, what they want more of, less of, or different for the rest of the project. Read it together, and make sure the team agrees on what the employer is actually asking for before jumping to what to do about it. If the wording is vague, spend a minute on interpretation; if it's specific, less interpretation is needed.
+**Start with the open-ended response.** That response is the most actionable part of the survey. It's the employer naming, in their own words, what they want more of, less of, or different for the rest of the project. Read it together, and make sure the team agrees on what the employer is asking for before debating what to do about it. If the wording is vague, spend a minute on interpretation; if it's specific, less interpretation is needed.
 
 **Use the act-on, note, or set-aside framework.** Not every item in the employer's response is automatically an act-on. A request to change how the team communicates is usually act-on. A passing mention of something outside the project's scope is more often a note or a set-aside. The same framework your team has been using to triage feedback during production applies here.
 
@@ -94,7 +94,7 @@ Most of what comes up in peer and employer feedback can be worked through in the
 
 **Employer feedback that raises a concern about the working relationship itself.** If the employer's survey response points to something structural about how the project is being run (scope that keeps shifting outside the brief, requests that don't line up with the project's boundaries, behavior that feels unprofessional toward the team), that's a conversation to have with your instructor in the loop, not something for the team to decide how to respond to alone.
 
-The purpose of the session is to produce useful agreements the team can actually live by. Stepping outside it when the situation calls for that is part of how the session stays useful.
+The purpose of the session is to produce useful agreements the team can live by. Stepping outside it when the situation calls for that is part of how the session stays useful.
 
 ---
 
@@ -110,7 +110,7 @@ What makes an agreement specific enough to be useful:
 
 **Specific enough:** "Marcus will send a brief message in the team channel by end of day Thursday each week summarizing what he's finished, even if it's only a sentence."
 
-The agreement doesn't have to cover every piece of feedback. Focus on the changes that would have the most effect on how the team is working. Two or three genuinely owned commitments are more useful than a long list nobody follows.
+The agreement doesn't have to cover every piece of feedback. Focus on the changes that would have the most effect on how the team is working. Two or three owned commitments are more useful than a long list nobody follows.
 
 ---
 
@@ -122,7 +122,7 @@ End the session with a short written agreement, a paragraph or a simple table, t
 - Who owns each change
 - How the team will know if the change is happening
 
-Save this to your team's shared workspace. It isn't submitted as a formal checkpoint. It's a working document your team keeps as a reference for the rest of the project, and it's also the material you'll draw from in Reflection #3, where you'll have a chance to write about what you personally committed to and what you think will actually be hard about following through.
+Save this to your team's shared workspace. It isn't submitted as a formal checkpoint. It's a working document your team keeps as a reference for the rest of the project, and it's also the material you'll draw from in Reflection #3, where you'll have a chance to write about what you personally committed to and what you think will be hard about following through.
 
 Keep the agreement honest. It becomes a reference point later in the course when teams complete a second round of peer evaluation. If the same patterns resurface after an explicit agreement not to repeat them, there's a record, even if the record lives in your team's working files and the individual reflections rather than a single formal submission.
 
@@ -134,7 +134,7 @@ Keep the agreement honest. It becomes a reference point later in the course when
 
 Your employer should hear, briefly, that your team received the mid-project survey feedback and is acting on it. This is a professional norm more than a course requirement. When someone takes the time to give structured feedback, silence on the receiving end tends to read as either dismissal or disengagement, and neither is what you want from the working relationship going into the rest of the project.
 
-The acknowledgment belongs in the next check-in with your employer, not in a separate written message. It works best when it's short, specific, and forward-looking. Two parts:
+The acknowledgment belongs in the next check-in with your employer, not in a separate written message. It works best when it's short and forward-looking. Two parts:
 
 1. A sentence naming that your team received the feedback.
 2. One or two concrete things, tied to what the employer raised, that your team is doing differently because of it.

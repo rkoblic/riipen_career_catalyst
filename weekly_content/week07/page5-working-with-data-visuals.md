@@ -35,7 +35,7 @@ The video above walks through the same data presented as a table, a chart, and a
 
 There's a difference between reporting data and using data to make a point. A table of survey results reports data. A sentence that says "only 12% of respondents rated current onboarding as effective, the lowest score across all program dimensions" uses data to make a point.
 
-The move that separates reporting from arguing is interpretation: what does this number mean, and why does it matter to the recommendation? Numbers don't carry meaning on their own. You have to supply it. "Our research found that 43% of employees have not received feedback in the past six months" is a finding. "43% of employees have not received feedback in the past six months, which our interviews suggest is the primary driver of low engagement scores in the operations division" is an argument.
+The move that separates reporting from arguing is interpretation: what does this number mean, and why does it matter to the recommendation? Numbers don't carry meaning on their own. You have to supply it. The sentence "Our research found that 43% of employees have not received feedback in the past six months" reports a finding; add "which our interviews suggest is the primary driver of low engagement scores in the operations division," and the same number becomes an argument.
 
 Before including any data point in your deliverable, ask: have I told the reader what this number means and why it matters? If you haven't, the data is doing decorative work rather than evidentiary work.
 

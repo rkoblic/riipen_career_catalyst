@@ -19,7 +19,7 @@ It's the most concentrated stretch of the course so far, and it's designed that 
 
 ## What's due this week
 
-**Draft Deliverable.** Team submission, completion-based checkpoint. Your assembled draft, submitted to the platform for completion verification. This isn't a polished final product. It's a genuine working draft that reflects your team's current best effort. This deliverable is more for you than it is for the employer. Putting the pieces together is what helps your team find integration problems before the near-final version goes out.
+**Draft Deliverable.** Team submission, completion-based checkpoint. Your assembled draft, submitted to the platform for completion verification. This is a working draft that reflects your team's current best effort, not a polished final product. The deliverable is more for you than it is for the employer. Putting the pieces together is what helps your team find integration problems before the near-final version goes out.
 
 **Reflection #3.** Individual submission, graded (rubric-based, contributes to the Reflection Portfolio component of your final grade). Draws from the most intensive feedback and production period of the course. Due this week.
 
