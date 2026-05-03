@@ -20,7 +20,7 @@ This week's standing biweekly check-in with the employer is the last one before 
 
 This is the same biweekly hold your team has been using throughout the project. The difference with this one is timing: it falls during the final push to submission, and it's the last scheduled meeting before the Final Presentation.
 
-Use it for specific questions that only the employer can answer: whether a particular recommendation is pitched at the right level for their context, whether a specific section answers what they actually needed to know, anything else the team can't resolve from inside the room.
+Use it for specific questions that only the employer can answer: whether a particular recommendation is pitched at the right level for their context, whether a specific section answers what they needed to know, anything else the team can't resolve from inside the room.
 
 Don't use it as a second full review of the deliverable or as a substitute for the Near-Final Review. The employer's substantive feedback came through that review. This meeting is for the narrow set of questions that couldn't be answered then and still can't be answered now.
 

@@ -20,7 +20,7 @@ This page covers what to submit, how to verify the package is ready, what the ru
 
 ## The home stretch
 
-This week is about finishing, not dramatic improvements. The triage framework from last week still applies — requires action, acknowledge in the Change Log, or out of scope — and most remaining items at this stage belong in the second or third category.
+This week is about finishing, not dramatic improvements. The triage framework from last week still applies: requires action, acknowledge in the Change Log, or out of scope. Most remaining items at this stage belong in the second or third category.
 
 The version your team is submitting has been through the Near-Final Review, revisions based on that feedback, an internal review, and another round of revisions. Trust what that process produced. The remaining moves are a final read-through, a consistency pass, and submission.
 
@@ -48,7 +48,7 @@ Five dimensions with the following weights:
 | Communication | 15% | Clarity, organization, professional presentation |
 | Responsiveness to Feedback | 10% | Documented iteration based on employer and peer input |
 
-The three core dimensions (Deliverable Quality, Analytical Rigor, and Actionability) carry equal weight because none succeeds without the others. A deliverable can be analytically rigorous but impractical, or practically useful but thin on evidence. The rubric treats these as genuinely interdependent.
+The three core dimensions (Deliverable Quality, Analytical Rigor, and Actionability) carry equal weight because none succeeds without the others. A deliverable can be analytically rigorous but impractical, or practically useful but thin on evidence. The rubric treats these as interdependent.
 
 **Grade weight**
 
@@ -66,7 +66,7 @@ Run through this during the internal review gate, not while you're still assembl
 - [ ] **Errors are caught.** Typos, broken cross-references, and orphaned placeholders have been found on a final read.
 - [ ] **Every rubric dimension has visible evidence.** Don't leave it to the evaluator to infer. If Actionability is a dimension, check that implementation guidance is specific and visible. If Responsiveness to Feedback is a dimension, check that the Change Log is complete and attached.
 - [ ] **The Change Log is complete.** Every substantive feedback item from employer touchpoints and draft reviews is documented with the team's response or rationale for not acting on it.
-- [ ] **The AI disclosure statement is accurate.** It reflects what actually happened during production, not a reconstruction from memory.
+- [ ] **The AI disclosure statement is accurate.** It reflects what happened during production, not a reconstruction from memory.
 - [ ] **The submitted version is the correct one.** Confirm as a team that what's being uploaded is the version everyone agreed is final. Accidental submission of an earlier draft is more common than teams expect.
 
 ---
@@ -75,7 +75,7 @@ Run through this during the internal review gate, not while you're still assembl
 
 Your team started the Change Log at the Direction Check and has been updating it through every round of employer feedback since. By this point it should be a substantive record spanning the full project, not a list assembled in the last two days.
 
-The Responsiveness to Feedback dimension of the rubric is assessed directly through the Change Log. Without it, that dimension scores as Not Acceptable, which eliminates 10% of the Final Deliverables grade regardless of how strong the deliverable itself is.
+The Responsiveness to Feedback dimension of the rubric is assessed through the Change Log. Without it, that dimension scores as Not Acceptable, which eliminates 10% of the Final Deliverables grade regardless of how strong the deliverable itself is.
 
 A complete Change Log at this stage documents three things for each piece of substantive feedback received:
 
@@ -89,7 +89,7 @@ The most important Change Log entries to check now are the ones from the Near-Fi
 
 ## Using AI
 
-At this stage, AI is for checking, not creating. Appropriate uses include: formatting consistency passes, coherence checking across sections, prose tightening, error catching, and running the fresh reader or weakest-link prompts on assembled sections you haven't looked at in a while. Using AI to check the Change Log for completeness is a particularly good application: "here are the feedback items I've logged; what looks thin or missing?"
+At this stage, AI is for checking, not creating. Appropriate uses include: formatting consistency passes, coherence checking across sections, prose tightening, error catching, and running the fresh reader or weakest-link prompts on assembled sections you haven't looked at in a while. Using AI to check the Change Log for completeness is a good application: "here are the feedback items I've logged; what looks thin or missing?"
 
 What AI cannot do on this submission: generate the analysis, findings, or recommendations that make up your deliverable. The Final Presentation in the closing weeks of the course is a live defend-your-work moment. The employer will ask questions about specific sections, specific recommendations, and specific evidence. If AI generated content your team cannot explain in that conversation, submitting it now creates a more visible problem two weeks from now, not later.
 
