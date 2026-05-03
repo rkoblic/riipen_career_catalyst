@@ -22,23 +22,23 @@ competencies:
 
 You began this evaluation last week with an instructions review and behavioral-evidence gathering across the full project. What is left is writing the evaluation itself: qualitative feedback for each teammate, BARS ratings with behavioral evidence, a contribution allocation, a self-evaluation, and the closure questions that go to your instructor.
 
-This will likely take you the most time this week, and it is the most involved piece of work the course asks you to complete. The peer evaluation is the feedback your teammates carry out of this project into whatever comes next — and the feedback you will receive in return. Generic feedback ("good teammate, easy to work with") does not travel. Specific behavioral feedback is something a colleague can act on, months or years after the fact. That is the professional skill the evaluation builds. When you are later asked to write feedback on a coworker in a performance review or a 360, evidence-based feedback will already be how you write.
+This will likely take you the most time this week, and it is the most involved piece of work the course asks you to complete. The peer evaluation is the feedback your teammates carry out of this project into whatever comes next, along with the feedback you will receive in return. Generic feedback ("good teammate, easy to work with") does not travel. Specific behavioral feedback is something a colleague can act on, months or years after the fact. That is the professional skill the evaluation builds. When you are later asked to write feedback on a coworker in a performance review or a 360, evidence-based feedback will already be how you write.
 
-The evaluation reflects the full project arc, not the final weeks alone. A teammate who started slowly but stepped up significantly in the Refinement phase is not the same as a teammate who coasted throughout. A teammate who led early and faded is not the same as a teammate who showed up consistently across every phase. The prompt framing is explicit: considering the entire project from the first weeks through the Final Presentation.
+The evaluation reflects the full project arc, not the final weeks alone. A teammate who started slowly but stepped up in the Refinement phase reads differently from a teammate who coasted throughout. A teammate who led early and faded reads differently from a teammate who showed up consistently across every phase. The prompt framing is explicit: consider the entire project from the first weeks through the Final Presentation.
 
 ---
 
 ## What you are finalizing
 
-The End-of-Project Peer Evaluation has five parts. Parts A, B, D, and E are the same framework you completed in the Mid-Project Peer Evaluation earlier in the course. Part C — the contribution allocation — is new to the End-of-Project version.
+The End-of-Project Peer Evaluation has five parts. Parts A, B, D, and E are the same framework you completed in the Mid-Project Peer Evaluation earlier in the course. Part C, the contribution allocation, is new to the End-of-Project version.
 
 - **Part A: Qualitative feedback.** Three prompts per teammate using the Continue/Start/Adjust framework, each with at least two sentences referencing specific behavior.
 - **Part B: BARS ratings.** Four dimensions per teammate (Reliability, Contribution, Constructive Engagement, Accountability), each with a specific behavioral evidence example.
-- **Part C: Contribution allocation.** 100 points distributed among your teammates, not counting yourself. The distribution must be unequal — the instrument does not let you rate everyone identically. This part is new; it tracks the peer evaluation's other data rather than replacing it.
+- **Part C: Contribution allocation.** 100 points distributed among your teammates, not counting yourself. The distribution must be unequal; the instrument does not let you rate everyone identically. This part is new, and it tracks the peer evaluation's other data rather than replacing it.
 - **Part D: Self-evaluation.** The same four BARS dimensions, completed for yourself.
 - **Part E: Closure questions.** Two short questions about team dynamics, visible only to your instructor.
 
-The same calibration standard from the Mid-Project evaluation applies: every rating requires specific behavioral evidence. Ratings without evidence — or with evidence that describes impression rather than observation — are flagged for instructor review. If you are uncertain between two ratings on a dimension, select the lower one and explain why in your evidence.
+The same calibration standard from the Mid-Project evaluation applies: every rating requires specific behavioral evidence. Ratings without evidence, or with evidence that describes impression rather than observation, are flagged for instructor review. If you are uncertain between two ratings on a dimension, select the lower one and explain why in your evidence.
 
 ---
 
@@ -47,8 +47,8 @@ The same calibration standard from the Mid-Project evaluation applies: every rat
 The rehearsal, the Final Presentation, and the team closing are the last sources of behavioral evidence you have before rating. Each one tends to surface specific observations worth incorporating, especially on dimensions where last week's evidence felt thin.
 
 - **The rehearsal** surfaced how teammates handle feedback under pressure, whether they delivered on commitments between the outline and the deck, and how they showed up to a first full run-through. Rehearsal behavior is often a clearer signal on Constructive Engagement and Contribution than earlier phases were.
-- **The Final Presentation** surfaced who did what they said they would do, how handoffs worked, who handled Q&A well and who deferred, and how the team coordinated under live pressure. That is evidence on Reliability, Contribution, and Accountability specifically.
-- **The team closing** surfaced individual acknowledgments — what your teammates chose to name about each other, and what you chose to name about them. The acknowledgments are themselves behavioral observations, and they often capture patterns that did not have a single moment to point to across the earlier weeks (the steady contributor, the quiet teammate who carried more than was visible in real time).
+- **The Final Presentation** surfaced who did what they said they would do, how handoffs worked, who handled Q&A well and who deferred, and how the team coordinated under live pressure. That is evidence on Reliability, Contribution, and Accountability.
+- **The team closing** surfaced individual acknowledgments: what your teammates chose to name about each other, and what you chose to name about them. The acknowledgments are themselves behavioral observations, and they often capture patterns that did not have a single moment to point to across the earlier weeks (the steady contributor, the quiet teammate who carried more than was visible in real time).
 
 If you took notes during the closing, those notes are worth rereading before you start rating.
 
@@ -60,25 +60,25 @@ If you took notes during the closing, those notes are worth rereading before you
 
 Three prompts per teammate. The Mid-Project evaluation page has the full prompt language and worked examples of what specific feedback looks like compared to vague feedback. The standard is the same here, with one thing that shifts: the time horizon.
 
-Your Mid-Project feedback landed while your teammate still had half the project to act on it. Your End-of-Project feedback lands when the project is over. It becomes most useful to them in their next team, their next professional context. Feedback pitched at that level — describing behavior in terms that would still make sense to a teammate you never worked with — is what transfers.
+Your Mid-Project feedback landed while your teammate still had half the project to act on it. Your End-of-Project feedback lands when the project is over. It becomes most useful to them in their next team, their next professional context. Feedback pitched at that level (describing behavior in terms that would still make sense to a teammate you never worked with) is what transfers.
 
-If evidence on a particular teammate is genuinely thin on one of the Continue/Start/Adjust prompts, name the thinness rather than padding. A short honest response ("I did not observe enough of this pattern across the project to give a specific recommendation") is more credible than a generic one.
+If evidence on a particular teammate is thin on one of the Continue/Start/Adjust prompts, name the thinness rather than padding. A short honest response ("I did not observe enough of this pattern across the project to give a specific recommendation") is more credible than a generic one.
 
 ### Part B: BARS ratings with behavioral evidence
 
 One rating per dimension per teammate, each supported by a specific behavioral example. Prefer quoted or near-quoted examples over impressions. A strong evidence prompt names what happened, when it happened (roughly — you do not need exact dates), and what effect it had on the team's work. A weak evidence prompt describes how you felt about the teammate.
 
-The dimensions themselves are unchanged from the Mid-Project evaluation. If you want to revisit the scale descriptors — what separates a 4 from a 3, a 3 from a 2 — the Mid-Project page is the reference. Familiarity with the descriptors is what keeps your ratings grounded rather than drifting toward the middle.
+The dimensions themselves are unchanged from the Mid-Project evaluation. If you want to revisit the scale descriptors (what separates a 4 from a 3, a 3 from a 2) the Mid-Project page is the reference. Familiarity with the descriptors is what keeps your ratings grounded rather than drifting toward the middle.
 
 One pattern worth naming: the steady contributor. Teammates who showed up prepared, delivered agreed work on time, and raised concerns early across the whole project tend to get under-rated because there is no single dramatic moment to point to. Consistency itself is a specific behavior, and the evidence prompt for a steady teammate often reads something like "delivered draft sections by the agreed deadline across every check-in, and raised timeline concerns two weeks before they would have become a problem." That is strong evidence.
 
 ### Part C: Contribution allocation
 
-100 points distributed among your teammates — not counting yourself. The total has to equal 100. The distribution has to be unequal; the form will not let you submit equal allocations.
+100 points distributed among your teammates, not counting yourself. The total has to equal 100. The distribution has to be unequal; the form will not let you submit equal allocations.
 
 Think of this as the "who carried more" question, not a personal judgment. It is a calibration check against the BARS ratings: if you rated one teammate consistently higher than another on the four dimensions, the allocation should roughly track that. If the allocation and the BARS ratings pull in different directions, that is a signal to revisit one of them before submitting.
 
-Unequal does not mean dramatically unequal. A team where everyone contributed meaningfully might have an allocation that runs 35/33/32 — small differences that still reflect who carried slightly more of the load. A team where contribution patterns diverged significantly might have an allocation closer to 50/30/20. Match the shape of the data, not an expected distribution.
+Unequal does not mean dramatically unequal. A team where everyone contributed meaningfully might have an allocation that runs 35/33/32, with small differences that still reflect who carried slightly more of the load. A team where contribution patterns diverged might have an allocation closer to 50/30/20. Match the shape of the data, not an expected distribution.
 
 ### Part D: Self-evaluation
 
@@ -86,7 +86,7 @@ The same four BARS dimensions, rated for yourself. Behavioral evidence is encour
 
 Self-evaluation tends to distort in two directions. Over-rating, usually as a defensive move, shows up as 4s across the board without supporting evidence. Under-rating, often as a modesty move, shows up when the self-rating is noticeably lower than the teammates' ratings. Neither is useful.
 
-What the self-evaluation actually is: a calibration signal. It is not graded, and it does not affect your teammates' evaluations. Your instructor uses it to flag moments where the self-view and the peer view diverge significantly. For you, it is a concrete piece of self-assessment that holds up better in future reflection than a vague sense of how you think you did.
+What the self-evaluation is for: a calibration signal. It is not graded, and it does not affect your teammates' evaluations. Your instructor uses it to flag moments where the self-view and the peer view diverge meaningfully. For you, it is a concrete piece of self-assessment that holds up better in future reflection than a vague sense of how you think you did.
 
 The ratings that are hardest to give yourself honestly are usually the most informative.
 
@@ -123,7 +123,7 @@ A short checklist.
 - The self-evaluation is complete and calibrated to the same standard as the teammate evaluations.
 - The closure questions are answered candidly.
 - The AI disclosure statement is accurate.
-- The submission reflects observation across the full fifteen-week arc, not just the final weeks.
+- The submission reflects observation across the full project arc, not just the final weeks.
 
 **Submission:** Individually through the Riipen platform. [PLATFORM: TBD]
 
@@ -131,7 +131,7 @@ A short checklist.
 
 ## What you'll receive
 
-Feedback from this evaluation arrives after Week 15 ends. Do not expect to see it before the course closes.
+Feedback from this evaluation arrives after the course ends. Do not expect to see it before the course closes.
 
 ### From the peer evaluation
 
@@ -152,4 +152,4 @@ Unlike the Mid-Project evaluation, there is no structured team processing sessio
 
 ---
 
-The habit of writing feedback that is specific, credible, and calibrated across the full project is something you will use in every team you join from here.
+The habit of writing feedback that is specific and credible across the full project is something you will use in every team you join from here.

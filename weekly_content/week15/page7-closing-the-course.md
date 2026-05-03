@@ -16,13 +16,13 @@ competencies:
 
 You have reached the end of the course. Be proud of that.
 
-Over the last fifteen weeks, you formed a team out of strangers and built working agreements that held. You met the employer, scoped the work, and ran a full cycle of discovery, analysis, drafting, and refinement. You gave each other feedback that improved the work and took feedback on your own. You delivered a set of professional deliverables to a live client, stood in front of them to present, and handled live questions about what your team recommended and why. You wrote five reflections on your own development across that arc. You rated your teammates honestly through two peer evaluations.
+Over the course of this project, you formed a team out of strangers and built working agreements that held. You met the employer, scoped the work, and ran a full cycle of discovery, analysis, drafting, and refinement. You gave each other feedback that improved the work and took feedback on your own. You delivered a set of professional deliverables to a live client, stood in front of them to present, and handled live questions about what your team recommended and why. You wrote five reflections on your own development across that arc. You rated your teammates honestly through two peer evaluations.
 
 That is not a typical semester. Many people who commit to something this long do not finish it the way you did. Your hard work paid off.
 
-What you built here travels with you. The project itself is done, but the capabilities that produced it are not bound to it — they move with you into the next professional context you enter. The next time you face a comparable situation, you will not be starting from zero.
+What you built here travels with you. The project itself is done, but the capabilities that produced it are not bound to it. They move with you into the next professional context you enter. The next time you face a comparable situation, you will not be starting from zero.
 
-A note on timing: the End-of-Project Peer Evaluation feedback, and the employer's final evaluation, arrive after the course closes. Expect them in the weeks following Week 15, not before.
+A note on timing: the End-of-Project Peer Evaluation feedback, and the employer's final evaluation, arrive after the course closes. Expect them in the weeks following the final week, not before.
 
 ---
 
@@ -37,7 +37,7 @@ A note on timing: the End-of-Project Peer Evaluation feedback, and the employer'
 
 ## The competencies the course built
 
-The course built competencies across five areas: Communication, Professionalism, Critical Thinking, Teamwork, and Career and Self-Development. These are not arbitrary course categories — they align with the skills that employer surveys consistently identify as most in demand. The fifteen weeks you just completed is direct evidence that you have developed them.
+The course built competencies across five areas: Communication, Professionalism, Critical Thinking, Teamwork, and Career and Self-Development. These are not arbitrary course categories. They align with the skills that employer surveys consistently identify as most in demand, and the project you just completed is direct evidence that you have developed them.
 
 ---
 

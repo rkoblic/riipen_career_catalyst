@@ -9,9 +9,9 @@ status: draft
 
 # Closing the course
 
-This is the final week. Fifteen weeks ago, most of your team had not met each other, did not know your employer, and had not yet done the work you are about to present. What you carry into this week is the product of every research session, draft, feedback conversation, and revision that came before it.
+This is the final week. When the project began, most of your team had not met each other, did not know your employer, and had not yet done the work you are about to present. What you carry into this week is the product of every research session, draft, feedback conversation, and revision that came before it.
 
-The week itself is submission-heavy: a live presentation to the employer, a final reflection on what the experience produced in you as a professional, and a peer evaluation that closes the feedback loop with your teammates. But you got a great start on all of these in the last couple of weeks. Now it's just time to bring it home.
+The week itself is submission-heavy: a live presentation to the employer, a final reflection on what the experience produced in you as a professional, and a peer evaluation that closes the feedback loop with your teammates. You got a strong start on all of these in the last couple of weeks. Now it's time to bring it home.
 
 [VIDEO: The last mile]
 
@@ -31,17 +31,17 @@ Alongside the three submissions, your team has the Final Presentation itself, a 
 
 ## Suggested order of completion
 
-The three submissions depend on each other in ways that raise the quality of the later ones if you sequence the earlier ones first. Specifically: the Final Presentation and the team closing that follows it both generate material that strengthens Reflection #5 and the End-of-Project Peer Evaluation. Writing the reflection or completing the evaluation before presenting means drafting from an incomplete experience.
+The three submissions depend on each other in ways that raise the quality of the later ones if you sequence the earlier ones first. The Final Presentation and the team closing that follows it both generate material that strengthens Reflection #5 and the End-of-Project Peer Evaluation. Writing the reflection or completing the evaluation before presenting means drafting from an incomplete experience.
 
 1. **Polish the presentation.** Targeted adjustments from last week's rehearsal, not a full rerun.
 2. **Deliver the Final Presentation** to your employer.
 3. **Debrief and run the team closing** right after the presentation, while the experience and the employer's feedback are fresh. These are the last working moments of the team together, and where the last pieces of evidence for the reflection and the peer evaluation surface.
-4. **Finalize Reflection #5** and submit. The Describe and Examine stages are largely drafted from last week; this session is for Articulate and Learn, informed by the presentation and closing.
+4. **Finalize Reflection #5** and submit. The Describe and Examine stages are largely drafted from last week. This session is for Articulate and Learn, informed by the presentation and closing.
 5. **Finalize the End-of-Project Peer Evaluation** and submit. Rate the full project arc with behavioral evidence, including the final-week observations from the rehearsal, presentation, and closing.
-6. **Read the final module** (Articulating Your Experience) and close the course. Forward-facing — how to translate the project experience into professional language for resumes, interviews, and networking.
+6. **Read the final module** (Articulating Your Experience) and close the course. The module is forward-facing: how to translate the project experience into professional language for resumes, interviews, and networking.
 
 ---
 
 ## Module content is light this week
 
-You have learned what you need to learn. The teaching this week is narrow on purpose: a short mindset module before the presentation, and a career-articulation module at the end that helps you translate the project into language a future employer or graduate program will recognize. The rest of the week's time is the doing — presenting, closing, reflecting, and evaluating.
+The teaching this week is narrow on purpose: a short mindset module before the presentation, and a career-articulation module at the end that helps you translate the project into language a future employer or graduate program will recognize. The rest of the week's time goes to presenting, closing, reflecting, and evaluating.

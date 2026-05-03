@@ -12,10 +12,8 @@ status: draft
 
 If you are watching this the morning of your Final Presentation, here is the most useful thing to know. The work that matters most has already happened. The rehearsal you ran last week is what you are about to draw on. The next hour is about delivery, not rework.
 
-Ready does not mean polished. Polished is what a thousand rehearsals look like. Ready is what one good rehearsal plus a clear head looks like. That is what professional presenters actually run on.
+Ready does not mean polished. Polished is what a thousand rehearsals look like. Ready is what one good rehearsal plus a clear head looks like. That is what professional presenters run on.
 
 So use the next hour to settle, not to rebuild. A short walk helps more than another pass through the slides, and reading your opening lines once helps more than rewriting your section. A clean start carries the rest.
-
-Two physical cues help right before you go on. Slow breathing for a minute brings your heart rate down. And two minutes of Amy Cuddy's power pose, standing with your chest open and arms wide, can shift how confident you feel going in.
 
 One thing about nerves. They tend to fade about thirty seconds after the first speaker starts. You will not feel ready before you begin. You will feel ready somewhere in the middle, once rehearsal kicks in and worry runs out.

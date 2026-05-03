@@ -18,7 +18,7 @@ competencies:
 
 You started Reflection #5 last week. The prompt, conceptual frame (Transfer), and drafting guidance all live on the [**Reflection #5 page from earlier in the course**](../week14/page3-transfer-reflection-5.md); go back to it for the full framing. This page is for the final push: incorporating what surfaced this week, completing the DEAL stages you held for now, and submitting.
 
-By the time you sit down to finalize Reflection #5, the Final Presentation and team closing are both done. That matters — the Articulate and Learn stages land better with those experiences available to draw from, because the presentation and the closing are part of what the reflection is about.
+By the time you sit down to finalize Reflection #5, the Final Presentation and team closing are both done. The Articulate and Learn stages land better with those experiences to draw from, because the presentation and the closing are part of what the reflection is about.
 
 This is the last reflection in the portfolio. It is also the one most likely to matter beyond this course. What you write here is close to what you will eventually say in a hiring conversation, a graduate school application, or a performance review about what this experience produced in you as a professional.
 
@@ -29,7 +29,7 @@ This is the last reflection in the portfolio. It is also the one most likely to 
 The anchor experience you selected last week, the Describe and Examine stages that built around it, and any AI Socratic-partner work you did on the claim you were testing. Those are the pieces that came into this week. What gets finished here:
 
 - **Articulate.** The transferable learning claim itself, stated in words that would hold up in a professional conversation. This is the analytical peak of the reflection and the place where the Articulation of Learning rubric dimension lands hardest. A strong articulation names a specific change in how you work, not a general observation about the topic.
-- **Learn.** How you will apply this learning in a future professional context. Not a promise, not a resolution — a description of what this insight tells you about how to approach the next team, the next project, or the next ambiguous professional situation you are in.
+- **Learn.** How you will apply this learning in a future professional context. This is a description of what the insight tells you about how to approach the next team, the next project, or the next ambiguous professional situation you are in. It is not a promise or a resolution.
 - **Any revisions to Describe and Examine** that the presentation and team closing surfaced. Sometimes those stages tighten once the Articulate stage comes into focus; the anchor gets sharper because the claim is clearer.
 
 The rubric is the same as every reflection in the portfolio: Descriptive Specificity, Critical Examination, Personal Accountability, and Articulation of Learning, each weighted equally. Reflection #5 calibrates highest on Articulation of Learning, because the prompt asks for the most transferable claim the portfolio has required so far.
@@ -38,19 +38,19 @@ The rubric is the same as every reflection in the portfolio: Descriptive Specifi
 
 ## Incorporating what surfaced this week
 
-The presentation and the team closing are two of the richest sources of material you have had for a reflection. Both are recent, and recency is usually a risk — the most recent experience is often not the right anchor. For Reflection #5, that still holds. Use this week's experiences to inform the claim you are making about last week's anchor, not to replace it.
+The presentation and the team closing are two of the richest sources of material you have had for a reflection. Both are recent, and recency is usually a risk: the most recent experience is often not the right anchor. For Reflection #5, that still holds. Use this week's experiences to inform the claim you are making about last week's anchor, not to replace it.
 
-A few specific places where this week's material tends to show up in a strong reflection:
+A few places where this week's material tends to show up in a strong reflection:
 
-- **In the Articulate stage, as evidence that the claim transfers.** If the thing you learned about yourself showed up again during the presentation — in how you handled a Q&A question, how you delivered your section, how you contributed to the team's coordination — that recurrence is exactly the kind of support the Articulation of Learning dimension is looking for. A transferable insight is one that showed up in more than the single moment you first noticed it.
-- **In the Learn stage, as a pointer to the next professional context.** The team closing generates specific observations about what the team accomplished and what each person contributed. Your own role in that surface often clarifies what you want to carry into the next team experience. That clarity belongs in the Learn stage.
-- **Occasionally, as a sharpening of the anchor itself.** Not a replacement, but a refinement. The presentation might illuminate the moment you originally chose in a way that tightens the description. "I learned this during the Direction Check" becomes "I learned this during the Direction Check, and I recognized the same pattern show up again during the Final Presentation's Q&A." The second version is a stronger anchor.
+- **In the Articulate stage, as evidence that the claim transfers.** If the thing you learned about yourself showed up again during the presentation (in how you handled a Q&A question, how you delivered your section, how you contributed to the team's coordination) that recurrence is the kind of support the Articulation of Learning dimension looks for. A transferable insight is one that showed up in more than the single moment you first noticed it.
+- **In the Learn stage, as a pointer to the next professional context.** The team closing generates specific observations about what the team accomplished and what each person contributed. Your own role in that picture often clarifies what you want to carry into the next team experience. That clarity belongs in the Learn stage.
+- **Occasionally, as a sharpening of the anchor itself.** A refinement, not a replacement. The presentation might illuminate the moment you originally chose in a way that tightens the description. "I learned this during the Direction Check" becomes "I learned this during the Direction Check, and I recognized the same pattern show up again during the Final Presentation's Q&A." The second version is a stronger anchor.
 
 ### When to change the anchor, and when to strengthen it
 
-Occasionally this week's experience surfaces a more significant moment than the one you drafted around. That can happen. The question to test it against is whether the new moment actually changed more about how you work professionally than the original anchor did, or whether it is just the most vivid thing in recent memory.
+Occasionally this week's experience surfaces a more significant moment than the one you drafted around. That can happen. The test is whether the new moment changed more about how you work professionally than the original anchor did, or whether it is just the most vivid thing in recent memory.
 
-If a genuinely more significant moment has surfaced, rewriting around it is the right move. If the original anchor holds and the new material adds texture, keep the original and let the new material strengthen the articulation. Changing anchors because the most recent thing feels most alive is recency bias — a failure mode the reflection is designed to push against.
+If a more significant moment has surfaced, rewriting around it is the right move. If the original anchor holds and the new material adds texture, keep the original and let the new material strengthen the articulation. Changing anchors because the most recent thing feels most alive is recency bias, which is a failure mode the reflection is designed to push against.
 
 ---
 
@@ -62,7 +62,7 @@ The boundaries are the same as every reflection in the portfolio. They matter mo
 
 **AI as Socratic partner is permitted and useful.** This is the strategy you have been using since Reflection #1, and Reflection #5 is where the pressure-test it offers matters most. A prompt pattern that tends to work on a candidate articulated learning claim:
 
-> Push back on this articulated learning. Is it actually transferable, or is it project-specific dressed up as something broader? What would it look like if I applied it in a completely different professional context? Where would it hold up, and where would it fail?
+> Push back on this articulated learning. Is it transferable, or is it project-specific dressed up as something broader? What would it look like if I applied it in a different professional context? Where would it hold up, and where would it fail?
 
 Read what comes back as pressure, not as an answer. If the pushback makes you realize the claim is less transferable than it sounded, that is useful signal. If the pushback does not move you, the claim is probably holding.
 
@@ -74,10 +74,10 @@ Read what comes back as pressure, not as an answer. If the pushback makes you re
 
 A short checklist. Not every item needs a paragraph; the point is that you know what is in your submission before you send it.
 
-- All four DEAL stages are written — Describe, Examine, Articulate, and Learn.
+- All four DEAL stages are written: Describe, Examine, Articulate, and Learn.
 - The anchor experience is specific. A reader who has never taken this course can picture the moment.
 - The articulated learning names a change in how you work, not a general observation about the topic.
-- The articulated learning is stated in words that would hold up in a professional conversation. The strip-the-proper-nouns test from earlier in the course still applies — if removing this course's specifics leaves a usable claim about you as a professional, the articulation is in good shape.
+- The articulated learning is stated in words that would hold up in a professional conversation. The strip-the-proper-nouns test from earlier in the course still applies. If removing this course's specifics leaves a usable claim about you as a professional, the articulation is in good shape.
 - The Learn stage names a future professional context and describes how the insight applies to it.
 - The AI disclosure statement is accurate.
 - The version you are submitting is the version you meant to submit.
@@ -86,4 +86,4 @@ A short checklist. Not every item needs a paragraph; the point is that you know 
 
 ---
 
-This is the last of five reflections. What you have written across the portfolio is a record of your own professional development across fifteen weeks, and Reflection #5 is the capstone of that record. It is also the piece most likely to be useful to you in professional contexts after the course is over.
+This is the last of five reflections. What you have written across the portfolio is a record of your own professional development over the course of the project, and Reflection #5 is the capstone of that record. It is also the piece most likely to be useful to you in professional contexts after the course is over.

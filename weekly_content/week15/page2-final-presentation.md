@@ -22,7 +22,7 @@ competencies:
 
 The Final Presentation is the course's summative assessment of oral presentation and one of only two formal student presentations in the course. The first was the Direction Check earlier in the project, when your team walked the employer through a proposed approach. This one is different. You are presenting completed professional work to the people who commissioned it. The research is done, the analysis is done, the recommendations have been written and refined across weeks of feedback. What happens this week is the team standing behind that work, live, and answering for it in real time.
 
-This is the culmination of the three-week presentation arc. The conceptual work on what makes a presentation strong happened a few weeks ago. The operational work — who presents what, how the team handles Q&A, how the outline becomes a deck — happened last week, along with a full rehearsal. This page is the rest of it: how to show up on the day, what to do in the final hour before the presentation, what happens during the session itself, and how to close the experience with your team afterward.
+This is the culmination of the three-week presentation arc. The conceptual work on what makes a presentation strong happened a few weeks ago. The operational work (who presents what, how the team handles Q&A, how the outline becomes a deck) happened last week, along with a full rehearsal. This page is the rest of it: how to show up on the day, what to do in the final hour before the presentation, what happens during the session itself, and how to close the experience with your team afterward.
 
 ---
 
@@ -45,7 +45,7 @@ Full descriptors are in the [**Final Presentation rubric**](URL_TBD). The rubric
 
 [VIDEO: Ready, not polished]
 
-The video is a short framing piece for the morning of the presentation — what "ready" actually looks like, and why the version of ready that works for professional presentations is not the same as the version that works for exams.
+The video is a short framing piece for the morning of the presentation: what "ready" looks like, and why the version of ready that works for professional presentations differs from the version that works for exams.
 
 ### What helps on the day, and what does not
 
@@ -59,8 +59,8 @@ A few things that tend to help in the final hours:
 A few things that tend to hurt:
 
 - Rebuilding slides in the final hour. Last-minute slide changes introduce visual inconsistency and disrupt the speaker notes your team already practiced against.
-- Re-reading the entire deck end to end. That mostly produces fatigue and the urge to change things that are actually fine.
-- Over-caffeinating. A second or third coffee tends to surface as a shaky hand or a rushed opening.
+- Re-reading the entire deck end to end. That mostly produces fatigue and the urge to change things that are already fine.
+- Over-caffeinating. A second or third coffee tends to surface as a rushed opening.
 - Rewriting your section from memory. The version your team rehearsed is the version your teammates are expecting to hear.
 
 ---
@@ -74,14 +74,14 @@ This week your team should make time to put the final polish on your presentatio
 Three things are usually worth the time:
 
 - **Practicing the opening and the closing.** The first thirty seconds set the tone, and the last thirty seconds are what the employer remembers as they move into Q&A. If there is one part of the presentation worth rehearsing out loud again, it is these.
-- **Confirming timing and transitions.** If the rehearsal ran long, tighten sections specifically, rather than trying to speed up the delivery. If handoffs between speakers felt uncertain, run just the transition points one more time.
-- **Reviewing the anticipated-questions list.** Your team built this last week. Read it again with a day of distance, see if anything new has surfaced, and practice answers out loud — not in writing — for the two or three questions the team feels least ready for.
+- **Confirming timing and transitions.** If the rehearsal ran long, tighten specific sections rather than trying to speed up the delivery. If handoffs between speakers felt uncertain, run just the transition points one more time.
+- **Reviewing the anticipated-questions list.** Your team built this last week. Read it again with a day of distance, see if anything new has surfaced, and practice answers out loud (not in writing) for the two or three questions the team feels least ready for.
 
 ### When polish becomes rework
 
 If your team is rebuilding slides during this session, rewriting sections, or adding new content, the session has shifted from polish to rework. Late-stage rework is riskier than it looks. New slides were not in the rehearsal, so the speaker notes do not match. New content was not stress-tested, so it is more likely to raise a question your team has not thought about. The strongest move at this stage is to trust the version your team rehearsed and use the polish window to make it land cleanly rather than to make it different.
 
-If something actually needs to change — a slide with wrong numbers, a section where the rehearsal revealed a real gap — change it. But treat a request for a change as a question ("is this a genuine problem, or is this nerves?") before acting on it. Nerves often present as urgency about things that are already fine.
+If something needs to change (a slide with wrong numbers, a section where the rehearsal revealed a real gap) change it. But treat a request for a change as a question first: is this a genuine problem, or is this nerves? Nerves often present as urgency about things that are already fine.
 
 ### Using AI for a final Q&A simulation
 
@@ -95,11 +95,11 @@ What you get back is another pass of stress-testing. Read the questions out loud
 
 ## The presentation
 
-### Who you are actually presenting to
+### Who you are presenting to
 
-It is easy to walk into the Final Presentation treating the employer as an external evaluator. By this point in the project, they are not. They have reviewed drafts and shaped the direction of the work alongside your team across fifteen weeks. They are seeing the finished version of something they have been part of, and what they want from the session is a clean view of what the team did and why, so they can decide what to do with it.
+It is easy to walk into the Final Presentation treating the employer as an external evaluator. By this point in the project, they are not. They have reviewed drafts and shaped the direction of the work alongside your team across the full project. They are seeing the finished version of something they have been part of, and what they want from the session is a clean view of what the team did and why, so they can decide what to do with it.
 
-That changes how to read the room. Questions in Q&A are usually interest, not attack. An employer who presses on a recommendation is engaged; a silent one is not. If rehearsal went to imagined critics, recalibrate now. The people in the room want the work to be useful to them. Your job in the session is to make it easy for them to see how.
+That changes how to read the room. Questions in Q&A are usually a sign of interest rather than attack. An employer who presses on a recommendation is engaged; a silent one is not. If rehearsal went to imagined critics, recalibrate now. The people in the room want the work to be useful to them. Your job in the session is to make it easy for them to see how.
 
 ### The format
 
@@ -115,8 +115,8 @@ Slides are submitted in advance through the Riipen platform. The presentation it
 
 The feedback portion of the session is short, and it is useful far beyond the grade. Once the presentation is over and the employer is sharing their reactions, at least one teammate should be taking notes. Useful things to capture:
 
-- What resonated. Which findings or recommendations the employer responded to directly, and what they said about each.
-- What they asked about. The questions themselves are information — they signal what the employer is actually thinking about and what their own decisions look like.
+- What resonated. Which findings or recommendations the employer responded to, and what they said about each.
+- What they asked about. The questions themselves are information; they signal what the employer is thinking about and what their own decisions look like.
 - What they said they would do next. If the employer names any action they plan to take based on the work, write down the exact phrasing. You will want it for your reflection and for any future reference to the project.
 - What surprised the team. Reactions that were different from what the team expected are usually the most informative.
 
@@ -126,9 +126,9 @@ These notes feed both Reflection #5 and the End-of-Project Peer Evaluation later
 
 The Q&A section is the one part of the session that cannot be fully rehearsed, and it is also the place where the team's judgment shows up most clearly. The moves from last week apply:
 
-- **Answer directly.** A short, specific answer is stronger than a long preface.
+- **Answer the question.** A short, specific answer is stronger than a long preface.
 - **Name the edge of what you know.** If a question goes past what the team investigated, describe what the team does know, what you would need to find out, and how you would go about it.
-- **Accept a legitimate correction without collapsing the recommendation.** If the employer gives the team a good reason to revisit something, take it seriously. That is not the same as dropping the recommendation; it is updating the thinking around it.
+- **Accept a legitimate correction without collapsing the recommendation.** If the employer gives the team a good reason to revisit something, take it seriously. Taking it seriously is different from dropping the recommendation; it means updating the thinking around it.
 - **Route questions to the speaker closest to the content.** The person on stage does not have to be the one who answers.
 
 Answers should come from genuine understanding of the research, analysis, and recommendations. The rubric dimension that captures this is explicit: Q&A Handling is silent on how polished the answers sound. It asks whether the responses show that your team understood its own work.
