@@ -1,6 +1,6 @@
 ---
 week: 4
-page: 3
+page: 4
 title: Research & Analysis
 created: 2026-04-01
 last_updated: 2026-04-28
@@ -14,7 +14,7 @@ competencies:
 
 # Research and analysis
 
-This page covers the first two parts of the Context Analysis & Project Plan: organizational and project context (Part 1) and research findings (Part 2). These are the sections where you demonstrate what you know and what you've learned.
+This page covers the first two parts of the Context Analysis & Project Plan: organizational and project context (Part 1) and research findings (Part 2). Your team has been researching the organization and the project for a couple of weeks already. This week, you take that research further: synthesizing what you've found into analysis the employer can act on. These are the sections where you demonstrate what you know and what you've learned.
 
 ---
 
@@ -51,7 +51,7 @@ Compare these two approaches:
 - **Restating:** "The organization is a nonprofit that provides mentorship programs to youth in underserved communities."
 - **Demonstrating understanding:** "The organization runs mentorship programs in three urban regions, primarily serving youth ages 14–19. At the kickoff, the employer noted that their fastest-growing region is also the one with the lowest mentor retention rate, which directly shapes the challenge our project needs to address."
 
-The second version shows the team did more than read — they connected what they heard to what it means. If you removed the project brief from the equation, could someone still learn something new from your context section? That's the standard to aim for.
+The second version shows the team did more than read; they connected what they heard to what it means. If you removed the project brief from the equation, could someone still learn something new from your context section? That's the standard to aim for.
 
 ---
 
@@ -72,17 +72,17 @@ It's also where you build the foundation for everything in Parts 3 and 4. Your s
 The video above walks through what synthesis looks like in practice, with examples across different project types. Here's a quick recap of the key moves to keep in mind as you write:
 
 - **Look for patterns across sources.** When multiple findings point in the same direction, highlight it. When they contradict, name that too.
-- **Draw conclusions, not just observations.** Every finding should connect to an implication for the project — what does this mean for what you'll do?
-- **Identify gaps honestly.** If you couldn't find or verify something important, say so. That's intellectual honesty, not weakness.
+- **Draw conclusions, not just observations.** Every finding should connect to an implication for the project. What does this mean for what you'll do?
+- **Flag what you couldn't find.** If something important is missing or unverifiable, say so. That's intellectual honesty, not weakness.
 - **Be selective.** Not everything you found belongs in the document. Include what matters for the argument you're building.
 
 ### What research looks like across different projects
 
-The kind of research that matters depends entirely on the project. The skill — synthesizing findings into insights — is the same, but what you're looking for is different.
+The kind of research that matters depends entirely on the project. The skill (synthesizing findings into insights) is the same, but what you're looking for is different.
 
-- **Social media strategy:** Research the target audience's online behavior, the platforms where similar businesses have traction, and what content formats perform best in this space. Look at what competitors are doing on social media — not to copy them, but to understand what the audience already responds to. If three competing businesses are all seeing strong engagement with short-form video and the employer is still posting static images, that's a pattern worth naming.
-- **Community outreach:** Research similar programs in comparable communities — what approaches have worked, what hasn't, and why. Look for barriers to participation that go beyond awareness: transportation, scheduling conflicts, cultural factors, trust. If published research on youth program engagement consistently identifies peer recruitment as the strongest driver and the employer's current model relies entirely on flyers, that's a meaningful finding.
-- **Process improvement:** Map the current workflow and identify where delays and errors concentrate. Look at industry benchmarks or case studies from similar operations. If the employer's order error rate is 8% and industry standard is under 2%, that's a data point that frames the rest of your analysis. Talk to (or read feedback from) the people who actually do the work — they usually know where the problems are before anyone else does.
+- **Social media strategy:** Research the target audience's online behavior, the platforms where similar businesses have traction, and what content formats perform best in this space. Look at what competitors are doing on social media to understand what the audience already responds to (not to copy them). If three competing businesses are all seeing strong engagement with short-form video and the employer is still posting static images, that's a pattern worth naming.
+- **Community outreach:** Research similar programs in comparable communities: what approaches have worked, what hasn't, and why. Look for barriers to participation that go beyond awareness: transportation, scheduling conflicts, cultural factors, trust. If published research on youth program engagement consistently identifies peer recruitment as the strongest driver and the employer's current model relies entirely on flyers, that's a meaningful finding.
+- **Process improvement:** Map the current workflow and identify where delays and errors concentrate. Look at industry benchmarks or case studies from similar operations. If the employer's order error rate is 8% and industry standard is under 2%, that's a data point that frames the rest of your analysis. Talk to (or read feedback from) the people who actually do the work. They usually know where the problems are before anyone else does.
 
 ### What counts as evidence
 
@@ -92,7 +92,7 @@ Your research section should demonstrate that you know the difference. Where you
 
 Uncertainty is not a weakness in professional analysis. Pretending to be certain when you're not is.
 
-[CURATED LINK: "The Pyramid Principle" (video, ~10 min) — Communicate with IMPACT — https://youtu.be/Jtx01xQNw5A?si=I9dnEEdQgSWEBXX6] This video walks through McKinsey's Pyramid Principle — a framework for structuring any argument or analysis. The core idea: lead with your main point, support it with 2–3 key subpoints, then back each subpoint with evidence. It also covers the MECE principle (mutually exclusive, collectively exhaustive), which helps you organize findings into clear, non-overlapping categories. This is directly relevant to structuring your research findings section — it's the difference between a data dump and a well-organized argument that a reader can follow.
+[CURATED LINK: "The Pyramid Principle" (video, ~10 min) — Communicate with IMPACT — https://youtu.be/Jtx01xQNw5A?si=I9dnEEdQgSWEBXX6] This video walks through McKinsey's Pyramid Principle, a framework for structuring any argument or analysis. The core idea: lead with your main point, support it with 2–3 key subpoints, then back each subpoint with evidence. It also covers the MECE principle (mutually exclusive, collectively exhaustive), which helps you organize findings into clear, non-overlapping categories. This is directly relevant to structuring your research findings section: it's the difference between a data dump and a well-organized argument that a reader can follow.
 
 ### Common pitfalls
 

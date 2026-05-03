@@ -1,6 +1,6 @@
 ---
 week: 4
-page: 4
+page: 5
 title: Strategy & Planning
 created: 2026-04-01
 last_updated: 2026-04-28
@@ -34,14 +34,14 @@ This section is also your team's chance to get alignment before you start buildi
 
 ### Building your strategic implications
 
-The video above walks through the full chain — finding → conclusion → assumption → recommendation — with examples across different project types. Here's a quick recap of the key moves:
+The video above walks through the full chain (finding → conclusion → assumption → recommendation) with examples across different project types. Here's a quick recap of the key moves:
 
 - **Connect every recommendation to a finding.** If you can't point to specific evidence that supports a recommendation, it's either premature or unsupported.
 - **Name your assumptions explicitly.** What has to be true for your recommendation to work? The employer needs to see these so they can tell you which ones are right and which need revisiting.
 - **Be concrete.** "We recommend a more targeted approach" gives the employer nothing to react to. "We recommend a 90-day video pilot on TikTok and Instagram Reels" gives them something specific to evaluate.
-- **Don't be afraid to take a position.** A specific recommendation that needs adjusting is far more useful than a vague one that can't be evaluated. The Direction Check exists so the employer can redirect you — that's the process working, not failing.
+- **Don't be afraid to take a position.** A specific recommendation that needs adjusting is far more useful than a vague one that can't be evaluated. The Direction Check exists so the employer can redirect you. That's the process working, not failing.
 
-One important boundary: this is a recommendation document, not a build artifact. A specific recommendation gives the employer something to react to; a prototype or finished design says you've already committed. The Direction Check exists so they can redirect before production starts — going further than recommendation now risks redoing work if your direction shifts.
+One important boundary: this is a recommendation document, not a build artifact. A specific recommendation gives the employer something to react to; a prototype or finished design says you've already committed. The Direction Check exists so they can redirect before production starts. Going further than recommendation now risks redoing work if your direction shifts.
 
 ---
 
@@ -49,19 +49,19 @@ One important boundary: this is a recommendation document, not a build artifact.
 
 ### Why this section exists
 
-Your employer is about to invest their time in your project over the coming weeks. The project plan tells them what to expect: what you'll deliver, when, and what you've decided not to do. It's a clear statement of intent that the employer can react to.
+Your employer is about to invest their time in your project over the coming weeks. The project plan tells them what to expect: what you'll deliver, when, and what's out of scope (and why). It's a clear statement of intent that the employer can react to.
 
-A plan that lists everything the team could possibly do tells the employer nothing. A plan that names specific priorities, explains the tradeoffs behind them, and acknowledges what might go wrong tells the employer that your team is thinking realistically. That's the difference between a team the employer trusts to execute and a team the employer worries about.
+What makes a project plan useful to the employer is the reasoning behind it: which priorities you've chosen, what tradeoffs you weighed, and what risks you're tracking. A list of activities without that context doesn't give the employer much to evaluate or push back on.
 
 This section is also where the course asks you to do something the earlier parts didn't: think forward. Parts 1–3 are about what you've learned so far. Part 4 is about what you'll do with it. That requires a different kind of thinking (scoping, sequencing, anticipating problems), and it's where many teams discover that their ambitious ideas need to be trimmed to fit reality.
 
 ### Making tradeoffs explicit
 
-Every project has more work available than time to do it. Your plan should show that you've made conscious tradeoff decisions rather than trying to do everything. Name what you're prioritizing and what you're deprioritizing, and explain the reasoning behind those choices.
+Every project has more work available than time to do it. Your plan should show the deliberate tradeoffs your team made about where to focus. Name what you're prioritizing and what you're deprioritizing, and explain the reasoning behind those choices.
 
-For example: "We considered conducting primary user interviews but determined that the two-week turnaround for recruitment approval would delay our timeline past the midpoint deliverable. Instead, we'll use the organization's existing user feedback data from their most recent survey, which covers similar questions and is available immediately." That's a tradeoff with clear reasoning — the employer can see what you weighed and why.
+For example: "We considered conducting primary user interviews but determined that the two-week turnaround for recruitment approval would delay our timeline past the midpoint deliverable. Instead, we'll use the organization's existing user feedback data from their most recent survey, which covers similar questions and is available immediately." That's a tradeoff with clear reasoning: the employer can see what you weighed and why.
 
-Compare that to: "We will conduct a competitive analysis, create user personas, and develop a content strategy." That's a to-do list, not a plan. It doesn't tell the employer what you chose not to do or why these items made the cut.
+Compare that to: "We will conduct a competitive analysis, create user personas, and develop a content strategy." That's a to-do list, not a plan. It doesn't tell the employer what's out of scope or why these items made the cut.
 
 ### What tradeoffs look like across different projects
 
@@ -71,9 +71,9 @@ Compare that to: "We will conduct a competitive analysis, create user personas, 
 
 ### Milestones and timeline
 
-In a real consulting or project-based engagement, you'd need to build your own timeline from scratch: scoping the work, estimating how long each phase will take, and negotiating realistic deadlines with the client. That's a skill worth understanding, because aspirational timelines that slip every week are worse than conservative ones you can actually meet. Your employer would rather know what to reliably expect than be told what they want to hear.
+In a real consulting or project-based engagement, you'd need to build your own timeline from scratch: scoping the work, estimating how long each phase will take, and negotiating realistic deadlines with the client. That's a skill worth understanding, because aspirational timelines that keep slipping are worse than conservative ones you can actually meet. Your employer would rather know what to reliably expect than be told what they want to hear.
 
-In this course, much of that structure is already set for you. The key milestones and deadlines are outlined in the Riipen platform, and the graded assignments and checkpoints are listed in the Learning Management System. Your project plan should reference these existing milestones rather than inventing new ones.
+In this course, much of that structure is already set for you. The key milestones and deadlines are already outlined for you. Your project plan should reference these existing milestones rather than inventing new ones.
 
 But this isn't a copy-and-paste exercise. You still need to think critically about what happens *between* those milestones. How will your team divide the work within each phase? What needs to happen first before other tasks can start? Are there points where you'll need input from the employer, and have you built in time for that? Where are the weeks when your team's other commitments (exams, other courses, jobs) will limit your capacity? The structure gives you the destination points. Your project plan should show that you've thought about the journey between them.
 

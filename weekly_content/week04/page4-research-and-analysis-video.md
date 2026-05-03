@@ -1,6 +1,6 @@
 ---
 week: 4
-page: 3
+page: 4
 title: Research & Analysis — Synthesis vs. Summary
 type: video-script
 created: 2026-03-24

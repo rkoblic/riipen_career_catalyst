@@ -1,6 +1,6 @@
 ---
 week: 4
-page: 4
+page: 5
 title: Strategy & Planning — The "So What" Move
 type: video-script
 created: 2026-03-24

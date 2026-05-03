@@ -22,11 +22,13 @@ competencies:
 
 # Context Analysis & Project Plan
 
-Every deliverable you produce in a professional context answers a version of the same question: what do you know, what does it mean, and what should we do about it? The Context Analysis & Project Plan is no different.
+Every deliverable you produce in a professional context answers a version of the same question: what do you know, what does it mean, and what should we do about it? The Context Analysis & Project Plan is your team's first version of that answer.
 
-This document has four parts, and each one serves a distinct purpose. Knowing why each part exists, not just what goes in it, helps you produce something your employer can actually use.
+This document has four parts, each with a distinct purpose. Knowing why each part exists helps you produce something your employer can actually use.
 
-When you submit this deliverable, it's automatically shared with your employer. They'll read it ahead of your next check-in — the Direction Check — and it forms the basis of that conversation. You're not writing this for a grade; you're writing it for the person who needs to decide whether your team is on the right track.
+This page covers what each part is for, how the parts work together, the rubric, and how to produce the document as a team. The pages that follow go deeper: **Using AI** covers how to apply AI to this kind of analytical work, and **Research & Analysis** and **Strategy & Planning** walk through how to do the work for each part of the deliverable.
+
+When you submit this deliverable, it's automatically shared with your employer. They'll read it ahead of your next check-in, the Direction Check, and it forms the basis of that conversation.
 
 **[TEMPLATE: Context Analysis & Project Plan]**
 
@@ -41,19 +43,19 @@ This shouldn’t just be a restatement of the brief. It should provide evidence 
 
 ### Part 2: Research findings (~1.5–2 pages)
 
-**Purpose:** Shows what your team learned through independent research and — critically — what it means for the project.
+**Purpose:** Shows what your team learned through independent research and what it means for the project.
 
-Your employer knows their organization from the inside. What they might not have is an outside perspective. This section is where you bring something new to the table: patterns you noticed, gaps you identified, context the employer may not have considered. The value isn't in the facts themselves — it's in the synthesis.
+Your employer knows their organization from the inside. What they might not have is an outside perspective. This section is where you bring something new to the table: patterns you noticed, gaps you identified, context the employer may not have considered. Synthesis is what makes this section valuable, not the facts themselves.
 
 ### Part 3: Strategic implications (~1 page)
 
-**Purpose:** Connects your research to a point of view on the project — what you think it means and what you recommend.
+**Purpose:** Connects your research to a point of view on the project: what you think it means and what you recommend.
 
-This is the section your employer cares about most. It's where you move from describing what you found to saying what should happen as a result. A strong strategic implications section gives the employer confidence that your team can turn findings into tangible recommendations.
+This is the section your employer cares about most. It's where you move from describing what you found to saying what should happen as a result. A strong strategic implications section gives the employer confidence that your team can turn findings into recommendations.
 
 ### Part 4: Project plan (~1.5–2 pages)
 
-**Purpose:** Tells the employer what to expect — what you'll deliver, when, what you consider to be out of scope, and what might go wrong.
+**Purpose:** Tells the employer what to expect: what you'll deliver, when, what you consider to be out of scope, and what might go wrong.
 
 Your employer is investing their time in this project. A clear plan with named tradeoffs and identified risks tells them your team is being realistic. It also gives them a chance to course-correct before you start building.
 
@@ -61,9 +63,9 @@ Your employer is investing their time in this project. A clear plan with named t
 
 ## How the parts connect
 
-The four parts build on each other. Part 1 establishes credibility. Part 2 provides the evidence base. Part 3 draws conclusions from that evidence. Part 4 translates those conclusions into action. If any part is weak, the parts that follow it are undermined.
+The four parts depend on each other. If your research isn't strong, your strategic implications have nothing to stand on. If your strategic implications aren't sharp, your project plan is just project management. And none of it lands if Part 1 hasn't shown the employer your team understands the context.
 
-Parts 3 and 4 are only as strong as the research in Part 2, and that research only works if Part 1 has shown your team understands the context. Treat the document as a connected argument, not four independent sections.
+Treat the document as a connected argument, not four independent sections.
 
 ---
 
@@ -79,13 +81,13 @@ The deliverable is assessed on five dimensions, equally weighted at 20% each:
 - **Planning quality.** Is the project plan realistic and specific? Does it reflect deliberate scoping decisions, named risks, and a timeline your team can actually meet?
 - **Document quality.** Does the document read as a coherent whole? Is the writing clear, professional, and consistent across sections?
 
-The deliverable is assessed on the quality of your research and reasoning. If the employer later redirects your approach at the Direction Check, that doesn't reflect poorly on this submission. Pivots based on employer feedback are expected and are evidence of responsiveness, not failure.
+The deliverable is assessed on the quality of your research and reasoning. If the employer later redirects your approach at the Direction Check, that doesn't reflect poorly on this submission. Pivots after employer feedback are expected; they show your team is responsive.
 
 ---
 
 ## A note on project types
 
-The analytical skills this week teaches — synthesizing research, reasoning from evidence, identifying risks, making tradeoffs — apply to every project. But the specific research and strategic thinking will look different depending on what your team is working on.
+The analytical skills this week teaches apply to every project: synthesizing research, reasoning from evidence, identifying risks, making tradeoffs. The specific research and strategic thinking will look different depending on what your team is working on.
 
 To make this concrete, the guidance on the following pages uses three running examples:
 
@@ -99,10 +101,10 @@ Your project may not match any of these exactly, but the examples show how the s
 
 ## How to produce this as a team
 
-Producing a strong team document doesn't happen by dividing sections, writing in isolation, and stapling the parts together. Here's a workflow that produces better results:
+A strong team document needs more than dividing sections and writing in isolation. The workflow below builds in synthesis and integration:
 
-1. **Individual research.** Each team member takes responsibility for specific research areas. Divide by topic, not by document section, so your research has depth. For the social media project, that might mean one person owns competitor analysis, another owns audience research, another owns platform and format trends, and another owns the employer's current presence — everyone's findings then feed into all four parts of the document, rather than each person owning a section.
-2. **Team synthesis meeting.** Come together to share what you found. The goal isn't to present polished summaries; it's to get your findings into the room so the team can think together about what they mean. This is where you agree on the strategic direction before anyone starts drafting. Come into this meeting ready to advocate for what you found and to update your view if the team's synthesis points somewhere else. Individual research builds conviction, which is useful when you're making a case, but the goal of this meeting is the team's shared direction.
+1. **Individual research.** Each team member takes responsibility for specific research areas. Divide by topic rather than by document section, so your research has depth. For the social media project, that might mean one person owns competitor analysis, another owns audience research, another owns platform and format trends, and another owns the employer's current presence. Everyone's findings then feed into all four parts of the document, rather than each person owning a section.
+2. **Team synthesis meeting.** Come together to share what you found. The goal is to get findings into the room so the team can think about what they mean and agree on a strategic direction before anyone starts drafting. Come ready to advocate for your view and update it if the team's synthesis points somewhere else. Individual research builds conviction, which is useful when you're making a case, but the meeting is about the team's shared direction.
 3. **Individual drafting.** With a shared direction agreed on, each person drafts their assigned sections. This works better after synthesis because everyone is writing toward the same argument.
 4. **Async cross-review.** Before integration, each team member reads at least one other person's section. Look for gaps, inconsistencies, unsupported claims, and places where sections contradict each other.
 5. **Integration pass.** This is where the document goes from four pieces to one. Someone (or the whole team) reads the full document end to end and fixes transitions, tone shifts, redundancies, and contradictions.
@@ -120,56 +122,6 @@ During the integration pass, look for:
 - **Contradictions.** Does the research section claim one thing while the strategic implications section assumes another? Resolve it.
 
 AI can be a useful editor for this step. Try asking it to identify inconsistencies, flag unclear transitions, or highlight places where sections seem to contradict each other.
-
----
-
-## Using AI
-
-### Getting oriented
-
-Some of the work this week may involve methods, frameworks, or research directions you haven't encountered before. That's expected. Part of professional work is figuring out how to do something you haven't done before, and AI is genuinely useful here for getting oriented fast.
-
-**Figure out what to research.** If you're looking at your project brief and aren't sure where to start, ask AI to help you scope the work.
-
-> "Our team is working on [brief description of the project — type of deliverable, industry/sector, what the employer is looking for]. For a context analysis and project plan, what kinds of research should we be doing? What would strong strategic implications look like for this type of project? What are common risks for projects like this?"
-
-**Get a plain-language explanation of an unfamiliar method.** If you've never done a competitive analysis or a stakeholder map, ask AI to explain what it is, what the output typically looks like, and what steps are involved.
-
-> "Explain what a competitive analysis is in the context of a consulting project. What does the final output typically look like? What are the key steps to produce one?"
-
-**Ask for a framework tailored to your project.** Generic frameworks are a starting point, but your project has specific constraints. Ask AI to help you adapt.
-
-> "Our team is working on [project description]. We need to do a stakeholder analysis. Who are the likely stakeholders we should consider, and what framework would make sense for mapping them given [specific context]?"
-
-**Pressure-test your approach.** Once you've drafted a section or chosen a method, ask AI to poke holes in it.
-
-> "Here's our draft competitive analysis for [project]. What are we missing? What questions would a senior consultant ask about this analysis?"
-
-**Important:** AI can help you figure out what to look into and how to approach it. It can't do *your* research or *your* analysis. The frameworks are generic; the application to your specific project requires your judgment and your team's understanding of the employer's context.
-
-At the Direction Check, your employer will ask about your findings and your reasoning. "AI told us to look at competitor pricing" is not a defensible answer. "We researched competitor pricing because our initial scoping suggested it was a key factor, and here's what we found" is. Use AI to orient yourself, then make the work your own.
-
-### Going deeper: prompting techniques that help with complex work
-
-The prompting principles from earlier in the course (give context, ask for options, challenge assumptions) will get you through most tasks. For the more complex analytical work this week requires, a few additional techniques are worth knowing.
-
-**Have a conversation, not a one-shot exchange.** The best results come from iterative prompting: start with a broad question, review what AI gives you, then follow up with more specific questions based on what you see. Instead of crafting one perfect prompt, treat it as a back-and-forth conversation. "What are the main competitors in this space?" → "Tell me more about Competitor B. What do they do differently?" → "How does that compare to what our employer is doing?" Each round gets more specific and more useful.
-
-**Ask AI to show its reasoning.** When you need AI to work through something complex, ask it to think step by step rather than just give you an answer. "Walk me through how you'd approach a stakeholder analysis for this type of project, step by step" produces more useful output than "Do a stakeholder analysis." You can evaluate each step and catch where AI's reasoning goes off track.
-
-**Give AI examples of what you want.** If you want AI output in a specific format or style, show it an example first. "Here's an example of a strong research finding from a different project: [example]. Now write a finding in the same format for our research on [topic]." This works especially well for getting consistent formatting across team members' contributions.
-
-**Build a project workspace.** Most AI tools let you create a persistent project or conversation with uploaded context. In ChatGPT, these are called Custom GPTs or Projects. In Google's Gemini, they're called Gems. In Claude, you can use Projects. Upload your project brief, your kickoff summary, your research notes, and any other key documents. This means you don't have to re-explain your project every time you start a new conversation. The AI already has the context, so your prompts can be more specific and the responses more relevant. This is especially useful when multiple team members are using AI for different parts of the same project. If everyone works from the same project workspace, the AI's responses stay consistent with the team's shared context.
-
-If you want to go deeper on any of these techniques:
-
-[CURATED LINK: "Prompt Engineering 101: Understanding Zero-Shot, One-Shot, and Few-Shot" (~8 min read) — Codecademy — https://www.codecademy.com/article/prompt-engineering-101-understanding-zero-shot-one-shot-and-few-shot] Beginner-friendly walkthrough of the main prompting techniques (zero-shot, one-shot, few-shot) with practical examples showing when and why to use each one. Good foundation for understanding the techniques described above.
-
-Building a project workspace looks different depending on which AI tool your team uses. Pick the guide that matches your tool:
-
-- [CURATED LINK: "Creating a GPT" — OpenAI Help Center — https://help.openai.com/en/articles/8554397-creating-a-gpt] Official guide to building a Custom GPT in ChatGPT. Covers setup, uploading knowledge files, and configuring instructions.
-- [CURATED LINK: "What is Claude Projects? How It Works" — Elephas — https://elephas.app/blog/claude-projects] Practical guide to Claude Projects covering setup, uploading files, and custom instructions. Useful if your team uses Claude.
-- [CURATED LINK: "Tips for Creating Custom Gems" — Google — https://support.google.com/gemini/answer/15235603?hl=en] Google's official guide to building Gems in Gemini. Covers how to set up a custom Gem with instructions and context for your project.
 
 ---
 
