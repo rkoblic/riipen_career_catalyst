@@ -11,7 +11,7 @@ status: draft
 
 Your team sent the Final Deliverables to the employer at the end of last week. More than ten weeks of research, analysis, drafts, revisions, and a professional relationship built from scratch, now in the hands of the people who commissioned the work. That is a real accomplishment, and worth naming before the week moves on. Most of what your team built did not exist the day this course started.
 
-What's left is the three forms the work still has to take before the course closes: a presentation delivered live to the employer, a reflection that turns the past fifteen weeks into something you can carry forward, and a peer evaluation that closes the feedback loop with your teammates. Each of those forms asks something different of you, and none of them lives well at the last minute. This week is when all three start moving in parallel.
+What's left is the three forms the work still has to take before the course closes: a live presentation to the employer, a final reflection that pulls fifteen weeks into something you can carry forward, and a peer evaluation for your teammates. Each asks something different of you, and none of them lives well at the last minute. This week is when all three start moving in parallel.
 
 [VIDEO: The experience you can point to]
 
@@ -34,7 +34,7 @@ Reflection #5 and the End-of-Project Peer Evaluation are structured to open this
 
 **Reflection #5 is the most demanding reflection in the portfolio.** The earlier reflections asked you to examine a specific moment. This one asks you to look across the full fifteen-week arc and choose the single most important thing you learned about yourself as a professional. That is a harder analytical move, and the anchor you select gets stronger the longer you have to think about it. Learners who wait until the final sitting tend to reach for whatever is most recent, which is rarely the strongest material.
 
-**The End-of-Project Peer Evaluation needs behavioral evidence from across the whole project.** Assembling specific examples of teammates' behavior from fifteen weeks ago, twelve weeks ago, six weeks ago, and this week is a memory task that gets meaningfully harder under time pressure. Starting this week means you gather evidence while the earlier phases are still retrievable, and you enter next week already knowing where your evidence is thin rather than discovering it at midnight.
+**The End-of-Project Peer Evaluation needs behavioral evidence from across the whole project.** Assembling specific examples of teammates' behavior from fifteen weeks ago, twelve weeks ago, six weeks ago, and this week is a memory task that gets harder under time pressure. Starting this week means you gather evidence while the earlier phases are still retrievable, and you enter next week already knowing where your evidence is thin rather than discovering it at midnight.
 
 **Next week is already full.** The Final Presentation is graded, live, and carries its own preparation load. Stacking a full reflection and a full peer evaluation on top of presentation day is the scenario this week is structured to prevent. Beginning both now distributes the cognitive load across two weeks rather than compressing it into the last one. The time budget for next week assumes you show up with Reflection #5 already drafted through Examine and with peer-evaluation evidence already gathered. If you wait, next week stops being manageable.
 

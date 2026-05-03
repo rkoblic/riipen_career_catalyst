@@ -87,7 +87,7 @@ This is the analytical move that raises a surface reflection into a professional
 
 The surface version names the lesson. "I learned that communication matters in team projects." That sentence is technically true of almost every team project anyone has ever done. It does not describe you.
 
-The professionally articulated version names what specifically changed in how you work. "I learned that my default under time pressure is to over-explain when a teammate pushes back, which slows the team down. I started catching it around the draft-deliverable stage and have been asking shorter clarifying questions since." That sentence is specific to you and anchored in the project. It is also transferable. Another team in another setting could trigger the same pattern, and you now know how you respond to it.
+The professionally articulated version names what changed in how you work. "I learned that my default under time pressure is to over-explain when a teammate pushes back, which slows the team down. I started catching it around the draft-deliverable stage and have been asking shorter clarifying questions since." That sentence is specific to you and anchored in the project. It is also transferable. Another team in another setting could trigger the same pattern, and you now know how you respond to it.
 
 The rubric calls this Articulation of Learning. It is one of four dimensions the reflection is assessed on, and it is the dimension where the depth bar is highest for Reflection #5. If the reflection's articulated learning could have been written by any learner in any project, it has not met the standard regardless of how well the other sections are written.
 
@@ -115,7 +115,7 @@ AI disclosure is required on the submission next week.
 
 ### How to use this week's drafting time
 
-Try to spend about an hour thinking through your reflection this week. The goal for this sitting is to scan the full arc of the course, land on a candidate anchor, and draft the Describe and Examine stages of the DEAL response. Articulate and Learn are the hardest stages of Reflection #5, and they benefit from the final week of rehearsal and presentation experience that will happen between this draft and the submission.
+Try to spend about an hour thinking through your reflection this week. The goal for this sitting is to land on a candidate anchor after scanning the full arc of the course, then draft the Describe and Examine stages of the DEAL response. Articulate and Learn are the hardest stages of Reflection #5, and they benefit from the final week of rehearsal and presentation experience that will happen between this draft and the submission.
 
 A workable split across the hour:
 
