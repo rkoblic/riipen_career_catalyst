@@ -12,9 +12,9 @@ competencies:
 
 # Reviewing your teammates' work
 
-Reading a colleague's work and giving them feedback that actually improves it is one of the most reliable habits of professional teams. It happens on every collaborative project, in every role that produces something a client or stakeholder will use. Done well, it makes the final piece better than any one person could have made alone.
+You'll review pieces of your teammates' work this week. This page is the framework for doing that well: how to read a draft critically and how to give feedback your teammate can use.
 
-It's also one of the more transferable skills you'll build in this course. Reviewing work and giving useful feedback is a core managerial habit, and it's become even more valuable as AI tools produce more first drafts than ever. The critical reading involved (does this hold up, does the evidence support what it's being used for) is the same skill that separates strong use of AI from blind trust in it. It's an employable skill in its own right.
+Reading drafts well is also a core managerial habit, and it's become more valuable as AI tools produce more first drafts than ever. The same critical reading (does this hold up, does the evidence support what it's being used for) separates strong use of AI from blind trust in it.
 
 [VIDEO: Structural feedback vs. line editing]
 

@@ -20,7 +20,7 @@ Professional documents need to be written so a reader can act on them. The resea
 
 The video above walks through two concrete before/after examples showing the difference between academic-style and professional-style writing. The key moves are the same regardless of project type.
 
-Most of the writing experience you've built up to this point has been academic, and academic writing has its own conventions about structure, voice, and how arguments get built. Those conventions don't all carry over to professional documents, and a few of them actively work against you. The table below names the main differences so you can spot the academic habits in your own draft and decide where to revise.
+If your writing experience so far has been mostly academic, you've picked up conventions about structure, voice, and how arguments get built. Those conventions don't all carry over to professional documents, and a few of them actively work against you. The table below names the main differences so you can spot any academic habits in your own draft and decide where to revise.
 
 **Academic vs. professional writing: key distinctions**
 
@@ -32,11 +32,13 @@ Most of the writing experience you've built up to this point has been academic, 
 | Uses passive voice to appear objective ("it is recommended")         | Uses active voice because it's clearer ("we recommend")                                      |
 | Assumes a reader who will work through the argument                  | Assumes a reader who will skim first; headers and short paragraphs are not stylistic choices |
 
+[CURATED LINK: "The Difference Between Academic and Professional Writing: A Helpful Guide" (article, ~8 min) — Penn LPS Online, University of Pennsylvania — https://lpsonline.sas.upenn.edu/features/difference-between-academic-and-professional-writing-helpful-guide] A thorough guide to how academic and professional writing differ in purpose, audience, and approach. Useful for understanding the full register shift your deliverable requires, not just individual stylistic habits.
+
 ---
 
 ## Applying this to your draft
 
-Knowing the distinctions is one thing. Sitting down with a draft you've already written is another. Four concrete revision moves:
+Try these four moves on your current draft:
 
 1. **Find your main claim in each section.** If it's not in the first paragraph, move it there. Everything else becomes evidence or elaboration, not setup.
 
@@ -65,7 +67,7 @@ The question to ask is whether the confidence in the sentence matches the confid
 
 ## What "polished" vs. "complete" means
 
-There's a distinction worth holding onto as you move into full production. A document can be complete without being polished, and polished without being complete. Both are problems.
+There's a distinction worth holding onto as you move into the development work. A document can be complete without being polished, and polished without being complete. Both are problems.
 
 A complete document contains all the required sections and covers the necessary ground. A polished document is one a reader can navigate quickly and trust. A first draft is often complete: the research is there, the sections are filled in, the logic holds. It's rarely polished. Polishing is the work of taking a document from "everything is technically in here" to "a reader can find what they need quickly and act on it."
 
@@ -74,7 +76,3 @@ In a client context, the prose itself is where most of the polishing work happen
 *Example: A community outreach team submits a report whose recommendations section opens with "It may be argued that further consideration could be given to expanding outreach efforts in underserved demographics." Three paragraphs later, a directly written sentence appears: "We recommend opening a second location in the East District by Q3, funded by reallocating the current mobile outreach budget." Both sentences are complete. Only one is usable. A polished document has every sentence at the second register, because the team did the work of revising rather than just writing.*
 
 The formatting standards from earlier in the course handle the structural side of polish. The writing moves on this page handle the prose side. A deliverable needs both.
-
----
-
-[CURATED LINK: "The Difference Between Academic and Professional Writing: A Helpful Guide" (article, ~8 min) — Penn LPS Online, University of Pennsylvania — https://lpsonline.sas.upenn.edu/features/difference-between-academic-and-professional-writing-helpful-guide] A thorough guide to how academic and professional writing differ in purpose, audience, and approach. Useful for understanding the full register shift your deliverable requires, not just individual stylistic habits.

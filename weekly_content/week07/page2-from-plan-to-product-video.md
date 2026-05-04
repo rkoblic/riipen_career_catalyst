@@ -10,7 +10,7 @@ status: draft
 
 # Video Script: From Plan to Product — What professional deliverables look like
 
-The difference between a draft that impresses a professor and a draft that works for a client comes down to one thing. A client needs to act on it.
+A professional document has to be something the client can act on. That goal shapes how you write at the sentence level.
 
 Here's the same research finding written two ways. Imagine an environmental sustainability audit team turning in a sentence like this. "Based on an extensive review of the academic literature and industry benchmarks, it has been determined that the organization's current energy consumption patterns reflect systemic inefficiencies with broad implications for long-term operational sustainability." That sentence is complete. It's also unusable. A client reading it can't do anything with "broad implications for long-term operational sustainability."
 

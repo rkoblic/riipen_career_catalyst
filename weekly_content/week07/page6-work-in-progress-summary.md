@@ -12,7 +12,7 @@ competencies:
 
 # The Work-in-Progress Summary
 
-Before any meeting that matters, project teams write things down. Not always for the client to read. Often for the team itself, to make sure everyone is aligned on where the work actually stands and what they're going to ask for. Project leads draft talking points before client calls. Consulting teams produce internal prep notes before stakeholder meetings. The act of getting the situation onto a page is what surfaces the gaps a team would otherwise walk into the meeting still carrying.
+Professional teams often write something down before a meeting that matters, and the writing isn't always for the client. Sometimes it's for the team itself: a way to make sure everyone is aligned on where the work stands and what they need before walking in. A project lead might draft talking points before a client call. A consulting team might assemble internal notes for a stakeholder meeting. Either way, the point is what the writing surfaces: gaps the team would otherwise carry into the meeting unexamined.
 
 The Work-in-Progress Summary is your team's version of that practice. It is the checkpoint deliverable for this week, submitted before your Development Check-In #1 meeting. Its job is to make your team articulate its own situation in writing before the meeting, so that you walk in aligned with each other and clear on what you need.
 

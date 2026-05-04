@@ -2,7 +2,7 @@
 
 ## Pushing content to Canvas — full editorial workflow
 
-To get the **same quality as the hand-built weeks 1-5 pages** (callouts, comparison columns, expand/collapse, key principle wraps), the conversion has to go through Claude's editorial judgment, not the deterministic Python script.
+To get the **same quality as the hand-built weeks 1-2 pages** (callouts, comparison columns, expand/collapse, key principle wraps), the conversion has to go through Claude's editorial judgment, not the deterministic Python script.
 
 ### The right command for polished pages
 

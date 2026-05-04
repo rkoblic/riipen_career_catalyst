@@ -16,9 +16,9 @@ competencies:
 
 # Development Check-In #1
 
-Working meetings to unblock production are a routine professional rhythm. Once a project is underway, teams meet with the people they're producing the work for to surface questions and get the input they need to keep moving. These are not status presentations and they are not approval gates. They are short, working conversations where the team comes in with specific questions and the client or sponsor acts as a resource.
+Working meetings to unblock development are a routine professional rhythm. Once a project is underway, teams meet with the people they're producing the work for to surface questions and get the input they need to keep moving. These are not status presentations and they are not approval gates. They are short, working conversations where the team comes in with specific questions and the client or sponsor acts as a resource.
 
-Development Check-In #1 is your team's first meeting of this kind in the Development phase. It's different from the Direction Check earlier in the course (the meeting where you confirmed the project's overall direction with your employer before starting full production). At the Direction Check, you brought a plan and asked for sign-off. Here, you bring questions about the work you've been building and ask the employer to help you move it forward. The employer is not evaluating a presentation. They are responding to what you bring them.
+Development Check-In #1 is your team's first meeting of this kind in the Development phase. It's different from the Direction Check earlier in the course (the meeting where you confirmed the project's overall direction with your employer before starting development work). At the Direction Check, you brought a plan and asked for sign-off. Here, you bring questions about the work you've been building and ask the employer to help you move it forward. The employer is not evaluating a presentation. They are responding to what you bring them.
 
 The meeting is short, about 30 minutes, and may end early if your team has covered what it needs to. Making it useful is mostly a matter of preparation: knowing what to ask and who's leading what.
 
@@ -30,7 +30,7 @@ The meeting is short, about 30 minutes, and may end early if your team has cover
 
 The most useful questions for a meeting like this have two qualities: they're things your team can't resolve without the employer's input, and they're specific enough that the employer can answer them.
 
-Bring three to five specific questions, in priority order. With only 30 minutes on the clock, you probably won't get to everything, so the most important questions should come first. Examples of the kind of question that earns its time in a working meeting:
+Bring three to five specific questions, in priority order. With only 30 minutes on the clock, you may not get to everything, so the most important questions should come first. Examples of the kind of question that earns its time in a working meeting:
 
 - "We've defined the target audience as [X], but our research suggests [Y] might also be relevant. How do you think about that boundary?"
 - "Our draft recommendation on [topic] depends on whether [assumption] is accurate. Can you confirm?"
