@@ -187,20 +187,20 @@ Used for worked examples, "what this looks like in practice" scenarios, and case
 </div>
 ```
 
-### 10. Checklist Box
+### 10. Checklist
 
-Used for meeting checklists, completion criteria, and reference lists students should check off mentally. Uses text checkboxes since Canvas strips form elements.
+Used for meeting checklists, completion criteria, and reference lists students should check off mentally. Uses text checkboxes since Canvas strips form elements. Renders as a flat sequence of paragraphs — no outer wrapper box, since checklists almost always live inside a Section Body that already provides a container, and a box-within-a-box is visually redundant.
 
 ```html
-<div style="background: white; border: 1px solid #e2e4e9; border-radius: 10px; padding: 18px 22px; margin: 12px 0 20px;">
-  <div style="font-size: 14px; margin-bottom: 10px;"><strong>Checklist Title</strong></div>
-  <p style="font-size: 14px; margin-bottom: 4px;"><span aria-hidden="true">&#9744; </span><strong>Item one</strong> — description</p>
-  <p style="font-size: 14px; margin-bottom: 4px;"><span aria-hidden="true">&#9744; </span><strong>Item two</strong> — description</p>
-  <p style="font-size: 14px; margin-bottom: 0;"><span aria-hidden="true">&#9744; </span><strong>Item three</strong> — description</p>
-</div>
+<p style="font-size: 14px; margin-bottom: 10px;"><strong>Checklist Title</strong></p>
+<p style="font-size: 14px; margin-bottom: 6px;"><span aria-hidden="true">&#9744; </span><strong>Item one</strong> — description</p>
+<p style="font-size: 14px; margin-bottom: 6px;"><span aria-hidden="true">&#9744; </span><strong>Item two</strong> — description</p>
+<p style="font-size: 14px; margin-bottom: 6px;"><span aria-hidden="true">&#9744; </span><strong>Item three</strong> — description</p>
 ```
 
-**Note:** The `&#9744;` renders as ☐. It's wrapped in `aria-hidden="true"` so screen readers skip the symbol and read the text content directly. If Canvas strips `aria-hidden`, the fallback is acceptable — screen readers will announce "ballot box" which is understandable in context.
+**Notes:**
+- The title row is optional. Omit it if the surrounding heading or paragraph already names the checklist.
+- The `&#9744;` renders as ☐. It's wrapped in `aria-hidden="true"` so screen readers skip the symbol and read the text content directly. If Canvas strips `aria-hidden`, the fallback is acceptable — screen readers will announce "ballot box" which is understandable in context.
 
 ### 11. Comparison Columns (Good vs. Bad)
 
@@ -364,9 +364,10 @@ Used for AI use and disclosure information specific to a deliverable or activity
 
 ### 20. Competency Badges
 
-Used at the top of each page (just below the intro paragraph) to show which NACE competencies the page develops. Rendered as small pill-shaped tags. Pull the competency data from the `competencies` field in the page's markdown frontmatter. Omit this component on pages with no competencies listed.
+Used at the very top of each page (before the intro paragraph) to show which NACE competencies the page develops. Rendered as small pill-shaped tags under a "SKILLS YOU'LL PRACTICE" label. Pull the competency data from the `competencies` field in the page's markdown frontmatter. Omit this component on pages with no competencies listed.
 
 ```html
+<p style="font-size: 12px; color: #6b7280; margin: 0 0 6px;">SKILLS YOU'LL PRACTICE</p>
 <div style="margin: 0 0 20px; display: flex; flex-wrap: wrap; gap: 6px;">
   <span style="display: inline-block; background: #f7f8fa; border: 1px solid #e2e4e9; border-radius: 12px; padding: 3px 10px; font-size: 11px; color: #050c2a;">Career &amp; Self-Development: Self-Awareness</span>
   <span style="display: inline-block; background: #f7f8fa; border: 1px solid #e2e4e9; border-radius: 12px; padding: 3px 10px; font-size: 11px; color: #050c2a;">Critical Thinking: Prioritization</span>
@@ -374,10 +375,10 @@ Used at the top of each page (just below the intro paragraph) to show which NACE
 ```
 
 **Notes:**
-- Place directly after the page intro paragraph and before the first section header.
+- Place at the very top of the page, before the intro paragraph and any other content. This sets expectations for what the learner will work on before they start reading.
 - Use one `<span>` per competency. Format: "Area: Subskill".
 - Keep the styling subtle (grey background, small font) so badges inform without dominating the page.
-- On pages with no competency mapping (e.g., pure overview/logistics pages), omit entirely.
+- On pages with no competency mapping (e.g., pure overview/logistics pages), omit entirely — including the "SKILLS YOU'LL PRACTICE" label.
 
 ---
 
@@ -393,7 +394,7 @@ Use this guide to match content types to components:
 | Practical guidance, agendas, structured tips | Info Callout (blue) |
 | Important rules, key distinctions, policies | Key Principle Callout (orange) |
 | Worked examples, "what this looks like" | Scenario Example Box (purple) |
-| Reference checklists, completion criteria | Checklist Box |
+| Reference checklists, completion criteria | Checklist |
 | Good vs. bad, before vs. after | Comparison Columns |
 | Optional or supplementary content | Expand/Collapse Section |
 | AI permissions and disclosure rules | AI Guidance Box (dark blue) |
