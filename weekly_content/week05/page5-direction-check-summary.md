@@ -38,13 +38,19 @@ The Summary has three sections. Each one exists for a reason that's about your t
 
 What the employer communicated, as specifically as possible — what they actually said, not your interpretation of what they meant. Direct quotes are ideal. Paraphrases are acceptable when they're precise. Summaries like "the employer was generally positive" don't meet the bar.
 
+**Example:** When we asked whether scheduling or transportation was the bigger participation barrier, the employer said: "You're right that transportation is part of it, but the bigger issue for us is scheduling. Most of our target group works shifts that don't line up with our current 9-to-5 hours." On the proposed satellite locations, they confirmed both could work but flagged that the eastside community center has parking issues we hadn't accounted for.
+
 ### Section 2: Plan adjustments
 
 What changes based on the feedback. Be concrete: "We're narrowing the user research from five stakeholder groups to two, based on the employer's guidance that the operations team and the end users are the primary audiences." Every adjustment should trace back to something specific from Section 1.
 
+**Example:** We're shifting our recommendation from "satellite locations to address transportation" to "evening and weekend programming, with optional satellite locations." This reflects the employer's feedback that scheduling is the bigger barrier. We're also adding a parking accessibility check to the eastside site assessment.
+
 ### Section 3: Confirmed approach
 
 What stays the same, and why. This section is just as important as the adjustments. It shows that the team thought about the feedback as a whole, and that the parts of your plan that didn't change were deliberate.
+
+**Example:** The two-location pilot structure stays. The employer confirmed both proposed locations work, and we kept the published research as supporting evidence. The employer didn't push back on the methodology, only on which barrier to prioritize.
 
 [TEMPLATE: Direction Check Summary — three-section format (feedback received, plan adjustments, confirmed approach) with prompting questions for each component (~100 words)]
 
@@ -76,9 +82,9 @@ Some of what AI raises will be generic or irrelevant. Some of it will surface a 
 
 ## Using AI
 
-AI can help you organize your notes and clarify your writing after you've captured what was said. It can tighten language, improve structure, and help you spot gaps in your Summary.
+There are two ways to use AI in this checkpoint. When employer feedback is thin, AI can act as a critical reviewer to pressure-test your approach (covered in the section above). For the Summary itself, AI can help you organize your notes, clarify your writing, and spot gaps after you've captured what was said.
 
-AI cannot generate the substance of a conversation it wasn't part of. If your Summary reads like it could have been written before the meeting happened — generic, unspecific, with no reference to what your employer actually communicated — it hasn't met the completion criteria, regardless of how polished the writing is.
+That second role has a limit. AI cannot generate the substance of a conversation it wasn't part of. If your Summary reads like it could have been written before the meeting happened — generic, unspecific, with no reference to what your employer actually communicated — it hasn't met the completion criteria, regardless of how polished the writing is.
 
 Draft from your meeting notes first, then bring AI in to tighten the writing.
 

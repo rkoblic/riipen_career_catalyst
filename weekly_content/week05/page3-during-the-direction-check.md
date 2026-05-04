@@ -20,7 +20,7 @@ competencies:
 
 ## Running the meeting
 
-You own this meeting. You scheduled it, you sent the agenda, and you open it. Welcome everyone, thank them for joining, and start with introductions if there's anyone new on the call. Then set the frame: "You've read our Context Analysis and Project Plan. We'd like to highlight a few key areas and get your feedback on whether we're headed in the right direction."
+You own this meeting. You scheduled it, you sent the agenda, and so you should open it. Welcome everyone, thank them for joining, and start with introductions if there's anyone new on the call. Then check in: "Did you get a chance to look at the document, or would it be more useful if we walked you through the key pieces first?" From there, set the frame: "We'd like to highlight a few key areas and get your feedback on whether we're headed in the right direction."
 
 Follow the structure your team agreed on. The person presenting should focus on being clear and concise. The person taking notes should capture specific language, not just general impressions. If the employer uses a phrase like "what really matters to us is..." or "the one thing I'd push back on is...", write that down verbatim. You'll need it later.
 

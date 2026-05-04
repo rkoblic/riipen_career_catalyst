@@ -14,7 +14,7 @@ competencies:
 
 # Before the Direction Check
 
-The Direction Check is a 30-minute meeting with your employer. It's not a formal presentation with slides. Your employer has already received your Context Analysis & Project Plan. This meeting is a structured conversation where you walk them through your thinking, highlight what matters most, and get their honest reaction before you commit to production.
+Direction Checks go best when teams come in with a plan for the time. This page covers how to structure the conversation, handle harder topics like scope or feasibility gaps, and confirm logistics with the employer.
 
 ---
 
@@ -36,7 +36,7 @@ The video above walks through how to structure a 30-minute document-based meetin
 
 At some point during a project, you may encounter a gap between what the employer expects and what's feasible. Maybe the scope has grown beyond what your team can deliver in the time remaining. Maybe the data they assumed you'd have access to doesn't exist. Maybe their vision for the final deliverable doesn't match the skills or resources available to your team.
 
-This is normal. It happens in every professional engagement, not just course projects. The difference between a team that handles it well and one that doesn't comes down to how early and how clearly they name the gap.
+This is normal. It happens in every professional engagement, not just course projects. Teams that handle it well name the gap early and clearly.
 
 Saying "we can't do that" is professional when it comes with context. "Based on what we've found so far, the original scope would require access to data we don't have. Here's what we can do instead, and here's why we think it still addresses your core question." That's the team doing its job, not failing at it.
 
@@ -46,7 +46,7 @@ The version to avoid is silence: agreeing to something you can't deliver because
 
 ## Preparing for the Direction Check
 
-Preparation makes the difference between a meeting that clarifies and one that wastes everyone's time. You have 30 minutes. Here's how to use them well.
+You have 30 minutes. Here's how to use them well.
 
 **Decide what to highlight (before the meeting):**
 
@@ -78,6 +78,8 @@ Go through your Context Analysis & Project Plan and identify the 2-3 areas where
 - Who tracks time — 30 minutes goes fast, and you don't want to eat into feedback time
 
 If your team uses an AI note-taking tool, set it up before the meeting starts. It's a useful backup, but it's not a replacement for a human notetaker. AI transcripts miss nuance, misattribute speakers, and sometimes get key phrases wrong. You'll want both the transcript and someone on your team actively capturing what matters.
+
+**One last thing — confirm logistics with the employer.** Before the meeting, send a brief message through the Riipen platform with the time, meeting link, who's attending from your team, and a short agenda. Something like "We'd like to highlight a few key areas from our Context Analysis and Project Plan and get your feedback on our proposed approach" is enough.
 
 ---
 
@@ -114,9 +116,3 @@ That's enough to give the employer something to react to without recapping every
 Sometimes the employer raises a concern that pulls the meeting in a different direction than you planned. Follow their lead. What they want to talk about is usually what matters most to them, even if it isn't what you prepared for. Capture what they say carefully, and use the last few minutes to confirm where that leaves your priorities for the next phase.
 
 [INTERACTIVE: Simulated Direction Check scenario. The employer redirects the project in a way the team didn't expect. Learners interpret what the employer is actually asking for, decide how to respond professionally, and identify what to capture for follow-up. Debrief surfaces the difference between reacting defensively and responding constructively. (~8-10 min)]
-
----
-
-## Confirming logistics
-
-Before the meeting, send a brief message to the employer through the Riipen platform confirming the time, meeting link, who will be attending from your team, and a short agenda. The agenda doesn't need to be elaborate. Something like: "We'd like to highlight a few key areas from our Context Analysis and Project Plan and get your feedback on our proposed approach" is enough. It tells the employer what to expect and signals that you have a plan for the time.

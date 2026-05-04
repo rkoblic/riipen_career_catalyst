@@ -9,11 +9,11 @@ status: draft
 
 # Presenting your approach
 
-This is the week your project direction gets confirmed — or redirected. Either outcome is a normal part of professional work.
+This is the week your project direction gets confirmed or redirected. Either outcome is a normal part of professional work.
 
-Everything this week builds toward one event: the Direction Check, a 30-minute meeting with your employer. They've already received your Context Analysis & Project Plan. There are no slides. You walk the employer through your thinking, hear their reaction, and find out whether your approach holds up before you commit to production.
+Most of this week is preparation for the Direction Check, a 30-minute meeting with your employer. They've already received your Context Analysis & Project Plan. There are no slides. You walk the employer through your thinking, hear their reaction, and find out whether your approach holds up before you commit to production.
 
-Before the meeting, you'll work through guidance on how to run this kind of document-based discussion, how to handle scope shifts and difficult conversations, and how to prepare effectively. During the meeting, you'll highlight your key findings and proposed approach, then hear the employer's perspective. After the meeting, you'll debrief as a team, write a Direction Check Summary, and revise your project plan based on the feedback you received.
+Before the meeting, you'll work through guidance on how to run this kind of document-based discussion, how to handle scope shifts and difficult conversations, and how to prepare effectively. During the meeting, you'll highlight your key findings and proposed approach, then hear the employer's perspective. After the meeting, you'll debrief as a team, write a Direction Check Summary, and revise your project plan based on what you heard.
 
 [VIDEO: Presenting for feedback, not approval]
 
@@ -35,4 +35,4 @@ The **Direction Check Summary** is a completion-based team checkpoint. It docume
 6. Debrief immediately after the meeting
 7. Draft and submit the Direction Check Summary
 8. Revise your project plan based on what you heard
-9. Start building your deliverable structures for the production phase ahead
+9. Confirm team setup for production: section ownership, shared-document workflow, draft cadence

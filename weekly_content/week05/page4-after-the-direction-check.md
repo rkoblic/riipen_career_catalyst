@@ -29,7 +29,7 @@ Capture four things:
 - **Points of divergence:** Where did they push back, redirect, or express concern?
 - **Ambiguity:** What was unclear? What do you need to follow up on?
 
-The debrief is the raw material for the Direction Check Summary, not the Summary itself. Use it to surface what was heard as a team; the Summary, written afterward, is where the team records what was decided.
+The debrief provides the raw material for the Direction Check Summary, which is this week's checkpoint. Use it to surface what was heard as a team; then summarize what you decided as a team in the Summary.
 
 ---
 

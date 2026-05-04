@@ -10,7 +10,7 @@ status: draft
 
 # Video script: How to walk through a document with a stakeholder
 
-You have 30 minutes, and the employer already has your document. Starting at Part 1 and walking through everything in order is a mistake. You'll run out of time before you reach the parts where you actually need their input.
+You have 30 minutes. Going through every part of the document in order won't leave you time for the parts where you actually need input.
 
 Open by framing the conversation. Tell the employer you'd like to highlight a few key areas and then get their feedback, rather than walk through the whole document. That signals you're going to use the time well.
 
