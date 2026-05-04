@@ -13,7 +13,7 @@ design_doc: week09-design-doc.md
 
 ## Content Architecture
 
-Week 9 is a **Pattern D (multiple anchors)** week — the densest in the Development phase. Three anchors run in parallel: the Draft Deliverable checkpoint (team submission), Check-In #2 (employer meeting, questions-based), and Reflection #3 (graded individual). Module content in this week serves two distinct anchor clusters: 9.02–9.04 feed the Draft Deliverable directly, and 9.14 feeds the Reflection. The Team Processing Session (9.06) is project work rather than instructional content, but module 9.05 serves as its direct preparation. Check-In #2 follows the same before/during/after structure established in Weeks 3, 5, and 7 — learners are familiar with the pattern, so these pages are lighter. The week reduces to eight content pieces: Week Overview → Strengthening Your Draft → Peer Evaluation Conversation → Check-In #2 Before/During/After (three pages) → Reflection #3 → What's Next.
+Week 9 is a **Pattern D (multiple anchors)** week — the densest in the Development phase. Three anchors run in parallel: the Draft Deliverable checkpoint (team submission), Development Check-In #2 (employer meeting, questions-based), and Reflection #3 (graded individual). Module content in this week serves two distinct anchor clusters: 9.02–9.04 feed the Draft Deliverable directly, and 9.14 feeds the Reflection. The Team Processing Session (9.06) is project work rather than instructional content, but module 9.05 serves as its direct preparation. Development Check-In #2 follows the same before/during/after structure established in Weeks 3, 5, and 7 — learners are familiar with the pattern, so these pages are lighter. The week reduces to eight content pieces: Week Overview → Strengthening Your Draft → Peer Evaluation Conversation → Development Check-In #2 Before/During/After (three pages) → Reflection #3 → What's Next.
 
 ---
 
@@ -23,7 +23,7 @@ Week 9 is a **Pattern D (multiple anchors)** week — the densest in the Develop
 **Type:** Orientation text + AI-generated video
 **Absorbs:** 9.01
 
-Orients learners to the week's triple structure: production modules + Draft Deliverable checkpoint, Team Processing Session using peer eval and employer survey results, and Check-In #2. Names the Draft Deliverable and Reflection #3 as the graded deliverables. Notes that peer evaluation results and employer mid-project survey results are available this week and will anchor the Team Processing Session. Suggests order of completion.
+Orients learners to the week's triple structure: production modules + Draft Deliverable checkpoint, Team Processing Session using peer eval and employer survey results, and Development Check-In #2. Names the Draft Deliverable and Reflection #3 as the graded deliverables. Notes that peer evaluation results and employer mid-project survey results are available this week and will anchor the Team Processing Session. Suggests order of completion.
 
 **Sub-elements:**
 - Week framing: why this week is a convergence point — production, feedback, and employer meeting simultaneously (AI-generated video, ~1–2 min)
@@ -92,27 +92,27 @@ Module 9.05 directly prepares learners for the Team Processing Session (9.06). T
 
 ---
 
-### 4. Check-In #2 — Before
+### 4. Development Check-In #2 — Before
 **Type:** Assignment prompt with embedded guidance
 **Absorbs:** 9.08
 
-Preparation page for Check-In #2. Learners are now in their third employer meeting prep — the pattern is established. Page is lighter than Week 7's before-meeting content. Focuses on how preparation at Week 9 is different: questions are now informed by production experience, peer evaluation results, and internal review findings. Status update is brief.
+Preparation page for Development Check-In #2. Learners are now in their third employer meeting prep — the pattern is established. Page is lighter than Week 7's before-meeting content. Focuses on how preparation at Week 9 is different: questions are now informed by production experience, peer evaluation results, and internal review findings. Status update is brief.
 
 **Sub-elements:**
 - How Week 9 prep differs from Week 7: questions are more specific, informed by more sources (AI-generated text, ~150 words)
 - How to develop your question list for this meeting: production challenges, scope decisions, quality concerns; what to bring from the internal review gate (AI-generated text, ~200 words)
-- The brief status update: 5 min, progress since Check-In #1, what's in the Draft Deliverable (AI-generated text, ~100 words)
+- The brief status update: 5 min, progress since Development Check-In #1, what's in the Draft Deliverable (AI-generated text, ~100 words)
 - Agenda structure reference (light checklist, ~50 words)
 
 **Time check:** 9.08 (45 min) → ~500 words text (~2–3 min reading) + prep work (~40 min). ✓
 
 ---
 
-### 5. Check-In #2 — During
+### 5. Development Check-In #2 — During
 **Type:** Assignment prompt with embedded guidance
 **Absorbs:** 9.09
 
-Meeting-day reference for the questions-based Check-In #2 format. Brief — learners have been through this pattern twice before (Weeks 5 and 7). Notes the employer observation window and the near-final package preview at the close.
+Meeting-day reference for the questions-based Development Check-In #2 format. Brief — learners have been through this pattern twice before (Weeks 5 and 7). Notes the employer observation window and the near-final package preview at the close.
 
 **Sub-elements:**
 - Meeting structure reminder: brief status (5 min) → student questions (35–40 min) → employer observations (10 min) → near-final package preview (5 min) (AI-generated text, ~150 words)
@@ -123,7 +123,7 @@ Meeting-day reference for the questions-based Check-In #2 format. Brief — lear
 
 ---
 
-### 6. Check-In #2 — After
+### 6. Development Check-In #2 — After
 **Type:** Assignment prompt with embedded guidance
 **Absorbs:** 9.10
 
@@ -178,7 +178,7 @@ Brief page bridging to Week 10. Production continues — Week 10 introduces the 
 | 9.12 — Continue project production | 90 min | Project work block; applying module content from page 2 |
 | 9.13 — Async team communication | 45 min | Project coordination; standing prompts (Weekly Progress Check-In, Status Update to Employer) are not new content |
 
-**Total no-content time:** 215 min. The remaining ~360 min is distributed across structured activities (Check-In #2, Team Processing, internal review gate) and reflection drafting — all of which have content pieces.
+**Total no-content time:** 215 min. The remaining ~360 min is distributed across structured activities (Development Check-In #2, Team Processing, internal review gate) and reflection drafting — all of which have content pieces.
 
 ---
 
@@ -189,9 +189,9 @@ Brief page bridging to Week 10. Production continues — Week 10 introduces the 
 - [ ] **Page 1 — Week 9 Overview** (Orientation text + AI-generated video)
 - [ ] **Page 2 — Strengthening Your Draft** (Assignment prompt with embedded guidance)
 - [ ] **Page 3 — Having the Peer Evaluation Conversation** (Standalone module)
-- [ ] **Page 4 — Check-In #2: Before** (Assignment prompt with embedded guidance)
-- [ ] **Page 5 — Check-In #2: During** (Assignment prompt with embedded guidance)
-- [ ] **Page 6 — Check-In #2: After** (Assignment prompt with embedded guidance)
+- [ ] **Page 4 — Development Check-In #2: Before** (Assignment prompt with embedded guidance)
+- [ ] **Page 5 — Development Check-In #2: During** (Assignment prompt with embedded guidance)
+- [ ] **Page 6 — Development Check-In #2: After** (Assignment prompt with embedded guidance)
 - [ ] **Page 7 — Reflection #3** (Reflection prompt)
 - [ ] **Page 8 — What's Next** (Transitional prompt)
 
@@ -217,4 +217,4 @@ Brief page bridging to Week 10. Production continues — Week 10 introduces the 
 - [ ] **Peer evaluation and employer survey release timing** (Open Question #1 in design doc): Page 3 and the Overview assume results are available before the Team Processing Session. If release is delayed, Page 3 content needs adjustment. Flag for platform/instructor workflow decision.
 - [ ] **Team processing agreement format** (Open Question #2 in design doc): template on Page 3 is lightweight by design; confirm whether to add more structure after pilot.
 - [ ] **Draft Deliverable completion criteria** (Open Question #4 in design doc): Page 2 should include a brief note on what "substantive progress" means without over-prescribing. Clarify before content production.
-- [ ] **Check-In #2 cross-reference**: Pages 4–6 follow the same structure as Week 7 Check-In #1 pages — confirm consistent format before writing.
+- [ ] **Development Check-In #2 cross-reference**: Pages 4–6 follow the same structure as Week 7 Development Check-In #1 pages — confirm consistent format before writing.

@@ -14,7 +14,7 @@ competencies:
 
 Before any meeting that matters, project teams write things down. Not always for the client to read. Often for the team itself, to make sure everyone is aligned on where the work actually stands and what they're going to ask for. Project leads draft talking points before client calls. Consulting teams produce internal prep notes before stakeholder meetings. The act of getting the situation onto a page is what surfaces the gaps a team would otherwise walk into the meeting still carrying.
 
-The Work-in-Progress Summary is your team's version of that practice. It is the checkpoint deliverable for this week, submitted before your Check-In #1 meeting. Its job is to make your team articulate its own situation in writing before the meeting, so that you walk in aligned with each other and clear on what you need.
+The Work-in-Progress Summary is your team's version of that practice. It is the checkpoint deliverable for this week, submitted before your Development Check-In #1 meeting. Its job is to make your team articulate its own situation in writing before the meeting, so that you walk in aligned with each other and clear on what you need.
 
 ---
 
@@ -74,7 +74,7 @@ What AI cannot do is the part of the exercise that actually matters: the thinkin
 
 ## Submission
 
-**Work-in-Progress Summary** — team submission, due before your Check-In #1 meeting.
+**Work-in-Progress Summary** — team submission, due before your Development Check-In #1 meeting.
 
 Submit as a team before the meeting begins. The submission is a completion-based checkpoint: verified, not graded for quality. A summary submitted after the meeting has already happened cannot serve its purpose, since the purpose is to prepare your team for the conversation. Late submissions do not meet the standard.
 

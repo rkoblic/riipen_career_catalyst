@@ -116,7 +116,7 @@ Frame the transition, not the logistics. "You've just heard from the employer ab
 Always present. 2–4 short paragraphs. Cover:
 - **What it is.** A one-sentence working definition.
 - **Why it matters.** The professional analogue or the learning purpose.
-- **What's different.** When the milestone is part of a recurring sequence (employer touchpoints, reflections, deliverables), name how this instance differs from the prior one. The Check-In #1 page should not read like the Direction Check page.
+- **What's different.** When the milestone is part of a recurring sequence (employer touchpoints, reflections, deliverables), name how this instance differs from the prior one. The Development Check-In #1 page should not read like the Direction Check page.
 - **What success looks like.** Optional. A short line on what a strong version of this milestone produces.
 
 Do not re-explain the milestone in detail. The milestone has its own page. The what's-next page sets up that page.
@@ -165,7 +165,7 @@ Document the reason in a one-line author comment in the page if the variant is u
 
 Run this checklist before publishing. Each item asks whether a course-wide thread is alive in the next week. If yes, the what's-next page should surface it briefly — usually one bullet in the prep section, sometimes its own H2 (see *Third H2 permitted*).
 
-- **Employer touchpoint coming?** Name it specifically. Distinguish working-meetings (the team drives, brings questions) from document-review meetings (the employer pre-reads). The full sequence: Kickoff (W3) → Direction Check (W5) → Check-In #1 (W7) → Check-In #2 (W9) → Near-Final document review (W11) → Final Presentation (W14/15).
+- **Employer touchpoint coming?** Name it specifically. Distinguish working-meetings (the team drives, brings questions) from document-review meetings (the employer pre-reads). The full sequence: Kickoff (W3) → Direction Check (W5) → Development Check-In #1 (W7) → Development Check-In #2 (W9) → Near-Final document review (W11) → Final Presentation (W14/15).
 - **Deliverable due?** Link the rubric. Deliverable checkpoints: W4 Context Analysis, W7 WIP Summary, W8 Mid-Project Peer Eval, W9 Draft, W11 Near-Final, W13 Final Deliverables, W15 Final Presentation.
 - **Reflection coming up?** Preview the prompt theme in one or two sentences. W11's "Reflection #4 is coming" is the model. Reflections fall in W3 (#1), W6 (#2), W9 (#3), W11/12 (#4), W14/15 (#5).
 - **Running artifact in play?** Mention the next time the learner touches it. Artifacts: Your Starting Point intake (W1), Team Charter (W2), Change Log (W6 onward), team processing agreement (W9 onward).

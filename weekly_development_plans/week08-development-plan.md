@@ -13,7 +13,7 @@ design_doc: week08-design-doc.md
 
 ## Content Architecture
 
-Week 8 is a **Pattern D (Dual anchor)** week with elements of Pattern C. Two distinct instructional challenges run in parallel: processing employer feedback from Check-In #1 and completing Peer Evaluation #1, the first graded individual deliverable. There is no employer touchpoint, which frees the largest production block in the course so far. The week reduces to six content pieces: a Week Overview, a Feedback Processing & Revision module, a Structural vs. Targeted Revisions page (a reference learners reach for mid-revision, distinct from the sorting/planning content), a standalone AI as a Production Partner page (a deliberate arc milestone), a Peer Evaluation #1 anchor prompt, and a What's Next. The flow is Overview → Feedback Processing → Structural vs. Targeted → AI as Production Partner → Peer Evaluation anchor → What's Next.
+Week 8 is a **Pattern D (Dual anchor)** week with elements of Pattern C. Two distinct instructional challenges run in parallel: processing employer feedback from Development Check-In #1 and completing Peer Evaluation #1, the first graded individual deliverable. There is no employer touchpoint, which frees the largest production block in the course so far. The week reduces to six content pieces: a Week Overview, a Feedback Processing & Revision module, a Structural vs. Targeted Revisions page (a reference learners reach for mid-revision, distinct from the sorting/planning content), a standalone AI as a Production Partner page (a deliberate arc milestone), a Peer Evaluation #1 anchor prompt, and a What's Next. The flow is Overview → Feedback Processing → Structural vs. Targeted → AI as Production Partner → Peer Evaluation anchor → What's Next.
 
 ---
 
@@ -47,7 +47,7 @@ Two closely related modules covering the core feedback processing skills: sort f
 
 **Sorting employer feedback**
 - The act-on / note / set-aside framework with criteria for each category (AI-generated text, ~400 words)
-- Examples: what each category looks like for common Check-In #1 feedback types — scope push, methodology question, framing note (scenario cards, one per category, ~50 words each)
+- Examples: what each category looks like for common Development Check-In #1 feedback types — scope push, methodology question, framing note (scenario cards, one per category, ~50 words each)
 
 **Building a feedback response plan**
 - How to convert debrief notes into a prioritized revision plan with owners and adjusted timelines (AI-generated text, ~300 words)
@@ -125,7 +125,7 @@ The primary graded anchor for the week. Module 8.04 (Writing Substantive Peer Ev
 **Type:** Transitional prompt
 **Absorbs:** nothing (forward-looking)
 
-Brief transitional page orienting students toward Week 9. Check-In #2 is approaching — the second employer meeting. Peer evaluation results (anonymized qualitative feedback + aggregated BARS averages) will be shared back before the Week 9 Team Processing Session, where teams discuss the feedback and agree on behavioral changes. The production pressure continues: Week 9 carries one of the largest project work blocks in the course.
+Brief transitional page orienting students toward Week 9. Development Check-In #2 is approaching — the second employer meeting. Peer evaluation results (anonymized qualitative feedback + aggregated BARS averages) will be shared back before the Week 9 Team Processing Session, where teams discuss the feedback and agree on behavioral changes. The production pressure continues: Week 9 carries one of the largest project work blocks in the course.
 
 ---
 

@@ -16,7 +16,7 @@ competencies:
 
 Every professional who produces work for someone else gets feedback on it. From a manager on a draft proposal, from a client on a recommendation that missed what they needed. The skill of taking that feedback in without immediately defending against it is one of the more reliable predictors of how quickly someone grows in a role. It's also one of the harder things to do well.
 
-This page covers how to receive feedback in a way that keeps you learning from it. Feedback shows up in two main forms, and the habits that help you receive it well are slightly different in each. Some feedback comes in conversation: an employer in a check-in meeting, a teammate pulling you aside after a working session. Some comes asynchronously: comments left in a document, a Slack message on a draft. Both kinds happen this week. Your teammates will likely leave most of their review comments asynchronously, while your employer's feedback at Check-In #1 will come in conversation. The sections below cover both.
+This page covers how to receive feedback in a way that keeps you learning from it. Feedback shows up in two main forms, and the habits that help you receive it well are slightly different in each. Some feedback comes in conversation: an employer in a check-in meeting, a teammate pulling you aside after a working session. Some comes asynchronously: comments left in a document, a Slack message on a draft. Both kinds happen this week. Your teammates will likely leave most of their review comments asynchronously, while your employer's feedback at Development Check-In #1 will come in conversation. The sections below cover both.
 
 ---
 

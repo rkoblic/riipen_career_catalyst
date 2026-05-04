@@ -9,9 +9,9 @@ status: draft
 
 # What's next
 
-You've just completed the first employer accountability point of the Development phase. The direction and feedback from Check-In #1 become your production priorities from here, and the peer review skills you practiced this week carry directly into what's coming.
+You've just completed the first employer accountability point of the Development phase. The direction and feedback from Development Check-In #1 become your production priorities from here, and the peer review skills you practiced this week carry directly into what's coming.
 
-The week ahead has no employer meeting, which opens up the largest stretch of dedicated production time in the course so far. Most of that time will go toward turning the Check-In #1 feedback into concrete revisions and completing the mid-project peer evaluation.
+The week ahead has no employer meeting, which opens up the largest stretch of dedicated production time in the course so far. Most of that time will go toward turning the Development Check-In #1 feedback into concrete revisions and completing the mid-project peer evaluation.
 
 ---
 

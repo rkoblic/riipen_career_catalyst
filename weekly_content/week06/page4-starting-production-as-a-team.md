@@ -3,7 +3,7 @@ week: 6
 page: 4
 title: Starting Development as a Team
 created: 2026-04-02
-last_updated: 2026-04-06
+last_updated: 2026-05-03
 status: draft
 competencies:
   - area: Teamwork
@@ -16,7 +16,7 @@ competencies:
 
 Most professional projects include a moment like the one your team is in this week. The direction is set, the work needs to get done, and the team has to figure out who is doing what, how the deliverable is structured, and how the pieces will fit together. That's the moment to slow down for a few minutes of planning, before anyone starts building in earnest.
 
-Teams that take this setup work seriously tend to produce deliverables that hang together as one coherent piece of work. Teams that skip it tend to discover late in the process that their pieces don't quite fit: different terminology, different formatting, overlapping content, gaps where one person assumed another was covering something. Both approaches take about the same amount of total time. The difference is when in the week you spend it.
+The setup feels slow when you're standing there wanting to start. It's not. Skipping it just shifts the same work to the end of the week, when it's expensive: terminology that drifted between sections, formatting that doesn't match, two people who covered the same ground, the thing nobody covered because everyone assumed someone else was.
 
 A note before you start: projects produce all kinds of deliverables. Some teams will be writing a research report. Others will be building a content strategy, a presentation deck, a campaign brief, a process map, a prototype, a training module, or some combination of these. The principles below apply to all of them. Where this page uses "document" or "sections" as shorthand, translate to whatever fits your specific deliverable: slides, scenes, screens, pages, modules, components.
 

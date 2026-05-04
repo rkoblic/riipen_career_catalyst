@@ -15,9 +15,9 @@ Reference document mapping every employer meeting and touchpoint across the 15-w
 | 3 | Follow-up email | Written | Confirm understanding, thank employer |
 | 5 | Direction Check | Presentation (30 min) | "Are we headed in the right direction?" |
 | 5 | Pre-meeting email | Written | Confirm logistics + agenda |
-| 7 | Check-In #1 | Working session (30 min) | "Help us decide X, Y, Z." |
+| 7 | Development Check-In #1 | Working session (30 min) | "Help us decide X, Y, Z." |
 | 8+ | Status updates | Async written | Brief between-meeting updates (standing practice) |
-| 9 | Check-In #2 | Working session (30 min) | "Does this meet the bar? Where are the weak spots?" |
+| 9 | Development Check-In #2 | Working session (30 min) | "Does this meet the bar? Where are the weak spots?" |
 | 11 | Near-Final Review | Document review (30 min) | "What's missing before we finalize?" |
 | 13 | Final Check-In | Optional (30 min) | Only if substantive questions; cancel if not needed |
 | 15 | Final Presentation | Formal presentation (60 min) | "Here's the finished work and what we learned." |
@@ -80,7 +80,7 @@ This progression shifts students from passive (listening) to active (driving the
 | **Deliverable** | Direction Check Summary (completion-based checkpoint) |
 | **Content framing** | This is NOT a slide presentation. It's a structured conversation around a document. Students highlight key areas and invite feedback, not walk through the document page by page. Frame as presenting for validation, not approval. |
 
-### Week 7 — Check-In #1
+### Week 7 — Development Check-In #1
 | Element | Detail |
 |---------|--------|
 | **Purpose** | "We're building. Help us decide X, Y, Z." Use the employer as a resource to unblock specific production decisions. |
@@ -98,7 +98,7 @@ This progression shifts students from passive (listening) to active (driving the
 | **Format** | Brief written update via Riipen platform |
 | **Content framing** | Standing practice, not a big deal. One paragraph: what you've done, what's next, any blockers. |
 
-### Week 9 — Check-In #2
+### Week 9 — Development Check-In #2
 | Element | Detail |
 |---------|--------|
 | **Purpose** | "Here's what we've built. Does this meet the bar? Where are the weak spots?" Quality feedback on draft work. |

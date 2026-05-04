@@ -13,7 +13,7 @@ design_doc: week07-design-doc.md
 
 ## Content Architecture
 
-Week 7 is a **hybrid of Pattern A and standalone modules**. Check-In #1 is the dominant anchor event — a questions-based employer meeting that organizes the second half of the week around before/during/after structure. Three production skill modules (7.03, 7.04, 7.05) are genuinely distinct from the meeting prep: they teach professional writing, peer review, and data presentation skills students need throughout the Development phase, not just for Check-In #1. These get their own standalone pages following Week 6 precedent. Two modules (7.02, 7.06) serve Check-In #1 directly and absorb into the anchor's "before" section. The flow is: Overview → From Plan to Product → Reviewing Your Teammates' Work → Working with Data and Visuals → Check-In #1 Anchor Prompt → What's Next. **6 content pieces total.**
+Week 7 is a **hybrid of Pattern A and standalone modules**. Development Check-In #1 is the dominant anchor event — a questions-based employer meeting that organizes the second half of the week around before/during/after structure. Three production skill modules (7.03, 7.04, 7.05) are genuinely distinct from the meeting prep: they teach professional writing, peer review, and data presentation skills students need throughout the Development phase, not just for Development Check-In #1. These get their own standalone pages following Week 6 precedent. Two modules (7.02, 7.06) serve Development Check-In #1 directly and absorb into the anchor's "before" section. The flow is: Overview → From Plan to Product → Reviewing Your Teammates' Work → Working with Data and Visuals → Development Check-In #1 Anchor Prompt → What's Next. **6 content pieces total.**
 
 ---
 
@@ -23,13 +23,13 @@ Week 7 is a **hybrid of Pattern A and standalone modules**. Check-In #1 is the d
 **Type:** Orientation text
 **Absorbs:** 7.01
 
-Frames the week around two parallel priorities: production skill-building and Check-In #1. Names Check-In #1 as a different kind of employer meeting — questions-based, not a presentation — and orients learners to the week's structure. Uses the standardized overview page structure from the content-production-guide.md.
+Frames the week around two parallel priorities: production skill-building and Development Check-In #1. Names Development Check-In #1 as a different kind of employer meeting — questions-based, not a presentation — and orients learners to the week's structure. Uses the standardized overview page structure from the content-production-guide.md.
 
-- Why Check-In #1 is a different kind of employer meeting — questions-based, not a presentation — and why the production skills modules this week matter for the work being built now (AI-generated video; ~60–90 sec). Must follow overview-video-guide.md rules: lead with specific professional insight, no arc-recap pattern, concrete stakes.
+- Why Development Check-In #1 is a different kind of employer meeting — questions-based, not a presentation — and why the production skills modules this week matter for the work being built now (AI-generated video; ~60–90 sec). Must follow overview-video-guide.md rules: lead with specific professional insight, no arc-recap pattern, concrete stakes.
 - Orientation text: what's happening this week, why it matters professionally, and how it connects to the production work already underway (AI-generated text; ~200 words — opening paragraphs before first H2, per overview page structure)
-- "What's due this week" section: Work-in-Progress Summary — format (team submission), grading status (completion-based checkpoint), and submission timing (before Check-In #1) (AI-generated text; ~75 words)
-- "Suggested order of completion" section: numbered list — (1) complete production modules, (2) draft WIP Summary as a team, (3) team prep session, (4) Check-In #1 meeting, (5) post-meeting debrief and action items, (6) continued project production (AI-generated text; ~150 words)
-- "What done looks like" section (optional week-specific, per overview page structure): the WIP Summary is submitted before Check-In #1 — the meeting is the accountability mechanism for the week's production work; teams that have been honest in their summary will have a productive meeting (AI-generated text; ~100 words)
+- "What's due this week" section: Work-in-Progress Summary — format (team submission), grading status (completion-based checkpoint), and submission timing (before Development Check-In #1) (AI-generated text; ~75 words)
+- "Suggested order of completion" section: numbered list — (1) complete production modules, (2) draft WIP Summary as a team, (3) team prep session, (4) Development Check-In #1 meeting, (5) post-meeting debrief and action items, (6) continued project production (AI-generated text; ~150 words)
+- "What done looks like" section (optional week-specific, per overview page structure): the WIP Summary is submitted before Development Check-In #1 — the meeting is the accountability mechanism for the week's production work; teams that have been honest in their summary will have a productive meeting (AI-generated text; ~100 words)
 
 ---
 
@@ -86,13 +86,13 @@ New content this week. Teaches when to use tables, charts, or narrative to prese
 
 ---
 
-### 5. Check-In #1 Anchor Prompt
+### 5. Development Check-In #1 Anchor Prompt
 **Type:** Assignment prompt with embedded guidance
 **Absorbs:** 7.02 (15 min), 7.06 (10 min), 7.07 (75 min), 7.08 (60 min) — total 160 min
 
-Pattern A: before/during/after structure organized around Check-In #1. Most of the 160 min is doing time — drafting the WIP Summary, running the team prep session. Produced content targets the instructional moments where guidance is needed. Check-In #1 is the first progress check-in meeting of the Development phase — a new type of employer meeting — so an interactive practice scenario is required per Principle 8.
+Pattern A: before/during/after structure organized around Development Check-In #1. Most of the 160 min is doing time — drafting the WIP Summary, running the team prep session. Produced content targets the instructional moments where guidance is needed. Development Check-In #1 is the first progress check-in meeting of the Development phase — a new type of employer meeting — so an interactive practice scenario is required per Principle 8.
 
-#### Before Check-In #1
+#### Before Development Check-In #1
 
 **Receiving feedback well (absorbs 7.02)**
 
@@ -112,7 +112,7 @@ Pattern A: before/during/after structure organized around Check-In #1. Most of t
 - What the completion criteria require: honest assessment, specific questions (not vague or performative summaries); what "everything is going well, no questions" signals about a team (~150 words, AI-generated text)
 - AI guidance for WIP Summary: AI can help organize and clarify after the team has agreed on substance; AI cannot generate an honest project status assessment (~100 words, AI-generated text)
 
-**Preparing for Check-In #1 (absorbs 7.06)**
+**Preparing for Development Check-In #1 (absorbs 7.06)**
 
 - What a questions-based meeting is: how this meeting differs from a formal presentation — you're not presenting to impress, you're bringing problems the employer can help solve (~150 words, AI-generated text)
 - How to develop specific questions and decision points that make the meeting productive: what makes a question useful vs. generic (~150 words, AI-generated text)
@@ -122,16 +122,16 @@ Pattern A: before/during/after structure organized around Check-In #1. Most of t
 
 - How to use the prep time: identify 3–5 specific questions, assign who leads each topic, prepare the brief status update (~5 min), plan for note-taking during the meeting (~150 words, AI-generated text)
 
-**Interactive practice: a simulated Check-In #1 (Principle 8)**
+**Interactive practice: a simulated Development Check-In #1 (Principle 8)**
 
 - Simulated scenario: the team receives unexpected feedback from the employer on their draft direction — the employer says the framing of the deliverable doesn't match what they needed. Learners decide how to respond using the reception protocol, what to capture, and how to translate the feedback into a decision. Debrief surfaces the difference between a defensive response and a receptive one. (~8–10 min) (interactive practice)
 
-#### During Check-In #1
+#### During Development Check-In #1
 
 - Meeting structure: brief status update (~5 min), student questions and decision points (~35–40 min), employer observations (~10 min), confirming priorities (~5 min) — with brief rationale for why this structure serves the team (~150 words, AI-generated text)
 - Capturing decisions in real time: what to write down, how to flag ambiguous answers for follow-up (~100 words, AI-generated text)
 
-#### After Check-In #1
+#### After Development Check-In #1
 
 - Post-meeting debrief: what to capture immediately after the meeting — employer answers to questions, decisions made, new information surfaced, action items — and how to structure notes for the whole team to act on (~150 words, AI-generated text)
 - Weekly Progress Check-In standing prompt: introduce the new standing practice — at the close of each week, teams check against their project plan: what's done, what moved, what's blocked, who owns what this week. First instance this week; continues through the end of the course. (~100 words, AI-generated text)
@@ -139,7 +139,7 @@ Pattern A: before/during/after structure organized around Check-In #1. Most of t
 
 #### Submission
 
-- WIP Summary completion criteria and AI disclosure requirement: submission is required before Check-In #1; AI-assisted drafting is permitted with disclosure; the substance must come from the team's actual project status; a one-sentence non-use statement is sufficient if AI was not used (~100 words, AI-generated text)
+- WIP Summary completion criteria and AI disclosure requirement: submission is required before Development Check-In #1; AI-assisted drafting is permitted with disclosure; the substance must come from the team's actual project status; a one-sentence non-use statement is sufficient if AI was not used (~100 words, AI-generated text)
 
 *Time check: 160 min total budget. Produced content: ~1,800 words (~9 min reading) + interactive practice (~8–10 min) + Feedback Protocol Card scan (~2 min) = ~19–21 min of produced content. Remaining ~140 min = doing time (WIP Summary drafting, team prep session, pre-meeting assembly). Appropriate — the bulk of time is doing.*
 
@@ -150,7 +150,7 @@ Pattern A: before/during/after structure organized around Check-In #1. Most of t
 
 Bridges to Week 8 — Peer Evaluation #1. Follows the standardized what's-next page structure from the content-production-guide.md: H1 is "What's next"; first H2 names the next milestone specifically; optional second H2 for actionable preparation. No video.
 
-- Connecting sentences: what was just completed — Check-In #1 marks the first employer accountability point of the Development phase; the feedback received this week becomes the production direction for the weeks ahead (~2 sentences, AI-generated text)
+- Connecting sentences: what was just completed — Development Check-In #1 marks the first employer accountability point of the Development phase; the feedback received this week becomes the production direction for the weeks ahead (~2 sentences, AI-generated text)
 - "Peer Evaluation #1" H2: what it is (the first formal assessment of teamwork and peer feedback skills), what it assesses, and how this week's peer draft review work is direct preparation (~150 words, AI-generated text)
 - "How to prepare" H2: review the Peer Evaluation rubric before next week; ensure this week's peer feedback notes are captured in a form you can act on; specific, documented feedback on a teammate's work is the input Peer Evaluation #1 requires (~100 words, AI-generated text)
 
@@ -160,7 +160,7 @@ Bridges to Week 8 — Peer Evaluation #1. Follows the standardized what's-next p
 
 | Activity | Rationale |
 |---|---|
-| **7.09** — Check-In #1 meeting (60 min) | The meeting itself — doing time. The anchor prompt's "during" section provides structure and guidance for the live conversation with the employer. |
+| **7.09** — Development Check-In #1 meeting (60 min) | The meeting itself — doing time. The anchor prompt's "during" section provides structure and guidance for the live conversation with the employer. |
 | **7.10** — Post-meeting debrief (30 min) | Doing time — team captures what was heard while it's fresh. The anchor prompt's "after" section provides debrief guidance; the 30 minutes are for the actual work. |
 | **7.11** — Independent learning (60 min) | Self-directed doing time based on each learner's own gaps. No produced content needed; consistent with the Week 5 and Week 6 pattern for independent learning blocks. |
 | **7.12** — Continue project production (210 min) | Core production doing time. The production skill modules (pages 2–4) provide the applicable frameworks; the 210 minutes are for building the deliverable. |
@@ -173,10 +173,10 @@ Bridges to Week 8 — Peer Evaluation #1. Follows the standardized what's-next p
 **6 content pieces — 35 production items total**
 
 ### Page 1: Week 7 Overview
-- [ ] AI-generated video: why Check-In #1 is a questions-based meeting, not a presentation, and why the production skill modules this week matter for the work being built now (~60–90 sec)
+- [ ] AI-generated video: why Development Check-In #1 is a questions-based meeting, not a presentation, and why the production skill modules this week matter for the work being built now (~60–90 sec)
 - [ ] Orientation text: what's happening this week, why it matters professionally, how it connects to production work already underway (~200 words)
-- [ ] "What's due this week" section: WIP Summary — team submission, completion-based, due before Check-In #1 (~75 words)
-- [ ] "Suggested order of completion" section: numbered list — production modules, WIP Summary draft, team prep, Check-In #1, debrief, continued production (~150 words)
+- [ ] "What's due this week" section: WIP Summary — team submission, completion-based, due before Development Check-In #1 (~75 words)
+- [ ] "Suggested order of completion" section: numbered list — production modules, WIP Summary draft, team prep, Development Check-In #1, debrief, continued production (~150 words)
 - [ ] "What done looks like" section: WIP Summary submitted before the meeting; meeting is the accountability mechanism (~100 words)
 
 ### Page 2: From Plan to Product
@@ -202,7 +202,7 @@ Bridges to Week 8 — Peer Evaluation #1. Follows the standardized what's-next p
 - [ ] AI-generated text: AI for data visualization — generating chart options, verifying output, defending choices (~100 words)
 - [ ] Curated link: data presentation in professional documents (article or short video, ~5–8 min)
 
-### Page 5: Check-In #1 Anchor Prompt
+### Page 5: Development Check-In #1 Anchor Prompt
 
 **Before — Receiving feedback well**
 - [ ] AI-generated text: why feedback feels hard — the natural defensive response when someone evaluates work you've invested in (~100 words)
@@ -220,7 +220,7 @@ Bridges to Week 8 — Peer Evaluation #1. Follows the standardized what's-next p
 - [ ] AI-generated text: how to develop specific questions and decision points that make the meeting productive (~150 words)
 - [ ] AI-generated text: anticipating what the employer might ask — stress-testing your own preparation (~100 words)
 - [ ] AI-generated text: how to use the team prep session — identify questions, assign leads, plan for note-taking (~150 words)
-- [ ] Interactive practice: simulated Check-In #1 — unexpected employer feedback on draft direction; learners respond using the reception protocol; debrief on receptive vs. defensive response (~8–10 min)
+- [ ] Interactive practice: simulated Development Check-In #1 — unexpected employer feedback on draft direction; learners respond using the reception protocol; debrief on receptive vs. defensive response (~8–10 min)
 
 **During**
 - [ ] AI-generated text: meeting structure with rationale for why this structure serves the team (~150 words)
@@ -251,15 +251,15 @@ Bridges to Week 8 — Peer Evaluation #1. Follows the standardized what's-next p
 - [ ] Week 6 Formatting Professional Documents checklist — applicable to WIP Summary production; cross-reference rather than duplicate
 
 ### Templates to Build
-- [ ] Feedback Protocol Card: four-step reference card (Listen → Clarify → Acknowledge → Decide Later) with one-line behavioral guide per step — checklist format, ~100 words, designed for use during and after Check-In #1
+- [ ] Feedback Protocol Card: four-step reference card (Listen → Clarify → Acknowledge → Decide Later) with one-line behavioral guide per step — checklist format, ~100 words, designed for use during and after Development Check-In #1
 
 ### Interactive Elements to Design
-- [ ] Simulated Check-In #1 scenario: employer delivers unexpected feedback on draft direction — learners use the reception protocol to respond, capture decisions, and translate feedback into action; debrief surfaces defensive vs. receptive response (~8–10 min). Design required before Page 5 goes into production.
+- [ ] Simulated Development Check-In #1 scenario: employer delivers unexpected feedback on draft direction — learners use the reception protocol to respond, capture decisions, and translate feedback into action; debrief surfaces defensive vs. receptive response (~8–10 min). Design required before Page 5 goes into production.
 
 ### Flags / Dependencies
 1. **Three instructional videos required:** Pages 2, 3, and 4 each require an instructional video script following the video-as-primary-teaching-vehicle pattern from instructional-video-guide.md. Page text for these pieces must be structured as scannable bulleted recaps, not parallel prose explanations. Video scripts must be authored before page text is finalized, since the text structure depends on what the video teaches.
 2. **4 curated links needed:** Pages 2, 3, and 4 each require a sourced external resource. Link research is a prerequisite for production — the time checks for the standalone modules do not hold without confirmed link runtimes.
-3. **Interactive practice for Check-In #1:** First employer check-in of the Development phase — a new type of employer meeting requiring an interactive scenario per Principle 8. Scenario design must be completed before Page 5 goes into production. Design the interactive following interactive-element-guide.md — determines interaction type (simulated scenario), file naming convention (`page5-checkin-1-interactive.md`), and quality checks before production.
+3. **Interactive practice for Development Check-In #1:** First employer check-in of the Development phase — a new type of employer meeting requiring an interactive scenario per Principle 8. Scenario design must be completed before Page 5 goes into production. Design the interactive following interactive-element-guide.md — determines interaction type (simulated scenario), file naming convention (`page5-checkin-1-interactive.md`), and quality checks before production.
 4. **Feedback Protocol Card:** Reference card (checklist format, ~100 words) for the Listen → Clarify → Acknowledge → Decide Later protocol. Must be authored alongside Page 5 — it is a primary reference resource embedded in the page, not supplementary.
 5. **WIP Summary assignment description:** First encounter for learners — not previewed in Week 6. Assignment description, four-section structure, and completion criteria must be authored as new content in Page 5's "before" section. No prior-week dependency to pull from.
 6. **Overview and What's Next standardization:** Both pieces must use the standardized structures from content-production-guide.md — overview page with "What's due this week" and "Suggested order of completion" as the two standard H2 sections; what's-next page with H1 always "What's next" and first H2 naming the next milestone specifically. Verify structure compliance before finalizing.

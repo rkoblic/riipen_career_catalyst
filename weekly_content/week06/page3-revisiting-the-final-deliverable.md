@@ -3,7 +3,7 @@ week: 6
 page: 3
 title: Revisiting the Final Deliverable
 created: 2026-04-06
-last_updated: 2026-04-20
+last_updated: 2026-05-03
 status: draft
 competencies:
   - area: Critical Thinking
@@ -48,9 +48,9 @@ One thing the assignment description names that's easy to miss in a first read i
 
 You can start your Change Log now. The Direction Check is the first major piece of employer feedback your team has received, and any internal review feedback you've already incorporated into your draft is exactly the kind of input it tracks. Reconstructing weeks of changes the day before submission is a much harder job than maintaining a running document as you go.
 
-A simple format works:
+A starter template:
 
-| Feedback item | Source | How the team addressed it (or rationale for not) |
+[TEMPLATE: Change Log — columns: Feedback item | Source | How the team addressed it (or rationale for not). Include 2-3 example rows showing different feedback types: a piece of Direction Check feedback that was incorporated, an internal team or peer review note that was incorporated, and a piece of feedback the team chose not to act on with a documented rationale.]
 
 One row per piece of substantive feedback. The Change Log doesn't need to capture every minor edit. The rubric is asking whether you engaged meaningfully with the input you received, not whether you logged every comma change.
 

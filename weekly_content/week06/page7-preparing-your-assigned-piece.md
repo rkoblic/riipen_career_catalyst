@@ -3,7 +3,7 @@ week: 6
 page: 7
 title: Preparing your assigned piece
 created: 2026-04-06
-last_updated: 2026-04-06
+last_updated: 2026-05-03
 status: draft
 competencies:
   - area: Critical Thinking
@@ -14,15 +14,17 @@ competencies:
 
 # Preparing your assigned piece
 
-By this point, your team has met to plan the work, and you know which piece of the deliverable you're responsible for. Before you can draft, you need to prepare. That means getting clear on what your piece needs to do and assembling the material it will draw on, whether that material already exists or still needs to be gathered.
+By this point, your team has likely met to plan the work, and you know which piece of the deliverable you're responsible for. Before you can draft, you need to prepare. That means getting clear on what your piece needs to do and assembling the material it will draw on, whether that material already exists or still needs to be gathered.
 
-What "preparation" looks like depends on what kind of piece you've been assigned. Most pieces fall into one of three modes, or some mix of them:
+Different pieces require different mixes of research, synthesis, and analytical work. This page walks through how to prepare regardless of which mix your piece needs.
 
-- **Research-heavy.** Going out and finding information the team doesn't have yet.
-- **Synthesis-heavy.** Pulling together what the team gathered during Discovery and making sense of it.
-- **Analytical.** Taking material you already have and thinking through what it means, what the trade-offs are, and what you'd recommend.
+---
 
-Most pieces involve some of all three in different proportions. This page walks through how to prepare regardless of which mix your piece needs.
+## What if your piece isn't ready to prepare yet?
+
+Some pieces depend on work that hasn't happened yet. A recommendations piece needs findings to recommend from. An implementation roadmap needs a recommendation to implement. An executive summary needs everything else first. If your piece isn't ready to prepare this week, your job is to help with what does need to get done: running interviews, contributing to the team's synthesis, supporting whatever upstream work the deliverable depends on right now.
+
+The same expectation will apply in reverse in later weeks. When your piece becomes the active work, the team members whose pieces are downstream of yours will be the ones contributing to it. Development teams move forward together, not as parallel tracks.
 
 ---
 
@@ -33,8 +35,6 @@ Before you go looking for material or start thinking through implications, answe
 **What is this piece supposed to accomplish in the deliverable as a whole?** Not "the user research section," but "the user research section is supposed to convince the employer that the population we're serving has [specific characteristic], and that this characteristic should shape the recommendation." Knowing what your piece is *for* tells you what it needs to argue or demonstrate. Without that anchor, you'll gather everything that might be useful and end up with too much.
 
 **What does this piece need to answer or contain?** List the specific questions your piece needs to address, or the specific evidence and reasoning it needs to provide. These become your preparation targets: the things you need to be ready to write about when you sit down to draft.
-
-Then check: which of those questions can you answer from what your team already knows (the Context Analysis, kickoff notes, Direction Check feedback, team research)? Cross those off. What remains is what you still need to prepare this week.
 
 ---
 
@@ -49,14 +49,6 @@ Different pieces of a deliverable need different kinds of preparation. Look at y
 **Questions that need thinking, not more material.** For these, your work is analytical: taking what you already have and working through what it means. What are the trade-offs between different options? What would a recommendation actually look like? How do different pieces of evidence fit together? These questions don't get answered by finding more information. They get answered by sitting with what you have and thinking carefully.
 
 Most pieces need some of each. A strategy recommendation, for example, may need a small amount of benchmarking research (new information), a re-read of the team's Discovery findings (synthesis), and substantial thinking about how those findings translate into specific recommendations (analysis). Knowing the mix for your piece tells you where to spend your time this week.
-
----
-
-## What if your piece isn't ready to prepare yet?
-
-Some pieces depend on work that hasn't happened yet. A recommendations piece needs findings to recommend from. An implementation roadmap needs a recommendation to implement. An executive summary needs everything else first. If your piece isn't ready to prepare this week, your job is to help with what does need to get done: running interviews, contributing to the team's synthesis, supporting whatever upstream work the deliverable depends on right now.
-
-The same expectation will apply in reverse in later weeks. When your piece becomes the active work, the team members whose pieces are downstream of yours will be the ones contributing to it. Development teams move forward together, not as parallel tracks.
 
 ---
 

@@ -3,7 +3,7 @@ week: 6
 page: 5
 title: Formatting professional deliverables
 created: 2026-04-01
-last_updated: 2026-04-06
+last_updated: 2026-05-03
 status: draft
 competencies:
   - area: Critical Thinking
@@ -26,7 +26,7 @@ Most of what follows focuses on written deliverables, since reports and similar 
 
 Readers form judgments about quality from visual hierarchy, white space, and consistency before they engage deeply with the content. For a team-authored deliverable, inconsistent presentation communicates something specific: that the pieces were produced independently and never integrated. That tends to be the experience the reader has, regardless of how good the underlying thinking was.
 
-Two rubric dimensions are directly affected. Communication (which includes clarity, organization, and professional presentation) is worth 15% of your final grade. Deliverable Quality (which assesses completeness, scope alignment, and depth of development) is worth 25%. Presentation is the infrastructure both dimensions depend on.
+On the Final Deliverables rubric, two dimensions depend directly on presentation. Communication (which includes clarity, organization, and professional presentation) is worth 15% of your final grade. Deliverable Quality (which assesses completeness, scope alignment, and depth of development) is worth 25%.
 
 [CURATED LINK: "How Professional Document Formatting Builds Business Credibility" (article, ~5 min) — Drafting Queens — https://draftingqueens.com/blog/how-professional-document-formatting-builds-business-credibility] An overview of why deliverable presentation signals competence to a reader. Covers visual consistency, hierarchy, and the specific choices that contribute to a professional finished product.
 

@@ -13,7 +13,7 @@ You've spent this week closing out Discovery and starting development. The next 
 
 ---
 
-## Check-In #1 — your first working session with the employer
+## Development Check-In #1 — your first working session with the employer
 
 This meeting has a different purpose than the Direction Check. The Direction Check tested whether your approach pointed the right way before you committed to building it. This meeting is about the building: you've started, and now you bring the specific questions and decision points you've hit while drafting so the employer can help you unblock them.
 
@@ -25,6 +25,6 @@ Come with two or three questions where the employer's input would change what yo
 
 ## How to prepare
 
-- **Draft far enough into your section that you know the real gaps, not the theoretical ones.** A team that hasn't started drafting shows up with generic questions. A team that's been in the work shows up with specific ones.
+- **Draft far enough into your section that you have a sense of some of the real gaps, not just the theoretical ones.** A team that hasn't started drafting shows up with generic questions. A team that's been in the work shows up with specific ones.
 - **Identify decision points your team hasn't been able to resolve internally.** Those are the highest-value questions to bring to the employer.
 - **Formulate two or three questions specific enough to get useful answers.** If a question could apply to any team on any project, it's not specific enough yet.

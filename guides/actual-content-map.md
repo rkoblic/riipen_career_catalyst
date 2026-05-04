@@ -97,14 +97,14 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p4 Receiving feedback well
 - p5 Working with data and visuals *(video: Working with Data and Visuals)*
 - p6 The Work-in-Progress Summary
-- p7 Check-In #1 (single consolidated page — working meeting, not three-page before/during/after)
+- p7 Development Check-In #1 (single consolidated page — working meeting, not three-page before/during/after)
 - p8 What's next
 
 **Introduces:** Peer review (four lenses + AI-assisted-error pass), feedback-reception protocol (sync + async), WIP Summary deliverable (team-facing, not sent to employer).
 
-**Employer touchpoint:** Check-In #1 (30-minute question-driven working meeting).
+**Employer touchpoint:** Development Check-In #1 (30-minute question-driven working meeting).
 
-**Design-doc drift:** originally three before/during/after pages modeled on Kickoff/Direction Check; consolidated to one page because it's a working meeting, not a pivotal employer event. Check-In #1 requirements originally buried inside prep page; extracted as standalone.
+**Design-doc drift:** originally three before/during/after pages modeled on Kickoff/Direction Check; consolidated to one page because it's a working meeting, not a pivotal employer event. Development Check-In #1 requirements originally buried inside prep page; extracted as standalone.
 
 ## Week 8 — Mid-Project Evaluation
 
@@ -130,7 +130,7 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 
 **Introduces:** Team Processing Session (processes peer-eval + employer-survey results together), team processing agreement (internal working document, NOT submitted), Draft Deliverable (internal assembly checkpoint — employer does NOT pre-read), integration/actionability/scope skills, internal review gate.
 
-**Employer touchpoint:** Check-In #2 (question-driven working meeting; no document review).
+**Employer touchpoint:** Development Check-In #2 (question-driven working meeting; no document review).
 
 **Design-doc drift:** originally 7 pages; collapsed skills + submission pages (were teaching the same arc split across two files). Team Processing Session promoted to p2 (was p3). Overview video fully rewritten. Employer pre-read of draft removed to avoid doubling the document-reading ask before the Week 11 near-final review. Team processing agreement no longer submitted as appendix — accountability thread moved into Reflection #3.
 
@@ -148,7 +148,7 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 **Design-doc drift:** three substantive cuts from the original design doc.
 1. **Activity 10.04 (Change Log introduction) dropped** — Change Log was introduced Week 6 p3 and has been live for four weeks.
 2. **"Status Update to Employer" dropped from 10.10** — Week 8 cut this standing prompt entirely; it cannot "continue" in Week 10 since it was never introduced.
-3. **"Check-In #2" / "Progress Review #2" terminology replaced with evergreen phrasing** ("the last check-in," "your last check-in with the employer") consistent with Week 9 conventions.
+3. **"Development Check-In #2" / "Progress Review #2" terminology replaced with evergreen phrasing** ("the last check-in," "your last check-in with the employer") consistent with Week 9 conventions.
 
 Week count: 505 min → 490 min after cuts. Structure reduces to 4 pages (vs. 9 planned modules in the design doc). Page 2 combines two conceptual modules (10.02 surface + 10.03 abstract) because they are two sequential moves in one skill.
 
@@ -159,8 +159,8 @@ Week count: 505 min → 490 min after cuts. Structure reduces to 4 pages (vs. 9 
 ### Employer touchpoint sequence
 1. **Kickoff** (Week 3) — discovery meeting
 2. **Direction Check** (Week 5) — document review meeting
-3. **Check-In #1** (Week 7) — question-driven working meeting
-4. **Check-In #2 / "the check-in with your employer"** (Week 9) — question-driven working meeting
+3. **Development Check-In #1** (Week 7) — question-driven working meeting
+4. **Development Check-In #2 / "the check-in with your employer"** (Week 9) — question-driven working meeting
 5. **Near-Final document review** (Week 11) — second document review
 6. **Final Presentation** (Week 14/15)
 
@@ -207,7 +207,7 @@ Pattern: alternating working-meetings and document-review meetings. Weeks 7 and 
 ## Terminology / style conventions (applied retroactively through Week 9)
 
 - **"Peer Evaluation #1"** → "Mid-Project Peer Evaluation" (pairs with "End-of-Project Peer Evaluation" in Week 14/15)
-- **"Check-In #N"** → evergreen relational phrasing ("the check-in with your employer," "the last check-in," "your next check-in")
+- **"Development Check-In #N"** → evergreen relational phrasing ("the check-in with your employer," "the last check-in," "your next check-in")
 - **"Status Update to Employer" standing prompt is cut.** Appeared in early design docs as a recurring between-meetings update; Week 8 explicitly dropped it and it was never re-introduced. Later design docs (Weeks 10, 12, 13) still reference it as "continuing" — always cut when encountered. Does not appear in any produced content.
 - **Specific grade percentages** → assessment component names ("the Professional Engagement component of your final grade")
 - **Em dashes** → avoided everywhere; **banned in video scripts** (don't translate to narrated audio)

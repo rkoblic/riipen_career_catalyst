@@ -82,7 +82,7 @@ Single combined page covering preparation, the meeting itself, and the debrief �
 **Sub-elements:**
 
 **What makes this meeting different**
-- How the Near-Final Review differs from Check-In #1 and Check-In #2: the document speaks for itself; the employer reviews it independently or during the meeting; the team's job is to walk through the Change Log and ask targeted questions, not to present (AI-generated text, ~200 words)
+- How the Near-Final Review differs from Development Check-In #1 and Development Check-In #2: the document speaks for itself; the employer reviews it independently or during the meeting; the team's job is to walk through the Change Log and ask targeted questions, not to present (AI-generated text, ~200 words)
 
 **Preparing**
 - Running the internal review gate before the employer sees the work: is the package clean, navigable, and self-explanatory? (AI-generated text, ~150 words — embedded recommendation, not a tracked activity)
@@ -151,7 +151,7 @@ Brief bridging page to Weeks 12–13. The Final Check-In (optional) and Final De
 
 ### Flags / Dependencies
 
-- [ ] **Near-Final Review meeting duration**: Design doc specifies a 60-min hold but notes it may end early. Content should reference ~30 minutes as the working duration (consistent with Rachel's correction to Check-In #1 duration in the Week 7 CHANGELOG).
+- [ ] **Near-Final Review meeting duration**: Design doc specifies a 60-min hold but notes it may end early. Content should reference ~30 minutes as the working duration (consistent with Rachel's correction to Development Check-In #1 duration in the Week 7 CHANGELOG).
 - [ ] **Change Log format**: Referenced as an established practice (introduced in Week 10). Page 4 should reference it as known, not re-explain it from scratch.
 - [ ] **Final Deliverables rubric**: Referenced on Pages 2 and 3 as the quality standard. Confirm rubric dimensions are accurate (Deliverable Quality 30%, Analytical Rigor 25%, Actionability 20%, Communication 15%, Responsiveness to Feedback 10%) before finalizing Page 2 content.
 - [ ] **Internal review gate**: Third instance (Week 9 first, Week 10 second). Page 4 should reference the established practice, not re-teach it.

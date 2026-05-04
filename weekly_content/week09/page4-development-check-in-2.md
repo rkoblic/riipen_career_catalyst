@@ -60,7 +60,7 @@ Open the meeting with two to three minutes of context: what's in the draft, wher
 
 A reasonable shape for the 30 minutes:
 
-- **Status context (about 3 minutes).** Brief factual summary. What's in the draft, what's changed since Check-In #1.
+- **Status context (about 3 minutes).** Brief factual summary. What's in the draft, what's changed since Development Check-In #1.
 - **Your questions (about 18–20 minutes).** The team leads each question. Capture answers as specifically as possible. Follow up when an answer is directional but not specific: "You mentioned the recommendations could be stronger. Is there a particular section where you'd want to see more depth?"
 - **Employer observations (about 5 minutes).** After your questions, the employer may have observations that didn't come up in response to yours. This is often where the most direct quality feedback surfaces.
 - **Preview of what's next (about 2 minutes).** Let the employer know what the near-final version will include and roughly when they'll see it. This keeps them oriented and gives you a natural close.

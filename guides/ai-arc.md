@@ -148,7 +148,7 @@ Reference document mapping every AI touchpoint across the 15-week course. Used f
 |---------|--------|
 | **Dedicated AI content** | Module 7.05: data/visual presentation with AI |
 | **What's introduced** | AI for generating chart options/data visualization; stress-testing by generating likely employer questions; production support |
-| **Permitted** | AI transcription at Check-In #1; organizing WIP Summary; generating potential employer questions; processing feedback; chart/visualization generation |
+| **Permitted** | AI transcription at Development Check-In #1; organizing WIP Summary; generating potential employer questions; processing feedback; chart/visualization generation |
 | **Off-limits** | WIP Summary must reflect actual team status; debrief must capture actual conversation |
 | **Disclosure** | Required on WIP Summary |
 | **New prompt strategies** | Stress-testing via anticipated questions; data visualization generation |

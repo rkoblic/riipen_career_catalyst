@@ -105,20 +105,20 @@ Four students, each with a distinct background and a clear section to own. Secti
 
 ---
 
-## Week 7 — Check-In #1, continued production
+## Week 7 — Development Check-In #1, continued production
 
 **Team:** First Check-In with the employer (60 min, questions-based working session). Team brings real production questions. Continued individual drafting. WIP Summary submitted.
 
-- **Jordan:** Findings section ~60% drafted. Brings to Check-In #1: "We have qualitative data from six community members about transportation barriers. Does this match what you're seeing on the ground at the center?" Continues drafting after the meeting, incorporating the ED's affirmation.
-- **Aisha:** Context section largely drafted. Brings to Check-In #1: "We're framing the participation decline as an access issue, not a marketing one. Is there anything about Mosaic's history with marketing efforts we should acknowledge?" Continues drafting after the meeting. Begins thinking about Executive Summary structure.
-- **Marcus:** Implementation section is the most uncertain piece. Brings to Check-In #1: "We're recommending a pilot at one location, not multiple. Does the board have any specific locations they've considered?" Gets useful guidance: a partner community center 2 km away might host. Substantially updates implementation section.
-- **Priya:** Plays a coordination role at Check-In #1. Asks: "What format would be most useful for the Change Log when we share the final package?" Continues integrating sections as they come in. Drafts methodology appendix in parallel. Reviews Marcus's implementation draft for clarity.
+- **Jordan:** Findings section ~60% drafted. Brings to Development Check-In #1: "We have qualitative data from six community members about transportation barriers. Does this match what you're seeing on the ground at the center?" Continues drafting after the meeting, incorporating the ED's affirmation.
+- **Aisha:** Context section largely drafted. Brings to Development Check-In #1: "We're framing the participation decline as an access issue, not a marketing one. Is there anything about Mosaic's history with marketing efforts we should acknowledge?" Continues drafting after the meeting. Begins thinking about Executive Summary structure.
+- **Marcus:** Implementation section is the most uncertain piece. Brings to Development Check-In #1: "We're recommending a pilot at one location, not multiple. Does the board have any specific locations they've considered?" Gets useful guidance: a partner community center 2 km away might host. Substantially updates implementation section.
+- **Priya:** Plays a coordination role at Development Check-In #1. Asks: "What format would be most useful for the Change Log when we share the final package?" Continues integrating sections as they come in. Drafts methodology appendix in parallel. Reviews Marcus's implementation draft for clarity.
 
 ---
 
 ## Week 8 — Process feedback, Peer Evaluation #1 (graded)
 
-**Team:** Process Check-In #1 feedback. Each student writes Peer Evaluation #1 (graded individual, ~10% via Professional Engagement). Continued production with revisions based on feedback.
+**Team:** Process Development Check-In #1 feedback. Each student writes Peer Evaluation #1 (graded individual, ~10% via Professional Engagement). Continued production with revisions based on feedback.
 
 - **Jordan:** Revises findings to incorporate ED's feedback (adds a paragraph on scheduling barriers the ED mentioned). Drafts Peer Eval #1 with specific behavioral observations of each teammate. Self-evaluation honest about being slow on integration tasks.
 - **Aisha:** Major revision of context to acknowledge Mosaic's previous marketing efforts. Drafts Peer Eval #1: notes Marcus's adaptability after the satellite pushback. Self-evaluation honest about over-leading meetings sometimes.
@@ -127,22 +127,22 @@ Four students, each with a distinct background and a clear section to own. Secti
 
 ---
 
-## Week 9 — Draft deliverable, Reflection #3, Check-In #2
+## Week 9 — Draft deliverable, Reflection #3, Development Check-In #2
 
-**Team:** Submit Draft Deliverable as a checkpoint (full assembled draft). Check-In #2 with employer (questions-based, focused on production challenges and scope decisions). Reflection #3 due (graded). Internal review gate before submission.
+**Team:** Submit Draft Deliverable as a checkpoint (full assembled draft). Development Check-In #2 with employer (questions-based, focused on production challenges and scope decisions). Reflection #3 due (graded). Internal review gate before submission.
 
 - **Jordan:** Findings substantially drafted with revisions. Contributes to internal team review. Reflection #3 anchored on the moment one community member's interview shifted Jordan's understanding of the access issue.
 - **Aisha:** Context substantially drafted. Begins Executive Summary now that the rest of the document is taking shape. Contributes to internal review. Reflection #3 anchored on receiving Peer Eval #1 feedback.
-- **Marcus:** Implementation substantially drafted with the partner-location pilot incorporated. Brings to Check-In #2: "We're recommending a 6-month pilot at the partner location with these specific success metrics. Does this feel feasible?" Reflection #3 anchored on the moment in Check-In #1 when the ED gave him the partner-location lead.
+- **Marcus:** Implementation substantially drafted with the partner-location pilot incorporated. Brings to Development Check-In #2: "We're recommending a 6-month pilot at the partner location with these specific success metrics. Does this feel feasible?" Reflection #3 anchored on the moment in Development Check-In #1 when the ED gave him the partner-location lead.
 - **Priya:** In heavy integration mode. Draft Deliverable assembled and submitted with the team. Reviews each section for consistency, terminology, formatting. Risks section updated for the partner-location-based pilot. Reflection #3 anchored on what writing detailed Peer Eval feedback revealed about her own assumptions.
 
 ---
 
 ## Week 10 — Connect theory and practice, Change Log introduced
 
-**Team:** Step back from production. Process Check-In #2 feedback. Continue integration. Change Log introduced and team begins formal iteration tracking.
+**Team:** Step back from production. Process Development Check-In #2 feedback. Continue integration. Change Log introduced and team begins formal iteration tracking.
 
-- **Jordan:** Refines findings based on Check-In #2 feedback. Adds more direct community member quotes to strengthen the evidence base. Begins making first Change Log entries.
+- **Jordan:** Refines findings based on Development Check-In #2 feedback. Adds more direct community member quotes to strengthen the evidence base. Begins making first Change Log entries.
 - **Aisha:** Continues drafting Executive Summary. Refines context. Tries the AI-as-quality-reviewer prompt on her sections. Updates Change Log with her contributions.
 - **Marcus:** Implementation substantially complete. Refines the success metrics for the pilot recommendation. Updates Change Log with the pilot scope history (multi-site → single-site → partner-location).
 - **Priya:** Major integration pass. Begins formal Change Log on behalf of the team. Identifies remaining gaps in the assembled draft. Prepares the package for Near-Final Review next week.
@@ -231,7 +231,7 @@ This section captures what we notice while reading the arc above. Each note shou
 
 ### Where any individual team member has too little to do
 
-- **Marcus's early production weeks (Week 6, first half) may be light.** His substantial content emerges only after Check-In #1 in Week 7 when the partner-center lead surfaces. Before that, he's doing access analysis and outlining without much to commit to.
+- **Marcus's early production weeks (Week 6, first half) may be light.** His substantial content emerges only after Development Check-In #1 in Week 7 when the partner-center lead surfaces. Before that, he's doing access analysis and outlining without much to commit to.
 - **Priya's Weeks 2–3 may feel coordinator-y without much output.** Setting up shared workspaces and drafting charter sections is real work, but it's vague compared to teammates with clearer deliverables. Worth thinking about whether the curriculum gives integration-role students a clearer "this is your job this week" narrative early on.
 
 ### Where any individual has too much
@@ -241,7 +241,7 @@ This section captures what we notice while reading the arc above. Each note shou
 
 ### Open questions for course design
 
-- **Employer touchpoint cadence.** 6–7 meetings over 12 active weeks (kickoff, Direction Check, Check-In #1, Check-In #2, Near-Final Review, optional Final Check-In, Final Presentation) plus async status updates may be too much for a small nonprofit ED. Worth checking what real Riipen partners typically agree to. The "optional" Final Check-In in W13 may end up cancelled more often than not, and the Near-Final Review may get compressed or made async in practice.
+- **Employer touchpoint cadence.** 6–7 meetings over 12 active weeks (kickoff, Direction Check, Development Check-In #1, Development Check-In #2, Near-Final Review, optional Final Check-In, Final Presentation) plus async status updates may be too much for a small nonprofit ED. Worth checking what real Riipen partners typically agree to. The "optional" Final Check-In in W13 may end up cancelled more often than not, and the Near-Final Review may get compressed or made async in practice.
 - **Reflection anchor diversity for the integration role.** Priya's five reflections all on integration work risks repetition. Each reflection needs a distinct anchor, not five variations of "I coordinated things and it was hard." Worth thinking about whether the reflection prompts give integration-role students enough distinct experiences to draw on.
 - **The arc is idealized.** No missed meetings, no midterms collisions, no illness, no team conflict beyond what the curriculum can absorb. Worth eventually running a "stress test" version where one student disappears for a week mid-production, or where the team has a real disagreement they can't resolve internally, to see whether the curriculum supports the team through it.
 - **Qualitative research scaffolding.** If we expect students to do meaningful qualitative work (interviews, focus groups, ethnographic observation), do we scaffold it anywhere? Saying "interviews are an option" in a research module isn't the same as teaching how to plan, conduct, and synthesize qualitative material. May need a dedicated resource or curated link.

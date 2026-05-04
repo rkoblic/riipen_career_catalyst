@@ -3,7 +3,7 @@ week: 6
 page: 6
 title: Making progress under uncertainty
 created: 2026-04-01
-last_updated: 2026-04-06
+last_updated: 2026-05-03
 status: draft
 competencies:
   - area: Critical Thinking
@@ -13,6 +13,8 @@ competencies:
 ---
 
 # Making progress under uncertainty
+
+Some of you will read this page and think you don't need it: your team's direction is clear, your piece is well-defined, the uncertainty hasn't surfaced yet. Skim it anyway. A few pages in this course are like this. They're better to take in before you need them than to find when you're already stuck.
 
 Development rarely starts with everything you need. Recognizing which gaps actually block you and which ones you can build around is one of the more visible things you'll demonstrate during this project. So is what you do once you've recognized them: choosing between two viable directions when both have merit, deciding when a question is worth bringing to the employer versus resolving internally, and presenting the call back to your team and stakeholders so the work can move forward. This is the page to keep open while you draft.
 
@@ -100,7 +102,7 @@ Not every question is an employer question. Most things your team should resolve
 
 A useful test: if you imagine asking the employer your question and the most likely answer is "you decide, you know the project better than I do," it isn't an employer question.
 
-Timing matters too. Most questions are batchable. Save them for the next standing employer touchpoint (Check-In #1 next week is the first of these in the development phase). Questions that genuinely block work right now are the exception, not the default. A team that brings four or five specific, batched questions to a check-in shows they've been in the work. A team that messages the employer every time a question comes up reads as either dependent or under-prepared.
+Timing matters too. Most questions are batchable. Save them for the next standing employer touchpoint (Development Check-In #1 next week is the first of these in the development phase). Questions that genuinely block work right now are the exception, not the default. A team that brings four or five specific, batched questions to a check-in shows they've been in the work. A team that messages the employer every time a question comes up reads as either dependent or under-prepared.
 
 ---
 
@@ -128,7 +130,7 @@ A community outreach team is drafting their recommended awareness campaign. Thei
 
 **Choosing between paths.** Working through the questions: neither path is more reversible than the other, and the team is roughly split on quality. The outcomes angle takes longer to validate but produces a stronger recommendation if it lands. The affordability angle is faster to test. They lean toward affordability for the draft because it gets them to a testable position fastest.
 
-**Whether to bring it to the employer.** The team thinks yes. The employer knows which angle aligns with funding priorities and the audiences they're already engaging, and the team's research alone can't resolve that. They batch the question for Check-In #1 along with two others.
+**Whether to bring it to the employer.** The team thinks yes. The employer knows which angle aligns with funding priorities and the audiences they're already engaging, and the team's research alone can't resolve that. They batch the question for Development Check-In #1 along with two others.
 
 **Presenting the call.** In the draft, they include a short paragraph: *"We're framing the campaign around affordability rather than outcomes. We considered both. Affordability gives us a faster path to a testable recommendation and reaches a broader audience, at the cost of a less differentiated value proposition. We're assuming affordability aligns with the program's funding context, and would value confirmation at the next check-in."*
 

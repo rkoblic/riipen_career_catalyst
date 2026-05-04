@@ -3,7 +3,7 @@ week: 6
 page: 9
 title: Navigating disagreement
 created: 2026-04-01
-last_updated: 2026-04-06
+last_updated: 2026-05-03
 status: draft
 competencies:
   - area: Teamwork
@@ -14,7 +14,7 @@ competencies:
 
 # Navigating disagreement
 
-Many teams run into some kind of disagreement once development starts: about direction, about quality, about how the work is divided. Knowing how to handle a disagreement before you're in one tends to make a real difference when it actually surfaces.
+This is one of those pages worth reading before you need it. Many teams run into some kind of disagreement once development starts: about direction, about quality, about how the work is divided. Handling one when you've already thought about how is much easier than figuring it out in the middle of one.
 
 This page covers development-phase disagreement between teammates specifically. It's a different situation from the general collaboration norms earlier in the course. This is about what to do when a teammate's piece is going the wrong direction, or when team members see the quality bar or the workload split differently.
 

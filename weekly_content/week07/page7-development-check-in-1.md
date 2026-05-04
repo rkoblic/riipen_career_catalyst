@@ -1,7 +1,7 @@
 ---
 week: 7
 page: 7
-title: Check-In #1
+title: Development Check-In #1
 created: 2026-04-07
 last_updated: 2026-04-07
 status: draft
@@ -14,11 +14,11 @@ competencies:
     subskill: Feedback Reception
 ---
 
-# Check-In #1
+# Development Check-In #1
 
 Working meetings to unblock production are a routine professional rhythm. Once a project is underway, teams meet with the people they're producing the work for to surface questions and get the input they need to keep moving. These are not status presentations and they are not approval gates. They are short, working conversations where the team comes in with specific questions and the client or sponsor acts as a resource.
 
-Check-In #1 is your team's first meeting of this kind in the Development phase. It's different from the Direction Check earlier in the course (the meeting where you confirmed the project's overall direction with your employer before starting full production). At the Direction Check, you brought a plan and asked for sign-off. Here, you bring questions about the work you've been building and ask the employer to help you move it forward. The employer is not evaluating a presentation. They are responding to what you bring them.
+Development Check-In #1 is your team's first meeting of this kind in the Development phase. It's different from the Direction Check earlier in the course (the meeting where you confirmed the project's overall direction with your employer before starting full production). At the Direction Check, you brought a plan and asked for sign-off. Here, you bring questions about the work you've been building and ask the employer to help you move it forward. The employer is not evaluating a presentation. They are responding to what you bring them.
 
 The meeting is short, about 30 minutes, and may end early if your team has covered what it needs to. Making it useful is mostly a matter of preparation: knowing what to ask and who's leading what.
 
@@ -79,10 +79,10 @@ If you're unclear on something the employer said, flag it in the moment: "Just t
 
 Debrief immediately, ideally before anyone leaves the call or the room. The mechanics are the same ones you used after the Direction Check: pull up your manual notes alongside the AI transcript if you used one, cross-check where they disagree, and capture specific feedback, points of agreement, points of divergence, and any ambiguity that needs follow-up. The aim is a short written record the whole team can act on next week, not a polished document.
 
-What's different this time is what you do with it. Check-In #1 has no formal summary deliverable attached. The debrief feeds directly into your team's working list: what changes in the draft and who picks up what. Translate the input into concrete action items with owners before you close the debrief. A debrief that produces only general impressions ("it went well, they seemed positive") leaves the team without anything to act on.
+What's different this time is what you do with it. Development Check-In #1 has no formal summary deliverable attached. The debrief feeds directly into your team's working list: what changes in the draft and who picks up what. Translate the input into concrete action items with owners before you close the debrief. A debrief that produces only general impressions ("it went well, they seemed positive") leaves the team without anything to act on.
 
 If you used AI tools during the meeting, the same boundaries apply that you've been working with: AI can help organize raw notes into a structured action item list or group related feedback, but it can't generate the substance of the conversation. Use it to clean up what you captured, not to fill in what you didn't.
 
 ---
 
-[INTERACTIVE: Simulated Check-In #1 — unexpected employer feedback on draft direction. Learners respond using the reception protocol from the Receiving feedback well page, capture decisions, and translate the feedback into a concrete action. Debrief surfaces the difference between a defensive and a receptive response. (~8–10 min)]
+[INTERACTIVE: Simulated Development Check-In #1 — unexpected employer feedback on draft direction. Learners respond using the reception protocol from the Receiving feedback well page, capture decisions, and translate the feedback into a concrete action. Debrief surfaces the difference between a defensive and a receptive response. (~8–10 min)]
