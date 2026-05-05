@@ -11,7 +11,7 @@ status: draft
 
 You've formed a team, researched the organization, and met the employer. Now you take what you've gathered and turn it into your first piece of strategic analysis: the Context Analysis & Project Plan.
 
-This is your first graded team deliverable, and it carries 10% of your final grade. More importantly, it's the document your employer will read before meeting with your team to discuss your approach. What you write here shapes that conversation.
+This is your first graded team deliverable. More importantly, it's the document your employer will read before meeting with your team to discuss your approach. What you write here shapes that conversation.
 
 [VIDEO: Why this deliverable matters]
 
@@ -19,7 +19,7 @@ This is your first graded team deliverable, and it carries 10% of your final gra
 
 ## What's due this week
 
-**Context Analysis & Project Plan** — graded, team submission, 10% of final grade.
+**Context Analysis & Project Plan** — graded, team submission.
 
 A single document with four parts: organizational & project context, research findings, strategic implications, and project plan.
 

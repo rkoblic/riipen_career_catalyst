@@ -17,7 +17,7 @@ This week is a hinge. Close out the Discovery phase with Reflection #2 — look 
 
 ## What's due this week
 
-**Reflection #2** is the only graded deliverable this week (individual submission, 5% of your final grade as part of the Reflection Portfolio). There's no employer touchpoint this week, which means your attention goes entirely to the reflection, the modules, and your development work.
+**Reflection #2** is the only graded deliverable this week (individual submission, contributes to the Reflection Portfolio component of your final grade). There's no employer touchpoint this week, which means your attention goes entirely to the reflection, the modules, and your development work.
 
 Complete the reflection early in the week, before you start development.
 

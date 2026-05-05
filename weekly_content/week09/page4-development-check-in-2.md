@@ -1,9 +1,9 @@
 ---
 week: 9
 page: 4
-title: The check-in with your employer
+title: Development Check-In #2
 created: 2026-04-09
-last_updated: 2026-04-21
+last_updated: 2026-05-04
 status: draft
 competencies:
   - area: Communication
@@ -12,7 +12,7 @@ competencies:
     subskill: Feedback Reception
 ---
 
-# The check-in with your employer
+# Development Check-In #2
 
 This check-in follows the same working session format as the last one: your team drives the agenda with specific questions, and the employer acts as a resource. What's changed is the question your team is now in a position to ask.
 
@@ -42,7 +42,7 @@ Walk through the draft with your team before the prep session. Every section whe
 
 At your last check-in, your team was preparing questions about decisions you hadn't fully made yet. Now you've made them. The questions should reflect that: you're not asking for general direction, you're asking whether the specific choices you made were the right ones.
 
-Your team also has more context about how to use working sessions productively. Questions informed by the internal review gate findings, the peer evaluation process, and your team's own assessment of the draft's strengths and weaknesses will be sharper than the questions your team was able to bring before..
+Your team also has more context about how to use working sessions productively. Questions informed by the internal review gate findings, the peer evaluation process, and your team's own assessment of the draft's strengths and weaknesses will be sharper than the questions your team was able to bring before.
 
 ### Anticipate what the employer will ask
 

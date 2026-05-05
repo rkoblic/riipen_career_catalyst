@@ -20,7 +20,7 @@ This week centers on a single event: the employer kickoff meeting. It's your tea
 You have two deliverables this week:
 
 1. **Kickoff Summary.** A team record of what the employer confirmed: scope, deliverables, success criteria, timeline, contacts, and open questions. Completion-based.
-2. **Reflection #1.** Your first graded individual reflection (~5% of your final grade), using the DEAL framework on an experience from the first few weeks.
+2. **Reflection #1.** Your first graded individual reflection (contributes to the Reflection Portfolio component of your final grade), using the DEAL framework on an experience from the first few weeks.
 
 ---
 

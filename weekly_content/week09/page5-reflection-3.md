@@ -3,7 +3,7 @@ week: 9
 page: 5
 title: Reflection #3
 created: 2026-04-09
-last_updated: 2026-04-21
+last_updated: 2026-05-04
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -18,7 +18,7 @@ competencies:
 
 # Reflection #3
 
-You've just finished the most concentrated production stretch of the course. Your team produced real work under pressure, processed feedback from multiple directions in a single session, and sat through the conversation that most workplaces avoid until something has gone wrong. There's more happening in this three-week window than in any earlier reflection pool.
+You've just finished the most concentrated development stretch of the course. Your team produced real work under pressure and did the kind of feedback work most professionals never get taught: each of you on your own peer feedback, the team together on the employer's mid-project survey. There's more happening in this three-week window than in any earlier reflection pool.
 
 Where Reflection #1 looked at entering a new professional situation and Reflection #2 looked at navigating ambiguity in your first major deliverable, this reflection looks at what it's like to work through substantive, sometimes hard feedback while the work is still in motion. Reflection #3 asks you to sit with one specific moment from these weeks and examine what it taught you about how you take in and respond to feedback from others. Depth comes from examining a single experience closely, not from summarizing everything that happened.
 
@@ -34,13 +34,13 @@ Use the DEAL framework to describe what happened, examine what that experience r
 
 You have more feedback material to draw from this week than in any previous reflection pool. Possible anchors:
 
-- The peer evaluation results you processed with your team in the Team Processing Session
+- The peer evaluation results you worked through individually before the Team Processing Session
 - The employer's mid-project survey responses
 - A moment from the Team Processing Session itself: something a teammate said, something you said, or something you almost said and didn't
-- A behavior change you committed to in the session, and what you think will be hard about sustaining it
+- A behavior change you committed to from your peer feedback, and what you think will be hard about sustaining it
 - The internal review gate on the draft, and what it surfaced about how your team works
 - This week's check-in with the employer, where the questions shifted from direction to substance
-- A team tension or disagreement that came up during production
+- A team tension or disagreement that came up during development
 
 If nothing this week felt particularly dramatic (the peer feedback was mild, the employer survey was positive, the Team Processing Session was smooth), that's still workable material. A quiet stretch is itself information about the team, and a smaller moment can yield more than a bigger event that already feels resolved. The recognition you almost dismissed, the comment you heard differently than you expected to, the observation about how your team was getting through the week — any of those can anchor a reflection.
 
@@ -90,7 +90,7 @@ Where AI helps most by this stage is pushing the Examine stage past where you'd 
 - **Surface unnamed assumptions.** Ask AI what assumptions you might be making about the situation, your teammates, or your own role that you haven't explicitly named. Treat what it flags as prompts for your own thinking, not conclusions to adopt.
 - **Anticipate a skeptical reader.** Ask AI the questions a skeptical reader would have after reading your draft. Then answer those in your revision rather than in the chat.
 
-If you worked through your first reaction to peer or employer feedback with AI before the Team Processing Session (as the Team Processing Session page suggests), the questions that came out of that conversation can seed the Examine stage directly.
+If you used AI to push back on your first reading of your peer feedback before the team session (as the Team Processing Session page suggests), the questions that came out of that conversation can seed the Examine stage directly.
 
 The intellectual work is yours. AI helps you see where you haven't gone far enough yet.
 
