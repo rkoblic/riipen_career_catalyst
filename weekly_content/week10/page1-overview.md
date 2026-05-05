@@ -25,12 +25,16 @@ This is the home stretch of building. The Development phase ends this week, and 
 
 ---
 
-## Your work this week
+## Suggested order of completion
 
-Order depends on your team. Here's what's on the week, to sequence however makes sense for where you are.
+Order depends on your team. The list below isn't a fixed queue — sequence it to fit where you are this week.
 
-- Read **What You're Actually Learning**. Two moves on one page: surfacing what the project has actually taught you, and putting those learnings in a form that travels beyond this specific project. Worth reading early so you can notice your own skill growth while the work is live.
-- Read **AI as Quality Reviewer**. The last new AI skill the course introduces, and it's immediately useful on the integration work you're about to do.
-- Keep working on your contributions. Apply the integration, actionability, and scope skills from last week, and run the AI quality reviewer prompts on your assembled sections.
-- Run a second internal review gate before the week ends. Shorter than the first one your team ran. The output is a concrete list of what still needs to change before the near-final version.
-- Read **What's Next** for forward prep: the Reflection #4 prompt, the Final Deliverables rubric, and what to bring into the opening of the Refinement phase.
+1. **What you're actually learning.** Helps you notice what the project has actually taught you and put those skills into language that works outside this specific project. Worth reading early so you can notice your own growth while the work is live.
+
+2. **AI as a quality reviewer.** The last new AI skill the course introduces, and it's immediately useful on the integration work you're about to do.
+
+3. **Keep working on your contributions.** Apply the integration, actionability, and scope skills from last week, and run the AI quality reviewer prompts on your assembled sections.
+
+4. **Run a second internal review gate before the week ends.** Shorter than the first one your team ran. The output is a concrete list of what still needs to change before the near-final version.
+
+5. **What's Next.** Read for forward prep: the Reflection #4 prompt, the Final Deliverables rubric, and what to bring into the opening of the Refinement phase.

@@ -12,7 +12,7 @@ competencies:
 
 # Using AI as a quality reviewer
 
-Professional work usually has a moment before something goes out the door when someone else reads it first. A colleague, an editor, a sharp teammate who hasn't been buried in the draft for three weeks and can still see it fresh. The point of that second read is to catch what the producer can't catch anymore, because they're too close to the work.
+Professional work usually has a moment before something goes out the door when someone else reads it first: a colleague, an editor, a sharp teammate who hasn't been buried in the draft for three weeks and can still see it fresh. The point of that second read is to catch what the producer can't catch anymore, because they're too close to the work.
 
 This week you learn to use AI in that role on your assembled draft as a whole document.
 
@@ -20,7 +20,7 @@ This week you learn to use AI in that role on your assembled draft as a whole do
 
 ## How this differs from the production partner role
 
-You met AI as a production partner last week, helping while you build: one section at a time, improving what you're actively working on. Quality reviewer is the whole-document version of the same idea. You hand AI the assembled draft and ask for evaluation. What comes back is a list of things to examine, not a rewrite.
+You met AI as a production partner last week, helping while you build: one section at a time, improving what you're working on. Quality reviewer is the whole-document version of the same idea. You hand AI the assembled draft and ask for evaluation. What comes back is a list of things to examine, not a rewrite.
 
 The general AI habits from last week (running prompts through more than one model, giving the model permission to say nothing) still apply. What's new this week is the scope.
 
@@ -28,10 +28,10 @@ The general AI habits from last week (running prompts through more than one mode
 
 ## What whole-document review is good for
 
-Four things AI does well when it has the full document in front of it that don't show up as clearly at the section level.
+There are four things AI catches at the whole-document level that don't show up as clearly when you review section by section.
 
 - **Reading for consistency across sections.** Team-produced documents drift. Voice shifts between authors, and the same concept gets defined two different ways. AI catches these seams because it reads the whole document in one pass, which no single teammate does.
-- **Finding cross-section gaps.** Places where one section references something that should have been set up earlier but wasn't, or where the executive summary makes a claim the findings don't support. These aren't visible section-by-section.
+- **Finding cross-section gaps.** One section may reference something that should have been set up earlier but wasn't, or the executive summary may make a claim the findings don't support. Gaps like these aren't visible section-by-section.
 - **Identifying tone mismatches.** Sections written under different pressures often carry different registers. A rushed section may sound abrupt; a heavily-edited one may sound overqualified. Both read awkwardly next to each other.
 - **Surfacing where an unfamiliar reader would lose the thread.** This is the one AI does best. You and your teammates are saturated in this project; an unfamiliar reader isn't. AI can simulate that reader more reliably than anyone on your team can at this point.
 
@@ -39,7 +39,7 @@ Four things AI does well when it has the full document in front of it that don't
 
 ## Prompt strategies
 
-Three prompt templates you can adapt to your assembled draft.
+Below are three prompt templates you can adapt to your assembled draft.
 
 **Fresh reader**
 > Read this document as someone who has never heard of this project or client. Where do you get lost? Where do you have to re-read? Be specific about the paragraph or sentence.
@@ -50,7 +50,7 @@ Three prompt templates you can adapt to your assembled draft.
 **Weakest-link analysis**
 > What are the three weakest points in this argument? Be specific about why each is weak. Is it the evidence, the reasoning, the scope, or the framing?
 
-What to do with the output: treat AI's list as questions to investigate, not verdicts to act on. Your team still makes the judgment call on each flagged item. Some flags will be real. Others will be AI noticing a surface inconsistency that's intentional. This exercise surfaces a list. Your team decides what's on it.
+Once you've run a prompt, treat AI's list as questions to investigate, not verdicts to act on. Your team still makes the judgment call on each flagged item, since some flags will be real and others will catch surface inconsistencies that were intentional. The exercise surfaces a list of things to examine; your team decides what actually needs to change.
 
 ---
 
