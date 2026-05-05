@@ -203,7 +203,7 @@ def render_competency_badges(competencies):
             f'font-size: 11px; color: #050c2a;">{label}</span>'
         )
     return (
-        '<p style="font-size: 12px; color: #6b7280; margin: 0 0 6px;">SKILLS YOU\'LL PRACTICE</p>'
+        '<p style="font-size: 12px; color: #6b7280; margin: 0 0 6px;"><strong>SKILLS YOU\'LL PRACTICE</strong></p>'
         '<div style="margin: 0 0 20px; display: flex; flex-wrap: wrap; gap: 6px;">'
         + "".join(spans)
         + "</div>"
@@ -276,13 +276,18 @@ def render_checklist(title, items):
 
 
 def render_callout(kind, label, body):
-    """kind is one of: key_principle, info, ai, scenario."""
+    """kind is one of: key_principle, info, ai, scenario.
+
+    Labels are wrapped in <strong> because Canvas strips font-weight from
+    inline styles — without <strong>, the label loses contrast against the
+    callout background.
+    """
     if kind == "key_principle":
         return (
             '<div style="background: #fff8f1; border-left: 4px solid #ff7c0a; '
             'padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">'
             f'<div style="font-size: 12px; margin-bottom: 6px; color: #b54708;">'
-            f"{_esc(label)}</div>"
+            f"<strong>{_esc(label)}</strong></div>"
             f'<p style="font-size: 14px; margin: 0;">{render_inline(body)}</p></div>'
         )
     if kind == "info":
@@ -290,14 +295,15 @@ def render_callout(kind, label, body):
             '<div style="background: #f7f8fa; border-left: 4px solid #2454ff; '
             'padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">'
             f'<div style="font-size: 12px; margin-bottom: 6px; color: #2454ff;">'
-            f"{_esc(label)}</div>"
+            f"<strong>{_esc(label)}</strong></div>"
             f'<p style="font-size: 14px; margin: 0;">{render_inline(body)}</p></div>'
         )
     if kind == "ai":
         return (
             '<div style="background: #050c2a; color: white; border-radius: 8px; '
             'padding: 16px 20px; margin: 16px 0;">'
-            f'<div style="font-size: 12px; margin-bottom: 6px;">{_esc(label)}</div>'
+            f'<div style="font-size: 12px; margin-bottom: 6px;">'
+            f"<strong>{_esc(label)}</strong></div>"
             f'<p style="font-size: 14px; margin: 0; color: white;">{render_inline(body)}</p></div>'
         )
     if kind == "scenario":
@@ -305,7 +311,7 @@ def render_callout(kind, label, body):
             '<div style="background: #f7f8fa; border: 2px dashed #7c3aed; '
             'border-radius: 10px; padding: 20px 24px; margin: 16px 0;">'
             f'<div style="font-size: 11px; color: #7c3aed; margin-bottom: 8px;">'
-            f"{_esc(label)}</div>"
+            f"<strong>{_esc(label)}</strong></div>"
             f'<p style="font-size: 14px; margin: 0;">{render_inline(body)}</p></div>'
         )
     raise ValueError(f"Unknown callout kind: {kind}")
@@ -422,7 +428,7 @@ def render_template_box(description):
     return (
         '<div style="background: white; border: 1px solid #e2e4e9; '
         'border-radius: 10px; padding: 18px 22px; margin: 12px 0 20px;">'
-        f'<div style="font-size: 12px; color: #6b7280; margin-bottom: 8px;">TEMPLATE</div>'
+        f'<div style="font-size: 12px; color: #6b7280; margin-bottom: 8px;"><strong>TEMPLATE</strong></div>'
         f'<p style="font-size: 14px; margin: 0;">{render_inline(description)}</p></div>'
     )
 
@@ -431,7 +437,7 @@ def render_linked_resource(description):
     return (
         '<div style="background: #f7f8fa; border: 1px solid #e2e4e9; '
         'border-radius: 8px; padding: 14px 18px; margin: 12px 0;">'
-        '<div style="font-size: 12px; color: #6b7280; margin-bottom: 4px;">LINKED RESOURCE</div>'
+        '<div style="font-size: 12px; color: #6b7280; margin-bottom: 4px;"><strong>LINKED RESOURCE</strong></div>'
         f'<p style="font-size: 14px; margin: 0;">{render_inline(description)}</p></div>'
     )
 

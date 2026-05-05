@@ -156,11 +156,11 @@ For bold-label numbered items:
 
 ### 7. Info Callout (Blue Left Border)
 
-Used for agendas, suggested timelines, structured guidance, and practical tips. Label text is written in actual uppercase (Canvas strips `text-transform`).
+Used for agendas, suggested timelines, structured guidance, and practical tips. Label text is written in actual UPPERCASE (Canvas strips `text-transform`) and wrapped in `<strong>` (Canvas strips `font-weight`) so the label keeps contrast against the callout background.
 
 ```html
 <div style="background: #f7f8fa; border-left: 4px solid #2454ff; padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">
-  <div style="font-size: 12px; margin-bottom: 6px; color: #2454ff;">CALLOUT LABEL</div>
+  <div style="font-size: 12px; margin-bottom: 6px; color: #2454ff;"><strong>CALLOUT LABEL</strong></div>
   <p style="font-size: 14px; margin: 0;">Callout content here.</p>
 </div>
 ```
@@ -171,7 +171,7 @@ Used for important rules, key distinctions, and course policies that students sh
 
 ```html
 <div style="background: #fff8f1; border-left: 4px solid #ff7c0a; padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">
-  <div style="font-size: 12px; margin-bottom: 6px; color: #b54708;">KEY PRINCIPLE</div>
+  <div style="font-size: 12px; margin-bottom: 6px; color: #b54708;"><strong>KEY PRINCIPLE</strong></div>
   <p style="font-size: 14px; margin: 0;">Principle text here.</p>
 </div>
 ```
@@ -182,7 +182,7 @@ Used for worked examples, "what this looks like in practice" scenarios, and case
 
 ```html
 <div style="background: #f7f8fa; border: 2px dashed #7c3aed; border-radius: 10px; padding: 20px 24px; margin: 16px 0;">
-  <div style="font-size: 11px; color: #7c3aed; margin-bottom: 8px;">SCENARIO EXAMPLE</div>
+  <div style="font-size: 11px; color: #7c3aed; margin-bottom: 8px;"><strong>SCENARIO EXAMPLE</strong></div>
   <p style="font-size: 14px; margin: 0;">Scenario content here.</p>
 </div>
 ```
@@ -357,7 +357,7 @@ Used for AI use and disclosure information specific to a deliverable or activity
 
 ```html
 <div style="background: #050c2a; color: white; border-radius: 8px; padding: 16px 20px; margin: 16px 0;">
-  <div style="font-size: 12px; margin-bottom: 6px;">AI USE</div>
+  <div style="font-size: 12px; margin-bottom: 6px;"><strong>AI USE</strong></div>
   <p style="font-size: 14px; margin: 0; color: white;">AI guidance text here.</p>
 </div>
 ```
@@ -367,7 +367,7 @@ Used for AI use and disclosure information specific to a deliverable or activity
 Used at the very top of each page (before the intro paragraph) to show which NACE competencies the page develops. Rendered as small pill-shaped tags under a "SKILLS YOU'LL PRACTICE" label. Pull the competency data from the `competencies` field in the page's markdown frontmatter. Omit this component on pages with no competencies listed.
 
 ```html
-<p style="font-size: 12px; color: #6b7280; margin: 0 0 6px;">SKILLS YOU'LL PRACTICE</p>
+<p style="font-size: 12px; color: #6b7280; margin: 0 0 6px;"><strong>SKILLS YOU'LL PRACTICE</strong></p>
 <div style="margin: 0 0 20px; display: flex; flex-wrap: wrap; gap: 6px;">
   <span style="display: inline-block; background: #f7f8fa; border: 1px solid #e2e4e9; border-radius: 12px; padding: 3px 10px; font-size: 11px; color: #050c2a;">Career &amp; Self-Development: Self-Awareness</span>
   <span style="display: inline-block; background: #f7f8fa; border: 1px solid #e2e4e9; border-radius: 12px; padding: 3px 10px; font-size: 11px; color: #050c2a;">Critical Thinking: Prioritization</span>
@@ -469,7 +469,7 @@ Paste the HTML into Canvas Rich Content Editor (HTML view), save, and preview. C
   <p style="font-size: 14px; margin-bottom: 12px;">Content here.</p>
 
   <div style="background: #f7f8fa; border-left: 4px solid #2454ff; padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">
-    <div style="font-size: 12px; margin-bottom: 6px; color: #2454ff;">TIP</div>
+    <div style="font-size: 12px; margin-bottom: 6px; color: #2454ff;"><strong>TIP</strong></div>
     <p style="font-size: 14px; margin: 0;">A helpful callout within the section.</p>
   </div>
 
@@ -502,6 +502,98 @@ Paste the HTML into Canvas Rich Content Editor (HTML view), save, and preview. C
 
 ---
 
+## Editorial Heuristics
+
+The component library tells you *how* to render each element. This section tells you *when* to reach for which one — the editorial judgment calls that the deterministic converter can't make. These rules came from auditing all the polished pages across weeks 1, 2, 5, and 6 and surfacing the patterns that worked (and the ones that drifted).
+
+### Promotion rules: what becomes a component vs. stays in prose
+
+A normal paragraph is the default. Promote to a component only when one of these is true:
+
+| If the content is... | Use | Don't use |
+|---|---|---|
+| A non-negotiable rule the learner could miss if they skim | **Key Principle Callout** | Just bold-prefix paragraph |
+| An agenda, suggested time-block, or pacing signal | **Info Callout** with a TIMING / AGENDA / LOOKING AHEAD label | Bullet list |
+| A required completion criterion or checkpoint type | **Info Callout** with a COMPLETION CRITERIA / CHECKPOINT TYPE label | Bullet list |
+| A practical tip the learner could miss in prose | **Info Callout** with a TIP / QUESTIONS TO TRY / CONFIRM LOGISTICS label | Bullet list |
+| A rule, boundary, prompt, or disclosure about AI specifically | **AI Guidance Box** | Plain paragraph that mentions AI |
+| A short sample, script, or worked example showing what something *looks like* | **Scenario Box** | Inline quoted text |
+| A pair where the contrast itself is the lesson (good/bad, before/after, defensive/constructive) | **Comparison Columns** | Two paragraphs |
+| Optional or supplementary material not every learner needs | **Expand/Collapse** | Inline section |
+
+**The negative space matters.** A paragraph that emphasizes a point with bold or italics is doing its job. Don't promote it just because it feels important — if every page has 4 Key Principles, none of them feel principled.
+
+### Frequency guardrails
+
+These are soft caps that the audit suggests work well. Cross them only when the content genuinely requires it.
+
+| Component | Per-page guideline | Why |
+|---|---|---|
+| Key Principle Callout | 1–2 (max 3) | Scarcity is the signal. More than 3 dilutes the others. |
+| Info Callout | 1–4 | Flexible — agendas, tips, criteria can stack. |
+| AI Guidance Box | 0–3 | Only when AI is genuinely scoped or constrained. |
+| Scenario Box | 0–3 | Examples should illustrate, not bury, the prose. |
+| Comparison Columns | 0–2 | High visual weight; reserve for the most teachable contrasts. |
+| **Total editorial elements per page** | **2–5** | Above 6, something should probably collapse back into prose. |
+
+Pages with no callouts at all are also fine — short overview pages, what's-next pages, and simple deliverable framings often don't need them.
+
+### Label conventions
+
+**Casing.** All callout labels are written in actual UPPERCASE characters (Canvas strips `text-transform`). Mixed-case labels like `Key Principle` or `90-Minute Agenda` are off-spec and should be retrofitted to UPPERCASE on touch.
+
+**Bold.** All callout labels (Info, Key Principle, AI Guidance, Scenario, Template, Linked Resource, Skills You'll Practice) are wrapped in `<strong>` tags. Canvas strips `font-weight` from inline styles, so without `<strong>` the label loses contrast against the callout background. The component templates above already include this — confirm it's there when retrofitting older pages.
+
+**Comparison column labels prefer behavior over quality.** Generic `Weak Example` / `Strong Example` works as a fallback, but behavior-descriptive labels teach more:
+
+- Generic: `Weak Example` / `Strong Example`
+- Behavior-descriptive (preferred): `Closes the door` / `Makes it actionable`, `Defensive — shuts the conversation down` / `Constructive — surfaces the real concern`, `Too vague` / `Names change and reason`, `Too formal` / `Too casual` / `Right tone`
+
+Pick labels that describe the *move* the example illustrates, not the abstract quality of the example.
+
+**Info Callout sub-purposes.** The Info Callout is the workhorse — it's expected to label many kinds of structured content. Use a specific label that matches the sub-purpose rather than inventing one-off names. Common labels that have proven useful:
+
+- `TIMING`, `LOOKING AHEAD` — pacing or sequencing signals
+- `SUGGESTED [N]-MINUTE AGENDA` — meeting/work agendas
+- `COMPLETION CRITERIA`, `CHECKPOINT TYPE` — what counts as done
+- `RECOMMENDED READING`, `RESOURCES` — external pointers
+- `QUESTIONS TO TRY` — sample prompts the learner can use
+- `TIP`, `WHAT'S AT STAKE`, `COMMON PLATEAU`, `WHY [...]?` — practical or framing notes
+- `CONFIRM LOGISTICS`, `BEFORE YOU START` — preparation reminders
+
+If your label doesn't fit any of these patterns, ask whether the content really wants an Info Callout or whether a Key Principle / bullet list / plain paragraph would serve better.
+
+**AI Guidance Box: 4 canonical label types.** All AI Guidance Box labels should map to one of these four:
+
+- `AI USE` — what's permitted, encouraged, or recommended
+- `AI BOUNDARY` — what's off-limits or constrained, and why
+- `AI DISCLOSURE` — required attribution language
+- `AI USE — [PROMPT NAME]` — when the box contains a sample prompt the learner can copy
+
+If the AI guidance you're writing doesn't fit one of these four, reconsider whether it belongs in an AI Guidance Box at all — most general AI mentions belong in regular prose.
+
+**Scenario Box sub-types.** Three patterns have emerged for how the Scenario Box gets used. Pick the label that matches the content:
+
+- `SCENARIO EXAMPLE` — multi-sentence narrative scenarios (a team, a situation, a sequence of events)
+- `EXAMPLE` — short standalone samples (a sample paragraph, a single email, a one-line piece of feedback)
+- `SCRIPT: [WHAT IT DOES]` — spoken phrasings the learner can use verbatim (e.g., `SCRIPT: OPENING THE MEETING`)
+
+### When NOT to use a component
+
+Counter-examples are as important as positive rules:
+
+- **Don't AI-Guidance-Box every AI mention.** The box should signal a rule, boundary, prompt, or disclosure. A page that simply mentions AI as a possible tool can keep that mention in prose.
+- **Don't Key-Principle every emphasized sentence.** If you have three or more candidates on a page, pick the one that most needs to survive a skim and demote the others to bold-prefix paragraphs.
+- **Don't Comparison-Column every pair.** Only use when the contrast *is* the lesson. Two adjacent example sentences usually belong in prose; the columns earn their visual weight when the difference is what the learner needs to internalize.
+- **Don't Info-Callout every paragraph that starts with `**Bold:**`.** Most bold-prefix paragraphs should stay as paragraphs. Promote only when the content is structurally distinct (an agenda, a criteria list, a timing signal) — not just emphasized.
+- **Don't Scenario-Box every illustrative line.** A single illustrative sentence usually reads better in prose. Reserve the box for content the learner might want to scan back to.
+
+### Density target
+
+The audit found polished pages averaging 2.4–4.0 editorial elements per page. Anything above 5 starts to feel ornamented. If a page exceeds 5, do a pruning pass before publishing — usually 1–2 of the elements can collapse back into prose without losing the lesson.
+
+---
+
 ## Accessibility Checklist
 
 These practices are built into the components above but worth verifying:
@@ -522,3 +614,4 @@ These practices are built into the components above but worth verifying:
 - **Emoji encoding.** Emoji are encoded as HTML entities (`&#127916;` for film clapper, `&#127919;` for bullseye, `&#128206;` for paperclip, `&#9744;` for checkbox) for maximum compatibility. They render natively in all modern browsers.
 - **Closing tags.** The most common rendering bug is a missing `</div>`. Count your opening and closing tags before pasting. One missing close tag will break everything below it.
 - **Canvas style stripping.** Canvas normalizes HTML when saving. It strips `font-weight`, `text-transform`, and `letter-spacing`. It lowercases hex colors. It removes `noreferrer` from `rel` attributes. All component templates in this guide account for this — do not add these stripped properties back.
+- **Label bolding.** Because Canvas strips `font-weight`, every callout label (Info, Key Principle, AI Guidance, Scenario, Template, Linked Resource, Skills You'll Practice) is wrapped in `<strong>` so it keeps contrast against its callout background. The component templates already include this; if you're hand-writing or retrofitting, confirm the `<strong>` is in place.
