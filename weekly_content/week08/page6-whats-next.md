@@ -9,7 +9,7 @@ status: draft
 
 # What's next
 
-You've completed the mid-project peer evaluation and continued forward production. Two things land next week: another employer check-in and a chance for your team to process the peer evaluation results and the employer's mid-project survey feedback.
+You've completed the mid-project peer evaluation and continued forward development. Two things land next week: another employer check-in and a Team Processing Session where your team works through the employer's mid-project survey feedback together. Your peer evaluation results also come back to you next week as individual feedback.
 
 ---
 
@@ -24,7 +24,7 @@ Start identifying your questions before the week ends. The sections you've been 
 ## How to prepare
 
 - **Keep advancing your draft.** The more complete your sections are before Development Check-In #2, the more specific your questions can be.
-- **Review your debrief notes from Development Check-In #1.** Some items your team noted at the time may look different after a week of production. Notes-category feedback can become act-on once you're further in.
+- **Review your debrief notes from Development Check-In #1.** Some items your team noted at the time may look different after a week of development. Notes-category feedback can become act-on once you're further in.
 - **Skim the Development Check-In #2 materials** before the week starts so you know what preparation looks like.
-- **Hold onto your peer evaluation notes.** When the results come back, you'll want the evidence that informed your own ratings within reach to make sense of what you receive.
+- **Hold onto your self-evaluation notes.** When peer ratings of you come back next week, having your own self-rating evidence on hand makes the calibration check more useful. Where your self-rating and peer ratings diverge is the most informative gap to sit with.
 - **Reflection #3 lands next week.** It asks you to anchor on a specific moment where feedback, collaboration, or a team interaction taught you something about how you work with others. The Team Processing Session, the peer eval results, and the mid-project survey are all natural sources. Start noticing while the moments are fresh.

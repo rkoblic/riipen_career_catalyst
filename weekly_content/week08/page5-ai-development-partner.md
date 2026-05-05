@@ -1,7 +1,7 @@
 ---
 week: 8
 page: 5
-title: AI as a production partner
+title: AI as a development partner
 created: 2026-04-06
 last_updated: 2026-04-20
 status: draft
@@ -10,9 +10,9 @@ competencies:
     subskill: Evidence-Based Reasoning
 ---
 
-# AI as a production partner
+# AI as a development partner
 
-Earlier in the course, AI was most useful as a research tool. It helped you scope unfamiliar territory and stress-test your approach. In the production phase, its most useful role shifts. AI becomes a production partner: a tool for reviewing and tightening work you've already built.
+Earlier in the course, AI was most useful as a research tool. It helped you scope unfamiliar territory and stress-test your approach. In the development phase, its most useful role shifts. AI becomes a development partner: a tool for reviewing and tightening work you've already built.
 
 This is a different use than drafting from scratch. The value comes from asking AI to evaluate logic and structure: places where the argument is underdeveloped, where transitions are missing, where a claim isn't backed by the evidence in the same section.
 

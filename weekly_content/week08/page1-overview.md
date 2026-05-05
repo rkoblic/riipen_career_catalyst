@@ -9,9 +9,9 @@ status: draft
 
 # From feedback to forward motion
 
-There's no employer meeting this week, which frees up the largest project production block in the course so far. Your team translates what came out of last week's check-in with your employer into concrete revisions and keeps moving forward on the sections still in progress.
+There's no employer meeting this week, which frees up a lot of time to just work on your project. Your goal this week is to translate what came out of last week's check-in with your employer into concrete revisions and keeps moving forward on the sections still in progress.
 
-This week is also the course's first formal mid-project evaluation moment. You'll complete an evaluation of each of your teammates, and each of them will complete an evaluation of you. Your employer will also complete a brief evaluation of the team. Next week, your team receives those results and discusses them together. All of it feeds the Professional Engagement component of your final grade.
+This week is also the course's first formal mid-project evaluation moment. You'll complete an evaluation of each of your teammates, and each of them will complete an evaluation of you. You'll also include a self-evaluation on the same dimensions. Your employer will complete a brief evaluation of the team. Next week, you'll receive your peer feedback to process individually, and your team will discuss the employer feedback together. All of it feeds the Professional Engagement component of your final grade.
 
 [VIDEO: From feedback to forward motion]
 
@@ -31,4 +31,4 @@ This week is also the course's first formal mid-project evaluation moment. You'l
 2. Complete and submit your peer evaluations.
 3. Skim the FYI page on the employer mid-project evaluation so you know what your employer is being asked about the team this week.
 4. As a team, decide what to do with any feedback you received from your employer last week.
-5. Continue project production: revise based on employer feedback and move forward on any sections still in progress. The Acting on Feedback page and AI as a Production Partner page are references for the judgment calls and AI use that come up during this work.
+5. Continue project development: revise based on employer feedback and move forward on any sections still in progress. The Acting on Feedback page and AI as a Development Partner page are references for the judgment calls and AI use that come up during this work.

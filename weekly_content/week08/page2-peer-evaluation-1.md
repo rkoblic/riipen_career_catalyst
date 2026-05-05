@@ -20,7 +20,7 @@ competencies:
 
 In professional environments, giving structured, evidence-based feedback on a colleague's contribution is a normal part of how teams operate. Annual reviews, project retrospectives, and 360-degree feedback processes all rest on the same underlying skill: observing a teammate's behavior over time and writing about it in a way another person can act on. That skill doesn't come naturally to most people, and this evaluation is designed to develop it.
 
-The Mid-Project Peer Evaluation is a required individual deliverable that will contribute to your peers' Professional Engagement grade. It asks you to evaluate each teammate's contribution to the project using a qualitative feedback framework and behaviorally anchored ratings. The evaluation is formative. It exists to surface team dynamics while there's still time to act on them. You'll receive anonymized feedback from your peers next week, and your team will have the chance to discuss it and agree on specific changes at the suggested Team Processing Session.
+The Mid-Project Peer Evaluation is a required individual deliverable that will contribute to your peers' Professional Engagement grade. It asks you to evaluate each teammate's contribution to the project using a qualitative feedback framework and behaviorally anchored ratings. The evaluation is formative. It exists to surface team dynamics while there's still time to act on them. You'll receive anonymized feedback from your peers next week. The feedback is yours alone, not material for a group discussion. Use it as input for your own self-assessment and for any changes you decide to make in how you contribute to the team going forward.
 
 ---
 
@@ -75,7 +75,7 @@ This prompt is deliberately softer than "stop." Adjustment is more accurate than
 
 ## BARS ratings
 
-For each teammate, you'll also rate their behavior on four dimensions using Behaviorally Anchored Rating Scales (BARS). BARS replace abstract numeric ratings with concrete behavioral descriptions. Your job is to match what you've observed to the description that most closely fits.
+For each teammate, you'll also rate their behavior on four dimensions using Behaviorally Anchored Rating Scales (BARS). BARS are widely used in performance management because they replace abstract numeric ratings with concrete behavioral descriptions: a "3" on reliability means little on its own, but a paragraph describing what reliable behavior looks like is something two different evaluators can apply consistently. Your job is to match what you've observed to the description that most closely fits.
 
 Each rating requires a 1–2 sentence behavioral example as evidence. Ratings without specific evidence are flagged for instructor review. If you're uncertain between two ratings, select the lower one and explain why in your evidence.
 
@@ -194,4 +194,4 @@ AI cannot generate the evaluation itself. The qualitative feedback must reflect 
 
 ## Submission
 
-[PLATFORM: TBD — submission instructions depend on platform choice]
+**Submission:** Individually through the Riipen platform.

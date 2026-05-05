@@ -35,7 +35,7 @@ Mid-project is the natural time for an employer to give feedback on team behavio
 
 ## How you'll receive it
 
-The results come back to your team before next week's Team Processing Session, where you'll discuss them alongside the anonymized peer evaluation feedback. Three things are shared:
+The results come back to your team before next week's Team Processing Session, where you'll discuss them as a team. Three things are shared:
 
 - **The three dimension scores.** You'll see how your employer rated the team on Communication, Preparedness, and Responsiveness.
 - **The qualitative response, verbatim.** Your team gets the employer's exact answer to the open-ended question: a direct, specific suggestion for how to work better together for the rest of the project. (Or a "no changes needed," which is its own kind of useful signal.)
@@ -45,11 +45,9 @@ The results come back to your team before next week's Team Processing Session, w
 
 ## How this connects to the peer evaluation
 
-The mid-project employer evaluation isn't meant to be processed alone. Combined with the peer evaluation results, it gives your team a 360-degree look at where you are midway through the project.
+This week's two evaluations are designed to give you complementary views. The peer evaluation is your individual feedback: how your teammates experience your contribution from the inside. The employer evaluation is your team's shared feedback: how the team appears from the outside, in terms of communication, preparedness, and responsiveness.
 
-The peer evaluation tells you how your team experiences itself from the inside: who's reliable, who's contributing, where the dynamics are working. The employer evaluation tells you how your team appears from the outside: how organized you've come across, how responsive you've been, how clearly you've been communicating with the people you're producing the work for.
-
-Sometimes those two pictures will line up. Sometimes they won't, and the places they diverge are usually where the most useful team conversations come from. A team that rates itself well on internal collaboration but gets a 2 from the employer on responsiveness has discovered a specific, actionable gap. The Team Processing Session next week is where your team makes sense of both inputs together.
+The two are processed differently. The Team Processing Session next week is where your team discusses the employer feedback together and decides what to do with it. The peer feedback is yours to sit with individually. It's input for your own reflection on how you're showing up, not material for a group conversation.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 week: 8
 page: 4
-title: Acting on feedback during production
+title: Acting on feedback during development
 created: 2026-04-20
 last_updated: 2026-04-20
 status: draft
@@ -14,9 +14,9 @@ competencies:
     subskill: Written Clarity
 ---
 
-# Acting on feedback during production
+# Acting on feedback during development
 
-Once your team is in production, feedback arrives constantly. It comes from employer check-ins, async messages between meetings, internal team review, and your own observations as the work develops. Most of it is small and easy to absorb. Some of it asks your team to shift direction in a way that takes time, coordination, or rethinking. This page is what to do when that happens.
+Once your team is in development, feedback arrives constantly. It comes from employer check-ins, async messages between meetings, internal team review, and your own observations as the work develops. Most of it is small and easy to absorb. Some of it asks your team to shift direction in a way that takes time, coordination, or rethinking. This page is what to do when that happens.
 
 In any batch of feedback you receive, most items are already sorted for you by the way they came in. The answers to the specific questions you brought into a meeting are mostly act-on by default. That was the point of asking. The triage matters most for everything else: observations the employer offered beyond your questions, tangents that came up, comments that were opinions rather than direction. For those, your team needs to decide what's worth acting on, what's worth noting, and what to consciously set aside.
 
@@ -44,11 +44,11 @@ A social media strategy team's employer says: "Personally, I've always liked the
 
 ## Build a quick revision plan
 
-Once you've identified your act-on items, convert them into a concrete plan before anyone starts revising. A simple format is enough:
+Once you've identified your act-on items, convert them into a concrete plan before anyone starts revising.
 
-| Feedback item | Source | Revision required | Owner | Target date |
+[TEMPLATE: Revision Plan — columns: Feedback item | Source | Revision required | Owner | Target date. Include 2-3 example rows showing different feedback types: a scope correction with a clear owner, a structural revision that affects multiple sections, and a smaller targeted change like a citation update or data refresh.]
 
-Two practices that protect the team during a production-heavy week:
+Two practices that protect the team during a development-heavy week:
 
 **Assign one owner per item.** When a whole team owns something, no individual is on the hook for it getting done. Someone needs to be accountable for each revision, even if other teammates contribute.
 
@@ -60,10 +60,10 @@ A process improvement team whose employer says "the current-state workflow you'v
 
 Most teams underestimate the structural revisions and overestimate the targeted ones. A section that needs to be reargued from the beginning is not a quick fix, and treating it like one is how teams end up with a partially revised document the day before it's due. When the team is unsure which kind a particular revision is, a five-minute conversation tends to be worth more than the hour spent revising in the wrong direction.
 
+[CURATED LINK: "The Six Types of Editing: Knowing Which Is the Right One" (article, ~6 min) — The Writers for Hire — https://www.thewritersforhire.com/the-six-types-of-editing-knowing-which-is-the-right-one/] A practical breakdown of editing types, from developmental (big-picture structure and argument) through to proofreading. Useful for understanding where your revision actually sits and what kind of attention it requires.
+
 ---
 
 ## Connect it to the Change Log
 
 Each act-on row of your revision plan becomes a Change Log entry once the revision is done. The Change Log your team started after revisiting the Final Deliverable is the place where these get tracked.
-
-[CURATED LINK: "The Six Types of Editing: Knowing Which Is the Right One" (article, ~6 min) — The Writers for Hire — https://www.thewritersforhire.com/the-six-types-of-editing-knowing-which-is-the-right-one/] A practical breakdown of editing types, from developmental (big-picture structure and argument) through to proofreading. Useful for understanding where your revision actually sits and what kind of attention it requires.
