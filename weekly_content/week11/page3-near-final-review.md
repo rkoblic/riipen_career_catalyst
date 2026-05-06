@@ -1,6 +1,6 @@
 ---
 week: 11
-page: 4
+page: 3
 title: Reviewing your near-final package
 created: 2026-04-21
 last_updated: 2026-04-21
@@ -12,9 +12,9 @@ competencies:
     subskill: Professional Communication
 ---
 
-# Reviewing your near-final package
+# Near-Final Check-In
 
-This meeting is the second document-sharing checkpoint in the course. Your team submitted the near-final package through the platform, and the meeting is where you walk the employer through it and surface the questions you want their read on. It's the last major directional input before the final submission.
+The Near-Final Check-In is the second document-sharing checkpoint in the course. Your team submitted the near-final package through the platform, and the meeting is where you walk the employer through it and surface the questions you want their read on. It's the last major directional input before the final submission.
 
 If the project has been going well, this meeting should feel light. You've been checking in with the employer for weeks. The big decisions have been on the table before. There shouldn't be surprises in the package that aren't already in the conversation.
 
@@ -68,12 +68,6 @@ Either way, the team drives. The employer's depth of reading changes the balance
 
 ## Preparing
 
-### Run the internal review gate first
-
-Before the employer reads the package, your team should read it. The internal review gate you've run before applies here: is the package clean, navigable, and self-explanatory? Does it look like something your team would be comfortable putting your names on? The Quality and Craft module covers what to look for and the self-review checklist to work through.
-
-Do this before submitting the Near-Final Package, not after. The employer reads what you submit.
-
 ### Prepare the walkthrough and Change Log summary
 
 Decide who on the team will walk the employer through the package. Pick two or three highlights for the opening: the key findings, the structure of the package, what's changed since the last check-in. Five minutes of this sets up the rest of the meeting whether the employer read closely or not.
@@ -84,7 +78,7 @@ Be ready to say explicitly where you didn't act on something and why. That's par
 
 ### Develop targeted questions
 
-The questions to bring to the near-final review are different from the questions you brought to working sessions. At those meetings, you were asking for input on decisions in progress. Here, you've largely made those decisions. The questions at this stage are about completeness and quality judgment.
+The questions to bring to the Near-Final Check-In are different from the questions you brought to working sessions. At those meetings, you were asking for input on decisions in progress. Here, you've largely made those decisions. The questions at this stage are about completeness and quality judgment.
 
 Useful questions to develop:
 
@@ -110,12 +104,6 @@ Before the meeting, try the same approach your team has used at prior check-ins:
 - Walkthrough and Change Log summary (about 5-7 minutes): Open with the shape of the package and a quick summary of what the team did with recent feedback.
 - Targeted questions (about 15-18 minutes): Work through the questions your team prepared. The employer's responses are the primary output of the meeting.
 - Employer observations (about 5-8 minutes): Leave time for the employer to raise anything the package prompted that your questions didn't cover. If they read closely, this window grows. If they skimmed, it may be shorter.
-
-**Capturing notes during the meeting**
-
-Designate one team member to take notes on everything the employer says, including observations that don't seem to connect to your questions directly. Feedback that sounds general in the moment often becomes specific when you're reading your notes later.
-
-When the employer says something ambiguous, ask a follow-up before the meeting ends. "When you say the recommendations feel high-level, is that about the level of specificity, or about the feasibility information we've included?" is a better use of meeting time than spending the debrief guessing what they meant.
 
 ---
 

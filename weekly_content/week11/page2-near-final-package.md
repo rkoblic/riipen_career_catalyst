@@ -1,6 +1,6 @@
 ---
 week: 11
-page: 3
+page: 2
 title: Near-Final Package
 created: 2026-04-21
 last_updated: 2026-04-21
@@ -12,7 +12,7 @@ competencies:
 
 # Near-Final Package
 
-The Near-Final Package is the required team checkpoint that opens this week's meeting with your employer. Submit it through the Riipen platform before you meet. When you submit, the package is automatically shared with your employer, so aim to submit well in advance so they have a chance to review it.
+The Near-Final Package is the required team checkpoint that opens this week's Near-Final Check-In with your employer. Submit it through the Riipen platform before you meet. When you submit, the package is automatically shared with your employer, so aim to submit well in advance so they have a chance to review it.
 
 ---
 
@@ -42,6 +42,29 @@ The package meets the completion standard when:
 - Formatting is consistent throughout the document
 
 Work that's missing major components, has a Change Log that stops several weeks before submission, or hasn't been through any quality review doesn't meet the standard.
+
+---
+
+## Run the team self-review
+
+Before your team submits the package, run one last internal review. The focus is assembly-level problems: the rough edges that surface when sections written separately get pulled into one document.
+
+**Self-review checklist:**
+
+- [ ] **Terminology is consistent throughout:** the same concept uses the same word every time it appears in the document
+- [ ] **All cross-references are accurate:** any phrase like "as discussed above" or "see the next section" still points to something that exists in the current version
+- [ ] **Formatting is consistent for similar content:** recommendations, examples, and data points receive the same visual treatment across sections
+- [ ] **Visual elements align with the text:** any chart, table, or figure is referenced in the body text and accurately reflects what the surrounding text describes
+- [ ] **Recommendations are findable:** any recommendation included in the body also appears in the summary or implementation section, not only in one location
+- [ ] **Prose is error-free:** spelling, punctuation, and grammar have been checked in each section, not only in sections that were recently revised
+
+**Where the deeper guidance lives:**
+
+- **Integration between sections** (terminology drift, logic breaks, register shifts, transition gaps): Week 9's Draft Deliverable module, "Making sections talk to each other."
+- **AI quality reviewer prompts** (fresh reader, consistency check, weakest-link): Week 10's "Using AI as a quality reviewer." Run these on the assembled package before the manual checklist pass.
+- **Peer review lenses** (clarity, argument structure, evidence quality, tone): Week 7's "Reviewing your teammates' work." Useful as a section-by-section pass alongside the whole-document checklist.
+
+The Deliverable Quality dimension of the Final Deliverables rubric is the formal measure of what this checklist is protecting against. The near-final package isn't graded directly, but the rubric is where the work is headed.
 
 ---
 
