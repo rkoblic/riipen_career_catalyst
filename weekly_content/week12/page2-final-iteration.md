@@ -18,13 +18,13 @@ competencies:
 
 The last stretch of work on any deliverable is a judgment call. The professional question at this stage is not whether there is more that could be improved. There is always more. The question is whether the remaining work is worth more than the risk of breaking something that already works. Making that call deliberately is what separates a submitted deliverable from one that is still being changed when the deadline arrives.
 
-This is a professional skill that academic work rarely asks for. In most courses, revision continues until the deadline and stops because time runs out. Final iteration on a client deliverable stops because the team has made a call. Your team is about to make one.
+This kind of stopping decision is more common in professional work than in school. Course deadlines usually settle when revision stops. On a client deliverable, the team also makes a deliberate call about when more change is no longer worth the risk. Your team is about to make that call.
 
 ---
 
 ## Triaging feedback on your near-final deliverables
 
-This is the largest pool of feedback you will get from the employer before the deliverable is final. Every item in the debrief notes from last week's meeting lands in one of three categories.
+Last week's meeting was your team's last major employer input before the final submission. Every item in your debrief notes lands in one of three categories.
 
 - **Requires revision.** The item points at something the team agrees should change before submission, and the change is feasible in the time remaining. These go on the production list.
 - **Acknowledge in the Change Log without changing the deliverable.** The team heard the feedback, considered it, and has a deliberate reason not to act on it (scope, disagreement after discussion, or judgment that the current version is stronger). These get a Change Log entry that captures both the feedback and the reasoning. Not changing something is a defensible decision when the reasoning is visible.
@@ -34,7 +34,7 @@ This is the largest pool of feedback you will get from the employer before the d
 
 Sometimes the debrief is a few lines. Sometimes it's "looks good, ship it." A busy partner signing off without a long list is normal late in a project, not a sign your team is off track. It does leave the triage with less to work on, though, so the team needs another input for this week's revision.
 
-Use the AI quality reviewer prompts from earlier in the course to generate it. The fresh-reader, consistency-check, and weakest-link prompts are designed exactly for this stage: whole-document review of an assembled draft. Run them on your current draft and treat what comes back as a candidate list.
+Use the AI quality reviewer prompts from Week 10's "Using AI as a quality reviewer" to generate it. The fresh-reader, consistency-check, and weakest-link prompts are designed exactly for this stage: whole-document review of an assembled draft. Run them on your current draft and treat what comes back as a candidate list.
 
 The candidate list then runs through the same three-category triage above. Some flags will be real revision items. Some will be acknowledgment-only (AI noticing a surface inconsistency that is actually intentional). Some will be out of scope. The difference between AI-generated candidates and employer feedback is the source, not the process. Your team still makes the call on each item.
 
@@ -43,9 +43,9 @@ The candidate list then runs through the same three-category triage above. Some 
 A few cues help separate the three categories when the team is deciding in real time.
 
 - **Pattern matters more than volume.** One employer comment about a specific paragraph is usually a revision item. The same observation surfacing in three different sections is usually a structural issue worth more attention. Read across the feedback before acting on any single item.
-- **Specificity signals action-requiring.** Employer comments that point to a specific sentence, number, or section tend to require action. Comments that are more reaction than direction ("I wonder if there's another way to frame this") are often acknowledgment items. The team can respond to the underlying question in the Change Log without reshaping the deliverable.
-- **Time against risk.** Late-stage changes carry more risk than mid-stage ones for a specific reason. Every change now has less time to propagate through related sections, and less time for the team to catch the downstream effects. A feedback item that would have been a two-hour revision in Week 8 may be a six-hour revision now, once the team accounts for keeping the rest of the document consistent.
-- **Scope is the third category's real test.** If acting on a piece of feedback would require new research, a new section, or a new argument, it probably belongs in the third category regardless of how good the suggestion is. Good ideas are not always in-scope ideas.
+- **Specific comments usually call for action.** Employer comments that point to a specific sentence, number, or section tend to require action. Comments that are more reaction than direction ("I wonder if there's another way to frame this") are often acknowledgment items. The team can respond to the underlying question in the Change Log without reshaping the deliverable.
+- **Late changes cost more than mid-stage ones.** Every change now has less time to propagate through related sections, and less time for the team to catch the downstream effects. A feedback item that would have been a two-hour revision in Week 8 may be a six-hour revision now, once the team accounts for keeping the rest of the document consistent.
+- **Out-of-scope items belong in the third category.** If acting on a piece of feedback would require new research, a new section, or a new argument, it probably belongs there regardless of how good the suggestion is. Good ideas are not always in-scope ideas.
 
 ### The Change Log as defense, not just record
 
