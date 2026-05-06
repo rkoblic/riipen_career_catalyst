@@ -107,7 +107,7 @@ Rehearsal feedback stays inside the team. What gets fixed is what the team saw a
 
 ## Finalize and submit the Presentation Outline
 
-The outline is a completion-based checkpoint. It is assessed for evidence of deliberate planning before the deck build, not for the eventual quality of the presentation itself. The point of submitting it is the same point a professional team has when a manager asks to see the plan before the work starts: a specific, thought-through outline predicts specific, thought-through work. A thin outline almost always predicts a thin presentation.
+The outline is a completion-based checkpoint, not something the employer sees. Your experience manager or instructor may review it as a support and accountability mechanism: a chance to confirm the team has done deliberate planning before the deck build, and to catch thin spots while there is still time to fix them. The deck build inherits whatever decisions the outline made or didn't.
 
 ### What the finalized outline should include
 
@@ -138,4 +138,4 @@ Read what comes back as pressure on the structure, not as edits to adopt. Places
 
 AI disclosure is required on the submission.
 
-**Submission:** [PLATFORM: TBD]
+**Submission:** As a team through the Riipen platform.

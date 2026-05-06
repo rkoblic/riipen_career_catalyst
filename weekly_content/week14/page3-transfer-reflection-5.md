@@ -36,7 +36,7 @@ You have been building that answer across the portfolio already. Reflection #5 i
 
 ---
 
-## Part 1: Transfer — taking it with you
+## Transfer — taking it with you
 
 ### Project-specific learning versus transferable learning
 
@@ -61,7 +61,7 @@ Write a few sentences for each. Not all of the material you generate needs to ma
 
 ---
 
-## Part 2: Approaching Reflection #5
+## Approaching Reflection #5
 
 A strong Reflection #5 lands on one specific, defensible claim about yourself as a professional, supported by evidence from across the fifteen-week arc. The anchor you select and the analytical move you make on it are what get you there.
 
@@ -95,7 +95,7 @@ The rubric calls this Articulation of Learning. It is one of four dimensions the
 
 ---
 
-## Part 3: Drafting this week
+## Drafting this week
 
 The prompt, experiential pool, and DEAL structure are the same framework you have been using since the first reflection in the course. What changes is the scope of the experience you draw from and the depth bar on what you articulate.
 
@@ -119,10 +119,10 @@ Try to spend about an hour thinking through your reflection this week. The goal 
 
 A workable split across the hour:
 
-- **About twenty minutes on anchor selection.** Use the scan prompts from Part 2. Do not commit to the first anchor that feels plausible. Consider two or three and pick the one with the strongest evidence across multiple weeks.
+- **About twenty minutes on anchor selection.** Use the scan prompts from the Approaching Reflection #5 section above. Do not commit to the first anchor that feels plausible. Consider two or three and pick the one with the strongest evidence across multiple weeks.
 - **About thirty minutes drafting Describe and Examine.** Write the specific experience or pattern of experiences. Examine what produced the shift and what it reveals. If either section feels thin, that is a signal to reconsider the anchor, not to push through.
 - **About ten minutes jotting notes toward Articulate and Learn.** First-pass candidate language only. The finished version comes together in the final week.
 
 Do not try to finish the reflection in this block. Reflections written in one sitting consistently miss the Articulation of Learning bar.
 
-**Submission:** Next week, individually through the Riipen platform. [PLATFORM: TBD]
+**Submission:** Next week, individually through the Riipen platform.

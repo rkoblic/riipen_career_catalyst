@@ -15,7 +15,7 @@ This week was translation. Next week is delivery. The three pieces of work that 
 
 ## The Final Presentation
 
-The Final Presentation is the course's single live Q&A moment. Everything leading up to this point was in writing. The presentation is the first and only time your team's work gets defended in real time, in front of the employer, with whatever questions they bring. The defend-your-work standard that Planning Your Presentation and the Q&A module set up this week is what next week tests.
+The Final Presentation is the formal delivery of the finished recommendation. The team has had live conversations with the employer throughout the project (kickoff, biweekly check-ins, the Near-Final Check-In), but those were working sessions on work in progress. The presentation is the first time the team walks the employer through the recommendation as a finished piece, and the Q&A is on the work as a whole. The defend-your-work standard that Planning Your Presentation and the Q&A module set up this week is what next week tests.
 
 The presentation is graded as a team. Before the final week begins, read [**the Final Presentation rubric**](URL_TBD). It names what the assessment is looking for across narrative, visual support, speaker coordination, and Q&A performance. Your team has the material. The rubric is how you check that what you present communicates it.
 

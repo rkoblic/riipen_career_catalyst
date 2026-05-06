@@ -86,4 +86,4 @@ Three moves, in roughly this order:
 
 ## Submission
 
-Next week, individually through the Riipen platform. [PLATFORM: TBD]
+Next week, individually through the Riipen platform. 
