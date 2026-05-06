@@ -10,10 +10,10 @@ status: draft
 
 # Video Script: Before you submit
 
-Before you submit, something worth saying out loud.
+There's one thing to acknowledge before you submit your final deliverables. Twelve weeks ago, your team didn't have a project. This week, you submit a finished professional deliverable.
 
-Twelve weeks ago your team didn't have a project, a brief, a scope, or a deliverable. This week, you submit all of it.
+Take the time to celebrate your progress and achievement. Tell each other good work. Take a moment to recharge.
 
-Most professional teams skip this part and move straight to the next thing. The ones who last don't. They tell each other good work. They take the evening. They let the finish be a finish.
+Many professional teams skip this part and move to the next thing. The ones who last, don't.
 
-Submission isn't the end of the course. But this is the end of building the thing. Sit with it. Be proud of yourself. You've earned it.
+Submitting your deliverables isn't the end of the course, but the hard work of discovery, development, and refinement is done. Sit with it and be proud of yourself. You've earned it.

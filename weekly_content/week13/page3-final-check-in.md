@@ -1,7 +1,7 @@
 ---
 week: 13
 page: 3
-title: Final Check-In (optional)
+title: Final Check-In
 created: 2026-04-21
 last_updated: 2026-04-21
 status: draft
@@ -10,9 +10,9 @@ competencies:
     subskill: Client Engagement
 ---
 
-# Final Check-In (optional)
+# Final Check-In
 
-This week's standing biweekly check-in with the employer is the last one before the Final Presentation in Week 15. It is a 30-minute hold. This page covers how to decide whether to use it or cancel, how to run it if you hold it, and how to communicate with the employer about presentation logistics either way.
+This week's standing biweekly check-in with the employer is the last one before the Final Presentation in Week 15. It is a 30-minute hold. This page covers how to decide what to do with the slot (hold the meeting, ask your remaining questions asynchronously, or cancel), how to run the meeting if you hold it, and how to communicate with the employer about presentation logistics either way.
 
 ---
 
@@ -26,13 +26,17 @@ Don't use it as a second full review of the deliverable or as a substitute for t
 
 ---
 
-## How to make the hold/cancel decision
+## How to decide what to do
 
 **The substantive test**
 
 A substantive question is one where the employer's answer would change something in the deliverable before submission. A reassurance question is one where the answer would make the team feel better but the deliverable would ship the same either way.
 
-Hold the meeting if your team has substantive questions. Cancel if the only questions are reassurance questions.
+You have three options for this slot:
+
+- **Hold the meeting** if your team has substantive questions that benefit from a live conversation.
+- **Send your questions asynchronously** (email or your usual channel) if you have substantive questions but a meeting isn't worth the time. This works well when the answers are short or yes/no.
+- **Cancel** if the only questions are reassurance questions.
 
 **What your Change Log and internal review gate tell you**
 
@@ -42,7 +46,7 @@ Check the Change Log entries from the Near-Final Review. Anywhere the team logge
 
 **When to cancel even if you have questions**
 
-If a remaining question can be resolved by the team without the employer (a judgment call about language, a scope decision, a formatting question), resolve it internally. This check-in is for questions only the employer can answer.
+If a remaining question can be resolved by the team without the employer (a judgment call about language, a scope decision, a formatting question), resolve it internally. Both the meeting and the async option are for questions only the employer can answer.
 
 ---
 

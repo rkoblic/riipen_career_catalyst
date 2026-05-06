@@ -9,7 +9,7 @@ status: draft
 
 # What's next
 
-The Refinement phase closes with this week's submission. The Integration phase opens next: the shift from finishing the work to telling the story of it.
+The Refinement phase closes with this week's submission, bringing you to the final phase of the course: Integration. In this phase, you shift from finishing the work to telling its story.
 
 ---
 
