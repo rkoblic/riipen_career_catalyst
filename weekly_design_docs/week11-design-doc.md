@@ -1,4 +1,4 @@
-# Week 11 — Quality and Craft
+# Week 11 — From Building to Polishing
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 

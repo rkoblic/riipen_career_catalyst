@@ -1,4 +1,4 @@
-# Week 14 — Preparing to Present and Looking Ahead
+# Week 14 — Preparing to Present
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 

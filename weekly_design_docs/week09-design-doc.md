@@ -1,4 +1,4 @@
-# Week 9 — Strengthening Your Work
+# Week 9 — Integrating Feedback
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 

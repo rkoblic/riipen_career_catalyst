@@ -1,4 +1,4 @@
-# Week 7 — Building Professional Work Products
+# Week 7 — Drafting and Iterating
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 

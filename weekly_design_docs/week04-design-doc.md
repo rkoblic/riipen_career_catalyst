@@ -1,4 +1,4 @@
-# Week 4 — Context Analysis & Project Plan
+# Week 4 — From Research to Direction
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 

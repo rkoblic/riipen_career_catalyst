@@ -1,4 +1,4 @@
-# Week 5 — Professional Communication
+# Week 5 — Sharing Your Direction
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 

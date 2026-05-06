@@ -1,4 +1,4 @@
-# Week 10 — Connecting Theory and Practice
+# Week 10 — Articulating What You're Learning
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 

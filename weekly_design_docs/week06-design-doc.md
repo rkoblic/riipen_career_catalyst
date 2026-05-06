@@ -1,4 +1,4 @@
-# Week 6 — Working Through Ambiguity
+# Week 6 — From Planning to Production
 
 **RIIPEN CAREER CATALYST** | Weekly Design Document
 
