@@ -14,4 +14,4 @@ If your team has been working well with your employer, this week's Near-Final Ch
 
 One thing to plan for: your employer has probably skimmed the package rather than read it closely. Busy people do. Some won't have opened it at all before the meeting starts, and that's also normal.
 
-The team's job is the same either way. You come in with a walkthrough of what's in the package, the questions you want their read on, and a clear sense of where you're uncertain. That preparation is what carries the meeting. Counting on the employer to drive it usually doesn't go well.
+The team's job is the same either way. You come in with a walkthrough of what's in the package, the questions you want their take on, and a clear sense of where you're uncertain. That preparation is what carries the meeting. Counting on the employer to drive it usually doesn't go well.
