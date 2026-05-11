@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>When the Direction Shifts — Riipen Career Catalyst</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --orange: #ff7c0a;
+    --dark-blue: #050c2a;
+    --electric-blue: #2454ff;
+    --green: #18733e;
+    --purple: #7c3aed;
+    --grey-bg: #f7f8fa;
+    --border: #e2e4e9;
+    --muted: #6b7280;
+    --correct-bg: #f0faf4;
+    --correct-border: #b8e6cc;
+    --incorrect-bg: #fff3f3;
+    --incorrect-border: #ffc9c9;
+    --white: #ffffff;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    background: var(--white);
+    line-height: 1.7;
+  }
+
+  /* ── Container ── */
+
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 40px 24px 60px;
+  }
+
+  /* ── Header ── */
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+  }
+
+  .header .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--orange);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    color: var(--dark-blue);
+  }
+
+  .header .subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* ── Context Card ── */
+
+  .context-card {
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .context-card p + p {
+    margin-top: 12px;
+  }
+
+  /* ── Progress Bar ── */
+
+  .progress-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+
+  .progress-text {
+    font-size: 13px;
+    color: var(--muted);
+    white-space: nowrap;
+    min-width: 80px;
+  }
+
+  .progress-bar {
+    flex: 1;
+    background: var(--border);
+    height: 4px;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    background: var(--orange);
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 2px;
+  }
+
+  /* ── Stimulus Card ── */
+
+  .stimulus-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--purple);
+    border-radius: 0 10px 10px 0;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .stimulus-card .stimulus-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--purple);
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .stimulus-card p + p {
+    margin-top: 12px;
+  }
+
+  .stimulus-section-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--purple);
+    font-weight: 700;
+    margin-top: 18px;
+    margin-bottom: 6px;
+  }
+
+  .stimulus-section-label:first-child {
+    margin-top: 0;
+  }
+
+  /* ── Question Prompt ── */
+
+  .question-prompt {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    line-height: 1.5;
+  }
+
+  /* ── Answer Options ── */
+
+  .options-group {
+    list-style: none;
+    margin-bottom: 20px;
+  }
+
+  .option-btn {
+    display: block;
+    width: 100%;
+    background: var(--white);
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    text-align: left;
+    cursor: pointer;
+    line-height: 1.5;
+    transition: border-color 0.15s, background 0.15s;
+  }
+
+  .option-btn:hover:not(.disabled) {
+    border-color: var(--electric-blue);
+    background: #f5f7ff;
+  }
+
+  .option-btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .option-btn.selected {
+    border-color: var(--electric-blue);
+    background: #eef2ff;
+  }
+
+  .option-btn.disabled {
+    cursor: default;
+    opacity: 0.7;
+  }
+
+  .option-btn .option-label {
+    display: inline-block;
+    font-weight: 700;
+    min-width: 24px;
+    margin-right: 6px;
+  }
+
+  /* ── Submit Button ── */
+
+  .btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 28px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s, background 0.15s;
+  }
+
+  .btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .btn-submit {
+    background: var(--orange);
+    color: var(--dark-blue);
+  }
+
+  .btn-submit:hover:not(:disabled) {
+    opacity: 0.9;
+  }
+
+  .btn-submit:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .btn-next {
+    background: var(--electric-blue);
+    color: var(--white);
+    margin-top: 16px;
+  }
+
+  .btn-next:hover {
+    opacity: 0.9;
+  }
+
+  /* ── Feedback Panel ── */
+
+  .feedback-panel {
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin-top: 16px;
+    font-size: 14px;
+    line-height: 1.7;
+    display: none;
+  }
+
+  .feedback-panel.visible {
+    display: block;
+  }
+
+  .feedback-panel.correct {
+    background: var(--correct-bg);
+    border-left: 4px solid var(--green);
+  }
+
+  .feedback-panel.incorrect {
+    background: var(--incorrect-bg);
+    border-left: 4px solid var(--incorrect-border);
+  }
+
+  .feedback-label {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+  }
+
+  .feedback-label.correct {
+    color: var(--green);
+  }
+
+  .feedback-label.incorrect {
+    color: #dc2626;
+  }
+
+  .feedback-text {
+    font-size: 14px;
+  }
+
+  /* ── Results Screen ── */
+
+  .results-screen {
+    display: none;
+  }
+
+  .results-screen.active {
+    display: block;
+  }
+
+  .score-card {
+    background: var(--dark-blue);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 28px 24px;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .score-number {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .score-label {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 16px;
+  }
+
+  .score-bar-container {
+    background: rgba(255, 255, 255, 0.15);
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .score-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    background: var(--green);
+    transition: width 0.5s ease;
+  }
+
+  /* Debrief */
+
+  .debrief-card {
+    background: var(--white);
+    border: 2px solid var(--orange);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .debrief-card h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .debrief-card p + p {
+    margin-top: 12px;
+  }
+
+  /* Review Section */
+
+  .review-toggle {
+    display: block;
+    width: 100%;
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+    margin-bottom: 16px;
+  }
+
+  .review-toggle:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .review-toggle::after {
+    content: ' \25B8';
+  }
+
+  .review-toggle.expanded::after {
+    content: ' \25BE';
+  }
+
+  .review-section {
+    display: none;
+  }
+
+  .review-section.visible {
+    display: block;
+  }
+
+  .review-item {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-bottom: 12px;
+  }
+
+  .review-item .review-q-number {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+  }
+
+  .review-item .review-prompt {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+
+  .review-item .review-answer {
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+
+  .review-item .review-answer.yours {
+    color: var(--dark-blue);
+  }
+
+  .review-item .review-answer.correct-answer {
+    color: var(--green);
+  }
+
+  .review-item .review-feedback {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 8px;
+    line-height: 1.6;
+  }
+
+  .review-item .review-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+
+  .review-badge-correct {
+    background: var(--correct-bg);
+    color: var(--green);
+  }
+
+  .review-badge-incorrect {
+    background: var(--incorrect-bg);
+    color: #dc2626;
+  }
+
+  /* Close note */
+
+  .close-note {
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+  }
+
+  /* ── Responsive ── */
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 24px 16px 40px;
+    }
+    .header h1 {
+      font-size: 22px;
+    }
+    .option-btn {
+      padding: 12px 14px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="label">Interactive Exercise</div>
+    <h1 id="interactiveTitle"></h1>
+    <div class="subtitle" id="interactiveSubtitle"></div>
+  </div>
+
+  <!-- Question Area (populated by JS) -->
+  <div id="questionArea"></div>
+
+  <!-- Results Screen -->
+  <div class="results-screen" id="resultsScreen"></div>
+
+</div>
+
+<script>
+// ─────────────────────────────────────────────
+// DATA
+// ─────────────────────────────────────────────
+
+const interactiveData = {
+  title: "When the direction shifts: responding without defending",
+  subtitle: "About 10 minutes",
+  context: `You're 15 minutes into your Direction Check with Bridgeway Community Health. You may remember David Park, your contact from the kickoff — Director of Community Programs. Over the past two weeks, your team has researched the literature on health behavior change, and you came into this meeting confident in your direction.
+
+You've just walked David through your most important finding: a well-cited model from the public health literature explaining why educational interventions often fail to produce behavior change. You proposed that your recommendations would build on this framework.
+
+You stopped talking. David takes a beat before responding.`,
+  stimulus: `**David's response**
+
+David says: "OK, so. I appreciate the rigor here, and the framework you're describing is one I've come across before. But I want to push back a little, because I'm not sure it's the right starting point for us.
+
+A lot of what I'm reading in your document is grounded in research with general adult populations. That work matters, but most of our participants don't fit those samples. We've had community health educators working with these specific communities for years, and they have a lot of knowledge about what actually shifts behavior here. I'm worried that if your recommendations are mostly built from outside literature, we'll end up with something that's intellectually sound but doesn't reflect what our team already knows works.
+
+I'm not saying scrap what you have. But I'd like to see how you're going to weight what our educators have told you against what the literature says. And honestly, if you haven't talked to them yet, I'd like to know what your plan is there."
+
+**What just happened**
+
+The team had not planned to consult the community health educators. That wasn't in the original scope, and primary research was excluded at the kickoff. Your team has been working primarily from secondary research.`,
+  questions: [
+    {
+      id: 1,
+      prompt: "What is David actually pushing back on?",
+      options: [
+        { label: "A", text: "The quality of the team's research methodology." },
+        { label: "B", text: "The relevance of the team's source material to Bridgeway's specific participant communities." },
+        { label: "C", text: "The team's ability to deliver the project on time." },
+        { label: "D", text: "The decision to build recommendations at all, rather than leaving that to the educators." }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: `Right. David was specific: the literature your team is using is grounded in general adult populations, and Bridgeway's participants don't fit those samples. He's not questioning whether you're doing good research — he's questioning whether it's the right research for this project. Hearing the actual critique, not a more generic version of it, is the first step in responding well.`,
+        incorrect: {
+          "A": `David said "I appreciate the rigor here" — he's not critiquing your methodology. Defaulting to "they think our research is bad" when the actual critique is more specific would lead your team to defend the wrong thing.`,
+          "C": "David didn't mention timeline. Hearing time pressure where none was raised is a common reaction when feedback feels destabilizing, but it puts you in defensive mode about something the employer isn't asking about.",
+          "D": `David explicitly said "I'm not saying scrap what you have." Interpreting a redirect as a rejection of the entire project would lead to an overreaction that's harder to walk back than a small course correction would be.`
+        }
+      }
+    },
+    {
+      id: 2,
+      prompt: "Before responding, what's the most useful thing to say next?",
+      options: [
+        { label: "A", text: `"Our framework is well-established in the public health literature, so we'd want to defend keeping it as the foundation."` },
+        { label: "B", text: `"We can pivot to interviews with the educators if you think that's a better direction."` },
+        { label: "C", text: `"Can you tell us more about what the educators have told you? We want to make sure we're weighting that the right way."` },
+        { label: "D", text: `"We hadn't planned to interview the educators because primary research was out of scope, but we can rework it."` }
+      ],
+      correctAnswer: "C",
+      feedback: {
+        correct: `Good. This is the listening-without-defending move: ask a clarifying question before you commit to anything. You don't yet know what specifically the educators have observed, what access David has to that knowledge, or what "weighting" he has in mind. Committing to a pivot, defending your framework, or volunteering to rework the project all skip past the part where you understand the redirect first. Curiosity buys your team time and information.`,
+        incorrect: {
+          "A": "Leading with a defense signals that you're more invested in your existing work than in hearing the feedback. Even if your reasoning is sound, this response shuts down the conversation. You can name your reasoning later, after you've understood the critique fully.",
+          "B": "Pivoting on the spot, before you've understood what's being asked, is the other defensive move — overcorrecting to make the discomfort go away. You don't yet know what the right adjustment is. Asking comes first.",
+          "D": "This one is closer to the right move, because it names a real constraint (primary research scope), but it leads with the constraint rather than with curiosity about what David is actually asking. It also implicitly commits to reworking the project before you've fully heard him out."
+        }
+      }
+    },
+    {
+      id: 3,
+      prompt: "Your team's notetaker should capture what David said. Which of the following is the most useful version to write down?",
+      options: [
+        { label: "A", text: `"David disagreed with our research approach."` },
+        { label: "B", text: `"David wants us to interview the community health educators."` },
+        { label: "C", text: `"David: 'I'd like to see how you're going to weight what our educators have told you against what the literature says.'"` },
+        { label: "D", text: `"David thinks our research isn't relevant to immigrant and refugee communities."` }
+      ],
+      correctAnswer: "C",
+      feedback: {
+        correct: `Exactly. Capture exact language, especially the specific question David is asking. "How you're going to weight what our educators have told you against what the literature says" is the actual ask — not "do interviews," not "your research is wrong." When your team debriefs, you'll need David's words, not your interpretation of them. The interpretation can drift; the quote can't.`,
+        incorrect: {
+          "A": `"Disagreed with our research approach" is your reaction to what David said, not what he actually said. Notes that capture impressions instead of language lose the specific information your team will need to act on the feedback later.`,
+          "B": "David didn't ask for interviews. He asked how you'd weight the educators' knowledge — which might mean interviews, or might mean reviewing internal documents, or might mean a conversation with David himself. Recording your interpretation as the ask narrows the options before you've thought it through.",
+          "D": "This is a summary of part of what David said, but it loses the specific question. Notes that paraphrase fluently are easy to write and hard to use, because they leave the team without the original framing to refer back to."
+        }
+      }
+    },
+    {
+      id: 4,
+      prompt: `After the meeting, your team is debriefing. One teammate says, "We have to scrap the whole literature framework and start over with interviews." What's the most professional response?`,
+      options: [
+        { label: "A", text: "Agree. The employer made it clear the literature approach isn't working." },
+        { label: "B", text: "Disagree. The literature is established and David said not to scrap it." },
+        { label: "C", text: `Reread the notes from the meeting before deciding what changes. David said "I'm not saying scrap what you have," and the specific ask was about weighting.` },
+        { label: "D", text: "Wait until the next regular check-in to ask David what he meant." }
+      ],
+      correctAnswer: "C",
+      feedback: {
+        correct: "Right. The biggest risk after a redirect is overcorrecting based on the emotional weight of the meeting rather than the actual content. Going back to the notes — especially the exact quote — anchors the conversation in what was said. Decisions like \"scrap the framework\" or \"keep the framework\" are both premature without revisiting the ask, which was about weighting, not scrapping.",
+        incorrect: {
+          "A": `David explicitly said the opposite: "I'm not saying scrap what you have." Overcorrecting based on the team's reaction to feedback, rather than what was said, is one of the most common ways a redirect gets mishandled. The post-meeting debrief is where this can be caught.`,
+          "B": `Disagreeing is just as premature as agreeing. David also said he was "worried" about the recommendations being built mostly from outside literature, which is a real concern the team needs to address. Going straight to "we don't have to change anything" misreads the feedback.`,
+          "D": "Waiting two weeks to clarify lets the team's interpretation harden. If you genuinely need clarification, follow up sooner — a short written message within 24 hours is the standard. But before you reach out, check whether your notes already answer the question."
+        }
+      }
+    },
+    {
+      id: 5,
+      prompt: "What's the most useful thing for your team's Direction Check Summary to capture about this exchange?",
+      options: [
+        { label: "A", text: "The employer disagreed with our research approach and we'll need to revise our project plan." },
+        { label: "B", text: "The employer asked us to demonstrate how we're weighting the community health educators' knowledge against the published literature. We'll follow up to understand what access we have to that knowledge." },
+        { label: "C", text: "The employer wants us to conduct interviews with the community health educators before continuing with the research." },
+        { label: "D", text: "The employer raised concerns but we're confident our framework is still appropriate. No major changes needed." }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: "Good. The Summary captures the specific ask (weighting), the open question (what access do we have), and the next step (follow-up). It doesn't overstate (a pivot to interviews isn't yet confirmed), doesn't understate (this is a real redirect that affects the project), and doesn't paraphrase the feedback into something more comfortable. The Summary is the record your team will execute against — soft language now means soft direction later.",
+        incorrect: {
+          "A": `This captures the emotional shape of the feedback ("disagreed") but loses the specific ask. A Summary that says "we'll revise our project plan" without naming what's changing leaves the team without a shared record of what was actually decided.`,
+          "C": "David didn't ask for interviews specifically — he asked about weighting. Documenting interviews as the agreed direction would commit the team to something that wasn't agreed, and if the employer sees the Summary later, the gap between their feedback and your record will be visible.",
+          "D": `Minimizing the feedback to preserve the team's existing plan is a common but serious mistake. David raised a substantive concern about whose knowledge counts as evidence. A Summary that says "no major changes needed" understates that, and the next phase of work will be built on a shaky foundation.`
+        }
+      }
+    }
+  ],
+  debrief: `That scenario covered the full arc of a Direction Check redirect: hearing what was actually said, choosing a constructive first response, capturing the right language, processing the feedback as a team, and writing it up honestly.
+
+The pattern to watch for in your own Direction Check is the gap between what the employer said and how it lands emotionally. Redirects feel destabilizing in the moment, and the team's instinct is often to either defend (no, our approach is right) or overcorrect (you're right, we'll scrap everything). The professional move is in between: ask, capture, debrief, decide — in that order.
+
+You'll practice this for real in the meeting itself, then again when you write the Direction Check Summary on the next pages.`
+};
+
+
+// ─────────────────────────────────────────────
+// STATE
+// ─────────────────────────────────────────────
+
+let currentQuestion = 0;
+let answers = [];
+let selectedOption = null;
+
+
+// ─────────────────────────────────────────────
+// INITIALIZATION
+// ─────────────────────────────────────────────
+
+function init() {
+  document.getElementById('interactiveTitle').textContent = interactiveData.title;
+  document.getElementById('interactiveSubtitle').textContent = interactiveData.subtitle;
+  document.title = interactiveData.title + ' — Riipen Career Catalyst';
+  renderContext();
+}
+
+function renderContext() {
+  const area = document.getElementById('questionArea');
+  let html = '';
+
+  html += '<div class="context-card">';
+  html += formatParagraphs(interactiveData.context);
+  html += '</div>';
+
+  if (interactiveData.stimulus) {
+    html += '<div class="stimulus-card">';
+    html += '<div class="stimulus-label">The meeting</div>';
+    html += formatStimulus(interactiveData.stimulus);
+    html += '</div>';
+  }
+
+  html += '<button class="btn btn-submit" onclick="startQuestions()" aria-label="Begin the exercise">Begin</button>';
+
+  area.innerHTML = html;
+}
+
+
+// ─────────────────────────────────────────────
+// QUESTION RENDERING
+// ─────────────────────────────────────────────
+
+function startQuestions() {
+  currentQuestion = 0;
+  answers = [];
+  selectedOption = null;
+  renderQuestion();
+}
+
+function renderQuestion() {
+  const q = interactiveData.questions[currentQuestion];
+  const total = interactiveData.questions.length;
+  const area = document.getElementById('questionArea');
+
+  selectedOption = null;
+
+  let html = '';
+
+  html += '<div class="progress-wrapper">';
+  html += '  <span class="progress-text" aria-live="polite">Question ' + (currentQuestion + 1) + ' of ' + total + '</span>';
+  html += '  <div class="progress-bar" role="progressbar" aria-valuenow="' + (currentQuestion + 1) + '" aria-valuemin="1" aria-valuemax="' + total + '">';
+  html += '    <div class="progress-fill" style="width: ' + ((currentQuestion + 1) / total * 100) + '%"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  if (interactiveData.stimulus) {
+    html += '<div class="stimulus-card">';
+    html += '<div class="stimulus-label">The meeting</div>';
+    html += formatStimulus(interactiveData.stimulus);
+    html += '</div>';
+  }
+
+  html += '<div class="question-prompt" id="questionPrompt">' + escapeHtml(q.prompt) + '</div>';
+
+  html += '<div class="options-group" role="radiogroup" aria-labelledby="questionPrompt">';
+  q.options.forEach(function(opt) {
+    html += '<button class="option-btn" role="radio" aria-checked="false" ';
+    html += 'data-label="' + opt.label + '" ';
+    html += 'onclick="handleSelect(\'' + opt.label + '\')" ';
+    html += 'tabindex="0">';
+    html += '<span class="option-label">' + escapeHtml(opt.label) + '.</span> ';
+    html += escapeHtml(opt.text);
+    html += '</button>';
+  });
+  html += '</div>';
+
+  html += '<button class="btn btn-submit" id="submitBtn" onclick="handleSubmit()" disabled aria-label="Submit your answer">Submit</button>';
+
+  html += '<div class="feedback-panel" id="feedbackPanel" role="status" aria-live="polite"></div>';
+
+  area.innerHTML = html;
+
+  var prompt = document.getElementById('questionPrompt');
+  prompt.setAttribute('tabindex', '-1');
+  prompt.focus();
+
+  setupKeyboardNav();
+}
+
+function setupKeyboardNav() {
+  var options = document.querySelectorAll('.option-btn');
+  options.forEach(function(btn, index) {
+    btn.addEventListener('keydown', function(e) {
+      var target = null;
+      if (e.key === 'ArrowDown' || e.key === 'ArrowRight') {
+        e.preventDefault();
+        target = options[(index + 1) % options.length];
+      } else if (e.key === 'ArrowUp' || e.key === 'ArrowLeft') {
+        e.preventDefault();
+        target = options[(index - 1 + options.length) % options.length];
+      } else if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        btn.click();
+      }
+      if (target) target.focus();
+    });
+  });
+}
+
+
+// ─────────────────────────────────────────────
+// INTERACTION HANDLERS
+// ─────────────────────────────────────────────
+
+function handleSelect(label) {
+  if (document.getElementById('feedbackPanel').classList.contains('visible')) return;
+
+  selectedOption = label;
+
+  document.querySelectorAll('.option-btn').forEach(function(btn) {
+    var isSelected = btn.dataset.label === label;
+    btn.classList.toggle('selected', isSelected);
+    btn.setAttribute('aria-checked', isSelected ? 'true' : 'false');
+  });
+
+  document.getElementById('submitBtn').disabled = false;
+}
+
+function handleSubmit() {
+  if (!selectedOption) return;
+
+  var q = interactiveData.questions[currentQuestion];
+  var isCorrect = selectedOption === q.correctAnswer;
+
+  answers.push({
+    questionId: q.id,
+    selectedLabel: selectedOption,
+    isCorrect: isCorrect
+  });
+
+  document.querySelectorAll('.option-btn').forEach(function(btn) {
+    btn.classList.add('disabled');
+    btn.setAttribute('tabindex', '-1');
+  });
+
+  document.getElementById('submitBtn').style.display = 'none';
+
+  var panel = document.getElementById('feedbackPanel');
+  var feedbackText = '';
+  var feedbackType = '';
+
+  if (isCorrect) {
+    feedbackType = 'correct';
+    feedbackText = q.feedback.correct;
+  } else {
+    feedbackType = 'incorrect';
+    feedbackText = q.feedback.incorrect[selectedOption] || q.feedback.incorrect['default'] || "That's not quite right.";
+  }
+
+  var isLast = currentQuestion >= interactiveData.questions.length - 1;
+  var nextLabel = isLast ? 'See results' : 'Next';
+
+  panel.className = 'feedback-panel visible ' + feedbackType;
+  panel.innerHTML =
+    '<div class="feedback-label ' + feedbackType + '">' +
+    (isCorrect ? '✓ Correct' : 'Not quite') +
+    '</div>' +
+    '<div class="feedback-text">' + escapeHtml(feedbackText) + '</div>' +
+    '<button class="btn btn-next" onclick="nextQuestion()" aria-label="' +
+    (isLast ? 'See your results' : 'Go to next question') +
+    '">' + nextLabel + ' →</button>';
+
+  panel.setAttribute('tabindex', '-1');
+  panel.focus();
+}
+
+function nextQuestion() {
+  currentQuestion++;
+  if (currentQuestion >= interactiveData.questions.length) {
+    showResults();
+  } else {
+    selectedOption = null;
+    renderQuestion();
+  }
+}
+
+
+// ─────────────────────────────────────────────
+// RESULTS SCREEN
+// ─────────────────────────────────────────────
+
+function showResults() {
+  document.getElementById('questionArea').innerHTML = '';
+
+  var total = interactiveData.questions.length;
+  var correctCount = answers.filter(function(a) { return a.isCorrect; }).length;
+  var pct = Math.round((correctCount / total) * 100);
+
+  var screen = document.getElementById('resultsScreen');
+  screen.classList.add('active');
+
+  var html = '';
+
+  html += '<div class="score-card">';
+  html += '  <div class="score-number">' + correctCount + ' of ' + total + '</div>';
+  html += '  <div class="score-label" aria-live="polite">questions answered correctly</div>';
+  html += '  <div class="score-bar-container">';
+  html += '    <div class="score-bar-fill" style="width: ' + pct + '%" role="img" aria-label="Score: ' + pct + ' percent"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  html += '<div class="debrief-card">';
+  html += '  <h3>What you just practiced</h3>';
+  html += formatParagraphs(interactiveData.debrief);
+  html += '</div>';
+
+  html += '<button class="review-toggle" id="reviewToggle" onclick="toggleReview()" aria-expanded="false" aria-controls="reviewSection">Review your answers</button>';
+
+  html += '<div class="review-section" id="reviewSection" role="region" aria-label="Answer review">';
+  interactiveData.questions.forEach(function(q, i) {
+    var answer = answers[i];
+    var selectedOpt = q.options.find(function(o) { return o.label === answer.selectedLabel; });
+    var correctOpt = q.options.find(function(o) { return o.label === q.correctAnswer; });
+    var feedbackText = answer.isCorrect
+      ? q.feedback.correct
+      : (q.feedback.incorrect[answer.selectedLabel] || q.feedback.incorrect['default'] || '');
+
+    html += '<div class="review-item">';
+    html += '  <div class="review-q-number">Question ' + (i + 1) + '</div>';
+    html += '  <span class="review-badge ' + (answer.isCorrect ? 'review-badge-correct' : 'review-badge-incorrect') + '">';
+    html += answer.isCorrect ? 'Correct' : 'Incorrect';
+    html += '</span>';
+    html += '  <div class="review-prompt">' + escapeHtml(q.prompt) + '</div>';
+    html += '  <div class="review-answer yours"><strong>Your answer:</strong> ' + escapeHtml(answer.selectedLabel + '. ' + selectedOpt.text) + '</div>';
+    if (!answer.isCorrect) {
+      html += '  <div class="review-answer correct-answer"><strong>Correct answer:</strong> ' + escapeHtml(q.correctAnswer + '. ' + correctOpt.text) + '</div>';
+    }
+    html += '  <div class="review-feedback">' + escapeHtml(feedbackText) + '</div>';
+    html += '</div>';
+  });
+  html += '</div>';
+
+  html += '<div class="close-note">You can close this tab to return to the course.</div>';
+
+  screen.innerHTML = html;
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  var scoreCard = screen.querySelector('.score-card');
+  scoreCard.setAttribute('tabindex', '-1');
+  scoreCard.focus();
+}
+
+function toggleReview() {
+  var toggle = document.getElementById('reviewToggle');
+  var section = document.getElementById('reviewSection');
+  var expanded = toggle.classList.toggle('expanded');
+  section.classList.toggle('visible', expanded);
+  toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+}
+
+
+// ─────────────────────────────────────────────
+// UTILITIES
+// ─────────────────────────────────────────────
+
+function escapeHtml(text) {
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function formatParagraphs(text) {
+  return text.split('\n\n').map(function(p) {
+    return '<p>' + escapeHtml(p.trim()) + '</p>';
+  }).join('');
+}
+
+function formatStimulus(text) {
+  return text.split('\n\n').map(function(p) {
+    p = p.trim();
+    var headerMatch = p.match(/^\*\*(.+?)\*\*$/);
+    if (headerMatch) {
+      return '<div class="stimulus-section-label">' + escapeHtml(headerMatch[1]) + '</div>';
+    }
+    return '<p>' + escapeHtml(p) + '</p>';
+  }).join('');
+}
+
+
+// ─────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────
+
+init();
+</script>
+</body>
+</html>

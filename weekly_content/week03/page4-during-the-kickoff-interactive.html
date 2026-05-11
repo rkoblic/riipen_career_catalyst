@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading Between the Lines — Riipen Career Catalyst</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --orange: #ff7c0a;
+    --dark-blue: #050c2a;
+    --electric-blue: #2454ff;
+    --green: #18733e;
+    --purple: #7c3aed;
+    --grey-bg: #f7f8fa;
+    --border: #e2e4e9;
+    --muted: #6b7280;
+    --correct-bg: #f0faf4;
+    --correct-border: #b8e6cc;
+    --incorrect-bg: #fff3f3;
+    --incorrect-border: #ffc9c9;
+    --white: #ffffff;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    background: var(--white);
+    line-height: 1.7;
+  }
+
+  /* ── Container ── */
+
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 40px 24px 60px;
+  }
+
+  /* ── Header ── */
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+  }
+
+  .header .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--orange);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    color: var(--dark-blue);
+  }
+
+  .header .subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* ── Context Card ── */
+
+  .context-card {
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .context-card p + p {
+    margin-top: 12px;
+  }
+
+  /* ── Progress Bar ── */
+
+  .progress-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+
+  .progress-text {
+    font-size: 13px;
+    color: var(--muted);
+    white-space: nowrap;
+    min-width: 80px;
+  }
+
+  .progress-bar {
+    flex: 1;
+    background: var(--border);
+    height: 4px;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    background: var(--orange);
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 2px;
+  }
+
+  /* ── Stimulus Card ── */
+
+  .stimulus-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--purple);
+    border-radius: 0 10px 10px 0;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .stimulus-card .stimulus-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--purple);
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .stimulus-card p + p {
+    margin-top: 12px;
+  }
+
+  .stimulus-section-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--purple);
+    font-weight: 700;
+    margin-top: 18px;
+    margin-bottom: 6px;
+  }
+
+  .stimulus-section-label:first-child {
+    margin-top: 0;
+  }
+
+  /* ── Question Prompt ── */
+
+  .question-prompt {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    line-height: 1.5;
+  }
+
+  /* ── Answer Options ── */
+
+  .options-group {
+    list-style: none;
+    margin-bottom: 20px;
+  }
+
+  .option-btn {
+    display: block;
+    width: 100%;
+    background: var(--white);
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    text-align: left;
+    cursor: pointer;
+    line-height: 1.5;
+    transition: border-color 0.15s, background 0.15s;
+  }
+
+  .option-btn:hover:not(.disabled) {
+    border-color: var(--electric-blue);
+    background: #f5f7ff;
+  }
+
+  .option-btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .option-btn.selected {
+    border-color: var(--electric-blue);
+    background: #eef2ff;
+  }
+
+  .option-btn.disabled {
+    cursor: default;
+    opacity: 0.7;
+  }
+
+  .option-btn .option-label {
+    display: inline-block;
+    font-weight: 700;
+    min-width: 24px;
+    margin-right: 6px;
+  }
+
+  /* ── Submit Button ── */
+
+  .btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 28px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s, background 0.15s;
+  }
+
+  .btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .btn-submit {
+    background: var(--orange);
+    color: var(--dark-blue);
+  }
+
+  .btn-submit:hover:not(:disabled) {
+    opacity: 0.9;
+  }
+
+  .btn-submit:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .btn-next {
+    background: var(--electric-blue);
+    color: var(--white);
+    margin-top: 16px;
+  }
+
+  .btn-next:hover {
+    opacity: 0.9;
+  }
+
+  /* ── Feedback Panel ── */
+
+  .feedback-panel {
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin-top: 16px;
+    font-size: 14px;
+    line-height: 1.7;
+    display: none;
+  }
+
+  .feedback-panel.visible {
+    display: block;
+  }
+
+  .feedback-panel.correct {
+    background: var(--correct-bg);
+    border-left: 4px solid var(--green);
+  }
+
+  .feedback-panel.incorrect {
+    background: var(--incorrect-bg);
+    border-left: 4px solid var(--incorrect-border);
+  }
+
+  .feedback-label {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+  }
+
+  .feedback-label.correct {
+    color: var(--green);
+  }
+
+  .feedback-label.incorrect {
+    color: #dc2626;
+  }
+
+  .feedback-text {
+    font-size: 14px;
+  }
+
+  /* ── Results Screen ── */
+
+  .results-screen {
+    display: none;
+  }
+
+  .results-screen.active {
+    display: block;
+  }
+
+  .score-card {
+    background: var(--dark-blue);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 28px 24px;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .score-number {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .score-label {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 16px;
+  }
+
+  .score-bar-container {
+    background: rgba(255, 255, 255, 0.15);
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .score-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    background: var(--green);
+    transition: width 0.5s ease;
+  }
+
+  /* Debrief */
+
+  .debrief-card {
+    background: var(--white);
+    border: 2px solid var(--orange);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .debrief-card h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .debrief-card p + p {
+    margin-top: 12px;
+  }
+
+  /* Review Section */
+
+  .review-toggle {
+    display: block;
+    width: 100%;
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+    margin-bottom: 16px;
+  }
+
+  .review-toggle:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .review-toggle::after {
+    content: ' \25B8';
+  }
+
+  .review-toggle.expanded::after {
+    content: ' \25BE';
+  }
+
+  .review-section {
+    display: none;
+  }
+
+  .review-section.visible {
+    display: block;
+  }
+
+  .review-item {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-bottom: 12px;
+  }
+
+  .review-item .review-q-number {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+  }
+
+  .review-item .review-prompt {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+
+  .review-item .review-answer {
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+
+  .review-item .review-answer.yours {
+    color: var(--dark-blue);
+  }
+
+  .review-item .review-answer.correct-answer {
+    color: var(--green);
+  }
+
+  .review-item .review-feedback {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 8px;
+    line-height: 1.6;
+  }
+
+  .review-item .review-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+
+  .review-badge-correct {
+    background: var(--correct-bg);
+    color: var(--green);
+  }
+
+  .review-badge-incorrect {
+    background: var(--incorrect-bg);
+    color: #dc2626;
+  }
+
+  /* Close note */
+
+  .close-note {
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+  }
+
+  /* ── Responsive ── */
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 24px 16px 40px;
+    }
+    .header h1 {
+      font-size: 22px;
+    }
+    .option-btn {
+      padding: 12px 14px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="label">Interactive Exercise</div>
+    <h1 id="interactiveTitle"></h1>
+    <div class="subtitle" id="interactiveSubtitle"></div>
+  </div>
+
+  <!-- Question Area (populated by JS) -->
+  <div id="questionArea"></div>
+
+  <!-- Results Screen -->
+  <div class="results-screen" id="resultsScreen"></div>
+
+</div>
+
+<script>
+// ─────────────────────────────────────────────
+// DATA
+// ─────────────────────────────────────────────
+
+const interactiveData = {
+  title: "Reading between the lines: what did the employer actually confirm?",
+  subtitle: "About 8 minutes",
+  context: `Your team has been matched with Bridgeway Community Health, a regional nonprofit that runs health education programs in underserved communities. You've done your preliminary research and sent your confirmation message. Now you're in the kickoff meeting. Your employer contact, David Park, is the Director of Community Programs.
+
+Below are passages from your meeting with David. After reading them, you'll answer questions about what was actually confirmed. Pay attention to the difference between what David says directly and what you might be tempted to assume.`,
+  stimulus: `**Section 1: Project overview**
+
+David says: "Thanks for meeting with us. So, the project. We've been running our community health workshops for about six years now, and they've been successful by most measures. Attendance is strong, the feedback forms are positive. But we've been hearing from our partner clinics that the information isn't always sticking. People come to the workshops, they learn things, and then three months later their health behaviors haven't really changed. We want to understand why and figure out what we can do differently."
+
+**Section 2: Scope and deliverables**
+
+David says: "What we're looking for from your team is a research-informed set of recommendations. We want you to look at what other organizations have done with similar programs, dig into the research on health behavior change, especially for the populations we serve, and come back to us with concrete suggestions we can actually implement. We don't need a 50-page report. A focused analysis with clear, actionable recommendations is what would be most useful to us."
+
+**Section 3: Timeline and constraints**
+
+David says: "In terms of timeline, we're flexible, but ideally we'd want to see a draft of your findings before our board meeting in late April. That's not a hard deadline, but it would be great to have something to share with them. Budget-wise, we can't fund any primary research, so this would be secondary research and analysis. We do have some internal survey data we can share with you, though, if that's helpful."
+
+**Section 4: Stakeholders and context**
+
+David says: "The workshops are run by our team of community health educators, about eight people. They're great, really dedicated. The curriculum was developed in-house about four years ago based on CDC guidelines at the time. We haven't done a major update since then. I should mention that our participants are primarily from immigrant and refugee communities, so language and cultural context are huge factors in everything we do."`,
+  questions: [
+    {
+      id: 1,
+      prompt: "Based on David's project overview, what is the core problem the employer has identified?",
+      options: [
+        { label: "A", text: "The workshops are poorly attended and need better marketing." },
+        { label: "B", text: "Workshop attendees aren't translating what they learn into lasting behavior changes." },
+        { label: "C", text: "The partner clinics are unsatisfied with the quality of the workshop content." },
+        { label: "D", text: "The organization needs to redesign its entire workshop curriculum from scratch." }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: `Right. David was specific: attendance is strong, feedback is positive, but "the information isn't always sticking" and "health behaviors haven't really changed." The problem is the gap between learning and behavior change, not attendance, content quality, or a need for a complete overhaul.`,
+        incorrect: {
+          "A": "David actually said attendance is strong. If you heard a marketing problem, you may have been projecting a common organizational challenge onto what was said. Go back and read his exact words.",
+          "C": `David said the partner clinics reported that information "isn't sticking" with participants. That's feedback about participant outcomes, not a complaint about the workshops themselves. It's a subtle but important distinction.`,
+          "D": "David didn't say the workshops are failing or need to be rebuilt. He said the outcomes aren't matching the effort. That's a much more targeted problem than a total redesign."
+        }
+      }
+    },
+    {
+      id: 2,
+      prompt: "What deliverable format did David request?",
+      options: [
+        { label: "A", text: "A comprehensive research report with literature review and methodology section." },
+        { label: "B", text: "A slide deck presentation for the board." },
+        { label: "C", text: "A focused analysis with actionable recommendations." },
+        { label: "D", text: "A redesigned workshop curriculum based on best practices." }
+      ],
+      correctAnswer: "C",
+      feedback: {
+        correct: `Exactly. David said "a focused analysis with clear, actionable recommendations" and explicitly ruled out a lengthy report ("We don't need a 50-page report"). Matching the deliverable to what the client asked for, rather than what you think they need, is a foundational client service skill.`,
+        incorrect: {
+          "A": "David specifically said they don't need a 50-page report. When a client names what they don't want, pay attention.",
+          "B": "David didn't mention a slide deck. He did mention the board meeting, but as a timeline reference, not a deliverable format. Be careful not to connect two details that weren't actually connected.",
+          "D": `David asked for recommendations, not a redesigned curriculum. The gap between "suggest what we can do differently" and "build us a new curriculum" is significant. Overpromising on scope is one of the most common mistakes teams make after a kickoff.`
+        }
+      }
+    },
+    {
+      id: 3,
+      prompt: "What is the status of the late April board meeting deadline?",
+      options: [
+        { label: "A", text: "It's a firm deadline. The team must deliver final recommendations before the board meeting." },
+        { label: "B", text: "It's a soft target. David would like a draft to share but said it's not a hard deadline." },
+        { label: "C", text: "It's irrelevant to the project. David mentioned it as context, not as a deliverable milestone." },
+        { label: "D", text: "It's flexible as long as the team communicates about timing in advance." }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: `Good listening. David said "ideally" and "that's not a hard deadline, but it would be great to have something." This is a soft target, and the distinction matters. In professional work, treating every preference as a firm requirement creates unnecessary pressure and can compromise quality. Treating firm deadlines as flexible creates trust problems. Learn to hear the difference.`,
+        incorrect: {
+          "A": `David used qualifying language throughout: "ideally," "not a hard deadline," "it would be great." Interpreting this as a firm deadline would lead your team to rush unnecessarily. Listen for qualifiers. They're signals.`,
+          "C": "David brought it up in the context of wanting something to share with the board. That makes it a relevant milestone, even if it's not a hard deadline. Dismissing it entirely would mean missing a real opportunity to deliver value at a natural checkpoint.",
+          "D": "David didn't say anything about communication changing the deadline. This answer sounds reasonable, but it's adding information that wasn't in the conversation. Be careful about inventing flexibility that wasn't offered."
+        }
+      }
+    },
+    {
+      id: 4,
+      prompt: "Which of the following is something David explicitly confirmed about the research approach?",
+      options: [
+        { label: "A", text: "The team should conduct interviews with workshop participants." },
+        { label: "B", text: "The analysis should focus exclusively on CDC health education guidelines." },
+        { label: "C", text: "Primary research like surveys or interviews is outside the project scope." },
+        { label: "D", text: "The team should prioritize quantitative data analysis over qualitative findings." }
+      ],
+      correctAnswer: "C",
+      feedback: {
+        correct: `David said "we can't fund any primary research, so this would be secondary research and analysis." That's a clear scope constraint. He also offered internal survey data, which is existing data he can share, not new primary research. Hearing constraints clearly prevents your team from planning work that was never on the table.`,
+        incorrect: {
+          "A": "David said they can't fund primary research. Interviews with participants would be primary research. Proposing this in your project plan would signal that you weren't listening to a stated constraint.",
+          "B": "David mentioned that the curriculum was based on CDC guidelines, but he didn't say your analysis should focus exclusively on CDC materials. That detail was context about the current program, not direction for your research.",
+          "D": "David didn't specify a preference for quantitative or qualitative methods. Don't fill in methodological preferences the client didn't express. If it matters for your approach, ask."
+        }
+      }
+    },
+    {
+      id: 5,
+      prompt: "David mentioned that participants are primarily from immigrant and refugee communities. What should your team do with this information?",
+      options: [
+        { label: "A", text: "Note it as background context but focus your research on general health education best practices." },
+        { label: "B", text: "Treat it as a central factor that should shape your research approach and recommendations." },
+        { label: "C", text: "Ask David in a follow-up whether cultural context is actually relevant to the project scope." },
+        { label: "D", text: "Assume this means the recommendations should focus on translation services." }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: `David said "language and cultural context are huge factors in everything we do." When a client tells you something is a "huge factor," believe them. This isn't background context. It's a lens that should shape how you research, what sources you prioritize, and what recommendations you make. Research on health behavior change that doesn't account for the cultural context of the target population would miss the point of the project.`,
+        incorrect: {
+          "A": `David said language and cultural context are "huge factors in everything we do." Treating this as background noise would mean missing a core dimension of the project. When clients emphasize something, they're telling you what matters to them.`,
+          "C": "David already told you it's relevant, in strong terms. Asking whether it's relevant would signal that you weren't listening. If you need clarification on how it affects your specific deliverable, frame it as building on what he shared, not questioning whether it matters.",
+          "D": `Translation is one aspect of language access, but David's point was broader: "language and cultural context." Narrowing this to translation services ignores the cultural component entirely. Be careful not to reduce a complex factor to the first concrete solution that comes to mind.`
+        }
+      }
+    }
+  ],
+  debrief: `That scenario covered five moments where the gap between "what was said" and "what you might assume" could shape your entire project direction. In professional work, these gaps accumulate quietly. A soft deadline gets treated as firm. A scope constraint gets overlooked. A passing comment about cultural context gets filed as a footnote instead of a guiding principle.
+
+The habit you're building is simple but uncommon: after every meeting, ask your team, "What did the client actually say, and what are we adding?" You'll practice this for real on the next page, when you compare notes as a team and separate the confirmed from the assumed.`
+};
+
+
+// ─────────────────────────────────────────────
+// STATE
+// ─────────────────────────────────────────────
+
+let currentQuestion = 0;
+let answers = [];
+let selectedOption = null;
+
+
+// ─────────────────────────────────────────────
+// INITIALIZATION
+// ─────────────────────────────────────────────
+
+function init() {
+  document.getElementById('interactiveTitle').textContent = interactiveData.title;
+  document.getElementById('interactiveSubtitle').textContent = interactiveData.subtitle;
+  document.title = interactiveData.title + ' — Riipen Career Catalyst';
+  renderContext();
+}
+
+function renderContext() {
+  const area = document.getElementById('questionArea');
+  let html = '';
+
+  html += '<div class="context-card">';
+  html += formatParagraphs(interactiveData.context);
+  html += '</div>';
+
+  if (interactiveData.stimulus) {
+    html += '<div class="stimulus-card">';
+    html += '<div class="stimulus-label">The meeting</div>';
+    html += formatStimulus(interactiveData.stimulus);
+    html += '</div>';
+  }
+
+  html += '<button class="btn btn-submit" onclick="startQuestions()" aria-label="Begin the exercise">Begin</button>';
+
+  area.innerHTML = html;
+}
+
+
+// ─────────────────────────────────────────────
+// QUESTION RENDERING
+// ─────────────────────────────────────────────
+
+function startQuestions() {
+  currentQuestion = 0;
+  answers = [];
+  selectedOption = null;
+  renderQuestion();
+}
+
+function renderQuestion() {
+  const q = interactiveData.questions[currentQuestion];
+  const total = interactiveData.questions.length;
+  const area = document.getElementById('questionArea');
+
+  selectedOption = null;
+
+  let html = '';
+
+  html += '<div class="progress-wrapper">';
+  html += '  <span class="progress-text" aria-live="polite">Question ' + (currentQuestion + 1) + ' of ' + total + '</span>';
+  html += '  <div class="progress-bar" role="progressbar" aria-valuenow="' + (currentQuestion + 1) + '" aria-valuemin="1" aria-valuemax="' + total + '">';
+  html += '    <div class="progress-fill" style="width: ' + ((currentQuestion + 1) / total * 100) + '%"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  if (interactiveData.stimulus) {
+    html += '<div class="stimulus-card">';
+    html += '<div class="stimulus-label">The meeting</div>';
+    html += formatStimulus(interactiveData.stimulus);
+    html += '</div>';
+  }
+
+  html += '<div class="question-prompt" id="questionPrompt">' + escapeHtml(q.prompt) + '</div>';
+
+  html += '<div class="options-group" role="radiogroup" aria-labelledby="questionPrompt">';
+  q.options.forEach(function(opt) {
+    html += '<button class="option-btn" role="radio" aria-checked="false" ';
+    html += 'data-label="' + opt.label + '" ';
+    html += 'onclick="handleSelect(\'' + opt.label + '\')" ';
+    html += 'tabindex="0">';
+    html += '<span class="option-label">' + escapeHtml(opt.label) + '.</span> ';
+    html += escapeHtml(opt.text);
+    html += '</button>';
+  });
+  html += '</div>';
+
+  html += '<button class="btn btn-submit" id="submitBtn" onclick="handleSubmit()" disabled aria-label="Submit your answer">Submit</button>';
+
+  html += '<div class="feedback-panel" id="feedbackPanel" role="status" aria-live="polite"></div>';
+
+  area.innerHTML = html;
+
+  var prompt = document.getElementById('questionPrompt');
+  prompt.setAttribute('tabindex', '-1');
+  prompt.focus();
+
+  setupKeyboardNav();
+}
+
+function setupKeyboardNav() {
+  var options = document.querySelectorAll('.option-btn');
+  options.forEach(function(btn, index) {
+    btn.addEventListener('keydown', function(e) {
+      var target = null;
+      if (e.key === 'ArrowDown' || e.key === 'ArrowRight') {
+        e.preventDefault();
+        target = options[(index + 1) % options.length];
+      } else if (e.key === 'ArrowUp' || e.key === 'ArrowLeft') {
+        e.preventDefault();
+        target = options[(index - 1 + options.length) % options.length];
+      } else if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        btn.click();
+      }
+      if (target) target.focus();
+    });
+  });
+}
+
+
+// ─────────────────────────────────────────────
+// INTERACTION HANDLERS
+// ─────────────────────────────────────────────
+
+function handleSelect(label) {
+  if (document.getElementById('feedbackPanel').classList.contains('visible')) return;
+
+  selectedOption = label;
+
+  document.querySelectorAll('.option-btn').forEach(function(btn) {
+    var isSelected = btn.dataset.label === label;
+    btn.classList.toggle('selected', isSelected);
+    btn.setAttribute('aria-checked', isSelected ? 'true' : 'false');
+  });
+
+  document.getElementById('submitBtn').disabled = false;
+}
+
+function handleSubmit() {
+  if (!selectedOption) return;
+
+  var q = interactiveData.questions[currentQuestion];
+  var isCorrect = selectedOption === q.correctAnswer;
+
+  answers.push({
+    questionId: q.id,
+    selectedLabel: selectedOption,
+    isCorrect: isCorrect
+  });
+
+  document.querySelectorAll('.option-btn').forEach(function(btn) {
+    btn.classList.add('disabled');
+    btn.setAttribute('tabindex', '-1');
+  });
+
+  document.getElementById('submitBtn').style.display = 'none';
+
+  var panel = document.getElementById('feedbackPanel');
+  var feedbackText = '';
+  var feedbackType = '';
+
+  if (isCorrect) {
+    feedbackType = 'correct';
+    feedbackText = q.feedback.correct;
+  } else {
+    feedbackType = 'incorrect';
+    feedbackText = q.feedback.incorrect[selectedOption] || q.feedback.incorrect['default'] || "That's not quite right.";
+  }
+
+  var isLast = currentQuestion >= interactiveData.questions.length - 1;
+  var nextLabel = isLast ? 'See results' : 'Next';
+
+  panel.className = 'feedback-panel visible ' + feedbackType;
+  panel.innerHTML =
+    '<div class="feedback-label ' + feedbackType + '">' +
+    (isCorrect ? '✓ Correct' : 'Not quite') +
+    '</div>' +
+    '<div class="feedback-text">' + escapeHtml(feedbackText) + '</div>' +
+    '<button class="btn btn-next" onclick="nextQuestion()" aria-label="' +
+    (isLast ? 'See your results' : 'Go to next question') +
+    '">' + nextLabel + ' →</button>';
+
+  panel.setAttribute('tabindex', '-1');
+  panel.focus();
+}
+
+function nextQuestion() {
+  currentQuestion++;
+  if (currentQuestion >= interactiveData.questions.length) {
+    showResults();
+  } else {
+    selectedOption = null;
+    renderQuestion();
+  }
+}
+
+
+// ─────────────────────────────────────────────
+// RESULTS SCREEN
+// ─────────────────────────────────────────────
+
+function showResults() {
+  document.getElementById('questionArea').innerHTML = '';
+
+  var total = interactiveData.questions.length;
+  var correctCount = answers.filter(function(a) { return a.isCorrect; }).length;
+  var pct = Math.round((correctCount / total) * 100);
+
+  var screen = document.getElementById('resultsScreen');
+  screen.classList.add('active');
+
+  var html = '';
+
+  html += '<div class="score-card">';
+  html += '  <div class="score-number">' + correctCount + ' of ' + total + '</div>';
+  html += '  <div class="score-label" aria-live="polite">questions answered correctly</div>';
+  html += '  <div class="score-bar-container">';
+  html += '    <div class="score-bar-fill" style="width: ' + pct + '%" role="img" aria-label="Score: ' + pct + ' percent"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  html += '<div class="debrief-card">';
+  html += '  <h3>What you just practiced</h3>';
+  html += formatParagraphs(interactiveData.debrief);
+  html += '</div>';
+
+  html += '<button class="review-toggle" id="reviewToggle" onclick="toggleReview()" aria-expanded="false" aria-controls="reviewSection">Review your answers</button>';
+
+  html += '<div class="review-section" id="reviewSection" role="region" aria-label="Answer review">';
+  interactiveData.questions.forEach(function(q, i) {
+    var answer = answers[i];
+    var selectedOpt = q.options.find(function(o) { return o.label === answer.selectedLabel; });
+    var correctOpt = q.options.find(function(o) { return o.label === q.correctAnswer; });
+    var feedbackText = answer.isCorrect
+      ? q.feedback.correct
+      : (q.feedback.incorrect[answer.selectedLabel] || q.feedback.incorrect['default'] || '');
+
+    html += '<div class="review-item">';
+    html += '  <div class="review-q-number">Question ' + (i + 1) + '</div>';
+    html += '  <span class="review-badge ' + (answer.isCorrect ? 'review-badge-correct' : 'review-badge-incorrect') + '">';
+    html += answer.isCorrect ? 'Correct' : 'Incorrect';
+    html += '</span>';
+    html += '  <div class="review-prompt">' + escapeHtml(q.prompt) + '</div>';
+    html += '  <div class="review-answer yours"><strong>Your answer:</strong> ' + escapeHtml(answer.selectedLabel + '. ' + selectedOpt.text) + '</div>';
+    if (!answer.isCorrect) {
+      html += '  <div class="review-answer correct-answer"><strong>Correct answer:</strong> ' + escapeHtml(q.correctAnswer + '. ' + correctOpt.text) + '</div>';
+    }
+    html += '  <div class="review-feedback">' + escapeHtml(feedbackText) + '</div>';
+    html += '</div>';
+  });
+  html += '</div>';
+
+  html += '<div class="close-note">You can close this tab to return to the course.</div>';
+
+  screen.innerHTML = html;
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  var scoreCard = screen.querySelector('.score-card');
+  scoreCard.setAttribute('tabindex', '-1');
+  scoreCard.focus();
+}
+
+function toggleReview() {
+  var toggle = document.getElementById('reviewToggle');
+  var section = document.getElementById('reviewSection');
+  var expanded = toggle.classList.toggle('expanded');
+  section.classList.toggle('visible', expanded);
+  toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+}
+
+
+// ─────────────────────────────────────────────
+// UTILITIES
+// ─────────────────────────────────────────────
+
+function escapeHtml(text) {
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function formatParagraphs(text) {
+  return text.split('\n\n').map(function(p) {
+    return '<p>' + escapeHtml(p.trim()) + '</p>';
+  }).join('');
+}
+
+function formatStimulus(text) {
+  return text.split('\n\n').map(function(p) {
+    p = p.trim();
+    var headerMatch = p.match(/^\*\*(.+?)\*\*$/);
+    if (headerMatch) {
+      return '<div class="stimulus-section-label">' + escapeHtml(headerMatch[1]) + '</div>';
+    }
+    return '<p>' + escapeHtml(p) + '</p>';
+  }).join('');
+}
+
+
+// ─────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────
+
+init();
+</script>
+</body>
+</html>

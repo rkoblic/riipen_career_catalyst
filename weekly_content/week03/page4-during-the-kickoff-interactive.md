@@ -6,7 +6,7 @@ type: interactive-source
 interactive_type: simulated-scenario
 estimated_time: 8 min
 created: 2026-03-28
-last_updated: 2026-03-28
+last_updated: 2026-05-11
 status: draft
 ---
 
@@ -30,7 +30,7 @@ Each question is multiple-choice with one best answer. After answering, students
 
 Your team has been matched with Bridgeway Community Health, a regional nonprofit that runs health education programs in underserved communities. You've done your preliminary research and sent your confirmation message. Now you're in the kickoff meeting. Your employer contact, David Park, is the Director of Community Programs.
 
-Below are excerpts from what David shared during the meeting. After each section, you'll answer a question about what was actually confirmed. Pay attention to the difference between what David says directly and what you might be tempted to assume.
+Below are passages from your meeting with David. After each section, you'll answer a question about what was actually confirmed. Pay attention to the difference between what David says directly and what you might be tempted to assume.
 
 ## Stimulus
 
@@ -177,4 +177,4 @@ David says:
 
 That scenario covered five moments where the gap between "what was said" and "what you might assume" could shape your entire project direction. In professional work, these gaps accumulate quietly. A soft deadline gets treated as firm. A scope constraint gets overlooked. A passing comment about cultural context gets filed as a footnote instead of a guiding principle.
 
-The habit you're building is simple but uncommon: after every meeting, ask your team, "What did the client actually say, and what are we adding?" You'll practice this for real when you debrief after your actual kickoff meeting.
+The habit you're building is simple but uncommon: after every meeting, ask your team, "What did the client actually say, and what are we adding?" You'll practice this for real on the next page, when you compare notes as a team and separate the confirmed from the assumed.

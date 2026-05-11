@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>When Feedback Catches You Off Guard — Riipen Career Catalyst</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --orange: #ff7c0a;
+    --dark-blue: #050c2a;
+    --electric-blue: #2454ff;
+    --green: #18733e;
+    --purple: #7c3aed;
+    --grey-bg: #f7f8fa;
+    --border: #e2e4e9;
+    --muted: #6b7280;
+    --correct-bg: #f0faf4;
+    --correct-border: #b8e6cc;
+    --incorrect-bg: #fff3f3;
+    --incorrect-border: #ffc9c9;
+    --white: #ffffff;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    background: var(--white);
+    line-height: 1.7;
+  }
+
+  /* ── Container ── */
+
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 40px 24px 60px;
+  }
+
+  /* ── Header ── */
+
+  .header {
+    border-bottom: 2px solid var(--orange);
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+  }
+
+  .header .label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--orange);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    color: var(--dark-blue);
+  }
+
+  .header .subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* ── Context Card ── */
+
+  .context-card {
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .context-card p + p {
+    margin-top: 12px;
+  }
+
+  /* ── Progress Bar ── */
+
+  .progress-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+
+  .progress-text {
+    font-size: 13px;
+    color: var(--muted);
+    white-space: nowrap;
+    min-width: 80px;
+  }
+
+  .progress-bar {
+    flex: 1;
+    background: var(--border);
+    height: 4px;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    background: var(--orange);
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 2px;
+  }
+
+  /* ── Stimulus Card ── */
+
+  .stimulus-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--purple);
+    border-radius: 0 10px 10px 0;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .stimulus-card .stimulus-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--purple);
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .stimulus-card p + p {
+    margin-top: 12px;
+  }
+
+  .stimulus-section-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--purple);
+    font-weight: 700;
+    margin-top: 18px;
+    margin-bottom: 6px;
+  }
+
+  .stimulus-section-label:first-child {
+    margin-top: 0;
+  }
+
+  /* ── Question Prompt ── */
+
+  .question-prompt {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    line-height: 1.5;
+  }
+
+  /* ── Answer Options ── */
+
+  .options-group {
+    list-style: none;
+    margin-bottom: 20px;
+  }
+
+  .option-btn {
+    display: block;
+    width: 100%;
+    background: var(--white);
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    text-align: left;
+    cursor: pointer;
+    line-height: 1.5;
+    transition: border-color 0.15s, background 0.15s;
+  }
+
+  .option-btn:hover:not(.disabled) {
+    border-color: var(--electric-blue);
+    background: #f5f7ff;
+  }
+
+  .option-btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .option-btn.selected {
+    border-color: var(--electric-blue);
+    background: #eef2ff;
+  }
+
+  .option-btn.disabled {
+    cursor: default;
+    opacity: 0.7;
+  }
+
+  .option-btn .option-label {
+    display: inline-block;
+    font-weight: 700;
+    min-width: 24px;
+    margin-right: 6px;
+  }
+
+  /* ── Submit Button ── */
+
+  .btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 28px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s, background 0.15s;
+  }
+
+  .btn:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .btn-submit {
+    background: var(--orange);
+    color: var(--dark-blue);
+  }
+
+  .btn-submit:hover:not(:disabled) {
+    opacity: 0.9;
+  }
+
+  .btn-submit:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .btn-next {
+    background: var(--electric-blue);
+    color: var(--white);
+    margin-top: 16px;
+  }
+
+  .btn-next:hover {
+    opacity: 0.9;
+  }
+
+  /* ── Feedback Panel ── */
+
+  .feedback-panel {
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin-top: 16px;
+    font-size: 14px;
+    line-height: 1.7;
+    display: none;
+  }
+
+  .feedback-panel.visible {
+    display: block;
+  }
+
+  .feedback-panel.correct {
+    background: var(--correct-bg);
+    border-left: 4px solid var(--green);
+  }
+
+  .feedback-panel.incorrect {
+    background: var(--incorrect-bg);
+    border-left: 4px solid var(--incorrect-border);
+  }
+
+  .feedback-label {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+  }
+
+  .feedback-label.correct {
+    color: var(--green);
+  }
+
+  .feedback-label.incorrect {
+    color: #dc2626;
+  }
+
+  .feedback-text {
+    font-size: 14px;
+  }
+
+  /* ── Results Screen ── */
+
+  .results-screen {
+    display: none;
+  }
+
+  .results-screen.active {
+    display: block;
+  }
+
+  .score-card {
+    background: var(--dark-blue);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 28px 24px;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .score-number {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .score-label {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 16px;
+  }
+
+  .score-bar-container {
+    background: rgba(255, 255, 255, 0.15);
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .score-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    background: var(--green);
+    transition: width 0.5s ease;
+  }
+
+  /* Debrief */
+
+  .debrief-card {
+    background: var(--white);
+    border: 2px solid var(--orange);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 24px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  .debrief-card h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .debrief-card p + p {
+    margin-top: 12px;
+  }
+
+  /* Review Section */
+
+  .review-toggle {
+    display: block;
+    width: 100%;
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark-blue);
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+    margin-bottom: 16px;
+  }
+
+  .review-toggle:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .review-toggle::after {
+    content: ' \25B8';
+  }
+
+  .review-toggle.expanded::after {
+    content: ' \25BE';
+  }
+
+  .review-section {
+    display: none;
+  }
+
+  .review-section.visible {
+    display: block;
+  }
+
+  .review-item {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-bottom: 12px;
+  }
+
+  .review-item .review-q-number {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+  }
+
+  .review-item .review-prompt {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+
+  .review-item .review-answer {
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+
+  .review-item .review-answer.yours {
+    color: var(--dark-blue);
+  }
+
+  .review-item .review-answer.correct-answer {
+    color: var(--green);
+  }
+
+  .review-item .review-feedback {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 8px;
+    line-height: 1.6;
+  }
+
+  .review-item .review-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+
+  .review-badge-correct {
+    background: var(--correct-bg);
+    color: var(--green);
+  }
+
+  .review-badge-incorrect {
+    background: var(--incorrect-bg);
+    color: #dc2626;
+  }
+
+  /* Close note */
+
+  .close-note {
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+  }
+
+  /* ── Responsive ── */
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 24px 16px 40px;
+    }
+    .header h1 {
+      font-size: 22px;
+    }
+    .option-btn {
+      padding: 12px 14px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="label">Interactive Exercise</div>
+    <h1 id="interactiveTitle"></h1>
+    <div class="subtitle" id="interactiveSubtitle"></div>
+  </div>
+
+  <!-- Question Area (populated by JS) -->
+  <div id="questionArea"></div>
+
+  <!-- Results Screen -->
+  <div class="results-screen" id="resultsScreen"></div>
+
+</div>
+
+<script>
+// ─────────────────────────────────────────────
+// DATA
+// ─────────────────────────────────────────────
+
+const interactiveData = {
+  title: "When feedback catches you off guard",
+  subtitle: "About 10 minutes",
+  context: `You're 12 minutes into Development Check-In #1 with Bridgeway Community Health. David Park is on the call. Since the Direction Check, your team has been building a draft research synthesis and a set of recommendations for how Bridgeway can adjust its workshop program to support behavior change in the communities they serve.
+
+You walked David through three things at the top of the meeting: the draft structure, your strongest finding from the research, and your headline recommendation — a peer health navigator program that would pair workshop participants with trained members of their own community for follow-up support.
+
+You finished the walk-through. David has been listening and writing things down. Now it's his turn.`,
+  stimulus: `**David's response**
+
+David says: "Thank you, that's really helpful. A lot of this is tracking with where I thought you'd land. But I want to flag something on the peer navigator piece, because I'd rather you hear it from me than find it later.
+
+We actually ran a version of this about two years ago. A peer navigator pilot. It didn't go the way we hoped, and we wound it down after about ten months. I'm not going to say more than that right now, because I'm curious what your team has been thinking, and I don't want to color your direction before I've heard it. But I do want you to factor it in before you commit to building this out as a headline recommendation."
+
+**What just happened**
+
+The peer navigator program is the team's strongest recommendation. It's the one you've spent the most time on. None of your secondary research mentioned that Bridgeway had tried this before, and the educators you spoke with at the Direction Check follow-up didn't bring it up either. David is now telling you it exists, and that it didn't work, and is deliberately holding back the details.`,
+  questions: [
+    {
+      id: 1,
+      prompt: "While David is still talking, you feel the urge to interrupt and explain why your team's version is different. What's the best move?",
+      options: [
+        { label: "A", text: "Interrupt now to clarify that your team's design is based on more recent research and might avoid the issues he ran into." },
+        { label: "B", text: "Hold off, let David finish, and listen for whether he names anything specific about what went wrong." },
+        { label: "C", text: "Start typing your team's response into the chat so you're ready to defend the recommendation the moment he stops talking." },
+        { label: "D", text: "Signal to a teammate to take over the conversation so you don't have to respond." }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: "Right. The Listen step is doing real work here. Most feedback gets more specific or more nuanced as the person keeps explaining, and the version you would have argued with after the first sentence often isn't the version they actually meant. Letting David finish costs you nothing and gives you more information to work with. The instinct to interrupt is the instinct to defend, and it shuts down the part of the conversation where the most useful detail tends to show up.",
+        incorrect: {
+          "A": `Interrupting with "our version is different" is the classic defensive move. You don't yet know what version David ran or what went wrong, so the claim that yours avoids those issues is unfounded. Even if you turn out to be right, leading with it signals you'd rather defend than learn.`,
+          "C": "Drafting a defense in the chat while David is talking means you're not listening — you're rehearsing. The transcript will read fine and your team will know you weren't with them in the room.",
+          "D": "Handing off the conversation to avoid the discomfort is its own form of defending. The reception protocol is something every member of the team is expected to be able to do. Dodging it now sets you up to dodge it later."
+        }
+      }
+    },
+    {
+      id: 2,
+      prompt: "David has finished talking. You want to ask a clarifying question before responding. Which question is the most useful first move?",
+      options: [
+        { label: "A", text: `"Are you saying we shouldn't recommend a peer navigator program at all?"` },
+        { label: "B", text: `"Can you say more about what happened with the earlier pilot, or what specifically didn't work?"` },
+        { label: "C", text: `"Did you mention the earlier pilot at the kickoff? I don't have it in my notes."` },
+        { label: "D", text: `"Would you like us to drop the recommendation and propose something else?"` }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: `Good. David has held back the detail deliberately, but he's not refusing to share it — he's asking your team to factor it in. A clear, specific request for the information you need ("what specifically didn't work") gets you the detail you'd otherwise have to guess at, and it shows you're taking the feedback seriously. The Clarify step is about making vague feedback specific. This question does that.`,
+        incorrect: {
+          "A": `This is a closed question framed as a clarification but functioning as a defense — you're asking David to either escalate ("yes, drop it") or back down ("no, keep it"). Either way, you've narrowed the conversation before you've understood the substance. Open the question instead.`,
+          "C": "Litigating whether David mentioned this earlier puts the conversation in the wrong place. Even if it's true that this is new information, leading with that signals you're more concerned with whose fault the gap is than with what you need to do about it. The information matters more than the chain of custody.",
+          "D": `Volunteering to drop the recommendation before you've heard the details is the overcorrection move. David said "factor it in," not "scrap it." Offering to scrap commits you to something he didn't ask for, and it skips the part where you understand the issue.`
+        }
+      }
+    },
+    {
+      id: 3,
+      prompt: `David gives you more detail. The previous pilot ran into problems with how the navigators were recruited and trained, and Bridgeway lost trust with two of the partner clinics over it. He says, "I think the model can work, but you need to know that history is there." How do you acknowledge what he just said?`,
+      options: [
+        { label: "A", text: `"OK, so we'll restructure the recommendation to address the recruitment and training issues you raised."` },
+        { label: "B", text: `"Got it. So the model itself isn't the problem, but the implementation history is something we need to reckon with — especially the partner clinic relationships."` },
+        { label: "C", text: `"That makes sense. I think we can probably work around those issues with a better training approach."` },
+        { label: "D", text: `"Understood. We'll think about whether to keep this in the recommendations."` }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: "Exactly. Acknowledging means naming what you heard so David can confirm or correct, without committing to a course of action. Your response captures the specific distinction he drew (the model vs. the implementation history) and surfaces the most important detail (the partner clinic relationships) so he knows you heard it. It also doesn't promise anything yet. The team can decide later, with the rest of the information in front of you.",
+        incorrect: {
+          "A": `Committing to "restructure the recommendation" jumps past the Decide-later step. You don't yet know whether your team will keep this as a headline recommendation, scale it back, or redesign it from scratch. Promising a specific fix in the meeting locks in a direction you haven't actually decided on as a team.`,
+          "C": `Saying you can "probably work around those issues with a better training approach" reads as dismissive of the trust problem David named. He flagged a relationship issue with two partner clinics; you responded with a training tweak. Acknowledging is about confirming the message landed, not minimizing it.`,
+          "D": `"We'll think about whether to keep this" doesn't acknowledge what he actually said. It treats the whole conversation as one binary decision (keep or drop) and skips past the substance of the history he just shared.`
+        }
+      }
+    },
+    {
+      id: 4,
+      prompt: `A teammate jumps in: "Just to give you our reasoning — we picked peer navigators because the research strongly supports them for behavior change in similar populations." David nods politely but doesn't say much. What's the right move from you?`,
+      options: [
+        { label: "A", text: "Reinforce your teammate's point with more research citations to strengthen the case for keeping the recommendation." },
+        { label: "B", text: "Stay quiet — your teammate is leading now and contradicting them would look fragmented in front of the employer." },
+        { label: "C", text: `Gently redirect: "We can definitely walk through our reasoning, but I want to make sure we've fully heard the history first. David, is there anything else from the earlier pilot we should know before we get into our rationale?"` },
+        { label: "D", text: "Apologize to David for your teammate jumping in and assure him you'll listen properly." }
+      ],
+      correctAnswer: "C",
+      feedback: {
+        correct: `Good. Your teammate is in defensive mode, which is understandable but isn't going to get the team useful information. Redirecting the conversation back to David — without throwing your teammate under the bus — keeps the protocol in play. The phrasing matters: "we can walk through our reasoning" honors what your teammate is trying to do; "I want to make sure we've fully heard the history first" reorders the conversation so the listening happens before the explaining. This is the kind of move that's hard in the moment and noticeable to the employer when it happens.`,
+        incorrect: {
+          "A": "Adding more citations is the team doubling down on defense. The substance of your reasoning might be fine, but stacking it on top of your teammate's reflex amplifies the defensiveness rather than dialing it back.",
+          "B": "Staying quiet to avoid looking fragmented protects the team's appearance but not its actual outcome. A redirect that's done warmly doesn't read as fragmentation. It reads as the team holding itself to a standard, and most employers appreciate that.",
+          "D": "Apologizing to David for your teammate publicly is worse than the original problem. It undermines your teammate, signals to David that your team isn't a unit, and adds awkwardness that the meeting doesn't need."
+        }
+      }
+    },
+    {
+      id: 5,
+      prompt: "After the meeting, your team is debriefing. You agree the recommendation needs more thought before next week. What's the most useful action item to capture in your team's working list?",
+      options: [
+        { label: "A", text: `"Decide what to do about the peer navigator recommendation."` },
+        { label: "B", text: `"Revisit the peer navigator section before next Friday — Alex to summarize the specific issues David raised (recruitment, training, partner clinic trust) and propose two options for the team to choose between: scale back to a lighter-touch version, or redesign with the implementation issues addressed."` },
+        { label: "C", text: `"Cut the peer navigator recommendation from the draft."` },
+        { label: "D", text: `"Wait until Development Check-In #2 to ask David more questions about the earlier pilot."` }
+      ],
+      correctAnswer: "B",
+      feedback: {
+        correct: `Right. A useful action item names the work, names the owner, names the deadline, and is specific enough that someone could pick it up next week and know what to do. It also leaves the team's strategic decision (scale back vs. redesign) for after the work is done, instead of pre-committing in the moment. This is what "translate feedback into a concrete action" actually looks like: a single line in your working list that someone can act on.`,
+        incorrect: {
+          "A": `"Decide what to do" names a decision without naming the work that needs to happen for the decision to be possible. Action items at this level produce general impressions, not action.`,
+          "C": `Cutting the recommendation outright skips the Decide-later step. David didn't ask you to cut it — he asked you to factor the history in. The team needs to do that work before deciding what changes.`,
+          "D": "Waiting until the next check-in is a way to delay engaging with the feedback. David already gave you what you need to start. Treating it as a question for him to answer means the team isn't doing its own thinking."
+        }
+      }
+    }
+  ],
+  debrief: `That scenario walked through the four steps of the reception protocol — Listen, Clarify, Acknowledge, Decide later — plus the translation into a concrete action item.
+
+The pattern to watch for in your own Development Check-In is the gap between the response your team has rehearsed and the conversation you actually walk into. Employers in working meetings often bring information the team hasn't prepared for. The protocol gives you a structure to use when that happens, but it only works if you've practiced the moves enough that they feel like first reactions instead of second thoughts. The next time an employer says "I want to flag something," the muscle memory is what you're going to lean on.
+
+You'll use the same protocol on the peer review you receive from your teammates this week, and again at the next Development Check-In.`
+};
+
+
+// ─────────────────────────────────────────────
+// STATE
+// ─────────────────────────────────────────────
+
+let currentQuestion = 0;
+let answers = [];
+let selectedOption = null;
+
+
+// ─────────────────────────────────────────────
+// INITIALIZATION
+// ─────────────────────────────────────────────
+
+function init() {
+  document.getElementById('interactiveTitle').textContent = interactiveData.title;
+  document.getElementById('interactiveSubtitle').textContent = interactiveData.subtitle;
+  document.title = interactiveData.title + ' — Riipen Career Catalyst';
+  renderContext();
+}
+
+function renderContext() {
+  const area = document.getElementById('questionArea');
+  let html = '';
+
+  html += '<div class="context-card">';
+  html += formatParagraphs(interactiveData.context);
+  html += '</div>';
+
+  if (interactiveData.stimulus) {
+    html += '<div class="stimulus-card">';
+    html += '<div class="stimulus-label">The meeting</div>';
+    html += formatStimulus(interactiveData.stimulus);
+    html += '</div>';
+  }
+
+  html += '<button class="btn btn-submit" onclick="startQuestions()" aria-label="Begin the exercise">Begin</button>';
+
+  area.innerHTML = html;
+}
+
+
+// ─────────────────────────────────────────────
+// QUESTION RENDERING
+// ─────────────────────────────────────────────
+
+function startQuestions() {
+  currentQuestion = 0;
+  answers = [];
+  selectedOption = null;
+  renderQuestion();
+}
+
+function renderQuestion() {
+  const q = interactiveData.questions[currentQuestion];
+  const total = interactiveData.questions.length;
+  const area = document.getElementById('questionArea');
+
+  selectedOption = null;
+
+  let html = '';
+
+  html += '<div class="progress-wrapper">';
+  html += '  <span class="progress-text" aria-live="polite">Question ' + (currentQuestion + 1) + ' of ' + total + '</span>';
+  html += '  <div class="progress-bar" role="progressbar" aria-valuenow="' + (currentQuestion + 1) + '" aria-valuemin="1" aria-valuemax="' + total + '">';
+  html += '    <div class="progress-fill" style="width: ' + ((currentQuestion + 1) / total * 100) + '%"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  if (interactiveData.stimulus) {
+    html += '<div class="stimulus-card">';
+    html += '<div class="stimulus-label">The meeting</div>';
+    html += formatStimulus(interactiveData.stimulus);
+    html += '</div>';
+  }
+
+  html += '<div class="question-prompt" id="questionPrompt">' + escapeHtml(q.prompt) + '</div>';
+
+  html += '<div class="options-group" role="radiogroup" aria-labelledby="questionPrompt">';
+  q.options.forEach(function(opt) {
+    html += '<button class="option-btn" role="radio" aria-checked="false" ';
+    html += 'data-label="' + opt.label + '" ';
+    html += 'onclick="handleSelect(\'' + opt.label + '\')" ';
+    html += 'tabindex="0">';
+    html += '<span class="option-label">' + escapeHtml(opt.label) + '.</span> ';
+    html += escapeHtml(opt.text);
+    html += '</button>';
+  });
+  html += '</div>';
+
+  html += '<button class="btn btn-submit" id="submitBtn" onclick="handleSubmit()" disabled aria-label="Submit your answer">Submit</button>';
+
+  html += '<div class="feedback-panel" id="feedbackPanel" role="status" aria-live="polite"></div>';
+
+  area.innerHTML = html;
+
+  var prompt = document.getElementById('questionPrompt');
+  prompt.setAttribute('tabindex', '-1');
+  prompt.focus();
+
+  setupKeyboardNav();
+}
+
+function setupKeyboardNav() {
+  var options = document.querySelectorAll('.option-btn');
+  options.forEach(function(btn, index) {
+    btn.addEventListener('keydown', function(e) {
+      var target = null;
+      if (e.key === 'ArrowDown' || e.key === 'ArrowRight') {
+        e.preventDefault();
+        target = options[(index + 1) % options.length];
+      } else if (e.key === 'ArrowUp' || e.key === 'ArrowLeft') {
+        e.preventDefault();
+        target = options[(index - 1 + options.length) % options.length];
+      } else if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        btn.click();
+      }
+      if (target) target.focus();
+    });
+  });
+}
+
+
+// ─────────────────────────────────────────────
+// INTERACTION HANDLERS
+// ─────────────────────────────────────────────
+
+function handleSelect(label) {
+  if (document.getElementById('feedbackPanel').classList.contains('visible')) return;
+
+  selectedOption = label;
+
+  document.querySelectorAll('.option-btn').forEach(function(btn) {
+    var isSelected = btn.dataset.label === label;
+    btn.classList.toggle('selected', isSelected);
+    btn.setAttribute('aria-checked', isSelected ? 'true' : 'false');
+  });
+
+  document.getElementById('submitBtn').disabled = false;
+}
+
+function handleSubmit() {
+  if (!selectedOption) return;
+
+  var q = interactiveData.questions[currentQuestion];
+  var isCorrect = selectedOption === q.correctAnswer;
+
+  answers.push({
+    questionId: q.id,
+    selectedLabel: selectedOption,
+    isCorrect: isCorrect
+  });
+
+  document.querySelectorAll('.option-btn').forEach(function(btn) {
+    btn.classList.add('disabled');
+    btn.setAttribute('tabindex', '-1');
+  });
+
+  document.getElementById('submitBtn').style.display = 'none';
+
+  var panel = document.getElementById('feedbackPanel');
+  var feedbackText = '';
+  var feedbackType = '';
+
+  if (isCorrect) {
+    feedbackType = 'correct';
+    feedbackText = q.feedback.correct;
+  } else {
+    feedbackType = 'incorrect';
+    feedbackText = q.feedback.incorrect[selectedOption] || q.feedback.incorrect['default'] || "That's not quite right.";
+  }
+
+  var isLast = currentQuestion >= interactiveData.questions.length - 1;
+  var nextLabel = isLast ? 'See results' : 'Next';
+
+  panel.className = 'feedback-panel visible ' + feedbackType;
+  panel.innerHTML =
+    '<div class="feedback-label ' + feedbackType + '">' +
+    (isCorrect ? '✓ Correct' : 'Not quite') +
+    '</div>' +
+    '<div class="feedback-text">' + escapeHtml(feedbackText) + '</div>' +
+    '<button class="btn btn-next" onclick="nextQuestion()" aria-label="' +
+    (isLast ? 'See your results' : 'Go to next question') +
+    '">' + nextLabel + ' →</button>';
+
+  panel.setAttribute('tabindex', '-1');
+  panel.focus();
+}
+
+function nextQuestion() {
+  currentQuestion++;
+  if (currentQuestion >= interactiveData.questions.length) {
+    showResults();
+  } else {
+    selectedOption = null;
+    renderQuestion();
+  }
+}
+
+
+// ─────────────────────────────────────────────
+// RESULTS SCREEN
+// ─────────────────────────────────────────────
+
+function showResults() {
+  document.getElementById('questionArea').innerHTML = '';
+
+  var total = interactiveData.questions.length;
+  var correctCount = answers.filter(function(a) { return a.isCorrect; }).length;
+  var pct = Math.round((correctCount / total) * 100);
+
+  var screen = document.getElementById('resultsScreen');
+  screen.classList.add('active');
+
+  var html = '';
+
+  html += '<div class="score-card">';
+  html += '  <div class="score-number">' + correctCount + ' of ' + total + '</div>';
+  html += '  <div class="score-label" aria-live="polite">questions answered correctly</div>';
+  html += '  <div class="score-bar-container">';
+  html += '    <div class="score-bar-fill" style="width: ' + pct + '%" role="img" aria-label="Score: ' + pct + ' percent"></div>';
+  html += '  </div>';
+  html += '</div>';
+
+  html += '<div class="debrief-card">';
+  html += '  <h3>What you just practiced</h3>';
+  html += formatParagraphs(interactiveData.debrief);
+  html += '</div>';
+
+  html += '<button class="review-toggle" id="reviewToggle" onclick="toggleReview()" aria-expanded="false" aria-controls="reviewSection">Review your answers</button>';
+
+  html += '<div class="review-section" id="reviewSection" role="region" aria-label="Answer review">';
+  interactiveData.questions.forEach(function(q, i) {
+    var answer = answers[i];
+    var selectedOpt = q.options.find(function(o) { return o.label === answer.selectedLabel; });
+    var correctOpt = q.options.find(function(o) { return o.label === q.correctAnswer; });
+    var feedbackText = answer.isCorrect
+      ? q.feedback.correct
+      : (q.feedback.incorrect[answer.selectedLabel] || q.feedback.incorrect['default'] || '');
+
+    html += '<div class="review-item">';
+    html += '  <div class="review-q-number">Question ' + (i + 1) + '</div>';
+    html += '  <span class="review-badge ' + (answer.isCorrect ? 'review-badge-correct' : 'review-badge-incorrect') + '">';
+    html += answer.isCorrect ? 'Correct' : 'Incorrect';
+    html += '</span>';
+    html += '  <div class="review-prompt">' + escapeHtml(q.prompt) + '</div>';
+    html += '  <div class="review-answer yours"><strong>Your answer:</strong> ' + escapeHtml(answer.selectedLabel + '. ' + selectedOpt.text) + '</div>';
+    if (!answer.isCorrect) {
+      html += '  <div class="review-answer correct-answer"><strong>Correct answer:</strong> ' + escapeHtml(q.correctAnswer + '. ' + correctOpt.text) + '</div>';
+    }
+    html += '  <div class="review-feedback">' + escapeHtml(feedbackText) + '</div>';
+    html += '</div>';
+  });
+  html += '</div>';
+
+  html += '<div class="close-note">You can close this tab to return to the course.</div>';
+
+  screen.innerHTML = html;
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  var scoreCard = screen.querySelector('.score-card');
+  scoreCard.setAttribute('tabindex', '-1');
+  scoreCard.focus();
+}
+
+function toggleReview() {
+  var toggle = document.getElementById('reviewToggle');
+  var section = document.getElementById('reviewSection');
+  var expanded = toggle.classList.toggle('expanded');
+  section.classList.toggle('visible', expanded);
+  toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+}
+
+
+// ─────────────────────────────────────────────
+// UTILITIES
+// ─────────────────────────────────────────────
+
+function escapeHtml(text) {
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function formatParagraphs(text) {
+  return text.split('\n\n').map(function(p) {
+    return '<p>' + escapeHtml(p.trim()) + '</p>';
+  }).join('');
+}
+
+function formatStimulus(text) {
+  return text.split('\n\n').map(function(p) {
+    p = p.trim();
+    var headerMatch = p.match(/^\*\*(.+?)\*\*$/);
+    if (headerMatch) {
+      return '<div class="stimulus-section-label">' + escapeHtml(headerMatch[1]) + '</div>';
+    }
+    return '<p>' + escapeHtml(p) + '</p>';
+  }).join('');
+}
+
+
+// ─────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────
+
+init();
+</script>
+</body>
+</html>

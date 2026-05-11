@@ -67,7 +67,7 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 ## Week 5 — Direction Check
 
 - p1 Presenting your approach *(video: Presenting for feedback, not approval)*
-- p2 Before the Direction Check *(video: How to walk through a document with a stakeholder)*
+- p2 Before the Direction Check *(video: How to walk through a document with a stakeholder; interactive: When the direction shifts)*
 - p3 During the Direction Check *(video: Listening without defending)*
 - p4 After the Direction Check
 - p5 The Direction Check Summary (Type D deliverable page; split out 2026-04-28)
@@ -100,7 +100,7 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p4 Receiving feedback well
 - p5 Working with data and visuals *(video: Working with Data and Visuals)*
 - p6 The Work-in-Progress Summary
-- p7 Development Check-In #1 (single consolidated page — working meeting, not three-page before/during/after)
+- p7 Development Check-In #1 (single consolidated page — working meeting, not three-page before/during/after) *(interactive: When feedback catches you off guard)*
 - p8 What's next
 
 **Introduces:** Peer review (four lenses + AI-assisted-error pass), feedback-reception protocol (sync + async), WIP Summary deliverable (team-facing, not sent to employer).
