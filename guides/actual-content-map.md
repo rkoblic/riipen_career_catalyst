@@ -9,16 +9,19 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 ## Week 1 — Course Kickoff
 
 - p1 Getting Started *(video: Why this course is different)*
-- p2 What is experiential learning? *(video: How learning works in this course)*
+- p2 What is experiential learning?
 - p3 Syllabus and assessment review
 - p4 AI in today's workplace and this course *(video: The shift)*
-- p5 Project browsing and your starting point
-- p6 Introduction to reflective practice *(video: Why reflective practice matters; interactive: DEAL sorting exercise)*
-- p7 Setting yourself up for success
-- p8 Professional email basics
-- p9 What's next
+- p5 How the course is run (two platforms + Riipen Experience Manager intro — NEW 2026-05-11)
+- p6 Project browsing and your starting point
+- p7 Introduction to reflective practice *(video: Why reflective practice matters; interactive: DEAL sorting exercise)*
+- p8 Setting yourself up for success
+- p9 Professional email basics
+- p10 What's next
 
-**Introduces:** DEAL reflection framework, "Your Starting Point" intake questionnaire, AI-in-course framing.
+**Introduces:** DEAL reflection framework, "Your Starting Point" intake questionnaire, AI-in-course framing, two-platform model (LMS + Riipen), Riipen Experience Manager role.
+
+**Structure note:** p2 video ("How learning works in this course") cut 2026-05-11 — overlapped too heavily with p1 overview video. p5 platforms/REM page inserted same day; pages p5–p9 shifted to p6–p10.
 
 ## Week 2 — Team Formation & Employer Outreach
 

@@ -9,8 +9,8 @@ A working list of every learner-facing template, downloadable example, or linked
 | # | Artifact | Page | Line | Brief from placeholder |
 |---|---|---|---|---|
 | 1 | **Deliverable Timeline Table** | `weekly_content/week01/page3-syllabus-assessment.md` | 111 | All deliverables × due dates × component × weight |
-| 2 | **Weekly Planning Worksheet** | `weekly_content/week01/page7-setting-up-success.md` | 50 | Map weekly tasks → time blocks |
-| 3 | **Team Charter Template** | `weekly_content/week01/page9-whats-next.md` | 36 | Working agreement: comms norms, decisions, roles, accountability, meetings (delivered as a `[LINKED RESOURCE]`, so it's a downloadable doc) |
+| 2 | **Weekly Planning Worksheet** | `weekly_content/week01/page8-setting-up-success.md` | 50 | Map weekly tasks → time blocks |
+| 3 | **Team Charter Template** | `weekly_content/week01/page10-whats-next.md` | 36 | Working agreement: comms norms, decisions, roles, accountability, meetings (delivered as a `[LINKED RESOURCE]`, so it's a downloadable doc) |
 | 4 | **Pre-Kickoff Confirmation Message** | `weekly_content/week03/page2-preparing-for-the-kickoff.md` | 77 | Email template: confirm logistics, share agenda, pre-meeting clarifications |
 | 5 | **Post-Kickoff Follow-Up Message** | `weekly_content/week03/page5-after-the-kickoff.md` | 49 | Email template: thank employer, confirm key takeaways |
 | 6 | **Kickoff Summary** | `weekly_content/week03/page6-kickoff-summary.md` | 49 | Confirmed scope, deliverables, success criteria, timeline, contacts, open questions |

@@ -203,7 +203,7 @@ Why it works: the third H2 is justified by the cross-week arc. The Change Log ha
 
 Why it works: by Week 14, prep has already happened. The status format honors that and gives the learner a quick "am I ready?" pass without inventing busywork.
 
-### Foundation-laying outlier — `weekly_content/week01/page9-whats-next.md`
+### Foundation-laying outlier — `weekly_content/week01/page10-whats-next.md`
 
 - 765 words, two H2 sections, one curated external resource.
 - The first-week page does more setup work than other what's-next pages: it walks through the Team Charter's components, links a curated reading on team norms, and uses reflective questions instead of action bullets.

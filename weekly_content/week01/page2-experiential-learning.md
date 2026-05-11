@@ -14,8 +14,6 @@ competencies:
 
 In most professional roles, nobody hands you a textbook and a test date. You're given a problem, a team, and a deadline. You figure it out by doing the work, getting feedback, and adjusting. That cycle of experience, reflection, and application is what experiential learning formalizes, and it's how this entire course is built.
 
-[VIDEO: How learning works in this course vs. traditional coursework]
-
 ---
 
 ## Why this matters in an AI-enabled workplace

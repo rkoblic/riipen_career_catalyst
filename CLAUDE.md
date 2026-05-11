@@ -23,7 +23,7 @@ The `--use-html` flag tells the script to use whatever `.canvas.html` file exist
 2. **Editorial pass (this is the part that needs Claude, not the script).** For each page:
    - Read the source markdown.
    - Refer to `guides/canvas-html-guide.md` for the component library and the constraints (inline styles only, `<strong>` for bold, etc.).
-   - Refer to a hand-built reference like `weekly_content/week01/page7-setting-up-success.html` to calibrate on what "good" looks like.
+   - Refer to a hand-built reference like `weekly_content/week01/page8-setting-up-success.html` to calibrate on what "good" looks like.
    - Edit the `<source>.canvas.html` file: promote single-paragraph principles to **Key Principle Callouts** (orange), wrap practical guidance as **Info Callouts** (blue), wrap AI rules as **AI Guidance Boxes** (dark blue), wrap worked examples as **Scenario Boxes** (purple dashed), convert good/bad pairs to **Comparison Columns** (red/green), wrap optional content in **Expand/Collapse**.
 
 3. Then push with `--use-html`:

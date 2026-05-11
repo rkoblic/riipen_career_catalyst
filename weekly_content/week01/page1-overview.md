@@ -25,7 +25,7 @@ This week you'll work through a series of short modules that introduce the found
 
 ## Suggested order of completion
 
-1. Start here, then work through the foundational modules in order: experiential learning, syllabus review, and the AI policy module.
+1. Start here, then work through the foundational modules in order: experiential learning, syllabus review, the AI policy module, and the course platforms and support overview.
 2. Browse the project briefs and complete the Your Starting Point Questionnaire (which includes your project preferences).
 3. Finish with the professional skill modules (reflective practice, time management, professional email) and the preview of what's coming next.
 

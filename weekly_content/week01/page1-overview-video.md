@@ -10,12 +10,10 @@ status: draft
 
 # Video Script: Why this course is different
 
-This course doesn't work like most of your other classes. There are no exams. No lectures to sit through. Instead, you'll work on a real project for a real organization, as part of a team.
+Most courses front-load the content and test you on it at the end. This one doesn't. You'll spend the term working on a project for an actual organization, as part of a team, and you'll pick up the skills and frameworks you need along the way.
 
-That might sound exciting, or it might sound a little intimidating. Either way, it's worth understanding why the course is built this way.
+That changes what "doing the work" means. Your employer contact is someone who actually needs what your team produces. Your deliverables get used. The feedback you receive is professional feedback, not a grade with a rubric attached.
 
-The professional world runs on projects. Teams form, figure out a problem together, deliver something, and move on to the next one. The skills that matter most in that context, communication, collaboration, critical thinking, those don't develop from reading about them. They develop from doing them, reflecting on what happened, and trying again.
+The skills this develops are the ones that are hardest to build any other way. How to keep a meeting on track when it starts going sideways. How to make a call when the right answer isn't obvious and your team is waiting. You don't pick those up from reading. You pick them up by working through them when the consequences are real.
 
-That's what experiential learning is. You learn by doing real work, not simulated work. And because the project is real, the stakes feel different. Your employer contact is a real person. Your deliverables will be used. The feedback you get is professional feedback.
-
-This week is your on-ramp. No team yet, no project yet. Just the foundations you'll need once both arrive. Take your time with it. Everything you encounter this week will show up again later in the course.
+This week is the on-ramp. No team yet, no project yet. Just the foundations you'll need once both arrive.
