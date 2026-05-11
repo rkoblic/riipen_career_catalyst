@@ -587,8 +587,14 @@ def parse_markdown(md_text):
     return blocks
 
 
-def convert_md_to_docx(md_path, output_path, logo_path=None):
-    """Convert a markdown file to a Riipen-branded docx."""
+def convert_md_to_docx(md_path, output_path, logo_path=None, no_header=False, no_footer=False):
+    """Convert a markdown file to a Riipen-branded docx.
+
+    `no_header=True` skips the logo + Vancouver address header — used for
+    learner-facing templates that shouldn't ship with Riipen's corporate
+    address on every page. `no_footer=True` skips the "Riipen | riipen.com"
+    footer for the same reason.
+    """
     md_text = Path(md_path).read_text(encoding='utf-8')
     blocks = parse_markdown(md_text)
 
@@ -618,7 +624,8 @@ def convert_md_to_docx(md_path, output_path, logo_path=None):
     rFonts.set(qn('w:cs'), BODY_FONT)
 
     # ── Header ──
-    add_header(doc, logo_path)
+    if not no_header:
+        add_header(doc, logo_path)
 
     # ── Process blocks ──
     title_added = False
@@ -667,14 +674,15 @@ def convert_md_to_docx(md_path, output_path, logo_path=None):
                 add_horizontal_rule(doc)
 
     # ── Footer with decorative element ──
-    footer = section.footer
-    footer.is_linked_to_previous = False
-    footer_para = footer.paragraphs[0]
-    footer_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    add_formatted_text(footer_para, "Riipen", HEADING_FONT, Pt(8), ORANGE, bold=True)
-    run = footer_para.add_run("  |  ")
-    format_run(run, BODY_FONT, Pt(8), GREY)
-    add_formatted_text(footer_para, "riipen.com", BODY_FONT, Pt(8), GREY)
+    if not no_footer:
+        footer = section.footer
+        footer.is_linked_to_previous = False
+        footer_para = footer.paragraphs[0]
+        footer_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        add_formatted_text(footer_para, "Riipen", HEADING_FONT, Pt(8), ORANGE, bold=True)
+        run = footer_para.add_run("  |  ")
+        format_run(run, BODY_FONT, Pt(8), GREY)
+        add_formatted_text(footer_para, "riipen.com", BODY_FONT, Pt(8), GREY)
 
     doc.save(output_path)
     return output_path
@@ -706,6 +714,8 @@ def main():
     parser.add_argument('output', nargs='?', help='Output docx file path (default: same name as input with .docx extension)')
     parser.add_argument('--logo', help='Path to Riipen logo image file (auto-detected if not specified)', default=None)
     parser.add_argument('--no-logo', action='store_true', help='Omit logo from header')
+    parser.add_argument('--no-header', action='store_true', help='Omit the entire header (logo + Vancouver address). Use for learner-facing templates.')
+    parser.add_argument('--no-footer', action='store_true', help='Omit the "Riipen | riipen.com" footer. Use for learner-facing templates.')
 
     args = parser.parse_args()
 
@@ -720,12 +730,18 @@ def main():
         output_path = str(input_path.with_suffix('.docx'))
 
     logo_path = None
-    if not args.no_logo:
+    if not args.no_logo and not args.no_header:
         logo_path = args.logo or find_logo(Path(__file__).resolve().parent)
         if logo_path:
             print(f"Using logo: {logo_path}")
 
-    result = convert_md_to_docx(str(input_path), output_path, logo_path)
+    result = convert_md_to_docx(
+        str(input_path),
+        output_path,
+        logo_path,
+        no_header=args.no_header,
+        no_footer=args.no_footer,
+    )
     print(f"Created: {result}")
 
 
