@@ -1,6 +1,6 @@
 ---
 week: 15
-page: 7
+page: 8
 title: Closing the Course
 created: 2026-04-23
 last_updated: 2026-04-23

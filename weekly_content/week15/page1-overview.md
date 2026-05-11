@@ -19,13 +19,14 @@ The week itself is submission-heavy: a live presentation to the employer, a fina
 
 ## What's due this week
 
-Three submissions, one employer meeting, and a team closing.
+Three submissions, one end-of-project employer evaluation, and a team closing.
 
-- **Final Presentation** — team, graded. Live delivery to your employer and course supervisor. Significant weight in your final grade.
+- **Final Presentation** — team, graded. Your team presents live to your employer and course supervisor. The recording of the session and the slide deck are submitted through the Riipen platform after the live delivery. Significant weight in your final grade.
 - **Reflection #5** — individual, graded. The fifth and final DEAL reflection in the Reflection Portfolio component of your grade. Drafting began last week; finalization happens this week.
 - **End-of-Project Peer Evaluation** — individual. Contributes to the Professional Engagement component of your final grade. Evidence gathering began last week; ratings and submission happen this week.
+- **End-of-project employer evaluation** — not something you submit. Your employer is asked to complete a brief summative evaluation of your team across the full project — communication, preparedness, responsiveness, the quality of the final deliverables, and whether they would work with the team again. This feeds the same Professional Engagement component of your final grade as the peer evaluation.
 
-Alongside the three submissions, your team has the Final Presentation itself, a structured debrief and team closing right after, and the final async coordination of the project.
+Alongside the three submissions and the employer evaluation, your team has a structured debrief and team closing right after the presentation, and the final async coordination of the project.
 
 ---
 
@@ -36,12 +37,7 @@ The three submissions depend on each other in ways that raise the quality of the
 1. **Polish the presentation.** Targeted adjustments from last week's rehearsal, not a full rerun.
 2. **Deliver the Final Presentation** to your employer.
 3. **Debrief and run the team closing** right after the presentation, while the experience and the employer's feedback are fresh. These are the last working moments of the team together, and where the last pieces of evidence for the reflection and the peer evaluation surface.
-4. **Finalize Reflection #5** and submit. The Describe and Examine stages are largely drafted from last week. This session is for Articulate and Learn, informed by the presentation and closing.
-5. **Finalize the End-of-Project Peer Evaluation** and submit. Rate the full project arc with behavioral evidence, including the final-week observations from the rehearsal, presentation, and closing.
-6. **Read the final module** (Articulating Your Experience) and close the course. The module is forward-facing: how to translate the project experience into professional language for resumes, interviews, and networking.
-
----
-
-## Module content is light this week
-
-The teaching this week is narrow on purpose: a short mindset module before the presentation, and a career-articulation module at the end that helps you translate the project into language a future employer or graduate program will recognize. The rest of the week's time goes to presenting, closing, reflecting, and evaluating.
+4. **Read the final module** (Articulating Your Experience). The module is forward-facing: how to translate the project experience into professional language for resumes, interviews, and networking. Reading it before Reflection #5 gives you a frame for the Articulate and Learn stages of the reflection.
+5. **Finalize Reflection #5** and submit. The Describe and Examine stages are largely drafted from last week. This session is for Articulate and Learn, informed by the presentation, the closing, and the framing from the final module.
+6. **Finalize the End-of-Project Peer Evaluation** and submit. Rate the full project arc with behavioral evidence, including the final-week observations from the rehearsal, presentation, and closing.
+7. **Skim the FYI page** on the employer end-of-project evaluation so you know what your employer is being asked about the team and how the result feeds into your Professional Engagement grade.

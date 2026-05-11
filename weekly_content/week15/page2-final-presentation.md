@@ -20,9 +20,9 @@ competencies:
 
 # The Final Presentation
 
-The Final Presentation is the course's summative assessment of oral presentation and one of only two formal student presentations in the course. The first was the Direction Check earlier in the project, when your team walked the employer through a proposed approach. This one is different. You are presenting completed professional work to the people who commissioned it. The research is done, the analysis is done, the recommendations have been written and refined across weeks of feedback. What happens this week is the team standing behind that work, live, and answering for it in real time.
+In the Final Presentation, you will present your completed professional work to the people who commissioned it. The research is done, the analysis is done, the recommendations have been written and refined across weeks of feedback. What happens this week is the team standing behind that work, live, and answering for it in real time.
 
-This is the culmination of the three-week presentation arc. The conceptual work on what makes a presentation strong happened a few weeks ago. The operational work (who presents what, how the team handles Q&A, how the outline becomes a deck) happened last week, along with a full rehearsal. This page is the rest of it: how to show up on the day, what to do in the final hour before the presentation, what happens during the session itself, and how to close the experience with your team afterward.
+This page is the culmination of the three-week presentation arc. The conceptual work on what makes a presentation strong happened a few weeks ago. The operational work (who presents what, how the team handles Q&A, how the outline becomes a deck) happened last week, along with a full rehearsal. This page covers how to show up on the day, what to do in the final hour before the presentation, what happens during the session itself, and how to close the experience with your team afterward.
 
 ---
 
@@ -37,7 +37,7 @@ Four dimensions, each with its own focus:
 - **Q&A Handling.** Do your answers show genuine understanding of the work? This is where the defend-your-work standard is tested live rather than in writing.
 - **Visual Communication.** Do the slides support the narrative, and are they professional and readable?
 
-Full descriptors are in the [**Final Presentation rubric**](URL_TBD). The rubric is visible to your team; review it before the presentation so you know what your graders are watching for.
+Full descriptors are in the [**Final Presentation rubric**](URL_TBD). The rubric is visible to your team; review it before the presentation so you know what you are being evaluated on.
 
 ---
 
@@ -109,7 +109,22 @@ The Final Presentation is held as a single session. The employer and your instru
 - **Q&A: approximately 15 minutes.** The employer asks questions and your team responds live.
 - **Employer feedback and wrap: approximately 15 minutes.** The employer shares their reactions to the work — what landed, what they are taking away, what they plan to do with it. The session closes with acknowledgments and any handoff logistics.
 
-Slides are submitted in advance through the Riipen platform. The presentation itself is live.
+The presentation itself is live. After the session, your team submits the recording and the slide deck through the Riipen platform.
+
+### Record the session
+
+Recording the Final Presentation is essential. The recording is what your instructor reviews to grade the team against the rubric, and it is submitted through the Riipen platform along with the slide deck after the session ends.
+
+Most video conferencing platforms (Zoom, Google Meet, Microsoft Teams) include a recording function in the host controls. On most platforms, only the host of the meeting can start the recording. If the employer is hosting, one teammate should check with them in advance about recording the session and getting the file afterward. Get explicit consent from everyone on the call before recording starts.
+
+The most common failure mode is forgetting to hit record at all. A few things that help:
+
+- **Designate one teammate as the recorder.** If everyone is responsible, the moment passes. One person owning it is more reliable than four people half-watching for it.
+- **Put a reminder in the first slide's speaker notes.** A literal "START RECORDING" line at the top of the notes is hard to miss when the opening presenter pulls them up.
+- **Add it to the pre-presentation checklist.** The team's last-minute run-through already includes mic checks and screen share. Recording belongs in the same list.
+- **Confirm out loud that the recording started.** A quick "we are recording now" before the first speaker begins is a courtesy to the employer and a check on yourself.
+
+Save the file somewhere the whole team can access once the session is over.
 
 ### What to capture during the employer feedback window
 

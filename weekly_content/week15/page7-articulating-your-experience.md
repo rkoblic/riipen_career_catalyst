@@ -1,6 +1,6 @@
 ---
 week: 15
-page: 6
+page: 7
 title: Articulating Your Experience
 created: 2026-04-22
 last_updated: 2026-04-22
@@ -32,13 +32,13 @@ The weak version sounds like this: "I worked on a group project for a credit uni
 
 The strong version sounds like this: "I led the market research workstream for a regional credit union, translating three months of customer interview data into a strategic recommendations deck that informed the client's membership strategy heading into the next fiscal year."
 
-The difference between the two is three moves, and these are the same moves underneath every strong description of project experience:
+What separates them is three qualities that show up in every strong description of project experience:
 
 - **Specificity.** "The market research workstream for a regional credit union" instead of "a project." "Three months of customer interview data" instead of "some research." The specifics are what make the description read as real.
 - **Ownership.** "I led" instead of "we did." "I translated" instead of "we made." Naming your role signals that you know what your contribution was. Vague collective language ("we," "the team") in a professional context reads as not having owned a piece of the work.
 - **Outcome.** "A strategic recommendations deck that informed the client's membership strategy" instead of "we made recommendations." The description names what the work produced, not just what the work was.
 
-All three moves apply to any format of project work — research report, campaign brief, prototype, training module, mixed-format deliverable. The specific language changes with the format; the moves themselves do not.
+All three qualities apply to any format of project work — research report, campaign brief, prototype, training module, mixed-format deliverable. The specific language changes with the format; the qualities themselves do not.
 
 ### A quick before-and-after
 
@@ -54,11 +54,11 @@ The first version could describe a two-week effort by someone who skimmed the ma
 
 ## Articulating for different contexts
 
-The three moves (specificity, ownership, outcome) apply everywhere. What changes from context to context is the length and register.
+The three qualities (specificity, ownership, outcome) apply everywhere. What changes from context to context is the length and register.
 
 ### Resume bullets
 
-Short. Outcome-first when possible. One line each. Lead with the verb, name the scope, name the result. Two or three bullets per project is typical. A resume bullet is not a complete description; it is a hook that earns a longer conversation.
+A resume bullet is short, usually one line, and outcome-led when possible. The standard structure is to lead with an action verb, name the scope of the work, and close with the result. Two or three bullets per project is typical. A resume bullet is not a complete description; it is a hook that earns a longer conversation.
 
 A usable bullet tends to follow a shape like *action, scope, result*. For the credit union project: "Led market research workstream for a regional credit union (3-month engagement), synthesizing customer interview data into a strategic recommendations deck that informed the client's membership strategy."
 
@@ -70,7 +70,7 @@ If the outcome is not yet known (the employer has not published the decisions th
 
 ### Interview answers
 
-Longer than a resume bullet, shorter than a reflection. Usually structured around a specific moment, with enough detail that the interviewer can picture the work. The STAR structure (Situation, Task, Action, Result) is one common format for organizing an answer, though specifics matter more than the template.
+An interview answer is longer than a resume bullet but shorter than a reflection. It is usually structured around a specific moment, with enough detail that the interviewer can picture the work. The STAR structure (Situation, Task, Action, Result) is one common format for organizing an answer, though specifics matter more than the template.
 
 When you are asked "tell me about a project you worked on" or "describe a time you had to handle [X]," a strong answer has a specific shape: a minute or so of context (what the client needed, what your team was asked to do), a minute or so of action (what you did, not what the team did collectively), and a short outcome (what the work produced, and what you took away from it). The answer does not need to be dramatic. It needs to be specific.
 
@@ -82,7 +82,7 @@ The defend-your-work standard from the Final Presentation applies in interviews 
 
 ### LinkedIn and networking
 
-Somewhere in between resume and interview. Narrative enough to read as a real person's experience, specific enough to signal real skill. A strong LinkedIn project description tends to be two to four sentences — enough to name the client's sector, what you and the team produced, and what you took from the experience in a transferable form.
+A LinkedIn description sits somewhere between a resume bullet and an interview answer. It needs to be narrative enough to read as a real person's experience and specific enough to signal real skill. A strong LinkedIn project description tends to run two to four sentences — enough to name the client's sector, what you and the team produced, and what you took from the experience in a transferable form.
 
 One thing to check before you post or describe the project publicly: what your employer is comfortable with you naming. Most are fine with their sector being referenced ("a regional credit union," "a mid-sized nonprofit in the community housing space") but some prefer not to have their name used. When in doubt, describe the sector and the work rather than the specific client.
 
@@ -104,7 +104,7 @@ AI-assisted drafting is off-limits for reflections because the reflection is abo
 
 ### Prompt strategies that tend to work
 
-Three patterns that produce useful output. All of them rest on the principle you have been applying all semester: AI is a drafting partner, not a generator.
+Three prompt patterns tend to produce useful output. All three rest on the principle you have been applying all semester: AI is a drafting partner, not a generator.
 
 - **Sharpening a draft bullet.** "Here is a draft resume bullet describing a project I worked on. Strengthen it by making the scope, my role, and the outcome more concrete, without fabricating anything. Ask me questions if you need details to make the bullet stronger."
 - **Selecting which accomplishments to lead with.** "Here are three accomplishments from a recent project. I am applying for [role in sector X]. Which one should I lead with for this role, and why? What should I emphasize about each in the application?"
