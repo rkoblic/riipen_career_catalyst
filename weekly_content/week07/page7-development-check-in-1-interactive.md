@@ -6,7 +6,7 @@ type: interactive-source
 interactive_type: simulated-scenario
 estimated_time: 10 min
 created: 2026-05-11
-last_updated: 2026-05-11
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -14,17 +14,24 @@ status: draft
 
 ## Purpose
 
-This exercise practices the Listen → Clarify → Acknowledge → Decide later protocol from the Receiving feedback well page. It walks you through a Development Check-In where the employer flags something you didn't expect, and asks you to choose what to do at each step of the protocol. The point isn't to memorize a script. It's to make the moves feel less foreign when the actual meeting puts you on the spot.
+This exercise practices the Listen → Clarify → Acknowledge → Decide later protocol from the Receiving feedback well page. You'll sit through a simulated Development Check-In where the employer flags something you didn't expect, and you'll work through each step of the protocol — choosing the read of the room on some moves, and writing the actual words you'd say on others. The point isn't to memorize a script. It's to have already produced the moves once, so the version that comes out of your mouth in the real meeting isn't the first version your brain has ever made.
 
 ## Interaction model
 
-**Format: Narrative with decision points.**
+**Format: Two short Synthesia videos + hybrid question set.**
 
-Students read a simulated Development Check-In #1 in which the employer surfaces an unexpected piece of information about one of the team's draft recommendations. After reading the employer's response, students answer questions that walk through each step of the protocol — Listen, Clarify, Acknowledge, Decide later — and then a final question on translating the feedback into a concrete action item.
+Students watch a short Synthesia video of the employer (David Park, returning from Weeks 3 and 5) flagging an unexpected piece of history about one of the team's draft recommendations. They then move through the four steps of the reception protocol — Listen, Clarify, Acknowledge, Decide later — plus a final action-item question. A second video plays mid-flow, after the team's clarifying question, to deliver David's elaboration on what went wrong.
 
-Each question is multiple-choice with one best answer. After answering, students receive immediate feedback explaining why the correct answer is correct and why tempting alternatives are wrong.
+**Question format is a deliberate hybrid:**
 
-**Fallback format:** If the build tool doesn't support inline narrative with embedded questions, present the full scenario text first, then ask all questions sequentially with reference back to specific passages.
+- **Q1 and Q4** stay multiple-choice. These are pattern-recognition moves (do you interrupt; how do you handle a defensive teammate). The skill is reading the situation, not producing language.
+- **Q2, Q3, and Q5** are free-text-with-model. The student types their own clarifying question, acknowledgment, and action item — *then* clicks to reveal a model response and a self-check rubric. Multiple choice trains students to *recognize* a good response; in the meeting, they have to *produce* one. Typing first makes the production skill the thing being practiced, and self-comparison against a model is the calibration move they'll use again on every draft they get back from a teammate or employer.
+
+**Why video and not text for David's parts:** Same logic as the Week 5 interactive. The skill being practiced is hearing feedback land in real time — including the tone, the qualifiers, and the deliberate pauses. Text lets students re-read; video forces real-time processing, which is closer to the actual professional skill.
+
+**Full synthesia scripts** are in `page7-development-check-in-1-synthesia-script.md` (alongside this file).
+
+**Fallback format:** If video isn't available at build time, render David's lines as styled blockquotes (same content as the synthesia scripts) and proceed. The free-text vs. multiple-choice split stays the same.
 
 ## Context setup
 
@@ -36,21 +43,31 @@ You finished the walk-through. David has been listening and writing things down.
 
 ## Stimulus
 
-### David's response
+Two short Synthesia videos. Full scripts in `page7-development-check-in-1-synthesia-script.md`.
 
-David says: "Thank you, that's really helpful. A lot of this is tracking with where I thought you'd land. But I want to flag something on the peer navigator piece, because I'd rather you hear it from me than find it later.
+### Video — Part 1: The flag (~50 sec)
 
-We actually ran a version of this about two years ago. A peer navigator pilot. It didn't go the way we hoped, and we wound it down after about ten months. I'm not going to say more than that right now, because I'm curious what your team has been thinking, and I don't want to color your direction before I've heard it. But I do want you to factor it in before you commit to building this out as a headline recommendation."
+*Plays after the context card, before Q1.*
 
-### What just happened
+David opens with appreciation — "a lot of this is tracking with where I thought you'd land" — then flags that Bridgeway tried a peer navigator program about two years ago and wound it down after ten months. He deliberately holds back the details, saying he wants to hear the team's thinking first, but tells them to factor it in before committing to this as a headline recommendation.
 
-The peer navigator program is the team's strongest recommendation. It's the one you've spent the most time on. None of your secondary research mentioned that Bridgeway had tried this before, and the educators you spoke with at the Direction Check follow-up didn't bring it up either. David is now telling you it exists, and that it didn't work, and is deliberately holding back the details.
+### Video — Part 2: The history (~35 sec)
+
+*Plays after Q2 (Clarify), before Q3 (Acknowledge).*
+
+After the team's clarifying question, David elaborates: the previous pilot had problems with how the navigators were recruited and trained, and Bridgeway lost trust with two partner clinics over it. He closes with: "I think the model can work. But you need to know that history is there."
+
+The interactive frames the transition as "Your team asks a clarifying question. David takes a beat, then responds." Part 2 plays regardless of what the student typed for Q2.
+
+### What just happened (text card after Part 1, before Q1)
+
+> The peer navigator program is the team's strongest recommendation. It's the one you've spent the most time on. None of your secondary research mentioned that Bridgeway had tried this before, and the educators you spoke with at the Direction Check follow-up didn't bring it up either. David is now telling you it exists, that it didn't work, and he's deliberately holding back the details.
 
 ## Questions
 
 ### Question 1
 
-**Question text:** While David is still talking, you feel the urge to interrupt and explain why your team's version is different. What's the best move?
+**Question text:** While David was talking, you felt the urge to interrupt and explain why your team's version is different. What was the best move?
 
 **Type:** multiple-choice
 
@@ -73,47 +90,57 @@ The peer navigator program is the team's strongest recommendation. It's the one 
 
 ### Question 2
 
-**Question text:** David has finished talking. You want to ask a clarifying question before responding. Which question is the most useful first move?
+**Question text:** David has finished talking. Your team wants to ask a clarifying question before responding. Write the clarifying question you would ask, in your own words.
 
-**Type:** multiple-choice
+**Type:** free-text-with-model
 
-**Options:**
-- A) "Are you saying we shouldn't recommend a peer navigator program at all?"
-- B) "Can you say more about what happened with the earlier pilot, or what specifically didn't work?"
-- C) "Did you mention the earlier pilot at the kickoff? I don't have it in my notes."
-- D) "Would you like us to drop the recommendation and propose something else?"
+**Model response:** "Can you say more about what happened with the earlier pilot — what specifically didn't work?"
 
-**Correct answer:** B
+**Self-check rubric (shown after reveal):**
 
-**Feedback if correct:** Good. David has held back the detail deliberately, but he's not refusing to share it — he's asking your team to factor it in. A clear, specific request for the information you need ("what specifically didn't work") gets you the detail you'd otherwise have to guess at, and it shows you're taking the feedback seriously. The Clarify step is about making vague feedback specific. This question does that.
+A strong clarifying question here:
 
-**Feedback if incorrect:**
-- A) This is a closed question framed as a clarification but functioning as a defense — you're asking David to either escalate ("yes, drop it") or back down ("no, keep it"). Either way, you've narrowed the conversation before you've understood the substance. Open the question instead.
-- C) Litigating whether David mentioned this earlier puts the conversation in the wrong place. Even if it's true that this is new information, leading with that signals you're more concerned with whose fault the gap is than with what you need to do about it. The information matters more than the chain of custody.
-- D) Volunteering to drop the recommendation before you've heard the details is the overcorrection move. David said "factor it in," not "scrap it." Offering to scrap commits you to something he didn't ask for, and it skips the part where you understand the issue.
+- Is **open**, not yes/no — leaves room for David to share what he held back.
+- Asks for the **specific information** you'd otherwise have to guess at (what went wrong, not whether to keep the recommendation).
+- Doesn't **litigate** whose fault the information gap is (e.g., "did you mention this at the kickoff?").
+- Doesn't **pre-commit** to a course of action (e.g., "do you want us to drop it?").
+
+**Why this works:** David has held back the detail deliberately, but he's not refusing to share it — he's asking your team to factor it in. A clear, specific request for the information you need gets you the detail you'd otherwise have to guess at, and it shows you're taking the feedback seriously. The Clarify step is about making vague feedback specific.
+
+**Tempting moves to check yourself against:**
+
+- *"Are you saying we shouldn't recommend a peer navigator program at all?"* — Closed question framed as a clarification but functioning as a defense. Asks David to either escalate ("yes, drop it") or back down ("no, keep it"). Narrows the conversation before you've understood the substance.
+- *"Did you mention the earlier pilot at the kickoff? I don't have it in my notes."* — Litigating whose fault the information gap is puts the conversation in the wrong place. The information matters more than the chain of custody.
+- *"Would you like us to drop the recommendation and propose something else?"* — Volunteering to drop before you've heard the details is the overcorrection move. David said "factor it in," not "scrap it."
 
 ---
 
 ### Question 3
 
-**Question text:** David gives you more detail. The previous pilot ran into problems with how the navigators were recruited and trained, and Bridgeway lost trust with two of the partner clinics over it. He says, "I think the model can work, but you need to know that history is there." How do you acknowledge what he just said?
+*Video Part 2 plays before this question — David elaborates on what went wrong with the earlier pilot (recruitment, training, trust with two partner clinics), and closes with "I think the model can work. But you need to know that history is there."*
 
-**Type:** multiple-choice
+**Question text:** How do you acknowledge what David just said? Write your response in your own words.
 
-**Options:**
-- A) "OK, so we'll restructure the recommendation to address the recruitment and training issues you raised."
-- B) "Got it. So the model itself isn't the problem, but the implementation history is something we need to reckon with — especially the partner clinic relationships."
-- C) "That makes sense. I think we can probably work around those issues with a better training approach."
-- D) "Understood. We'll think about whether to keep this in the recommendations."
+**Type:** free-text-with-model
 
-**Correct answer:** B
+**Model response:** "Got it. So the model itself isn't the problem — the implementation history is what we need to reckon with, especially the partner clinic relationships."
 
-**Feedback if correct:** Exactly. Acknowledging means naming what you heard so David can confirm or correct, without committing to a course of action. Your response captures the specific distinction he drew (the model vs. the implementation history) and surfaces the most important detail (the partner clinic relationships) so he knows you heard it. It also doesn't promise anything yet. The team can decide later, with the rest of the information in front of you.
+**Self-check rubric (shown after reveal):**
 
-**Feedback if incorrect:**
-- A) Committing to "restructure the recommendation" jumps past the Decide-later step. You don't yet know whether your team will keep this as a headline recommendation, scale it back, or redesign it from scratch. Promising a specific fix in the meeting locks in a direction you haven't actually decided on as a team.
-- C) Saying you can "probably work around those issues with a better training approach" reads as dismissive of the trust problem David named. He flagged a relationship issue with two partner clinics; you responded with a training tweak. Acknowledging is about confirming the message landed, not minimizing it.
-- D) "We'll think about whether to keep this" doesn't acknowledge what he actually said. It treats the whole conversation as one binary decision (keep or drop) and skips past the substance of the history he just shared.
+A strong acknowledgment here:
+
+- Names the **specific distinction** David drew (the model vs. the implementation history).
+- Surfaces the **most charged detail** (the partner clinic trust), so David knows you heard it.
+- Doesn't **commit to a course of action** ("we'll restructure...", "we can fix it with..."). The team hasn't decided anything yet.
+- Leaves room for David to **confirm or correct** what you heard.
+
+**Why this works:** Acknowledging means naming what you heard so David can confirm or correct, *without* committing to a path forward. The model captures the specific distinction he drew and surfaces the partner clinic detail — and it doesn't promise anything yet. The team can decide later, with the rest of the information in front of them.
+
+**Tempting moves to check yourself against:**
+
+- *"OK, so we'll restructure the recommendation to address the recruitment and training issues you raised."* — Committing to a specific fix in the moment jumps past the Decide-later step. You don't yet know whether your team will keep this as a headline recommendation, scale it back, or redesign it. Promising a fix locks in a direction you haven't decided.
+- *"That makes sense. I think we can probably work around those issues with a better training approach."* — Reads as dismissive of the trust problem David named. He flagged a relationship issue with two partner clinics; responding with a training tweak minimizes it. Acknowledging is about confirming the message landed, not proposing solutions yet.
+- *"Understood. We'll think about whether to keep this in the recommendations."* — Reduces the whole conversation to a binary (keep or drop) and skips past the substance of the history he just shared.
 
 ---
 
@@ -142,24 +169,29 @@ The peer navigator program is the team's strongest recommendation. It's the one 
 
 ### Question 5
 
-**Question text:** After the meeting, your team is debriefing. You agree the recommendation needs more thought before next week. What's the most useful action item to capture in your team's working list?
+**Question text:** After the meeting, your team is debriefing. You agree the peer navigator recommendation needs more thought before next week. Write the action item you would add to the team's working list.
 
-**Type:** multiple-choice
+**Type:** free-text-with-model
 
-**Options:**
-- A) "Decide what to do about the peer navigator recommendation."
-- B) "Revisit the peer navigator section before next Friday — Alex to summarize the specific issues David raised (recruitment, training, partner clinic trust) and propose two options for the team to choose between: scale back to a lighter-touch version, or redesign with the implementation issues addressed."
-- C) "Cut the peer navigator recommendation from the draft."
-- D) "Wait until Development Check-In #2 to ask David more questions about the earlier pilot."
+**Model response:** "Revisit the peer navigator section before next Friday — Alex to summarize the specific issues David raised (recruitment, training, partner clinic trust) and propose two options for the team to choose between: scale back to a lighter-touch version, or redesign with the implementation issues addressed."
 
-**Correct answer:** B
+**Self-check rubric (shown after reveal):**
 
-**Feedback if correct:** Right. A useful action item names the work, names the owner, names the deadline, and is specific enough that someone could pick it up next week and know what to do. It also leaves the team's strategic decision (scale back vs. redesign) for after the work is done, instead of pre-committing in the moment. This is what "translate feedback into a concrete action" actually looks like: a single line in your working list that someone can act on.
+A useful action item:
 
-**Feedback if incorrect:**
-- A) "Decide what to do" names a decision without naming the work that needs to happen for the decision to be possible. Action items at this level produce general impressions, not action.
-- C) Cutting the recommendation outright skips the Decide-later step. David didn't ask you to cut it — he asked you to factor the history in. The team needs to do that work before deciding what changes.
-- D) Waiting until the next check-in is a way to delay engaging with the feedback. David already gave you what you need to start. Treating it as a question for him to answer means the team isn't doing its own thinking.
+- Names the **work to do**, not just "decide" (you can't decide without doing the work first).
+- Names the **owner** — someone is on the hook.
+- Names the **deadline** — when it needs to be ready.
+- Is **specific enough** that someone could pick it up next week and know what to do without re-asking the team.
+- Leaves the **strategic choice** (scale back vs. redesign) for *after* the work is done, instead of pre-committing in the moment.
+
+**Why this works:** A useful action item names the work, the owner, the deadline, and is specific enough that someone could pick it up next week and know what to do. It also leaves the team's strategic decision for after the work is done, instead of pre-committing in the moment. This is what "translate feedback into a concrete action" actually looks like: a single line in your working list that someone can act on.
+
+**Tempting moves to check yourself against:**
+
+- *"Decide what to do about the peer navigator recommendation."* — Names a decision without naming the work that needs to happen for the decision to be possible. Action items at this level produce general impressions, not action.
+- *"Cut the peer navigator recommendation from the draft."* — Skips the Decide-later step. David didn't ask you to cut it — he asked you to factor the history in. The team needs to do that work before deciding what changes.
+- *"Wait until Development Check-In #2 to ask David more questions about the earlier pilot."* — A way to delay engaging with the feedback. David already gave you what you need to start. Treating it as a question for him to answer means the team isn't doing its own thinking.
 
 ## Debrief
 

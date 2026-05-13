@@ -8,6 +8,7 @@
 <style>
   :root {
     --orange: #ff7c0a;
+    --orange-soft: #fff8f1;
     --dark-blue: #050c2a;
     --electric-blue: #2454ff;
     --green: #18733e;
@@ -19,6 +20,8 @@
     --correct-border: #b8e6cc;
     --incorrect-bg: #fff3f3;
     --incorrect-border: #ffc9c9;
+    --model-bg: #f3f7ff;
+    --model-border: #c9d7ff;
     --white: #ffffff;
   }
 
@@ -118,9 +121,40 @@
     border-radius: 2px;
   }
 
-  /* ── Stimulus Card ── */
+  /* ── Video Player ── */
 
-  .stimulus-card {
+  .video-wrapper {
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 16px;
+  }
+
+  .meeting-video {
+    width: 100%;
+    border-radius: 6px;
+    display: block;
+    background: #000;
+  }
+
+  .notes-prompt {
+    font-size: 14px;
+    color: var(--dark-blue);
+    margin-bottom: 24px;
+    padding: 12px 16px;
+    background: var(--orange-soft);
+    border-left: 3px solid var(--orange);
+    border-radius: 0 6px 6px 0;
+  }
+
+  .notes-prompt strong {
+    font-weight: 700;
+  }
+
+  /* ── Pivot Card (what just happened, part 2 intro) ── */
+
+  .pivot-card {
     background: var(--white);
     border: 1px solid var(--border);
     border-left: 4px solid var(--purple);
@@ -131,7 +165,7 @@
     line-height: 1.7;
   }
 
-  .stimulus-card .stimulus-label {
+  .pivot-card .pivot-label {
     font-size: 11px;
     text-transform: uppercase;
     letter-spacing: 1.5px;
@@ -140,22 +174,8 @@
     margin-bottom: 12px;
   }
 
-  .stimulus-card p + p {
+  .pivot-card p + p {
     margin-top: 12px;
-  }
-
-  .stimulus-section-label {
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    color: var(--purple);
-    font-weight: 700;
-    margin-top: 18px;
-    margin-bottom: 6px;
-  }
-
-  .stimulus-section-label:first-child {
-    margin-top: 0;
   }
 
   /* ── Question Prompt ── */
@@ -167,7 +187,7 @@
     line-height: 1.5;
   }
 
-  /* ── Answer Options ── */
+  /* ── Multiple-choice options ── */
 
   .options-group {
     list-style: none;
@@ -218,7 +238,262 @@
     margin-right: 6px;
   }
 
-  /* ── Submit Button ── */
+  /* ── Free-text component ── */
+
+  .freetext-area {
+    width: 100%;
+    min-height: 110px;
+    background: var(--white);
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--dark-blue);
+    resize: vertical;
+    margin-bottom: 12px;
+  }
+
+  .freetext-area:focus {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+    border-color: var(--electric-blue);
+  }
+
+  .freetext-area.locked {
+    background: var(--grey-bg);
+    color: var(--dark-blue);
+  }
+
+  .freetext-hint {
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 12px;
+    line-height: 1.5;
+  }
+
+  .btn-reveal {
+    background: var(--white);
+    color: var(--dark-blue);
+    border: 1.5px solid var(--orange);
+    margin-bottom: 16px;
+  }
+
+  .btn-reveal:hover:not(:disabled) {
+    background: var(--orange-soft);
+  }
+
+  /* Model + rubric card */
+
+  .model-card {
+    background: var(--model-bg);
+    border: 1px solid var(--model-border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    display: none;
+  }
+
+  .model-card.visible {
+    display: block;
+  }
+
+  .model-label {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--electric-blue);
+    margin-bottom: 6px;
+  }
+
+  .model-response {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.6;
+    margin-bottom: 18px;
+    font-style: italic;
+  }
+
+  .rubric {
+    border-top: 1px solid var(--model-border);
+    padding-top: 16px;
+  }
+
+  .rubric-lead {
+    font-size: 13.5px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .rubric-instruction {
+    font-size: 12.5px;
+    color: var(--muted);
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+
+  .rubric-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .rubric-list li {
+    margin-bottom: 4px;
+  }
+
+  .rubric-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    cursor: pointer;
+    padding: 6px 8px;
+    border-radius: 6px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    user-select: none;
+    transition: background 0.15s;
+  }
+
+  .rubric-item:hover {
+    background: rgba(36, 84, 255, 0.06);
+  }
+
+  .rubric-checkbox {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+    margin: 0;
+    pointer-events: none;
+  }
+
+  .rubric-box {
+    flex-shrink: 0;
+    width: 18px;
+    height: 18px;
+    border: 1.5px solid var(--electric-blue);
+    border-radius: 4px;
+    background: var(--white);
+    margin-top: 2px;
+    position: relative;
+    transition: background 0.15s, border-color 0.15s;
+  }
+
+  .rubric-checkbox:checked ~ .rubric-box {
+    background: var(--electric-blue);
+    border-color: var(--electric-blue);
+  }
+
+  .rubric-checkbox:checked ~ .rubric-box::after {
+    content: '';
+    position: absolute;
+    left: 5px;
+    top: 1px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  }
+
+  .rubric-checkbox:focus-visible ~ .rubric-box {
+    outline: 2px solid var(--orange);
+    outline-offset: 2px;
+  }
+
+  .rubric-text {
+    flex: 1;
+  }
+
+  .rubric-text strong {
+    font-weight: 700;
+  }
+
+  .why-it-works {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid var(--model-border);
+    font-size: 13.5px;
+    line-height: 1.65;
+    color: var(--dark-blue);
+  }
+
+  .why-it-works .label {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: var(--electric-blue);
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  /* Tempting moves disclosure */
+
+  .tempting-toggle {
+    display: block;
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-top: 1px solid var(--model-border);
+    padding: 12px 0 0;
+    margin-top: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--dark-blue);
+    cursor: pointer;
+    text-align: left;
+  }
+
+  .tempting-toggle:focus-visible {
+    outline: 2px solid var(--electric-blue);
+    outline-offset: 2px;
+  }
+
+  .tempting-toggle::after {
+    content: ' \25B8';
+    color: var(--muted);
+  }
+
+  .tempting-toggle.expanded::after {
+    content: ' \25BE';
+  }
+
+  .tempting-list {
+    display: none;
+    margin-top: 10px;
+  }
+
+  .tempting-list.visible {
+    display: block;
+  }
+
+  .tempting-item {
+    border-left: 3px solid var(--incorrect-border);
+    padding: 8px 14px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    line-height: 1.6;
+    background: var(--white);
+    border-radius: 0 6px 6px 0;
+  }
+
+  .tempting-item .move {
+    font-style: italic;
+    color: var(--dark-blue);
+    margin-bottom: 4px;
+  }
+
+  .tempting-item .why {
+    color: var(--muted);
+  }
+
+  /* ── Buttons ── */
 
   .btn {
     font-family: 'DM Sans', sans-serif;
@@ -260,7 +535,7 @@
     opacity: 0.9;
   }
 
-  /* ── Feedback Panel ── */
+  /* ── Feedback Panel (MC) ── */
 
   .feedback-panel {
     border-radius: 8px;
@@ -315,7 +590,7 @@
     display: block;
   }
 
-  .score-card {
+  .completion-card {
     background: var(--dark-blue);
     color: var(--white);
     border-radius: 10px;
@@ -324,32 +599,60 @@
     margin-bottom: 24px;
   }
 
-  .score-number {
-    font-size: 36px;
+  .completion-check {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--orange);
+    color: var(--dark-blue);
+    font-size: 24px;
     font-weight: 700;
-    margin-bottom: 4px;
+    line-height: 48px;
+    margin: 0 auto 12px;
   }
 
-  .score-label {
-    font-size: 14px;
+  .completion-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 18px;
+  }
+
+  .completion-card .score-number {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 4px;
+    color: var(--orange);
+  }
+
+  .completion-card .score-label {
+    font-size: 13px;
     color: rgba(255, 255, 255, 0.7);
     margin-bottom: 16px;
   }
 
-  .score-bar-container {
+  .completion-card .score-bar-container {
     background: rgba(255, 255, 255, 0.15);
     height: 8px;
     border-radius: 4px;
     overflow: hidden;
     max-width: 300px;
-    margin: 0 auto;
+    margin: 0 auto 18px;
   }
 
-  .score-bar-fill {
+  .completion-card .score-bar-fill {
     height: 100%;
     border-radius: 4px;
-    background: var(--green);
+    background: var(--orange);
     transition: width 0.5s ease;
+  }
+
+  .completion-sub {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1.6;
+    max-width: 480px;
+    margin: 0 auto;
   }
 
   /* Debrief */
@@ -477,6 +780,104 @@
     color: #dc2626;
   }
 
+  .review-badge-written {
+    background: var(--model-bg);
+    color: var(--electric-blue);
+  }
+
+  .review-typed {
+    background: var(--grey-bg);
+    border-radius: 6px;
+    padding: 10px 14px;
+    font-size: 13px;
+    line-height: 1.6;
+    margin: 6px 0 10px;
+    white-space: pre-wrap;
+    font-style: italic;
+    color: var(--dark-blue);
+  }
+
+  .review-typed.empty {
+    color: var(--muted);
+    font-style: normal;
+  }
+
+  .review-model {
+    background: var(--model-bg);
+    border-left: 3px solid var(--electric-blue);
+    border-radius: 0 6px 6px 0;
+    padding: 10px 14px;
+    font-size: 13px;
+    line-height: 1.6;
+    margin: 6px 0 10px;
+    font-style: italic;
+    color: var(--dark-blue);
+  }
+
+  .review-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+
+  .review-rubric {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px;
+  }
+
+  .review-rubric li {
+    position: relative;
+    padding-left: 24px;
+    margin-bottom: 6px;
+    font-size: 13px;
+    line-height: 1.55;
+  }
+
+  .review-rubric li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 4px;
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    border: 1.5px solid var(--border);
+    background: var(--white);
+  }
+
+  .review-rubric li.ticked {
+    color: var(--dark-blue);
+  }
+
+  .review-rubric li.ticked::before {
+    background: var(--green);
+    border-color: var(--green);
+  }
+
+  .review-rubric li.ticked::after {
+    content: '';
+    position: absolute;
+    left: 4px;
+    top: 6px;
+    width: 4px;
+    height: 8px;
+    border: solid white;
+    border-width: 0 1.5px 1.5px 0;
+    transform: rotate(45deg);
+  }
+
+  .review-rubric li.unticked {
+    color: var(--muted);
+  }
+
+  .review-rubric li strong {
+    font-weight: 700;
+  }
+
   /* Close note */
 
   .close-note {
@@ -499,6 +900,10 @@
     }
     .option-btn {
       padding: 12px 14px;
+    }
+    .model-card,
+    .review-item {
+      padding: 16px 18px;
     }
   }
 </style>
@@ -535,19 +940,16 @@ const interactiveData = {
 You walked David through three things at the top of the meeting: the draft structure, your strongest finding from the research, and your headline recommendation — a peer health navigator program that would pair workshop participants with trained members of their own community for follow-up support.
 
 You finished the walk-through. David has been listening and writing things down. Now it's his turn.`,
-  stimulus: `**David's response**
-
-David says: "Thank you, that's really helpful. A lot of this is tracking with where I thought you'd land. But I want to flag something on the peer navigator piece, because I'd rather you hear it from me than find it later.
-
-We actually ran a version of this about two years ago. A peer navigator pilot. It didn't go the way we hoped, and we wound it down after about ten months. I'm not going to say more than that right now, because I'm curious what your team has been thinking, and I don't want to color your direction before I've heard it. But I do want you to factor it in before you commit to building this out as a headline recommendation."
-
-**What just happened**
-
-The peer navigator program is the team's strongest recommendation. It's the one you've spent the most time on. None of your secondary research mentioned that Bridgeway had tried this before, and the educators you spoke with at the Direction Check follow-up didn't bring it up either. David is now telling you it exists, and that it didn't work, and is deliberately holding back the details.`,
+  videoSrc1: "https://riipen-product.s3.ca-central-1.amazonaws.com/career-catalyst/Development+Check-in+with+David+Park+-+Part+1.mp4",
+  videoSrc2: "https://riipen-product.s3.ca-central-1.amazonaws.com/career-catalyst/Development+Check-in+with+David+Park+-+Part+2.mp4",
+  notesPrompt: "Have a notebook open before you press play. You'll work through the moves of the reception protocol — Listen, Clarify, Acknowledge, Decide later — and on three of them, you'll write the actual words you'd say.",
+  whatJustHappened: `The peer navigator program is the team's strongest recommendation. It's the one you've spent the most time on. None of your secondary research mentioned that Bridgeway had tried this before, and the educators you spoke with at the Direction Check follow-up didn't bring it up either. David is now telling you it exists, that it didn't work, and he's deliberately holding back the details.`,
+  part2Intro: `Your team asks a clarifying question. David takes a beat, then responds.`,
   questions: [
     {
       id: 1,
-      prompt: "While David is still talking, you feel the urge to interrupt and explain why your team's version is different. What's the best move?",
+      type: 'multiple-choice',
+      prompt: "While David was talking, you felt the urge to interrupt and explain why your team's version is different. What was the best move?",
       options: [
         { label: "A", text: "Interrupt now to clarify that your team's design is based on more recent research and might avoid the issues he ran into." },
         { label: "B", text: "Hold off, let David finish, and listen for whether he names anything specific about what went wrong." },
@@ -566,44 +968,66 @@ The peer navigator program is the team's strongest recommendation. It's the one 
     },
     {
       id: 2,
-      prompt: "David has finished talking. You want to ask a clarifying question before responding. Which question is the most useful first move?",
-      options: [
-        { label: "A", text: `"Are you saying we shouldn't recommend a peer navigator program at all?"` },
-        { label: "B", text: `"Can you say more about what happened with the earlier pilot, or what specifically didn't work?"` },
-        { label: "C", text: `"Did you mention the earlier pilot at the kickoff? I don't have it in my notes."` },
-        { label: "D", text: `"Would you like us to drop the recommendation and propose something else?"` }
+      type: 'free-text',
+      prompt: "David has finished talking. Your team wants to ask a clarifying question before responding. Write the clarifying question you would ask, in your own words.",
+      placeholder: "Type the clarifying question you'd ask David…",
+      modelResponse: `"Can you say more about what happened with the earlier pilot — what specifically didn't work?"`,
+      rubricLead: "A strong clarifying question here:",
+      rubric: [
+        "Is **open**, not yes/no — leaves room for David to share what he held back.",
+        "Asks for the **specific information** you'd otherwise have to guess at (what went wrong, not whether to keep the recommendation).",
+        "Doesn't **litigate** whose fault the information gap is.",
+        "Doesn't **pre-commit** to a course of action (e.g., \"do you want us to drop it?\")."
       ],
-      correctAnswer: "B",
-      feedback: {
-        correct: `Good. David has held back the detail deliberately, but he's not refusing to share it — he's asking your team to factor it in. A clear, specific request for the information you need ("what specifically didn't work") gets you the detail you'd otherwise have to guess at, and it shows you're taking the feedback seriously. The Clarify step is about making vague feedback specific. This question does that.`,
-        incorrect: {
-          "A": `This is a closed question framed as a clarification but functioning as a defense — you're asking David to either escalate ("yes, drop it") or back down ("no, keep it"). Either way, you've narrowed the conversation before you've understood the substance. Open the question instead.`,
-          "C": "Litigating whether David mentioned this earlier puts the conversation in the wrong place. Even if it's true that this is new information, leading with that signals you're more concerned with whose fault the gap is than with what you need to do about it. The information matters more than the chain of custody.",
-          "D": `Volunteering to drop the recommendation before you've heard the details is the overcorrection move. David said "factor it in," not "scrap it." Offering to scrap commits you to something he didn't ask for, and it skips the part where you understand the issue.`
+      whyItWorks: `David has held back the detail deliberately, but he's not refusing to share it — he's asking your team to factor it in. A clear, specific request for the information you need gets you the detail you'd otherwise have to guess at, and it shows you're taking the feedback seriously. The Clarify step is about making vague feedback specific.`,
+      temptingMoves: [
+        {
+          move: `"Are you saying we shouldn't recommend a peer navigator program at all?"`,
+          why: `Closed question framed as a clarification but functioning as a defense. Asks David to either escalate ("yes, drop it") or back down ("no, keep it"). Open the question instead.`
+        },
+        {
+          move: `"Did you mention the earlier pilot at the kickoff? I don't have it in my notes."`,
+          why: `Litigating whose fault the information gap is puts the conversation in the wrong place. The information matters more than the chain of custody.`
+        },
+        {
+          move: `"Would you like us to drop the recommendation and propose something else?"`,
+          why: `Volunteering to drop before you've heard the details is the overcorrection move. David said "factor it in," not "scrap it."`
         }
-      }
+      ]
     },
     {
       id: 3,
-      prompt: `David gives you more detail. The previous pilot ran into problems with how the navigators were recruited and trained, and Bridgeway lost trust with two of the partner clinics over it. He says, "I think the model can work, but you need to know that history is there." How do you acknowledge what he just said?`,
-      options: [
-        { label: "A", text: `"OK, so we'll restructure the recommendation to address the recruitment and training issues you raised."` },
-        { label: "B", text: `"Got it. So the model itself isn't the problem, but the implementation history is something we need to reckon with — especially the partner clinic relationships."` },
-        { label: "C", text: `"That makes sense. I think we can probably work around those issues with a better training approach."` },
-        { label: "D", text: `"Understood. We'll think about whether to keep this in the recommendations."` }
+      type: 'free-text',
+      precedingVideoStep: true,
+      prompt: "How do you acknowledge what David just said? Write your response in your own words.",
+      placeholder: "Type what you'd say next to David…",
+      modelResponse: `"Got it. So the model itself isn't the problem — the implementation history is what we need to reckon with, especially the partner clinic relationships."`,
+      rubricLead: "A strong acknowledgment here:",
+      rubric: [
+        "Names the **specific distinction** David drew (the model vs. the implementation history).",
+        "Surfaces the **most charged detail** (the partner clinic trust), so David knows you heard it.",
+        "Doesn't **commit to a course of action** — the team hasn't decided anything yet.",
+        "Leaves room for David to **confirm or correct** what you heard."
       ],
-      correctAnswer: "B",
-      feedback: {
-        correct: "Exactly. Acknowledging means naming what you heard so David can confirm or correct, without committing to a course of action. Your response captures the specific distinction he drew (the model vs. the implementation history) and surfaces the most important detail (the partner clinic relationships) so he knows you heard it. It also doesn't promise anything yet. The team can decide later, with the rest of the information in front of you.",
-        incorrect: {
-          "A": `Committing to "restructure the recommendation" jumps past the Decide-later step. You don't yet know whether your team will keep this as a headline recommendation, scale it back, or redesign it from scratch. Promising a specific fix in the meeting locks in a direction you haven't actually decided on as a team.`,
-          "C": `Saying you can "probably work around those issues with a better training approach" reads as dismissive of the trust problem David named. He flagged a relationship issue with two partner clinics; you responded with a training tweak. Acknowledging is about confirming the message landed, not minimizing it.`,
-          "D": `"We'll think about whether to keep this" doesn't acknowledge what he actually said. It treats the whole conversation as one binary decision (keep or drop) and skips past the substance of the history he just shared.`
+      whyItWorks: `Acknowledging means naming what you heard so David can confirm or correct, without committing to a path forward. The model captures the specific distinction he drew and surfaces the partner clinic detail — and it doesn't promise anything yet. The team can decide later, with the rest of the information in front of them.`,
+      temptingMoves: [
+        {
+          move: `"OK, so we'll restructure the recommendation to address the recruitment and training issues you raised."`,
+          why: `Committing to a specific fix in the moment jumps past the Decide-later step. You don't yet know whether your team will keep this as a headline recommendation, scale it back, or redesign it. Promising a fix locks in a direction you haven't decided.`
+        },
+        {
+          move: `"That makes sense. I think we can probably work around those issues with a better training approach."`,
+          why: `Reads as dismissive of the trust problem David named. He flagged a relationship issue with two partner clinics; responding with a training tweak minimizes it. Acknowledging is about confirming the message landed, not proposing solutions yet.`
+        },
+        {
+          move: `"Understood. We'll think about whether to keep this in the recommendations."`,
+          why: `Reduces the whole conversation to a binary (keep or drop) and skips past the substance of the history he just shared.`
         }
-      }
+      ]
     },
     {
       id: 4,
+      type: 'multiple-choice',
       prompt: `A teammate jumps in: "Just to give you our reasoning — we picked peer navigators because the research strongly supports them for behavior change in similar populations." David nods politely but doesn't say much. What's the right move from you?`,
       options: [
         { label: "A", text: "Reinforce your teammate's point with more research citations to strengthen the case for keeping the recommendation." },
@@ -623,22 +1047,33 @@ The peer navigator program is the team's strongest recommendation. It's the one 
     },
     {
       id: 5,
-      prompt: "After the meeting, your team is debriefing. You agree the recommendation needs more thought before next week. What's the most useful action item to capture in your team's working list?",
-      options: [
-        { label: "A", text: `"Decide what to do about the peer navigator recommendation."` },
-        { label: "B", text: `"Revisit the peer navigator section before next Friday — Alex to summarize the specific issues David raised (recruitment, training, partner clinic trust) and propose two options for the team to choose between: scale back to a lighter-touch version, or redesign with the implementation issues addressed."` },
-        { label: "C", text: `"Cut the peer navigator recommendation from the draft."` },
-        { label: "D", text: `"Wait until Development Check-In #2 to ask David more questions about the earlier pilot."` }
+      type: 'free-text',
+      prompt: "After the meeting, your team is debriefing. You agree the peer navigator recommendation needs more thought before next week. Write the action item you would add to the team's working list.",
+      placeholder: "Type the action item as you'd add it to your team's list…",
+      modelResponse: `"Revisit the peer navigator section before next Friday — Alex to summarize the specific issues David raised (recruitment, training, partner clinic trust) and propose two options for the team to choose between: scale back to a lighter-touch version, or redesign with the implementation issues addressed."`,
+      rubricLead: "A useful action item:",
+      rubric: [
+        "Names the **work to do**, not just \"decide\".",
+        "Names the **owner** — someone is on the hook.",
+        "Names the **deadline**.",
+        "Is **specific enough** that someone could pick it up next week and know what to do.",
+        "Leaves the **strategic choice** (scale back vs. redesign) for *after* the work is done, not pre-committed in the moment."
       ],
-      correctAnswer: "B",
-      feedback: {
-        correct: `Right. A useful action item names the work, names the owner, names the deadline, and is specific enough that someone could pick it up next week and know what to do. It also leaves the team's strategic decision (scale back vs. redesign) for after the work is done, instead of pre-committing in the moment. This is what "translate feedback into a concrete action" actually looks like: a single line in your working list that someone can act on.`,
-        incorrect: {
-          "A": `"Decide what to do" names a decision without naming the work that needs to happen for the decision to be possible. Action items at this level produce general impressions, not action.`,
-          "C": `Cutting the recommendation outright skips the Decide-later step. David didn't ask you to cut it — he asked you to factor the history in. The team needs to do that work before deciding what changes.`,
-          "D": "Waiting until the next check-in is a way to delay engaging with the feedback. David already gave you what you need to start. Treating it as a question for him to answer means the team isn't doing its own thinking."
+      whyItWorks: `A useful action item names the work, the owner, the deadline, and is specific enough that someone could pick it up next week and know what to do. It also leaves the team's strategic decision for after the work is done, instead of pre-committing in the moment. This is what "translate feedback into a concrete action" actually looks like: a single line in your working list that someone can act on.`,
+      temptingMoves: [
+        {
+          move: `"Decide what to do about the peer navigator recommendation."`,
+          why: `Names a decision without naming the work that needs to happen for the decision to be possible. Action items at this level produce general impressions, not action.`
+        },
+        {
+          move: `"Cut the peer navigator recommendation from the draft."`,
+          why: `Skips the Decide-later step. David didn't ask you to cut it — he asked you to factor the history in. The team needs to do that work before deciding what changes.`
+        },
+        {
+          move: `"Wait until Development Check-In #2 to ask David more questions."`,
+          why: `A way to delay engaging with the feedback. David already gave you what you need to start.`
         }
-      }
+      ]
     }
   ],
   debrief: `That scenario walked through the four steps of the reception protocol — Listen, Clarify, Acknowledge, Decide later — plus the translation into a concrete action item.
@@ -677,16 +1112,30 @@ function renderContext() {
   html += formatParagraphs(interactiveData.context);
   html += '</div>';
 
-  if (interactiveData.stimulus) {
-    html += '<div class="stimulus-card">';
-    html += '<div class="stimulus-label">The meeting</div>';
-    html += formatStimulus(interactiveData.stimulus);
-    html += '</div>';
+  html += renderVideo(interactiveData.videoSrc1);
+
+  if (interactiveData.notesPrompt) {
+    html += '<div class="notes-prompt">' + escapeHtml(interactiveData.notesPrompt) + '</div>';
   }
 
-  html += '<button class="btn btn-submit" onclick="startQuestions()" aria-label="Begin the exercise">Begin</button>';
+  html += '<button class="btn btn-submit" onclick="renderPivot()" aria-label="Continue">Continue</button>';
 
   area.innerHTML = html;
+}
+
+function renderPivot() {
+  const area = document.getElementById('questionArea');
+  let html = '';
+
+  html += '<div class="pivot-card">';
+  html += '<div class="pivot-label">What just happened</div>';
+  html += formatParagraphs(interactiveData.whatJustHappened);
+  html += '</div>';
+
+  html += '<button class="btn btn-submit" onclick="startQuestions()" aria-label="Begin the questions">Begin questions</button>';
+
+  area.innerHTML = html;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 
@@ -701,31 +1150,51 @@ function startQuestions() {
   renderQuestion();
 }
 
-function renderQuestion() {
-  const q = interactiveData.questions[currentQuestion];
+function renderProgress() {
   const total = interactiveData.questions.length;
-  const area = document.getElementById('questionArea');
-
-  selectedOption = null;
-
   let html = '';
-
   html += '<div class="progress-wrapper">';
   html += '  <span class="progress-text" aria-live="polite">Question ' + (currentQuestion + 1) + ' of ' + total + '</span>';
   html += '  <div class="progress-bar" role="progressbar" aria-valuenow="' + (currentQuestion + 1) + '" aria-valuemin="1" aria-valuemax="' + total + '">';
   html += '    <div class="progress-fill" style="width: ' + ((currentQuestion + 1) / total * 100) + '%"></div>';
   html += '  </div>';
   html += '</div>';
+  return html;
+}
 
-  if (interactiveData.stimulus) {
-    html += '<div class="stimulus-card">';
-    html += '<div class="stimulus-label">The meeting</div>';
-    html += formatStimulus(interactiveData.stimulus);
-    html += '</div>';
-  }
+function renderQuestion() {
+  const q = interactiveData.questions[currentQuestion];
+  const area = document.getElementById('questionArea');
 
+  selectedOption = null;
+
+  let html = renderProgress();
   html += '<div class="question-prompt" id="questionPrompt">' + escapeHtml(q.prompt) + '</div>';
 
+  if (q.type === 'free-text') {
+    html += renderFreeTextBody(q);
+  } else {
+    html += renderMultipleChoiceBody(q);
+  }
+
+  area.innerHTML = html;
+
+  var prompt = document.getElementById('questionPrompt');
+  prompt.setAttribute('tabindex', '-1');
+  prompt.focus();
+
+  if (q.type === 'multiple-choice') {
+    setupKeyboardNav();
+  } else {
+    var ta = document.getElementById('freetextArea');
+    if (ta) ta.focus();
+  }
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function renderMultipleChoiceBody(q) {
+  let html = '';
   html += '<div class="options-group" role="radiogroup" aria-labelledby="questionPrompt">';
   q.options.forEach(function(opt) {
     html += '<button class="option-btn" role="radio" aria-checked="false" ';
@@ -739,16 +1208,58 @@ function renderQuestion() {
   html += '</div>';
 
   html += '<button class="btn btn-submit" id="submitBtn" onclick="handleSubmit()" disabled aria-label="Submit your answer">Submit</button>';
-
   html += '<div class="feedback-panel" id="feedbackPanel" role="status" aria-live="polite"></div>';
 
-  area.innerHTML = html;
+  return html;
+}
 
-  var prompt = document.getElementById('questionPrompt');
-  prompt.setAttribute('tabindex', '-1');
-  prompt.focus();
+function renderFreeTextBody(q) {
+  let html = '';
+  html += '<textarea class="freetext-area" id="freetextArea" placeholder="' + escapeHtml(q.placeholder || 'Type your response…') + '" aria-label="Your response"></textarea>';
+  html += '<div class="freetext-hint">Write your response, then reveal a strong version. You\'ll self-check which criteria your response met — that feeds your final score.</div>';
+  html += '<button class="btn btn-reveal" id="revealBtn" onclick="handleReveal()" aria-label="Show a strong response">Show a strong response →</button>';
 
-  setupKeyboardNav();
+  html += '<div class="model-card" id="modelCard" aria-live="polite">';
+  html += '  <div class="model-label">A strong response</div>';
+  html += '  <div class="model-response">' + escapeHtml(q.modelResponse) + '</div>';
+  html += '  <div class="rubric">';
+  html += '    <div class="rubric-lead">' + escapeHtml(q.rubricLead) + '</div>';
+  html += '    <div class="rubric-instruction">Tick each one your response met — your self-check feeds the final score.</div>';
+  html += '    <ul class="rubric-list" role="group" aria-label="Self-check rubric">';
+  q.rubric.forEach(function(item, idx) {
+    html += '<li>';
+    html += '<label class="rubric-item">';
+    html += '<input type="checkbox" class="rubric-checkbox" data-idx="' + idx + '">';
+    html += '<span class="rubric-box" aria-hidden="true"></span>';
+    html += '<span class="rubric-text">' + formatInline(item) + '</span>';
+    html += '</label>';
+    html += '</li>';
+  });
+  html += '    </ul>';
+  html += '  </div>';
+
+  if (q.whyItWorks) {
+    html += '<div class="why-it-works"><span class="label">Why this works</span>' + escapeHtml(q.whyItWorks) + '</div>';
+  }
+
+  if (q.temptingMoves && q.temptingMoves.length) {
+    html += '<button class="tempting-toggle" id="temptingToggle" onclick="toggleTempting()" aria-expanded="false" aria-controls="temptingList">Tempting moves to check yourself against</button>';
+    html += '<div class="tempting-list" id="temptingList">';
+    q.temptingMoves.forEach(function(t) {
+      html += '<div class="tempting-item">';
+      html += '<div class="move">' + escapeHtml(t.move) + '</div>';
+      html += '<div class="why">' + escapeHtml(t.why) + '</div>';
+      html += '</div>';
+    });
+    html += '</div>';
+  }
+
+  var isLast = currentQuestion >= interactiveData.questions.length - 1;
+  var nextLabel = isLast ? 'See results' : 'Next';
+  html += '<button class="btn btn-next" id="nextBtn" onclick="advanceFromFreeText()" aria-label="' + (isLast ? 'See your results' : 'Go to next question') + '">' + nextLabel + ' →</button>';
+
+  html += '</div>';
+  return html;
 }
 
 function setupKeyboardNav() {
@@ -773,7 +1284,31 @@ function setupKeyboardNav() {
 
 
 // ─────────────────────────────────────────────
-// INTERACTION HANDLERS
+// PART 2 VIDEO (plays before Q3)
+// ─────────────────────────────────────────────
+
+function renderPart2() {
+  const area = document.getElementById('questionArea');
+  let html = '';
+
+  html += renderProgress();
+
+  html += '<div class="pivot-card">';
+  html += '<div class="pivot-label">The conversation continues</div>';
+  html += formatParagraphs(interactiveData.part2Intro);
+  html += '</div>';
+
+  html += renderVideo(interactiveData.videoSrc2);
+
+  html += '<button class="btn btn-submit" onclick="renderQuestion()" aria-label="Continue to the next question">Continue</button>';
+
+  area.innerHTML = html;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+
+// ─────────────────────────────────────────────
+// MULTIPLE-CHOICE HANDLERS
 // ─────────────────────────────────────────────
 
 function handleSelect(label) {
@@ -798,6 +1333,7 @@ function handleSubmit() {
 
   answers.push({
     questionId: q.id,
+    type: 'multiple-choice',
     selectedLabel: selectedOption,
     isCorrect: isCorrect
   });
@@ -838,12 +1374,71 @@ function handleSubmit() {
   panel.focus();
 }
 
+
+// ─────────────────────────────────────────────
+// FREE-TEXT HANDLERS
+// ─────────────────────────────────────────────
+
+function handleReveal() {
+  var card = document.getElementById('modelCard');
+  var revealBtn = document.getElementById('revealBtn');
+  var ta = document.getElementById('freetextArea');
+
+  card.classList.add('visible');
+  revealBtn.style.display = 'none';
+  ta.classList.add('locked');
+  ta.setAttribute('readonly', 'readonly');
+
+  card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function advanceFromFreeText() {
+  var q = interactiveData.questions[currentQuestion];
+  var ta = document.getElementById('freetextArea');
+  var typed = ta ? ta.value.trim() : '';
+
+  var rubricChecked = new Array(q.rubric.length).fill(false);
+  document.querySelectorAll('.rubric-checkbox').forEach(function(cb) {
+    var idx = parseInt(cb.dataset.idx, 10);
+    if (!isNaN(idx) && idx >= 0 && idx < rubricChecked.length) {
+      rubricChecked[idx] = cb.checked;
+    }
+  });
+
+  answers.push({
+    questionId: q.id,
+    type: 'free-text',
+    typed: typed,
+    rubricChecked: rubricChecked
+  });
+
+  nextQuestion();
+}
+
+function toggleTempting() {
+  var toggle = document.getElementById('temptingToggle');
+  var list = document.getElementById('temptingList');
+  var expanded = toggle.classList.toggle('expanded');
+  list.classList.toggle('visible', expanded);
+  toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+}
+
+
+// ─────────────────────────────────────────────
+// FLOW CONTROL
+// ─────────────────────────────────────────────
+
 function nextQuestion() {
   currentQuestion++;
   if (currentQuestion >= interactiveData.questions.length) {
     showResults();
+    return;
+  }
+  selectedOption = null;
+  var q = interactiveData.questions[currentQuestion];
+  if (q.precedingVideoStep && interactiveData.videoSrc2) {
+    renderPart2();
   } else {
-    selectedOption = null;
     renderQuestion();
   }
 }
@@ -856,21 +1451,24 @@ function nextQuestion() {
 function showResults() {
   document.getElementById('questionArea').innerHTML = '';
 
-  var total = interactiveData.questions.length;
-  var correctCount = answers.filter(function(a) { return a.isCorrect; }).length;
-  var pct = Math.round((correctCount / total) * 100);
+  var score = computeScore();
+  var mcAnswers = answers.filter(function(a) { return a.type === 'multiple-choice'; });
+  var freeAnswered = answers.filter(function(a) { return a.type === 'free-text'; }).length;
 
   var screen = document.getElementById('resultsScreen');
   screen.classList.add('active');
 
   var html = '';
 
-  html += '<div class="score-card">';
-  html += '  <div class="score-number">' + correctCount + ' of ' + total + '</div>';
-  html += '  <div class="score-label" aria-live="polite">questions answered correctly</div>';
+  html += '<div class="completion-card">';
+  html += '  <div class="completion-check" aria-hidden="true">✓</div>';
+  html += '  <div class="completion-title">Exercise complete</div>';
+  html += '  <div class="score-number" aria-live="polite">' + score.pct + '%</div>';
+  html += '  <div class="score-label">of the criteria met across the exercise</div>';
   html += '  <div class="score-bar-container">';
-  html += '    <div class="score-bar-fill" style="width: ' + pct + '%" role="img" aria-label="Score: ' + pct + ' percent"></div>';
+  html += '    <div class="score-bar-fill" style="width: ' + score.pct + '%" role="img" aria-label="Score: ' + score.pct + ' percent"></div>';
   html += '  </div>';
+  html += '  <div class="completion-sub">You worked through ' + mcAnswers.length + ' read-the-room moves and produced ' + freeAnswered + ' written responses. Multiple-choice was scored against the best answer; written responses were scored against your own self-check.</div>';
   html += '</div>';
 
   html += '<div class="debrief-card">';
@@ -883,23 +1481,48 @@ function showResults() {
   html += '<div class="review-section" id="reviewSection" role="region" aria-label="Answer review">';
   interactiveData.questions.forEach(function(q, i) {
     var answer = answers[i];
-    var selectedOpt = q.options.find(function(o) { return o.label === answer.selectedLabel; });
-    var correctOpt = q.options.find(function(o) { return o.label === q.correctAnswer; });
-    var feedbackText = answer.isCorrect
-      ? q.feedback.correct
-      : (q.feedback.incorrect[answer.selectedLabel] || q.feedback.incorrect['default'] || '');
-
     html += '<div class="review-item">';
     html += '  <div class="review-q-number">Question ' + (i + 1) + '</div>';
-    html += '  <span class="review-badge ' + (answer.isCorrect ? 'review-badge-correct' : 'review-badge-incorrect') + '">';
-    html += answer.isCorrect ? 'Correct' : 'Incorrect';
-    html += '</span>';
-    html += '  <div class="review-prompt">' + escapeHtml(q.prompt) + '</div>';
-    html += '  <div class="review-answer yours"><strong>Your answer:</strong> ' + escapeHtml(answer.selectedLabel + '. ' + selectedOpt.text) + '</div>';
-    if (!answer.isCorrect) {
-      html += '  <div class="review-answer correct-answer"><strong>Correct answer:</strong> ' + escapeHtml(q.correctAnswer + '. ' + correctOpt.text) + '</div>';
+
+    if (answer.type === 'multiple-choice') {
+      var selectedOpt = q.options.find(function(o) { return o.label === answer.selectedLabel; });
+      var correctOpt = q.options.find(function(o) { return o.label === q.correctAnswer; });
+      var feedbackText = answer.isCorrect
+        ? q.feedback.correct
+        : (q.feedback.incorrect[answer.selectedLabel] || q.feedback.incorrect['default'] || '');
+
+      html += '  <span class="review-badge ' + (answer.isCorrect ? 'review-badge-correct' : 'review-badge-incorrect') + '">';
+      html += answer.isCorrect ? 'Correct' : 'Incorrect';
+      html += '</span>';
+      html += '  <div class="review-prompt">' + escapeHtml(q.prompt) + '</div>';
+      html += '  <div class="review-answer yours"><strong>Your answer:</strong> ' + escapeHtml(answer.selectedLabel + '. ' + selectedOpt.text) + '</div>';
+      if (!answer.isCorrect) {
+        html += '  <div class="review-answer correct-answer"><strong>Best answer:</strong> ' + escapeHtml(q.correctAnswer + '. ' + correctOpt.text) + '</div>';
+      }
+      html += '  <div class="review-feedback">' + escapeHtml(feedbackText) + '</div>';
+    } else {
+      var rubricLen = q.rubric.length;
+      var checkedCount = (answer.rubricChecked || []).filter(Boolean).length;
+      html += '  <span class="review-badge review-badge-written">Met ' + checkedCount + ' of ' + rubricLen + ' criteria</span>';
+      html += '  <div class="review-prompt">' + escapeHtml(q.prompt) + '</div>';
+      html += '  <div class="review-label">What you wrote</div>';
+      if (answer.typed) {
+        html += '  <div class="review-typed">' + escapeHtml(answer.typed) + '</div>';
+      } else {
+        html += '  <div class="review-typed empty">(You didn\'t type a response for this one.)</div>';
+      }
+      html += '  <div class="review-label">A strong response</div>';
+      html += '  <div class="review-model">' + escapeHtml(q.modelResponse) + '</div>';
+      html += '  <div class="review-label">Your self-check</div>';
+      html += '  <ul class="review-rubric">';
+      q.rubric.forEach(function(item, ri) {
+        var ticked = (answer.rubricChecked || [])[ri];
+        html += '<li class="' + (ticked ? 'ticked' : 'unticked') + '">' + formatInline(item) + '</li>';
+      });
+      html += '  </ul>';
+      html += '  <div class="review-feedback">' + escapeHtml(q.whyItWorks) + '</div>';
     }
-    html += '  <div class="review-feedback">' + escapeHtml(feedbackText) + '</div>';
+
     html += '</div>';
   });
   html += '</div>';
@@ -909,9 +1532,9 @@ function showResults() {
   screen.innerHTML = html;
 
   window.scrollTo({ top: 0, behavior: 'smooth' });
-  var scoreCard = screen.querySelector('.score-card');
-  scoreCard.setAttribute('tabindex', '-1');
-  scoreCard.focus();
+  var card = screen.querySelector('.completion-card');
+  card.setAttribute('tabindex', '-1');
+  card.focus();
 }
 
 function toggleReview() {
@@ -927,26 +1550,60 @@ function toggleReview() {
 // UTILITIES
 // ─────────────────────────────────────────────
 
+function computeScore() {
+  var totalPoints = 0;
+  var earnedPoints = 0;
+  answers.forEach(function(answer, idx) {
+    var q = interactiveData.questions[idx];
+    if (!q) return;
+    totalPoints += 1;
+    if (answer.type === 'multiple-choice') {
+      if (answer.isCorrect) earnedPoints += 1;
+    } else {
+      var checked = (answer.rubricChecked || []).filter(Boolean).length;
+      var rubricLen = q.rubric ? q.rubric.length : 0;
+      if (rubricLen > 0) {
+        earnedPoints += checked / rubricLen;
+      }
+    }
+  });
+  return {
+    earned: earnedPoints,
+    total: totalPoints,
+    pct: totalPoints > 0 ? Math.round((earnedPoints / totalPoints) * 100) : 0
+  };
+}
+
+function renderVideo(src) {
+  if (!src) return '';
+  let html = '';
+  html += '<div class="video-wrapper">';
+  html += '<video class="meeting-video" controls preload="metadata">';
+  html += '<source src="' + escapeHtml(src) + '" type="video/mp4">';
+  html += 'Your browser does not support embedded video. <a href="' + escapeHtml(src) + '">Download the recording</a>.';
+  html += '</video>';
+  html += '</div>';
+  return html;
+}
+
 function escapeHtml(text) {
+  if (text == null) return '';
   var div = document.createElement('div');
   div.textContent = text;
   return div.innerHTML;
 }
 
+function formatInline(text) {
+  // Escape HTML, then promote **bold** → <strong> and *italic* → <em>
+  var safe = escapeHtml(text);
+  safe = safe.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  safe = safe.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  return safe;
+}
+
 function formatParagraphs(text) {
   return text.split('\n\n').map(function(p) {
     return '<p>' + escapeHtml(p.trim()) + '</p>';
-  }).join('');
-}
-
-function formatStimulus(text) {
-  return text.split('\n\n').map(function(p) {
-    p = p.trim();
-    var headerMatch = p.match(/^\*\*(.+?)\*\*$/);
-    if (headerMatch) {
-      return '<div class="stimulus-section-label">' + escapeHtml(headerMatch[1]) + '</div>';
-    }
-    return '<p>' + escapeHtml(p) + '</p>';
   }).join('');
 }
 
