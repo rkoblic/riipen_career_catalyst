@@ -31,6 +31,14 @@ The `--use-html` flag tells the script to use whatever `.canvas.html` file exist
    python3 scripts/push_to_canvas.py --week <N> --use-html --module --yes
    ```
 
+### Pushing a single page (when only one page changed locally)
+
+```bash
+python3 scripts/push_to_canvas.py weekly_content/weekNN/pageX-name.md --use-html --yes
+```
+
+**Use this any time you've only edited one page locally** — especially when other pages in the same week have Canvas-side edits you want to preserve. `--week N` pushes ALL 10 pages in the week and will overwrite any Canvas-side work on the other pages with whatever `.canvas.html` files exist locally (which may be stale). The positional-arg form pushes only that one page. `--module` isn't needed if the page is already at the right position.
+
 ### Fast / deterministic mode (no editorial pass)
 
 ```bash
