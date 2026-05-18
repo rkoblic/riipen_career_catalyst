@@ -1,9 +1,10 @@
 ---
 week: 15
 page: 2
-title: The Final Presentation
+title: "GRADED: The Final Presentation"
+canvas_page_url: graded-the-final-presentation
 created: 2026-04-22
-last_updated: 2026-04-22
+last_updated: 2026-05-18
 status: draft
 competencies:
   - area: Communication
@@ -18,9 +19,11 @@ competencies:
     subskill: Shared Accountability
 ---
 
-# The Final Presentation
+# GRADED: The Final Presentation
 
 In the Final Presentation, you will present your completed professional work to the people who commissioned it. The research is done, the analysis is done, the recommendations have been written and refined across weeks of feedback. What happens this week is the team standing behind that work, live, and answering for it in real time.
+
+This is the Final Presentation deliverable — a graded team submission that carries significant weight in your final grade. After the live session ends, your team submits the session recording and the slide deck through the Riipen platform. The recording is the primary artifact your instructor reviews against the [**Final Presentation rubric**](URL_TBD); the deck is reviewed alongside it. The Final Presentation is its own assessment and does not re-grade the Final Deliverables your team has already submitted.
 
 This page is the culmination of the three-week presentation arc. The conceptual work on what makes a presentation strong happened a few weeks ago. The operational work (who presents what, how the team handles Q&A, how the outline becomes a deck) happened last week, along with a full rehearsal. This page covers how to show up on the day, what to do in the final hour before the presentation, what happens during the session itself, and how to close the experience with your team afterward.
 
@@ -28,7 +31,7 @@ This page is the culmination of the three-week presentation arc. The conceptual 
 
 ## How you'll be assessed
 
-The Final Presentation is graded against the Final Presentation rubric and carries significant weight in your final grade. It is its own assessment; it does not re-grade the Final Deliverables your team has already submitted. A team can have strong deliverables and a weak presentation, or the other way around. What this rubric captures is what happens in the room.
+A team can have strong deliverables and a weak presentation, or the other way around. What the Final Presentation rubric captures is what happens in the room.
 
 Four dimensions, each with its own focus:
 
@@ -83,13 +86,7 @@ If your team is rebuilding slides during this session, rewriting sections, or ad
 
 If something needs to change (a slide with wrong numbers, a section where the rehearsal revealed a real gap) change it. But treat a request for a change as a question first: is this a genuine problem, or is this nerves? Nerves often present as urgency about things that are already fine.
 
-### Using AI for a final Q&A simulation
-
-You can extend the Q&A preparation from last week by running a final simulation. The prompt pattern is the one you practiced in the rehearsal, pointed at the finished presentation material:
-
-> Based on the attached recommendations and slide deck, generate the five most challenging questions a skeptical employer might ask. For each, note what would be weak about a generic response and what a strong response would need to include.
-
-What you get back is another pass of stress-testing. Read the questions out loud with a teammate and practice answers verbally, not in writing. The Q&A is a spoken event, and answers that feel clean on paper often stumble in the mouth. This is also the last place where AI as Q&A rehearsal partner is useful; beyond this session, the Q&A work happens live.
+A final Q&A stress-test with AI is part of this polish window — the prompt pattern and guardrails are in the **Using AI** section below.
 
 ---
 
@@ -109,7 +106,7 @@ The Final Presentation is held as a single session. The employer and your instru
 - **Q&A: approximately 15 minutes.** The employer asks questions and your team responds live.
 - **Employer feedback and wrap: approximately 15 minutes.** The employer shares their reactions to the work — what landed, what they are taking away, what they plan to do with it. The session closes with acknowledgments and any handoff logistics.
 
-The presentation itself is live. After the session, your team submits the recording and the slide deck through the Riipen platform.
+The presentation itself is live. Submission of the recording and the slide deck happens after the session ends — see **Submission** below.
 
 ### Record the session
 
@@ -148,10 +145,41 @@ The Q&A section is the one part of the session that cannot be fully rehearsed, a
 
 Answers should come from genuine understanding of the research, analysis, and recommendations. The rubric dimension that captures this is explicit: Q&A Handling is silent on how polished the answers sound. It asks whether the responses show that your team understood its own work.
 
-### AI disclosure on the final slide
+Do not disperse when the employer logs off — the conversation that follows is where a significant part of this week's value lives.
 
-If your team used AI in creating presentation slides or speaker notes, include a brief AI disclosure on the final slide of the deck. A short statement is sufficient — what tools were used, and for what parts of the preparation. The same principle as every other graded submission applies: disclosure describes what AI contributed; it does not require an explanation or apology.
+---
 
-If AI was not used, a one-line statement to that effect on the final slide is fine.
+## Using AI
 
-Immediately after the session ends, your team moves into the debrief and team closing covered on the next page. Do not disperse when the employer logs off — the conversation that follows is where a significant part of this week's value lives.
+AI use in this final week is narrow: a stress-test partner before the session, not a substitute for your team's understanding during it.
+
+### Where AI helps
+
+The strongest AI use this week is a final Q&A stress-test. The prompt pattern is the one you practiced in the rehearsal, pointed at the finished presentation material:
+
+> Based on the attached recommendations and slide deck, generate the five most challenging questions a skeptical employer might ask. For each, note what would be weak about a generic response and what a strong response would need to include.
+
+Read the questions out loud with a teammate and practice answers verbally, not in writing. The Q&A is a spoken event, and answers that feel clean on paper often stumble in the mouth.
+
+AI is also permitted for slide design support and speaker-notes drafting during deck production. Disclose its use on the final slide (see Submission).
+
+### Where AI ends
+
+This is the last place where AI as Q&A rehearsal partner is useful. Beyond the simulation, the Q&A work happens live. The rubric's Q&A Handling dimension assesses whether your team can explain its own reasoning — that comes from your team's understanding, not from anything AI generates in the room.
+
+The line: AI can stress-test what you plan to say, but the reasoning behind the recommendations has to be the team's. Q&A is where that shows.
+
+**Disclosure required.** See Submission below.
+
+---
+
+## Submission
+
+After the session ends, your team submits two artifacts through the Riipen platform:
+
+- **The session recording** — video of the live presentation, Q&A, and employer feedback. This is the primary artifact your instructor reviews against the Final Presentation rubric.
+- **The slide deck** — the visual companion to the presentation, reviewed alongside the recording.
+
+Submit both as a team. Without the recording, the team cannot be assessed against the rubric, which is why "Record the session" earlier on this page is treated as essential rather than optional.
+
+**AI disclosure.** Include a brief AI disclosure on the final slide of the deck. A short statement is sufficient — what tools were used, and for what parts of the preparation. The same principle as every other graded submission applies: disclosure describes what AI contributed; it does not require an explanation or apology. If AI was not used, a one-line statement to that effect on the final slide is fine.

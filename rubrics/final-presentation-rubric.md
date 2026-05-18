@@ -11,7 +11,11 @@ The Final Presentation is the capstone event of the course, worth 15% of the fin
 
 ### Format
 
-A 60-minute session: presentation (20–30 minutes) followed by Q&A (approximately 15 minutes) and employer feedback. All team members participate. Slides are submitted in advance; the presentation itself is live.
+A 60-minute live session: presentation (20–30 minutes), Q&A (approximately 15 minutes), and employer feedback and wrap (approximately 15 minutes). All team members present.
+
+### What Students Submit
+
+After the session ends, the team submits two artifacts through the Riipen platform: the **session recording** (video of the live presentation, Q&A, and employer feedback) and the **slide deck**. The recording is the primary artifact evaluators review against this rubric; the deck is reviewed alongside it. Any AI disclosure for the deck appears on its final slide.
 
 ### What the Rubric Assesses
 
@@ -132,7 +136,7 @@ The following principles guided rubric construction and should inform any future
 
 **Proficient is the anchor.** Every dimension was written Proficient-first. Proficient describes a presentation a reasonable instructor would accept without hesitation but wouldn't single out as exceptional. All other levels calibrate off it.
 
-**Every phrase is observable in the room.** Evaluators assess what they see and hear during the presentation and Q&A, not what they remember from reading the deliverable. If a descriptor requires cross-referencing another document, it was reframed around what's visible in the presentation itself.
+**Every phrase is observable from the submitted artifacts.** Evaluators assess what they see and hear in the session recording and what they see in the slide deck. If a descriptor requires cross-referencing another document, it was reframed around what's visible in the recording or the deck itself.
 
 **The presentation is not the deliverable.** Content & Synthesis assesses whether the team can tell a coherent story about their work — not whether the underlying work is good. A team with a strong deliverable might give a poor presentation; a team with a weaker deliverable might present it compellingly. Score what you see in the room, not what you read in the document.
 
@@ -146,6 +150,6 @@ The following principles guided rubric construction and should inform any future
 
 **AI-assisted slide design is permitted with disclosure.** The rubric assesses whether slides effectively support the presentation — not whether they were hand-designed. A beautifully AI-generated deck that doesn't connect to what the speakers are saying scores lower than a simpler deck that effectively anchors the narrative.
 
-**Calibration before the event is essential.** Live presentations cannot be re-watched. If multiple graders are evaluating presentations, conduct a norming session before presentation day. Graders should take contemporaneous notes on each dimension during the presentation to support their scoring.
+**Calibration before grading is essential.** Because the recording is the evaluation artifact, evaluators can revisit specific moments and re-watch sections — but consistent application of the rubric across teams still depends on calibration. If multiple graders are evaluating presentations, conduct a norming session before grading begins so descriptors are applied the same way across submissions.
 
 **Unequal weights reflect scope and importance.** Content & Synthesis (30%) carries the highest weight as the intellectual core. Delivery & Presence and Q&A Handling (25% each) capture two distinct communication skills — prepared and unrehearsed. Visual Communication (20%) is significant but weighted to avoid over-rewarding polish.
