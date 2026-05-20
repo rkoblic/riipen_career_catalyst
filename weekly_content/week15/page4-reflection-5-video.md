@@ -1,17 +1,17 @@
 ---
-week: 14
-page: 3
+week: 15
+page: 4
 title: Picking one thing from fifteen weeks
 type: video-script
 created: 2026-04-22
-last_updated: 2026-04-22
+last_updated: 2026-05-19
 status: draft
 ---
 
 # Video Script: Picking one thing from fifteen weeks
 
 Most learners, asked to reflect on this course, reach for whatever happened most recently. The rehearsal felt high-stakes. The employer was demanding in the final review. The last revision took longer than expected. Those moments are vivid, and they become the default anchor for a reflection that is supposed to cover fifteen weeks.
-
+    
 Here is why that tends to be the wrong anchor.
 
 Picture a learner drafting Reflection #5. Their first instinct is to write about the presentation rehearsal, because that is still fresh. They start: "I learned that I get anxious under pressure, and I need to practice more before high-stakes events." The sentence is true. It is also not specific to anything this project taught. The same insight could have come from any high-pressure event in any setting.

@@ -24,13 +24,13 @@ Examples: W4 p2 Context Analysis & Project Plan, W13 p2 Final Deliverables, W15 
 
 ### Type B — Graded individual deliverable, recurring
 Produced individually. Graded against a fixed rubric used across multiple instances. Not shared with employer or peers.
-Examples: Reflections #1–5 (W3 p6, W6 p2, W9 p5, W12 p4, W14 p3).
+Examples: Reflections #1–5 (W3 p8, W6 p2, W9 p5, W12 p4, W15 p4).
 
 Reflection content (DEAL framework, depth escalation, prompt design) is governed by `rubrics/reflection-portfolio-framework.md`. This template only governs the page-level scaffolding.
 
 ### Type C — Graded individual deliverable, instrument-based
 Produced individually using a fixed instrument (e.g., BARS rating scales + qualitative prompts). Aggregated feedback may be shared back, but ratings stay confidential.
-Examples: W8 p2 Mid-Project Peer Evaluation, W14 p4 End-of-Project Peer Evaluation.
+Examples: W8 p2 Mid-Project Peer Evaluation, W15 p5 End-of-Project Peer Evaluation.
 
 ### Type D — Completion-based team checkpoint, internal
 Produced by the team. Verified for completion, not graded for quality. Not shared with the employer. Submitted to the platform for completion verification.
@@ -205,3 +205,9 @@ The initial retrofit pass against this template happened on 2026-04-28, alongsid
 What the retrofit deliberately did NOT change: substance, section bodies, examples, internal logic, or the order of sections beyond the small cases noted above. Reflection content remains governed by `rubrics/reflection-portfolio-framework.md`.
 
 Pages aligned: W3 p7, W4 p2, W6 p2, W7 p6, W8 p2, W9 p3, W9 p5, W12 p4, W13 p2, W14 p3, W14 p4, W15 p2, W15 p4, W15 p5.
+
+### 2026-05-19 — Reflection #5 and End-of-Project Peer Evaluation moved to Week 15
+
+Canonical deliverable pages for Reflection #5 and the End-of-Project Peer Evaluation moved from Week 14 to Week 15 to put the home page on the week the deliverable is due. Week 14 collapsed the prior two "begin this week, submit next week" pages (transfer-reflection-5 and end-of-project-peer-evaluation) into a single `page4-getting-a-head-start.md` that hyperlinks to the Week 15 pages as the source of truth and names the worth-doing-now prep moves (anchor selection for the reflection; evidence gathering across the arc for the peer evaluation). The What's Next page renumbered from W14 p6 → W14 p5. Substance pulled forward from the deleted Week 14 pages — the prompt and DEAL framework substance, the Transfer concept, the full-arc anchor scan and "what changed in how I work" guidance, and the BARS dimensions / mid-vs-end comparison / "evaluating contributions that evolved" framing. Both pages now include a Recommended workflow across the two weeks section to keep the early-start affordance visible from the canonical home.
+
+Pages affected: W14 p4 (new head-start page replacing two pages), W14 p5 (renumbered from p6), W15 p4 (Reflection #5, was page4-reflection-5-finalize.md → page4-reflection-5.md), W15 p5 (End-of-Project Peer Evaluation, was page5-peer-evaluation-finalize.md → page5-end-of-project-peer-evaluation.md). Video script `page4-transfer-reflection-5-video.md` moved from W14 to W15.

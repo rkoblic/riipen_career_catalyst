@@ -3,7 +3,7 @@ week: 14
 page: 1
 title: Week Overview
 created: 2026-04-22
-last_updated: 2026-04-22
+last_updated: 2026-05-19
 status: draft
 ---
 
@@ -21,16 +21,12 @@ Three things are left before the course closes: a live presentation to the emplo
 
 **Presentation Outline.** Team submission, completion-based checkpoint. The outline drafted a couple of weeks ago gets refined and submitted this week before your team starts building the deck.
 
-Two more pieces of work **begin this week and are submitted next week:**
+Two more pieces of work **are submitted next week and benefit from a head start this week:**
 
-- **Reflection #5** — individual, graded. The final DEAL reflection. Starts here with anchor selection and a first-pass Describe and Examine draft; Articulate and Learn finalize next week.
-- **End-of-Project Peer Evaluation** — individual, graded. Starts here with an instructions review and behavioral-evidence gathering across the full project; rated and submitted next week.
+- **Reflection #5** — individual, graded. The final DEAL reflection. Worth doing this week: anchor selection from across the full fifteen-week arc, and a first-pass Describe and Examine draft.
+- **End-of-Project Peer Evaluation** — individual, graded. Worth doing this week: revisit the instructions and gather behavioral evidence across the full project, with a short noticing list for what to watch during the rehearsal and Final Presentation.
 
-Reflection #5 is the most demanding reflection in the portfolio. It asks you to look across the full fifteen-week arc and name the single most important thing you learned about yourself as a professional. The anchor you choose gets stronger the longer you have to think about it; learners who wait until the final sitting tend to reach for whatever is most recent.
-
-The End-of-Project Peer Evaluation needs behavioral evidence from across the whole project. Recalling specific examples of teammates' behavior from fifteen weeks ago, twelve weeks ago, six weeks ago, and this week is a memory task that gets harder under time pressure. Starting now lets you gather evidence while the earlier phases are still retrievable.
-
-Next week is already full with the Final Presentation. The time budget for next week assumes Reflection #5 is drafted through Examine and peer-evaluation evidence is already gathered. Use this week's drafting blocks; both pieces of work need the time.
+The full prompts, rubric, and submission details for both deliverables live on the Week 15 pages. The [Getting a Head Start on Week 15](page4-getting-a-head-start.md) page is the cue to start them now — both benefit from a few days between the early work and next week's finalization, and next week is already full with the Final Presentation.
 
 ---
 
@@ -40,6 +36,5 @@ Next week is already full with the Final Presentation. The time budget for next 
 2. **Finalize and submit the Presentation Outline** before your team starts building the deck.
 3. **Build the presentation** as a team. The largest block of work this week. Speaker notes, slides, and visual support, using your outline as the spine.
 4. **Rehearse** as a full run-through plus debrief, not as a read-through. This is the first time the presentation exists as one thing rather than sections.
-5. **Read the Transfer + Reflection #5 page** and begin the reflection draft. Plan it as its own sitting separate from the presentation work.
-6. **Read the End-of-Project Peer Evaluation page** and begin the instructions review plus evidence gathering. Ratings wait until next week, after the rehearsal and Final Presentation add final evidence.
-7. **Read What's Next** for how to enter the final week of the course.
+5. **Read the Getting a Head Start page** and follow it through to the pages on Reflection #5 and the End-of-Project Peer Evaluation. Both benefit from starting this week — anchor selection for the reflection and evidence gathering for the peer evaluation. Plan these as their own sittings separate from the presentation work.
+6. **Read What's Next** for how to enter the final week of the course.

@@ -17,11 +17,12 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p7 Introduction to reflective practice *(video: Why reflective practice matters; interactive: DEAL sorting exercise)*
 - p8 Setting yourself up for success
 - p9 Professional email basics
-- p10 What's next
+- p10 Professional Engagement (NEW 2026-05-19 — composite-score explainer; downloadable rubric; forward-links to W8 p2 and W15 p5 peer evals)
+- p11 What's next
 
-**Introduces:** DEAL reflection framework, "Your Starting Point" intake questionnaire, AI-in-course framing, two-platform model (LMS + Riipen), Riipen Experience Manager role.
+**Introduces:** DEAL reflection framework, "Your Starting Point" intake questionnaire, AI-in-course framing, two-platform model (LMS + Riipen), Riipen Experience Manager role, **Professional Engagement composite-score model** (peer 50% / employer 25% / instructor 25%).
 
-**Structure note:** p2 video ("How learning works in this course") cut 2026-05-11 — overlapped too heavily with p1 overview video. p5 platforms/REM page inserted same day; pages p5–p9 shifted to p6–p10.
+**Structure note:** p2 video ("How learning works in this course") cut 2026-05-11 — overlapped too heavily with p1 overview video. p5 platforms/REM page inserted same day; pages p5–p9 shifted to p6–p10. PE page added at p10 on 2026-05-19; What's Next shifted from p10 → p11 (rationale: PE page sits at end so the deliverable-explainer pattern is intact, even though pedagogically adjacent to p3 assessment overview — chose end-of-week placement to minimize file renames). p3 "How you'll be assessed" section rewritten 2026-05-19 with named, hyperlinked deliverable list pointing to W4 p2, W13 p2, W15 p2, the five reflection pages, p10, and the W8/W15 peer evals.
 
 ## Week 2 — Team Formation & Employer Outreach
 
@@ -209,7 +210,7 @@ Pattern: alternating working-meetings and document-review meetings. Weeks 7 and 
 
 ## Terminology / style conventions (applied retroactively through Week 9)
 
-- **"Peer Evaluation #1"** → "Mid-Project Peer Evaluation" (pairs with "End-of-Project Peer Evaluation" in Week 14/15)
+- **"Peer Evaluation #1"** → "Mid-Project Peer Evaluation" (pairs with "End-of-Project Peer Evaluation" in Week 15; Week 14 has a head-start page that points to the canonical Week 15 home)
 - **"Development Check-In #N"** → evergreen relational phrasing ("the check-in with your employer," "the last check-in," "your next check-in")
 - **"Status Update to Employer" standing prompt is cut.** Appeared in early design docs as a recurring between-meetings update; Week 8 explicitly dropped it and it was never re-introduced. Later design docs (Weeks 10, 12, 13) still reference it as "continuing" — always cut when encountered. Does not appear in any produced content.
 - **Specific grade percentages** → assessment component names ("the Professional Engagement component of your final grade")

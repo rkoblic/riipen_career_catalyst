@@ -26,7 +26,7 @@ Status legend: `[x]` = built and reviewed; blank = not yet built. Built sources 
 | Status | # | Artifact | Page | Line | Brief |
 |---|---|---|---|---|---|
 | | 13 | **Annotated Sample Deliverable** | `weekly_content/week06/page5-formatting-professional-deliverables.md` | 39 | A polished sample doc with margin callouts pointing to heading hierarchy, white space, tables, charts, callouts, and terminology consistency |
-| | 14 | **Feedback Protocol Card** (printable) | `weekly_content/week07/page4-receiving-feedback-well.md` | 65 | One-page reference: Listen / Clarify / Acknowledge / Decide later, with example phrases |
+| [x] | 14 | **Feedback Protocol Card** (printable) | `weekly_content/week07/page4-receiving-feedback-well.md` | 65 | One-page reference: Listen / Clarify / Acknowledge / Decide later, with example phrases |
 
 ## C. Rubrics & Assignment Descriptions (linked from multiple pages)
 
@@ -66,5 +66,5 @@ Each is a separate document we'd write once and link from every page that points
 
 ## Out of scope for this list
 
-- **Platform submission URLs** (`[PLATFORM: TBD]`) at `weekly_content/week13/page2-final-deliverables.md:109`, `weekly_content/week15/page4-reflection-5-finalize.md:85`, `weekly_content/week15/page5-peer-evaluation-finalize.md:128` — live Riipen platform links, set when the course is provisioned, not artifacts to author.
+- **Platform submission URLs** (`[PLATFORM: TBD]`) at `weekly_content/week13/page2-final-deliverables.md:109`, `weekly_content/week15/page4-reflection-5.md`, `weekly_content/week15/page5-end-of-project-peer-evaluation.md` — live Riipen platform links, set when the course is provisioned, not artifacts to author.
 - **Interactive modules** (`[INTERACTIVE: ...]`) — five scenario-based learning experiences (Week 1 DEAL sort, Week 2 critical-evaluation exercise, Week 3 simulated kickoff, Week 5 simulated Direction Check, Week 7 simulated Development Check-In #1). Different category of build (interactive HTML), tracked separately.

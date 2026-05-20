@@ -3,13 +3,13 @@ week: 14
 page: 5
 title: What's Next
 created: 2026-04-22
-last_updated: 2026-04-22
+last_updated: 2026-05-19
 status: draft
 ---
 
 # What's next
 
-This week was translation. Next week is delivery. The three pieces of work that began this week come to a close: the presentation gets delivered live, Reflection #5 gets submitted, and you send each teammate their End-of-Project Peer Evaluation. You have done the preparation, and you know the material better than anyone in the room will. The final week is where the work lands.
+This week was translation. Next week is delivery. The three pieces of work close out the course: the presentation gets delivered live, Reflection #5 gets submitted, and you complete the End-of-Project Peer Evaluation for each teammate. You have done the preparation, and you know the material better than anyone in the room will. The final week is where the work lands.
 
 ---
 
