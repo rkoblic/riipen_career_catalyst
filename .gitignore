@@ -7,6 +7,7 @@ __pycache__/
 *-content-review.md
 *.canvas.html
 templates/*.docx
+~$*
 .env
 .env.local
 .env.*.local
