@@ -3,7 +3,7 @@ week: 14
 page: 2
 title: Planning Your Presentation
 created: 2026-04-22
-last_updated: 2026-04-22
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -105,37 +105,4 @@ Rehearsal feedback stays inside the team. What gets fixed is what the team saw a
 
 ---
 
-## Finalize and submit the Presentation Outline
-
-The outline is a completion-based checkpoint, not something the employer sees. Your experience manager or instructor may review it as a support and accountability mechanism: a chance to confirm the team has done deliberate planning before the deck build, and to catch thin spots while there is still time to fix them. The deck build inherits whatever decisions the outline made or didn't.
-
-### What the finalized outline should include
-
-The outline started a couple of weeks ago as a working draft, with four parts: key messages, narrative arc, visual approach, and speaker assignments. The finalized version is the same four parts, with two things that were not fully decided in the draft:
-
-- **Speaker assignments resolved.** Who presents each section and who is the primary answerer for questions about it, plus the handoff line between each speaker. "Over to Maya, who will walk through the analysis" is a handoff line. "Maya will talk about research" is not — it is a label, not a cue.
-- **Visual decisions made section by section.** Every section should have a decision about whether it has a slide and what that slide does. Some sections are better without one, because the audience has to listen rather than read. The outline should show where the team landed, not leave it open.
-
-Your team can reuse the template from the earlier outline draft. No new template is needed — what changes is the level of decision inside each part.
-
-### How this differs from the working draft
-
-The earlier version of the outline was working material. It existed so your team had something to argue with, not something to present from. The finalized version is the thing the deck build will be built on. If the team is still holding open questions about narrative or ordering at this point, the best use of the outline-finalization time is to close them. Starting the deck build with open structural questions means every slide decision comes back to the same unresolved fight.
-
-If the team's thinking has shifted since the draft — the employer's feedback from recent check-ins landed differently, a piece of analysis came out stronger than expected, one of the findings has become less central — this is where those shifts get incorporated. The outline is allowed to be different from the draft. It should be different, if the team's understanding has moved.
-
-### Cross-check against the Final Presentation rubric
-
-Open [**the Final Presentation rubric**](URL_TBD) with the finalized outline in hand. The outline's narrative arc and key messages feed the rubric's narrative structure dimension, the visual approach feeds visual support, and the speaker assignments feed speaker coordination. Q&A performance is assessed live and does not have an outline counterpart, but the anticipated-question list from earlier on this page is the closest equivalent. Any outline section that reads thin against the rubric language is where to spend revision time before the deck build starts.
-
-### AI on the outline
-
-The Presentation Fundamentals page introduced AI as a structural planner and gave a prompt for generating narrative-arc options on a blank canvas. Outline finalization is a different use of the same strategy: reading an outline that already exists and pressure-testing it before the deck build starts. A prompt that tends to work at this stage:
-
-> Here is our finalized outline: key messages, narrative arc, visual approach, and speaker assignments. Read it as someone who has not been in any of our meetings. Where does the argument stop holding together? What is a listener likely to still be confused about at the end? What would you cut if time ran short?
-
-Read what comes back as pressure on the structure, not as edits to adopt. Places where the AI loses the thread are often places where a live audience will too, and those are worth fixing before the outline is locked.
-
-AI disclosure is required on the submission.
-
-**Submission:** As a team through the Riipen platform.
+The decisions your team makes on this page — who speaks, where the slides land, what the rehearsal surfaces — are what get recorded in the finalized Presentation Outline. The next page walks through what that submission needs to contain and how it differs from the working draft your team built earlier in the course.

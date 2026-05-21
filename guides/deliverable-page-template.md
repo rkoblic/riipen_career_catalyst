@@ -18,7 +18,7 @@ Every deliverable page falls into one of four types. The type determines which s
 
 ### Type A — Graded team deliverable, employer-shared
 Produced by the team. Graded against a rubric. Auto-shared with the employer on submission and forms the basis of the next employer touchpoint.
-Examples: W4 p2 Context Analysis & Project Plan, W13 p2 Final Deliverables, W15 p2 Final Presentation.
+Examples: W4 p2 Context Analysis & Project Plan, W13 p2 Project Deliverables, W15 p2 Final Presentation.
 
 *Note on live deliverables (W15 p2):* a presentation is a Type A deliverable with two adjustments — the Submission section becomes "Format/logistics" (slides submitted in advance, presentation is live), and AI disclosure moves to the final slide of the deck rather than a written disclosure statement.
 
@@ -72,7 +72,7 @@ The audience-and-use statement is the most common gap in existing pages. Always 
 
 **Required for Type D.** Completion-based checkpoints have high misinterpretation risk: learners assume completion-based things are graded, or that internal documents go to the employer. Stating the boundaries explicitly prevents this.
 
-**Optional for A/B/C** unless the deliverable has a misinterpretation risk the opening framing doesn't fully resolve. Use this section if learners might confuse this deliverable with another one in the course (e.g., Draft Deliverable vs. Final Deliverables, mid-project peer eval vs. end-of-project peer eval).
+**Optional for A/B/C** unless the deliverable has a misinterpretation risk the opening framing doesn't fully resolve. Use this section if learners might confuse this deliverable with another one in the course (e.g., Draft Deliverable vs. Project Deliverables, mid-project peer eval vs. end-of-project peer eval).
 
 When used, the section name should be exactly **"What this is (and isn't)"** or **"What this checkpoint is (and isn't)"** for completion-based items.
 

@@ -3,7 +3,7 @@ week: 7
 page: 8
 title: What's Next
 created: 2026-04-02
-last_updated: 2026-05-02
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -21,7 +21,7 @@ The peer evaluation asks you to assess each teammate's contribution to the proje
 
 This evaluation feeds your teammates' grades. Treat it that way. The same is true outside this course: when you contribute to a 360-degree review or weigh in on a hiring decision, what you write has real consequences. Rushed or generic feedback hurts the person being evaluated without telling them anything they can use. Reviewers who have been engaged with their teammates throughout the project will have concrete observations to draw on. General impressions aren't enough.
 
-You'll get dedicated time next week to walk through the rubric and practice with a calibration scenario before drafting. Your employer will also complete a brief mid-project evaluation of the team. That's an additional input into the same Professional Engagement component of your grade.
+You'll get dedicated time next week to walk through the rubric and practice with a calibration scenario before drafting. Your employer will also complete a brief mid-project evaluation of the team. Both the peer evaluation and the employer evaluation are their own graded items inside Professional Engagement.
 
 ---
 

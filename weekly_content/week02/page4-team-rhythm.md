@@ -3,7 +3,7 @@ week: 2
 page: 4
 title: Setting Your Team's Rhythm
 created: 2026-04-28
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork

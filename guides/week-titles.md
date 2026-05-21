@@ -16,7 +16,7 @@ Quick reference for the canonical week titles used in design docs and informally
 | 10 | Production → Refinement | Articulating What You're Learning | Transferable learning, AI quality reviewer, integration |
 | 11 | Refinement | From Building to Polishing | Near-Final Package, self-review, Near-Final Check-In |
 | 12 | Refinement | From Feedback to Final | Final iteration, presentation fundamentals, Reflection #4 |
-| 13 | Refinement → Integration | Finalizing Deliverables | Final Deliverables submission, optional employer Final Check-In |
+| 13 | Refinement → Integration | Finalizing Deliverables | Project Deliverables submission, optional employer Final Check-In |
 | 14 | Integration | Preparing to Present | Presentation build & rehearsal, Reflection #5, Peer Evaluation #2 |
 | 15 | Integration | Presenting Your Work | Final Presentation, debrief, course closure |
 

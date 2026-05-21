@@ -16,4 +16,4 @@ What separates a useful check-in from a perfunctory one is what the team brings 
 
 The difference shows up in what the employer takes away. The employer leaves either thinking "they're on track" or thinking "I helped them solve something." The second is how professional relationships get built, and it's the one that serves your team for the rest of the project.
 
-The questions your team brings to Development Check-In #1 are what determine which version you get.
+The questions your team brings to your check-ins are what determine which version you get.

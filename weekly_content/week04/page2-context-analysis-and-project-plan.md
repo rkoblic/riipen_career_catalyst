@@ -3,7 +3,7 @@ week: 4
 page: 2
 title: Understanding the Deliverable
 created: 2026-03-24
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -30,7 +30,7 @@ This page covers what each part is for, how the parts work together, the rubric,
 
 When you submit this deliverable, it's automatically shared with your employer. They'll read it ahead of your next check-in, the Direction Check, and it forms the basis of that conversation.
 
-**[TEMPLATE: Context Analysis & Project Plan]**
+[TEMPLATE: Context Analysis & Project Plan template]
 
 ---
 ## The four parts

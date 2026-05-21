@@ -18,6 +18,6 @@ If they want to show that energy costs have been trending upward over five years
 
 But if the finding is simpler, say, three facilities account for seventy percent of total energy use, neither a table nor a chart earns its space. A sentence does it better. "Three facilities account for seventy percent of total energy spend: the downtown warehouse, the regional distribution center, and the main production floor." One sentence. A chart for three numbers is usually more visual noise than signal.
 
-Same logic for a customer onboarding project. Comparing drop-off rates across five stages? Table or bar chart. Showing that completion rates improved after a redesign? Line chart, before and after. And if the finding is a single most important number, put it in a sentence.
+Same logic for a customer onboarding project. Comparing drop-off rates across five stages? Choose a table or a bar chart. Showing that completion rates improved after a redesign? Line chart, before and after. And if the finding is a single most important number, put it in a sentence.
 
 Pick the format that makes your argument clearest to a reader who isn't already convinced.

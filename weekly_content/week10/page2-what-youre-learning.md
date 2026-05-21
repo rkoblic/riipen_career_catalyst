@@ -3,7 +3,7 @@ week: 10
 page: 2
 title: What you're actually learning
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -46,15 +46,18 @@ Write a few sentences for each, in whatever form feels natural. The point is to 
 
 Even once you've noticed what you've learned, there's another step: naming it so it holds up outside this project. Most people stall here.
 
-"I learned how our client runs their operations meetings" is a real piece of learning, but it's tied to one client. Strip the client and the project type, and nothing remains. A transferable version of the same learning might read: "I learned that operations meetings in under-resourced organizations often function differently from what management theory describes. The formal agenda matters less than the context people are carrying into the room." A reader who's never worked with this client can use that version.
+"I learned how our client runs their operations meetings" is a real piece of learning, but it's tied to one client. Strip the client and the project type, and nothing remains. The transferable version of the same learning sounds different:
+
+- **Tied to one client:** "I learned how our client runs their operations meetings."
+- **Holds up outside the project:** "I learned that operations meetings in under-resourced organizations often function differently from what management theory describes. The formal agenda matters less than the context people are carrying into the room."
+
+A reader who's never worked with this client can use the second version.
 
 ### The strip-the-proper-nouns test
 
 If your learning statement still reads useful after you remove the client name and the project type, it's transferable. If removing them makes the statement disappear, it's still situation-specific.
 
 Run the test on anything you write down. It's fast and it catches most of the gap.
-
-[SCENARIO CARD: Weak vs. strong transferable-learning example — one pair showing a situation-specific statement vs. the transferable version of the same learning]
 
 ### Why this matters for your reflection work
 

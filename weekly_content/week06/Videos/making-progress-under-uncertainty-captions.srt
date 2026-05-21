@@ -1,0 +1,219 @@
+1
+00:00:03,400 --> 00:00:05,070
+When development starts, you'll hit 
+
+2
+00:00:05,140 --> 00:00:06,240
+moments where something isn't 
+
+3
+00:00:06,300 --> 00:00:07,380
+quite where you need it.
+
+4
+00:00:07,990 --> 00:00:09,650
+ The instinct is usually to stop and 
+
+5
+00:00:09,700 --> 00:00:09,980
+wait.
+
+6
+00:00:10,890 --> 00:00:12,410
+ Here are three scenarios for why 
+
+7
+00:00:12,470 --> 00:00:13,680
+that's almost always the wrong 
+
+8
+00:00:13,730 --> 00:00:14,230
+move.
+
+9
+00:00:14,670 --> 00:00:16,040
+ A process improvement team is 
+
+10
+00:00:16,090 --> 00:00:17,430
+drafting their findings section.
+
+11
+00:00:18,090 --> 00:00:19,630
+ One member can't find productivity 
+
+12
+00:00:19,690 --> 00:00:21,680
+figures for part of the workflow, so 
+
+13
+00:00:21,720 --> 00:00:22,850
+they stop writing and wait.
+
+14
+00:00:23,570 --> 00:00:25,180
+ A more useful move is to draft the 
+
+15
+00:00:25,230 --> 00:00:27,190
+section anyway, mark where the 
+
+16
+00:00:27,230 --> 00:00:30,010
+figure belongs, note it as "to be 
+
+17
+00:00:30,060 --> 00:00:31,940
+confirmed," and keep moving.
+
+18
+00:00:32,990 --> 00:00:34,660
+ The section gets written, the gap 
+
+19
+00:00:34,720 --> 00:00:36,500
+gets named, and no time is lost 
+
+20
+00:00:36,540 --> 00:00:37,740
+waiting for a number that wouldn't 
+
+21
+00:00:37,760 --> 00:00:38,980
+have changed the direction of the 
+
+22
+00:00:39,020 --> 00:00:41,410
+work. Different scenario.
+
+23
+00:00:41,800 --> 00:00:43,410
+ A social media team member isn't 
+
+24
+00:00:43,450 --> 00:00:44,940
+sure when their audience analysis 
+
+25
+00:00:44,980 --> 00:00:45,800
+section is done.
+
+26
+00:00:46,510 --> 00:00:47,840
+ They've done the research but don't 
+
+27
+00:00:47,880 --> 00:00:49,540
+know if it's enough, so they keep 
+
+28
+00:00:49,610 --> 00:00:50,850
+researching past the drafting 
+
+29
+00:00:50,900 --> 00:00:51,430
+deadline.
+
+30
+00:00:52,140 --> 00:00:53,850
+ A more useful move is to check what
+
+31
+00:00:53,870 --> 00:00:55,100
+ the section actually needs to 
+
+32
+00:00:55,160 --> 00:00:56,580
+accomplish and compare it to what 
+
+33
+00:00:56,600 --> 00:00:57,160
+they have.
+
+34
+00:00:58,320 --> 00:01:00,520
+ If the research covers it, it's done.
+
+35
+00:01:00,800 --> 00:01:02,490
+ If it doesn't, they now know 
+
+36
+00:01:02,550 --> 00:01:04,280
+specifically what's missing instead of
+
+37
+00:01:04,340 --> 00:01:05,660
+ researching everything in case it 
+
+38
+00:01:05,700 --> 00:01:08,760
+might be useful. Third scenario.
+
+39
+00:01:09,280 --> 00:01:11,040
+ A community outreach team finds 
+
+40
+00:01:11,100 --> 00:01:12,910
+two conflicting research sources.
+
+41
+00:01:13,290 --> 00:01:14,860
+ One says the primary barrier to 
+
+42
+00:01:14,920 --> 00:01:17,290
+participation is awareness, the other 
+
+43
+00:01:17,340 --> 00:01:18,250
+says it's access.
+
+44
+00:01:18,595 --> 00:01:20,135
+ The temptation is to pick one and 
+
+45
+00:01:20,174 --> 00:01:21,095
+ignore the other.
+
+46
+00:01:21,534 --> 00:01:22,724
+ The better move is to name the 
+
+47
+00:01:22,765 --> 00:01:23,194
+tension.
+
+48
+00:01:23,855 --> 00:01:25,355
+ Can more research resolve it before 
+
+49
+00:01:25,375 --> 00:01:26,155
+the draft is due?
+
+50
+00:01:26,857 --> 00:01:29,047
+ If not, pick a direction, flag the 
+
+51
+00:01:29,097 --> 00:01:30,967
+limitation, and let the employer 
+
+52
+00:01:31,037 --> 00:01:32,317
+weigh in at the next check-in.
+
+53
+00:01:33,377 --> 00:01:34,897
+ Every one of those situations looks 
+
+54
+00:01:34,917 --> 00:01:35,737
+like a blocker.
+
+55
+00:01:36,067 --> 00:01:37,047
+ But they don't have to be.

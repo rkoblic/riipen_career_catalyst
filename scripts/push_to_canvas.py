@@ -240,11 +240,21 @@ class CanvasClient:
         return None
 
     def upsert_page(self, slug: str, title: str, body_html: str, published: bool = False):
-        """Create or update a page. Canvas's PUT on a page URL is upsert."""
+        """Create or update a page. Canvas's PUT on a page URL is upsert.
+
+        Note: we pass `wiki_page[url]` matching the path slug. Canvas honors this
+        on page CREATION (locks the new page's slug to whatever we send). On
+        EXISTING page updates, Canvas appears to ignore `wiki_page[url]` and
+        re-derives the slug from the title — empirically observed 2026-05-21
+        when the W13 page2 title changed and Canvas rewrote the slug from
+        `graded-final-deliverables` to `project-deliverables-submission`
+        regardless of `wiki_page[url]`. The old slug continues to resolve via
+        Canvas's auto-redirect, so existing internal links don't break."""
         path = f"/api/v1/courses/{self.course_id}/pages/{urllib.parse.quote(slug, safe='')}"
         payload = {
             "wiki_page": {
                 "title": title,
+                "url": slug,
                 "body": body_html,
                 "published": bool(published),
                 "editing_roles": "teachers",

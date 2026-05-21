@@ -7,37 +7,28 @@
 
 ## How to Use This Guide
 
-Professional Engagement (20% of the final course grade) is a composite score drawn from three evidence sources: peer evaluation, employer feedback, and instructor observation. Unlike the Final Deliverables or Final Presentation rubrics — which assess a single artifact against a set of dimensions — Professional Engagement synthesizes multiple data streams collected at different points across the semester into one score.
+Professional Engagement is the unifying concept for **five separate gradebook items** that together total 20% of the final course grade. Each item lives independently in the Riipen gradebook with its own absolute weight. There is no composite Professional Engagement score; the five items individually represent what the learner sees and what counts toward the grade.
 
-This guide serves three functions:
+**The five items:**
 
-1. **Scoring the instructor observation component.** Peer evaluation and employer feedback have their own instruments with BARS anchors. Instructor observation does not have a standalone instrument — this guide provides the holistic descriptors and evidence prompts that support a fair, consistent score.
-
-2. **Walking through the combination workflow.** The math is straightforward, but the judgment calls around it are not. This guide provides the step-by-step process for pulling data, checking for flags, applying adjustments, and arriving at a final score.
-
-3. **Calibrating edge cases.** Professional Engagement generates more instructor judgment calls than any other grade component. This guide addresses the most common scenarios.
-
-**The governing principle:** Professional Engagement assesses *how students work*, not *what they produce*. Reliability, communication, collaboration, and responsiveness are the behaviors being evaluated. A student can produce excellent deliverables and still score poorly on Professional Engagement if they were unreliable, unresponsive, or carried by teammates. Conversely, a student whose deliverables are average but who was consistently dependable, communicative, and collaborative should score well here.
-
----
-
-## The Three Evidence Sources
-
-| Source | What It Captures | Weight | Timing |
+| Item | Source | Weight | Manual scoring? |
 |---|---|---|---|
-| **Peer Evaluation** | Individual contribution, reliability, collaboration behaviors — what teammates observe that instructors cannot | 50% | Week 8 (formative, 30%) + Week 15 (summative, 70%) |
-| **Employer Feedback** | Team-level professionalism, responsiveness, communication quality in client interactions | 25% | Mid-project survey (30%) + End-of-project survey (70%) |
-| **Instructor Observation** | Checkpoint patterns, communication quality, feedback responsiveness, overall professional judgment | 25% | Cumulative across the full course |
+| Mid-Project Peer Evaluation | Submitted by teammates | 3% | No — Riipen auto-aggregates |
+| End-of-Project Peer Evaluation | Submitted by teammates | 7% | No — Riipen auto-aggregates |
+| Mid-Project Employer Feedback | Submitted by the employer | 1.5% | No — Riipen auto-aggregates |
+| End-of-Project Employer Feedback | Submitted by the employer | 3.5% | No — Riipen auto-aggregates |
+| Instructor Observation | Assigned by the instructor | 5% | **Yes** |
+| **Total** | | **20%** | |
 
-### Why These Weights
+**Workflow note:** Scores submitted by peers (Mid- and End-of-Project Peer Evaluations) and by the employer (Mid- and End-of-Project Employer Feedback) are automatically aggregated into the gradebook by the Riipen platform. The instructor's only manual scoring task is the **Instructor Observation** item — a single end-of-semester score. Everything else in this guide is about reviewing the auto-aggregated scores for fairness, flagging anomalies, and applying per-item adjustments when documented justification warrants.
 
-Peer evaluation carries the highest weight (50%) because teammates have direct visibility into individual contribution patterns that neither instructors nor employers can observe. They know who did the work, who was reliable, and who collaborated effectively. Employer feedback (25%) validates team-level professionalism in authentic client interactions but cannot distinguish individual contributions. Instructor observation (25%) provides a check-and-balance on both — instructors see checkpoint patterns, feedback responsiveness, and communication quality, and can correct for inflated peer evaluations or inconsistent employer feedback.
+**The governing principle:** Professional Engagement assesses *how students work*, not *what they produce*. Reliability, communication, collaboration, and responsiveness are the behaviors being evaluated. A student can produce excellent deliverables and still score poorly across the Professional Engagement items if they were unreliable, unresponsive, or carried by teammates. Conversely, a student whose deliverables are average but who was consistently dependable, communicative, and collaborative should score well here.
 
 ---
 
 ## Scoring Scale Reference
 
-All three sources use the same 1–4 scale and percentage conversion:
+All five items use the same 1–4 BARS scale and percentage conversion:
 
 | Score | Label | Percentage | Grade Equivalent |
 |---|---|---|---|
@@ -46,81 +37,62 @@ All three sources use the same 1–4 scale and percentage conversion:
 | 2 | Developing | 75% | C |
 | 1 | Emerging | 65% | D |
 
-The consistent scale across all three sources means the combination formula produces a meaningful weighted average without cross-scale translation.
+The four auto-aggregated items (peer and employer) produce averages on this scale; the Instructor Observation item is an integer 1–4 you assign directly.
 
 ---
 
-## Source 1: Peer Evaluation (50%)
+## Item 1: Mid-Project Peer Evaluation (3% of final grade)
 
-Peer evaluation data comes from the instruments specified in the Peer Evaluation Framework. The scoring mechanics are fully defined there; this section summarizes what the instructor needs at grading time.
+Auto-aggregated by Riipen from teammates' submissions per the Peer Evaluation Framework.
 
-### What You Receive
+**What you'll see at grading time:** For each student — average peer rating on each of four BARS dimensions (Reliability, Contribution, Constructive Engagement, Accountability), plus qualitative Continue/Start/Adjust feedback. Self-evaluation scores come in from the separate Mid-Project Self-Evaluation survey (calibration signal only; not factored into this item's grade).
 
-For each student, you have:
-
-- **Week 8 (formative):** Average peer rating on each of four BARS dimensions (Reliability, Contribution, Constructive Engagement, Accountability), plus qualitative Continue/Start/Adjust feedback and self-evaluation scores
-- **Week 15 (summative):** Average peer rating on the same four dimensions, plus contribution allocation data and self-evaluation scores
-
-### How the Score Is Calculated
-
-1. Average across the four dimension scores to get a single peer evaluation score (1–4) for each evaluation point
-2. Weight the two evaluations: Week 8 × 0.30 + Week 15 × 0.70
-3. Convert to percentage using the scale above
-
-### What to Review Before Accepting the Score
-
-Before using the calculated peer evaluation score, check for these flags:
-
-- **Uniform high ratings across all students in a team** (everyone rates everyone 4 on everything): Likely inflation. Review qualitative evidence — if the written feedback is vague or perfunctory alongside high ratings, the data is unreliable. Consider shifting weight to instructor observation.
-- **Dramatic divergence between raters** (one teammate gives a 4, another gives a 1 on the same dimension): Review the written evidence from both. Determine whether the divergence reflects genuine disagreement about behavior or interpersonal conflict unrelated to performance.
-- **Self-rating exceeds peer average by ≥ 1.5 points on any dimension:** Potential self-perception gap. Not a scoring issue per se, but context for interpreting the student's overall professional development.
-- **Contribution allocation contradicts BARS ratings** (e.g., a student receives high BARS scores but a low point allocation, or vice versa): The allocation is a calibration check, not a direct grade input, but a disconnect warrants a closer look at the qualitative evidence.
+**Review for these flags before accepting the auto-aggregated score:**
+- **Uniform high ratings across all students in a team** (everyone rates everyone 4 on everything): Likely inflation. Review qualitative evidence — if the written feedback is vague or perfunctory alongside high ratings, the data is unreliable. You may adjust the individual's score with documented justification.
+- **Dramatic divergence between raters** (one teammate gives a 4, another gives a 1 on the same dimension): Review the written evidence from both. If evidence clearly supports one perspective, you may weight that evaluation more heavily when adjusting.
+- **Self-rating exceeds peer average by ≥ 1.5 points on any dimension:** Potential self-perception gap. Not a scoring issue per se, but context for interpreting the student's overall professional development. No adjustment to the item.
 
 ---
 
-## Source 2: Employer Feedback (25%)
+## Item 2: End-of-Project Peer Evaluation (7% of final grade)
 
-Employer feedback data comes from the instruments specified in the Employer Evaluation Framework. The scoring mechanics are fully defined there; this section summarizes what the instructor needs at grading time.
+Same instrument as the Mid-Project Peer Evaluation, calibrated across the full project arc. Auto-aggregated by Riipen.
 
-### What You Receive
+**Review flags:** Same as Item 1 above.
 
-For each team, you have:
+---
 
-- **Mid-project survey (Week 8):** Three BARS ratings (Communication, Preparedness, Responsiveness) plus qualitative feedback and a confidence signal
-- **End-of-project survey (Week 15):** Same three BARS ratings plus Deliverable Quality rating (instructor context only, not averaged into score), qualitative feedback, partnership quality signal, and satisfaction signal
+## Item 3: Mid-Project Employer Feedback (1.5% of final grade)
 
-### How the Score Is Calculated
+Auto-aggregated by Riipen from the employer's survey submission per the Employer Evaluation Framework.
 
-1. Average the three BARS dimension scores (Communication, Preparedness, Responsiveness) for each survey point
-2. Weight the two surveys: Mid-project × 0.30 + End-of-project × 0.70
-3. Convert to percentage using the scale above
+**What you'll see at grading time:** For each team — three BARS ratings (Communication, Preparedness, Responsiveness) plus qualitative feedback and a confidence signal. All team members receive the same auto-aggregated team score.
 
-All team members receive the same base employer score.
+**Modulating team score to individual score (per item):** When peer evaluation data shows consistent contribution across team members, all team members keep the same employer-item score. When peer evaluations reveal significant disparities — for example, one teammate rated 1 on Reliability by both peers while others are rated 3–4 — you may adjust that individual's employer-item score. Adjustments should be modest (up or down by no more than one level on the 1–4 scale) and documented with the reasoning.
 
-### Modulating Team Score to Individual Score
+**Review for these flags:**
+- **Missing survey:** If the employer didn't complete the mid-project survey, this item cannot be scored from employer data. See "When Employer Feedback Is Missing" under Edge Cases.
+- **All dimensions rated identically** (e.g., 3/3/3): May indicate the employer didn't differentiate between dimensions. Check whether the qualitative feedback provides more texture.
+- **Disconnect between BARS ratings and the qualitative response** (e.g., high ratings but a critical comment, or vice versa): Review for context before accepting.
 
-When peer evaluation data shows consistent contribution across team members, all receive the team's employer score unchanged.
+---
 
-When peer evaluations reveal significant disparities — for example, one teammate rated 1 on Reliability by both peers while others are rated 3–4 — you may adjust individual employer scores. This is a judgment call, not an automatic formula. The logic: if a student was unreliable to their teammates, they likely weren't contributing proportionally to the employer-facing professionalism either, even though the employer saw the team as a unit.
+## Item 4: End-of-Project Employer Feedback (3.5% of final grade)
 
-Adjustments should be modest — up or down by no more than one level on the 1–4 scale — and documented with the reasoning.
+Same structure as Item 3, plus end-of-project additions (Deliverable Quality rating, Partnership Quality, satisfaction signal). Auto-aggregated by Riipen.
 
-### What to Review Before Accepting the Score
-
-- **Missing survey:** If the employer didn't complete one of the surveys, see the "When Employer Feedback Is Missing" section under Edge Cases.
-- **All dimensions rated identically** (e.g., 3/3/3 at both survey points): Not necessarily a flag, but may indicate the employer didn't differentiate between dimensions. Check whether the qualitative feedback provides more texture.
+**Review flags:** Same as Item 3 above, plus:
 - **Significant decline from mid-project to end-of-project** (drop of ≥ 2 points on any dimension): Something went wrong in the second half. Cross-reference with peer evaluation data to determine whether this was a team-wide issue or driven by specific individuals.
-- **Disconnect between BARS ratings and the satisfaction/partnership quality signal** (e.g., high BARS scores but a low satisfaction rating, or vice versa): The structured questions may not have captured the full picture. Review the qualitative feedback for context.
 
 ---
 
-## Source 3: Instructor Observation (25%)
+## Item 5: Instructor Observation (5% of final grade)
 
-This is the one source where you are both the data collector and the scorer. Unlike peer evaluation and employer feedback — which produce calculated scores from structured instruments — the instructor observation score is a holistic judgment based on your cumulative observations across the full course.
+**This is the only Professional Engagement item the instructor manually scores.** Unlike Items 1–4, which produce auto-aggregated scores from structured instruments, the Instructor Observation score is a holistic judgment based on your cumulative observations across the full course. You assign one integer score on the 1–4 BARS scale at end of semester.
 
-### What You Are Assessing
+### What you are assessing
 
-Four dimensions inform your holistic score. You do not score each dimension separately — they combine into a single 1–4 rating. The dimensions are:
+Four dimensions inform your holistic score. You do not score each dimension separately — they combine into a single 1–4 rating.
 
 **Checkpoint Completion Patterns:** Did the student submit checkpoints on time and with genuine effort? A student who submits every checkpoint on time with substantive work demonstrates different professional behavior than one who submits late, submits perfunctory work, or accumulates incomplete checkpoints. The pattern matters more than any individual checkpoint.
 
@@ -158,9 +130,9 @@ This student demonstrated significant gaps in professional behavior that persist
 
 *Evidence markers: Frequent checkpoint issues. Communication problems documented across multiple interactions. Little evidence of feedback incorporation. Multiple instances requiring instructor intervention for professional behavior. The student did not meet baseline professional expectations despite support and redirection.*
 
-### Building Your Evidence Base Throughout the Semester
+### Building your evidence base throughout the semester
 
-The instructor observation score is assigned at the end of the course, but the evidence must be collected as you go. You cannot reliably score a student's professional behavior from memory across 15 weeks. Keep a running record — even brief notes — for each student:
+The Instructor Observation score is assigned at the end of the course, but the evidence must be collected as you go. You cannot reliably score a student's professional behavior from memory across 15 weeks. Keep a running record — even brief notes — for each student:
 
 - Checkpoint submission patterns (on time? quality of effort?)
 - Notable communication interactions (proactive outreach, slow responses, unclear messages)
@@ -172,81 +144,50 @@ A simple spreadsheet or running notes document works. The goal is not comprehens
 
 ---
 
-## Combining the Three Sources
-
-### The Formula
-
-Professional Engagement % = (Peer Evaluation % × 0.50) + (Employer Feedback % × 0.25) + (Instructor Observation % × 0.25)
-
-### Worked Example
-
-**Student: Maya (Maple & Main Credit Union team)**
-
-| Source | Raw Score | Percentage | Weighted |
-|---|---|---|---|
-| Peer Evaluation (combined: 3.5 Week 8, 3.75 Week 15) | 3.675 | 91.8% | 45.9% |
-| Employer Feedback (team score, no modulation) | 3.57 | 89.3% | 22.3% |
-| Instructor Observation | 3 (Proficient) | 85% | 21.25% |
-| **Professional Engagement Score** | | | **89.5%** |
-
-Maya's Professional Engagement contributes 89.5% × 20% = **17.9 points** to the final course grade (out of 100).
-
-### Sanity Check Before Finalizing
-
-After calculating the score, ask yourself: *Does this number feel right given what I know about this student's professional behavior?* The formula should confirm your professional judgment, not override it. If the calculated score surprises you, investigate:
-
-- Is the peer evaluation data reliable, or might it be inflated/deflated?
-- Is the employer score reflecting this student's contribution, or is a team-level score masking individual gaps?
-- Does your instructor observation score accurately capture what you observed?
-
-If investigation confirms the data, accept the calculated score. The formula exists to prevent bias, and your surprise may reflect an assumption that the evidence doesn't support. But if investigation reveals a data quality issue (inflated peer evals, missing employer data, an incident not captured in the structured instruments), you have override authority.
-
----
-
 ## Edge Cases
 
 ### When Peer Evaluations Are All High
 
-If every student on a team rates every teammate 3.5+ on all dimensions, the peer evaluation data may not be differentiating performance. Check the qualitative evidence:
+If every student on a team rates every teammate 3.5+ on all dimensions, the peer evaluation data may not be differentiating performance. Check the qualitative evidence on the relevant peer evaluation item:
 
-- If the written feedback is specific and substantive, the team may genuinely have collaborated well. Accept the scores.
-- If the written feedback is vague or generic ("great teammate," "always did their part" without specific examples), the ratings are likely inflated. In this case, increase your reliance on the instructor observation component. You may shift the effective weighting — for example, treating peer evaluation as 35% and instructor observation as 40% — but document the rationale.
+- If the written feedback is specific and substantive, the team may genuinely have collaborated well. Accept the auto-aggregated scores.
+- If the written feedback is vague or generic ("great teammate," "always did their part" without specific examples), the ratings are likely inflated. Document your reasoning and adjust the individual peer evaluation item scores down. Your Instructor Observation item is also where you can capture the difference between rated reality and observed reality.
 
 ### When Peer Evaluations Conflict
 
 If one teammate rates a student a 4 while another rates them a 1 on the same dimension:
 
 - Review the written evidence from both evaluations
-- If both perspectives have supporting evidence, use the average
-- If evidence clearly supports one perspective, weight that evaluation more heavily
-- If the pattern suggests interpersonal conflict rather than performance differences, conduct a follow-up conversation with the team before scoring
+- If both perspectives have supporting evidence, accept the auto-aggregated average
+- If evidence clearly supports one perspective, weight that evaluation more heavily when adjusting the item score
+- If the pattern suggests interpersonal conflict rather than performance differences, conduct a follow-up conversation with the team before adjusting
 
 ### When Employer Feedback Is Missing
 
-If the employer fails to complete one or both surveys:
+Because each employer survey is its own gradebook item now, missing data is handled per item:
 
-- **One survey missing:** Use the available survey as 100% of the employer feedback score (rather than weighting a single survey against zero).
-- **Both surveys missing:** Redistribute employer weight to instructor observation. The effective weighting becomes: Peer Evaluation 50%, Instructor Observation 50%. Incorporate any available employer touchpoint observations (from kickoff, check-ins, email interactions, presentation) into your instructor observation score.
+- **One survey missing:** The corresponding gradebook item (Item 3 or Item 4) cannot be scored from employer data. Score it manually using whatever employer-facing observations you have (kickoff, check-ins, email interactions, presentation). Document the source.
+- **Both surveys missing:** Score both Items 3 and 4 manually using employer-touchpoint observations. Document the source.
 - **Survey completed but unusably brief:** Treat the same as missing. A survey where the employer selected ratings without any qualitative context and rated all dimensions identically is not providing usable data.
 
 ### When a Student Has Documented Accommodations
 
-A student with an approved accommodation that affected participation (e.g., extended deadlines, reduced meeting attendance, modified communication expectations) may need peer evaluation dimensions reweighted or excluded. Work with your institution's accessibility office to determine which dimensions are affected, then:
+A student with an approved accommodation that affected participation (e.g., extended deadlines, reduced meeting attendance, modified communication expectations) may need item-by-item adjustment. Work with your institution's accessibility office to determine which dimensions are affected, then:
 
-- Exclude affected dimensions from the peer evaluation average
-- Adjust your instructor observation score to account for the accommodation (a student who was reliably engaged within their accommodation parameters is Proficient or Exemplary, not Developing because their patterns looked different from peers)
+- For the peer evaluation items: exclude affected dimensions from the average where reasonable
+- For the Instructor Observation item: score with the accommodation in mind (a student who was reliably engaged within their accommodation parameters is Proficient or Exemplary, not Developing because their patterns looked different from peers)
 - Document the accommodation and adjustment in your grading records
 
 ### Peer Evaluation Manipulation
 
-If you have evidence of coordinated rating behavior ("let's all rate each other 4s"), the peer evaluation data is compromised. Shift the peer evaluation weight entirely to instructor observation. The effective weighting becomes: Instructor Observation 75%, Employer Feedback 25%. This is a serious situation — document the evidence and the adjustment thoroughly.
+If you have evidence of coordinated rating behavior ("let's all rate each other 4s"), the peer evaluation data is compromised for that team's peer items. Manually re-score the affected peer evaluation items (Items 1 and 2 for that team) based on your own observation evidence. Document the evidence and the adjustment thoroughly. This is a serious situation that may also warrant separate academic-integrity follow-up.
 
 ### Grade Override Authority
 
-You retain authority to override calculated scores when evidence warrants. This is a safety valve, not a routine adjustment. Common override scenarios:
+You retain authority to override any of the five item scores when evidence warrants. This is a safety valve, not a routine adjustment. Common override scenarios:
 
-- **Egregious behavior:** A student who misses the final presentation without notice, commits an academic integrity violation, or engages in behavior that fundamentally undermines the professional engagement expectations may receive a Professional Engagement score of 0 regardless of peer evaluation or employer feedback.
-- **Extraordinary circumstances:** A student who faced a significant personal crisis mid-semester but handled it with exceptional professionalism (communicated proactively, made arrangements with teammates, recovered and re-engaged) may deserve a score that the formula — which captures the disruption but not the professionalism of the response — doesn't produce.
+- **Egregious behavior:** A student who misses the Final Presentation without notice, commits an academic integrity violation, or engages in behavior that fundamentally undermines the professional engagement expectations may receive 0 on the relevant items regardless of what the auto-aggregated scores say.
+- **Extraordinary circumstances:** A student who faced a significant personal crisis mid-semester but handled it with exceptional professionalism (communicated proactively, made arrangements with teammates, recovered and re-engaged) may deserve scores that the auto-aggregated data — which captures the disruption but not the professionalism of the response — doesn't produce. The Instructor Observation item is the most natural place to capture this; you may also adjust the affected peer or employer items with documentation.
 
 Overrides should be rare, documented with specific evidence, and defensible to a department chair or academic review board.
 
@@ -254,76 +195,68 @@ Overrides should be rare, documented with specific evidence, and defensible to a
 
 ## Step-by-Step Grading Workflow
 
-Use this sequence when you sit down to score Professional Engagement at the end of the semester.
+Use this sequence when you sit down to finalize the Professional Engagement items at the end of the semester.
 
-### Step 1: Compile the Data
+### Step 1: Pull the auto-aggregated scores
 
-For each student, gather:
+For each student, pull from the Riipen gradebook:
+- Mid-Project Peer Evaluation item score (Item 1)
+- End-of-Project Peer Evaluation item score (Item 2)
+- Mid-Project Employer Feedback item score (Item 3)
+- End-of-Project Employer Feedback item score (Item 4)
 
-- Week 8 peer evaluation scores (four dimension averages)
-- Week 15 peer evaluation scores (four dimension averages + contribution allocation)
-- Mid-project employer survey scores (three BARS dimensions)
-- End-of-project employer survey scores (three BARS dimensions + supplementary items)
-- Your instructor observation notes
+These four are already populated by the platform. You are reviewing, not calculating.
 
-### Step 2: Check for Flags
+### Step 2: Review each auto-aggregated score for flags
 
-Before calculating, scan each student's data for the flags described in the source-specific sections above. Note any students who need closer attention.
+For each of Items 1–4, scan the qualitative evidence and rating distributions for the flags described in the item-specific sections above. Note any students where evidence suggests the auto-aggregated score doesn't match reality.
 
-### Step 3: Calculate Peer Evaluation Score
+### Step 3: Apply per-item adjustments where documented
 
-For each student: average the four Week 8 dimension scores, average the four Week 15 dimension scores, weight (Week 8 × 0.30 + Week 15 × 0.70), convert to percentage.
+Where you've identified a flagged item that warrants adjustment, modify that specific item's score in the gradebook. Document the reasoning per student per item.
 
-### Step 4: Calculate Employer Feedback Score
+### Step 4: Score Instructor Observation (Item 5)
 
-For each team: average the three BARS dimensions at each survey point, weight (mid-project × 0.30 + end-of-project × 0.70), convert to percentage. Apply to all team members as the base score. Review peer evaluation patterns — modulate individual scores if warranted.
+For each student: review your cumulative observation notes, read the holistic scoring descriptors in this guide, assign a 1–4 score, enter it as the Item 5 gradebook score.
 
-### Step 5: Assign Instructor Observation Score
+### Step 5: Sanity check across the five items per student
 
-For each student: review your cumulative observation notes, read the holistic scoring descriptors in this guide, assign a 1–4 score, convert to percentage.
+For each student, scan the five item scores together. Does the overall pattern match what you observed? If a student has high marks on four items but you scored a 2 on Instructor Observation that creates dissonance, ask whether your observation score is right and whether any of the other items need re-review. The five-item view is the check.
 
-### Step 6: Combine
+### Step 6: Document
 
-Apply the formula: (Peer Eval % × 0.50) + (Employer Feedback % × 0.25) + (Instructor Observation % × 0.25).
-
-### Step 7: Sanity Check
-
-Review the calculated score against your overall impression. Investigate and adjust if the number doesn't match the evidence. Document any adjustments.
-
-### Step 8: Document
-
-Record the final Professional Engagement score, the three component scores, and any adjustments or overrides with rationale. This documentation supports grade appeals and institutional review.
+Record any adjustments or overrides on Items 1–4 with rationale, and your Instructor Observation reasoning. This documentation supports grade appeals and institutional review.
 
 ---
 
 ## Frequently Asked Questions
 
-**Q: A student has strong peer evaluation scores but I observed poor professional behavior. Should I override the peer evaluation?**
-Not automatically. First, consider whether the peers had access to information you don't — they may have observed strong collaboration that wasn't visible to you. If, after reviewing the qualitative peer feedback, you still believe the peer scores don't reflect reality, use your instructor observation score as the corrective mechanism. That's what it's designed for. A student with a peer evaluation score of 90% and an instructor observation score of 75% will land at a combined score that reflects both perspectives. Only use override authority if the gap is so large that the formula can't correct for it.
+**Q: A student has strong peer evaluation scores but I observed poor professional behavior. Should I override the peer evaluation items?**
+Not automatically. First, consider whether the peers had access to information you don't — they may have observed strong collaboration that wasn't visible to you. If, after reviewing the qualitative peer feedback, you still believe the peer scores don't reflect reality, your Instructor Observation item is the natural corrective. A student with strong peer item scores and a 2 on Instructor Observation will land at a combined picture that reflects both perspectives. Only adjust the peer item scores themselves if the data quality issue is documented (inflation, manipulation, missing evidence).
 
 **Q: The employer gave the team all 4s but I think their professionalism was average. What do I do?**
-Score your instructor observation based on what you observed. The employer may have different standards, may have had a particularly positive interaction, or may have rated generously to avoid conflict. The three-source design exists precisely for this situation — your observation provides a counterbalance. Do not adjust the employer scores themselves; use your instructor observation score to reflect your assessment.
+Score your Instructor Observation based on what you observed. The employer may have different standards, may have had a particularly positive interaction, or may have rated generously to avoid conflict. The five-item design exists precisely for this situation — your Instructor Observation provides a counterbalance. Don't adjust the employer items themselves unless you have documented justification.
 
 **Q: A student improved dramatically from the first half to the second half of the semester. How do I handle this?**
-The design already accounts for this. The Week 15 peer evaluation is weighted at 70%, which captures the improvement arc. For employer feedback, the end-of-project survey (70% weight) reflects the more recent experience. For your instructor observation, the holistic descriptors consider the full semester — a student who started poorly but corrected course and sustained improvement is demonstrating professional growth, which could support a Proficient score even if the first few weeks were rocky. Use the evidence markers as a guide, but weight the trajectory, not just the average.
+The design already accounts for this. The End-of-Project Peer Evaluation (7%) is weighted more heavily than the Mid-Project Peer Evaluation (3%); same for the employer items (3.5% vs 1.5%). Late-semester improvement shows up naturally because the heavier-weighted items capture it. For Instructor Observation, the holistic descriptors consider the full semester — a student who started poorly but corrected course and sustained improvement is demonstrating professional growth, which could support a Proficient score even if the first few weeks were rocky.
 
-**Q: Two students on the same team had very different professional behavior, but they're getting similar Professional Engagement scores because the employer and peer components pull them together. Is that a problem?**
-Not necessarily. If peer evaluations accurately differentiate (one student scored higher than the other on the BARS dimensions), the 50% peer weight should create separation. If peer evaluations don't differentiate but you observed clear differences, your instructor observation score is where you create the separation. Check that each source is doing its job before concluding the composite score is wrong.
+**Q: Two students on the same team had very different professional behavior, but their peer and employer items look similar. Is that a problem?**
+Not necessarily. If peer evaluations accurately differentiate (one student scored higher than the other on the BARS dimensions), the differences should show up in their Item 1 and Item 2 scores. If peer evaluations don't differentiate but you observed clear differences, your Instructor Observation item (Item 5) is where you create the separation. Check that each item is doing its job before concluding the picture is wrong.
 
 **Q: A student was reliable and communicative but contributed very little substantively. Where does that show up?**
-In peer evaluation. The BARS Contribution dimension specifically captures this pattern — a student can score well on Reliability (shows up, meets deadlines) and poorly on Contribution (work requires revision, doesn't volunteer, doesn't bring ideas). If peers rated accurately, the peer evaluation score will reflect this. If you also observed the pattern, your instructor observation score should reflect it too. The composite score should land lower than a student who was both reliable and substantively contributing.
+In the peer evaluation items. The BARS Contribution dimension specifically captures this pattern — a student can score well on Reliability (shows up, meets deadlines) and poorly on Contribution (work requires revision, doesn't volunteer, doesn't bring ideas). If peers rated accurately, the peer item scores will reflect this. If you also observed the pattern, your Instructor Observation score should reflect it too.
 
 **Q: What if I only taught part of the course (e.g., a co-teaching situation or mid-semester facilitator change)?**
-Score your instructor observation based on the period you observed, and note the limited observation window in your documentation. If another instructor observed the remainder, coordinate to produce a joint instructor observation score. If no one observed the full arc, consider reducing the instructor observation weight and redistributing to peer evaluation, since peers observed the full semester.
+Score your Instructor Observation based on the period you observed, and note the limited observation window in your documentation. If another instructor observed the remainder, coordinate to produce a joint Instructor Observation score. Items 1–4 are auto-aggregated by the platform regardless of who was teaching, so they remain valid.
 
-**Q: How precise should the instructor observation score be? Can I give a 3.5?**
-No. The instructor observation is a holistic score on a 1–4 integer scale. The precision comes from combining it with the peer evaluation and employer feedback scores, which are averages and can fall at any point on the scale. Splitting the instructor observation into half-points creates false precision — the holistic judgment doesn't support that level of granularity. Pick the descriptor that best fits, commit to the integer, and let the formula do the math.
+**Q: How precise should the Instructor Observation score be? Can I give a 3.5?**
+No. The Instructor Observation is a holistic integer on a 1–4 scale. Splitting it into half-points creates false precision — the holistic judgment doesn't support that level of granularity. Pick the descriptor that best fits, commit to the integer.
 
 **Q: A student filed a complaint about their peer evaluation. How does that affect scoring?**
-Take the complaint seriously and review the evidence. If the peer evaluation data appears biased (e.g., one teammate's ratings are outliers unsupported by evidence, or ratings correlate with interpersonal conflict rather than performance), you may exclude that teammate's ratings and recalculate the average from the remaining peers. If the evaluation process itself was compromised, apply the peer evaluation manipulation protocol (shift weight to instructor observation). Document everything.
+Take the complaint seriously and review the evidence. If the peer evaluation data appears biased (e.g., one teammate's ratings are outliers unsupported by evidence, or ratings correlate with interpersonal conflict rather than performance), you may adjust the affected peer item score after re-weighting or excluding the problematic rater's input. If the evaluation process itself was compromised, apply the peer evaluation manipulation protocol. Document everything.
 
 ---
 
 ## Revision Notes
 
-This grading guide is a living document. It should be updated after the first cohort with additional edge cases, calibration examples drawn from real scoring situations (anonymized), and any adjustments to the instructor observation descriptors based on what facilitators actually found observable and useful. In particular, the instructor observation evidence markers should be validated — do these thresholds (e.g., "no more than two late checkpoints" for Proficient) hold up against actual student patterns, or do they need recalibration?
+This grading guide is a living document. It should be updated after the first cohort with additional edge cases, calibration examples drawn from real scoring situations (anonymized), and any adjustments to the Instructor Observation descriptors based on what facilitators actually found observable and useful. In particular, the Instructor Observation evidence markers should be validated — do these thresholds (e.g., "no more than two late checkpoints" for Proficient) hold up against actual student patterns, or do they need recalibration?

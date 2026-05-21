@@ -3,7 +3,7 @@ week: 6
 page: 10
 title: What's Next
 created: 2026-04-01
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -17,7 +17,12 @@ You've spent this week closing out Discovery and starting development. The next 
 
 This meeting has a different purpose than the Direction Check. The Direction Check tested whether your approach pointed the right way before you committed to building it. This meeting is about the building: you've started, and now you bring the specific questions and decision points you've hit while drafting so the employer can help you unblock them.
 
-The value of the meeting is proportional to how specific your questions are. "Are we on track?" wastes the time. "We're deciding between approach A and approach B for the competitive analysis — which would be more useful to your team?" uses it. The employer knows things about their organization, their audience, and their priorities that your research can't fully capture. This meeting is your chance to access that knowledge on the specific decisions you're making right now.
+The value of the meeting is proportional to how specific your questions are.
+
+- **Wastes the time:** "Are we on track?"
+- **Uses the time:** "We're deciding between approach A and approach B for the competitive analysis — which would be more useful to your team?"
+
+The employer knows things about their organization, their audience, and their priorities that your research can't fully capture. This meeting is your chance to access that knowledge on the specific decisions you're making right now.
 
 Come with two or three questions where the employer's input would change what you do next. A brief status update (two minutes is enough) gives them context. Then let the conversation be about the questions.
 

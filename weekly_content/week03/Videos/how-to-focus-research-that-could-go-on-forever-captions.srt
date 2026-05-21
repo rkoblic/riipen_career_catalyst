@@ -1,0 +1,339 @@
+1
+00:00:03,400 --> 00:00:05,130
+Most teams start landscape research 
+
+2
+00:00:05,200 --> 00:00:06,530
+the same way and get the same 
+
+3
+00:00:06,570 --> 00:00:07,150
+result:
+
+4
+00:00:07,590 --> 00:00:08,970
+ a hundred bookmarks, three days 
+
+5
+00:00:09,030 --> 00:00:11,240
+gone, no clearer sense of what to 
+
+6
+00:00:11,290 --> 00:00:11,840
+recommend.
+
+7
+00:00:13,000 --> 00:00:14,410
+ The problem isn't effort.
+
+8
+00:00:14,790 --> 00:00:16,140
+ It's that the research question was 
+
+9
+00:00:16,200 --> 00:00:17,410
+too broad to answer.
+
+10
+00:00:18,020 --> 00:00:19,350
+ Focused research starts with a 
+
+11
+00:00:19,390 --> 00:00:20,750
+question only your employer's 
+
+12
+00:00:20,790 --> 00:00:21,700
+project could answer.
+
+13
+00:00:22,810 --> 00:00:23,990
+ Three examples.
+
+14
+00:00:24,230 --> 00:00:25,690
+ A nonprofit working on health 
+
+15
+00:00:25,750 --> 00:00:26,740
+outcomes in immigrant 
+
+16
+00:00:26,770 --> 00:00:27,620
+communities.
+
+17
+00:00:28,320 --> 00:00:29,660
+ The unfocused version of that 
+
+18
+00:00:29,710 --> 00:00:31,450
+research is something like "research 
+
+19
+00:00:31,500 --> 00:00:33,860
+public health." You'd read for three 
+
+20
+00:00:33,900 --> 00:00:35,540
+days and get nowhere useful.
+
+21
+00:00:36,050 --> 00:00:37,430
+ The focused version comes from 
+
+22
+00:00:37,470 --> 00:00:38,740
+what the employer told you in the 
+
+23
+00:00:38,780 --> 00:00:39,210
+kickoff.
+
+24
+00:00:40,290 --> 00:00:42,200
+ Maybe it's "what approaches have 
+
+25
+00:00:42,220 --> 00:00:43,700
+worked for health behavior change 
+
+26
+00:00:43,730 --> 00:00:46,090
+in culturally diverse populations, and
+
+27
+00:00:46,130 --> 00:00:47,490
+ what have similar organizations 
+
+28
+00:00:47,550 --> 00:00:50,370
+tried in this space." Same topic, 
+
+29
+00:00:50,460 --> 00:00:51,530
+completely different research 
+
+30
+00:00:51,580 --> 00:00:52,190
+session.
+
+31
+00:00:52,710 --> 00:00:54,690
+ One ends in a Wikipedia rabbit hole.
+
+32
+00:00:54,990 --> 00:00:56,170
+ The other ends with two or three 
+
+33
+00:00:56,220 --> 00:00:57,540
+case studies you can cite.
+
+34
+00:00:57,990 --> 00:00:59,040
+ Take a different project.
+
+35
+00:00:59,640 --> 00:01:01,180
+ An employer wants you to redesign 
+
+36
+00:01:01,220 --> 00:01:02,580
+their volunteer onboarding.
+
+37
+00:01:03,390 --> 00:01:04,610
+ The unfocused version of the 
+
+38
+00:01:04,660 --> 00:01:06,610
+research is "best practices for 
+
+39
+00:01:06,660 --> 00:01:09,320
+nonprofits." The focused version is 
+
+40
+00:01:09,370 --> 00:01:10,690
+"what onboarding looks like at 
+
+41
+00:01:10,750 --> 00:01:12,830
+organizations that retain volunteers 
+
+42
+00:01:12,890 --> 00:01:14,840
+past six months, and what causes 
+
+43
+00:01:14,870 --> 00:01:17,268
+drop-off in the first month." Now you
+
+44
+00:01:17,298 --> 00:01:19,448
+ know what to look for. One more.
+
+45
+00:01:19,888 --> 00:01:21,418
+ An employer wants a strategy for 
+
+46
+00:01:21,468 --> 00:01:23,058
+reaching first-generation college 
+
+47
+00:01:23,078 --> 00:01:23,548
+students.
+
+48
+00:01:24,078 --> 00:01:25,848
+ Searching "research first-gen 
+
+49
+00:01:25,918 --> 00:01:27,348
+students" gives you a textbook 
+
+50
+00:01:27,378 --> 00:01:28,148
+overview.
+
+51
+00:01:28,958 --> 00:01:30,588
+ Searching "what messaging and 
+
+52
+00:01:30,618 --> 00:01:32,008
+channels have moved this audience 
+
+53
+00:01:32,028 --> 00:01:34,198
+for organizations doing similar work,
+
+54
+00:01:34,578 --> 00:01:35,918
+ and what assumptions has the field 
+
+55
+00:01:35,958 --> 00:01:37,808
+gotten wrong" gives you something 
+
+56
+00:01:37,858 --> 00:01:39,118
+you can actually use.
+
+57
+00:01:40,048 --> 00:01:41,778
+ That last clause is the one that turns
+
+58
+00:01:41,848 --> 00:01:43,618
+ research into recommendations.
+
+59
+00:01:44,058 --> 00:01:45,458
+ Each focused question takes 
+
+60
+00:01:45,478 --> 00:01:47,308
+something specific the employer said
+
+61
+00:01:47,378 --> 00:01:48,698
+ and turns it into something you can 
+
+62
+00:01:48,768 --> 00:01:50,148
+search, read, and decide from.
+
+63
+00:01:50,828 --> 00:01:52,448
+ If you can't tie a research question 
+
+64
+00:01:52,518 --> 00:01:54,118
+back to a sentence the employer said
+
+65
+00:01:54,148 --> 00:01:55,688
+ in the kickoff, you're probably 
+
+66
+00:01:55,748 --> 00:01:57,688
+researching the topic, not the 
+
+67
+00:01:57,728 --> 00:01:58,228
+project.
+
+68
+00:01:59,278 --> 00:02:01,078
+ Two practical notes before you start.
+
+69
+00:02:01,778 --> 00:02:04,028
+ AI is a fast way to get oriented in an 
+
+70
+00:02:04,108 --> 00:02:05,988
+unfamiliar field, but it gives you 
+
+71
+00:02:06,048 --> 00:02:07,728
+plausible overviews, not citable 
+
+72
+00:02:07,758 --> 00:02:08,248
+sources.
+
+73
+00:02:09,458 --> 00:02:11,128
+ Use it to learn what to search for, 
+
+74
+00:02:11,378 --> 00:02:12,828
+then go to primary sources for 
+
+75
+00:02:12,868 --> 00:02:13,718
+specific facts.
+
+76
+00:02:14,458 --> 00:02:15,818
+ And organize what you find by 
+
+77
+00:02:15,888 --> 00:02:18,448
+theme as you go, not by source.
+
+78
+00:02:18,888 --> 00:02:20,628
+ When you sit down to write, you 
+
+79
+00:02:20,668 --> 00:02:22,828
+want categories, not a stack of 
+
+80
+00:02:22,868 --> 00:02:23,398
+bookmarks.
+
+81
+00:02:24,898 --> 00:02:26,138
+ Stop when you can describe the 
+
+82
+00:02:26,188 --> 00:02:27,748
+landscape, point to relevant 
+
+83
+00:02:27,788 --> 00:02:29,628
+examples, and talk about the people 
+
+84
+00:02:29,668 --> 00:02:31,388
+your work affects with specificity.
+
+85
+00:02:32,408 --> 00:02:32,968
+ That's enough.

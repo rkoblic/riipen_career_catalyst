@@ -3,7 +3,7 @@ week: 14
 page: 4
 title: Getting a Head Start on Next Week
 created: 2026-05-19
-last_updated: 2026-05-19
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -11,10 +11,7 @@ status: draft
 
 Next week, three pieces of work close out the course: the Final Presentation, Reflection #5, and the End-of-Project Peer Evaluation. The presentation is built and rehearsed this week. The other two are submitted individually next week, but both benefit from starting early. This page is about what is worth doing now so next week's work is finalization rather than construction under deadline pressure.
 
-Use this page as the cue to start, and click through to the dedicated pages for full details.
-
-- **Reflection #5**
-- **End-of-Project Peer Evaluation** 
+Both deliverables benefit from a few days between the early thinking and the final draft, and next week is already full with the Final Presentation. Use this page as the cue to start; the dedicated pages below carry the full prompts, rubric, and submission details.
 
 
 ---

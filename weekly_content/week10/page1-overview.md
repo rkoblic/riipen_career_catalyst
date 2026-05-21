@@ -3,7 +3,7 @@ week: 10
 page: 1
 title: Week Overview
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -37,4 +37,4 @@ Order depends on your team. The list below isn't a fixed queue — sequence it t
 
 4. **Run a second internal review gate before the week ends.** Shorter than the first one your team ran. The output is a concrete list of what still needs to change before the near-final version.
 
-5. **What's Next.** Read for forward prep: the Reflection #4 prompt, the Final Deliverables rubric, and what to bring into the opening of the Refinement phase.
+5. **What's Next.** Read for forward prep: the Reflection #4 prompt, the Project Deliverables rubric, and what to bring into the opening of the Refinement phase.

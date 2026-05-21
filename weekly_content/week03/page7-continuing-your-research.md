@@ -3,7 +3,7 @@ week: 3
 page: 7
 title: Continuing Your Research
 created: 2026-03-28
-last_updated: 2026-05-02
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -30,4 +30,6 @@ The video walks through how to turn what you heard in the kickoff into focused r
 
 Organize your findings by theme rather than by source as you go. Grouping by topic (trends, similar initiatives, audience characteristics, constraints) makes it far easier to synthesize later than a chronological list of everything you read.
 
-AI is useful for getting oriented in an unfamiliar field, especially if you're researching a sector you've never encountered. Ask it to explain how the space works, what the key terminology means, or what the major trends are. For specific facts (organizations, data, recent developments), go to primary sources. AI's training data has a cutoff, and in a research context where recency matters, you need current information.
+If you can't tie a research question back to a sentence the employer said in the kickoff, you're probably researching the topic, not the project. Focused questions take something specific the employer said and turn it into something you can search, read, and decide from.
+
+AI is useful for getting oriented in an unfamiliar field, especially if you're researching a sector you've never encountered. Ask it to explain how the space works, what key terminology means, or what major trends are. For specific facts (organizations, data, recent developments), go to primary sources — AI's training data has a cutoff, and in a research context where recency matters, you need current information.

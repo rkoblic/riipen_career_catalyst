@@ -82,7 +82,7 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 
 - p1 From planning to production *(video: From planning to production)*
 - p2 Reflection #2
-- p3 Revisiting the Final Deliverable **(introduces Change Log — see below)**
+- p3 Revisiting the Project Deliverable **(introduces Change Log — see below)**
 - p4 Starting production as a team
 - p5 Formatting professional deliverables
 - p6 Making progress under uncertainty *(video: Making progress under uncertainty)*
@@ -143,7 +143,7 @@ Source-of-truth snapshot of what's actually in `weekly_content/week[NN]/` after 
 - p1 Pulling it together *(video: The question you'll have to answer in every interview)*
 - p2 What you're actually learning *(video: What you learned isn't what you did)* — two sections (surfacing tacit learning + making it transferable via the strip-the-proper-nouns test)
 - p3 Using AI as a quality reviewer (last new AI skill in the course)
-- p4 What's next (previews Reflection #4 prompt, Final Deliverables rubric; Change Log audit prompt)
+- p4 What's next (previews Reflection #4 prompt, Project Deliverables rubric; Change Log audit prompt)
 
 **Introduces:** Articulation-of-Learning preparation (strip-the-proper-nouns test + noticing exercise), AI quality reviewer role (fresh reader, consistency check, weakest-link prompts), second internal review gate, Refinement phase framing.
 
@@ -204,7 +204,7 @@ Pattern: alternating working-meetings and document-review meetings. Weeks 7 and 
 ### Assessment components (as referenced in learner-facing pages)
 - **Professional Engagement** — peer eval + employer eval + instructor observation. Don't cite specific percentages; use the component name.
 - **Reflection Portfolio** — all four reflections.
-- **Final Deliverables** — client-facing deliverable(s).
+- **Project Deliverables** — client-facing deliverable(s).
 
 ---
 

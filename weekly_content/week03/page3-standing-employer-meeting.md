@@ -3,7 +3,7 @@ week: 3
 page: 3
 title: Establishing the Standing Meeting
 created: 2026-04-28
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism

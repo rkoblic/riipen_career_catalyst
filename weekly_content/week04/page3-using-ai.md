@@ -3,7 +3,7 @@ week: 4
 page: 3
 title: Using AI
 created: 2026-05-03
-last_updated: 2026-05-03
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -58,7 +58,7 @@ The prompting principles from earlier in the course (give context, ask for optio
 
 If you want to go deeper on any of these techniques:
 
-[CURATED LINK: "Prompt Engineering 101: Understanding Zero-Shot, One-Shot, and Few-Shot" (~8 min read) — Codecademy — https://www.codecademy.com/article/prompt-engineering-101-understanding-zero-shot-one-shot-and-few-shot] Beginner-friendly walkthrough of the main prompting techniques (zero-shot, one-shot, few-shot) with practical examples showing when and why to use each one. Good foundation for understanding the techniques described above.
+📎 [Prompt Engineering 101: Understanding Zero-Shot, One-Shot, and Few-Shot](https://www.codecademy.com/article/prompt-engineering-101-understanding-zero-shot-one-shot-and-few-shot) — Codecademy (~8 min read). Beginner-friendly walkthrough of the main prompting techniques (zero-shot, one-shot, few-shot) with practical examples showing when and why to use each one. Good foundation for understanding the techniques described above.
 
 Building a project workspace looks different depending on which AI tool your team uses. Pick the guide that matches your tool:
 

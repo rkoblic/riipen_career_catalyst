@@ -3,7 +3,7 @@ week: 12
 page: 3
 title: Presentation fundamentals
 created: 2026-04-21
-last_updated: 2026-04-22
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -56,9 +56,9 @@ For this project specifically, that means leading with the problem your team's w
 
 Several well-known resources cover how professional presenters structure a presentation as an argument rather than a report. Watch the one below before your team drafts the narrative arc in the outline.
 
-**Watch:** [TED's secret to great public speaking](https://youtu.be/-FOCpMAww28) — Chris Anderson (TED curator), ~8 min. The four-part framework for building a talk around a single through-line, giving the audience a reason to care, building the idea from concepts they already know, and making the idea worth sharing.
+[TED's secret to great public speaking](https://youtu.be/-FOCpMAww28) — Chris Anderson, TED curator (~8 min). Anderson's four-part framework for structuring a talk: a single through-line, a reason to care, ideas built from what the audience already knows, and a takeaway worth sharing.
 
-**Go deeper:** [10 Tips for Achieving Presentation Zen](https://presentationzen.com/blog/storytelling-and-presentation-zen-tips) — Garr Reynolds, ~8–10 min read. Picks up where Anderson leaves off. Where Anderson teaches structure, Reynolds teaches narrative craft: conflict, change, resolution, and what filmmakers and storytellers know about holding an audience.
+📎 Go deeper: [10 Tips for Achieving Presentation Zen](https://presentationzen.com/blog/storytelling-and-presentation-zen-tips) — Garr Reynolds, ~8–10 min read. Picks up where Anderson leaves off. Where Anderson teaches structure, Reynolds teaches narrative craft: conflict, change, resolution, and what filmmakers and storytellers know about holding an audience.
 
 ---
 
@@ -70,7 +70,7 @@ A useful test for your team as you build slides: any slide that works as an emai
 
 Professional designers have written extensively on what makes a slide work. The resource below is a good starting point before your team starts building slides.
 
-**Watch:** [Create Slides People Will Remember](https://youtu.be/OeV2fHEM4RI) — Duarte, ~2 min. A tight primer on slide development: use slides selectively, write the speech before the slides, keep each slide to one concept readable in three seconds, and use visuals rather than projected text.
+[Create Slides People Will Remember](https://youtu.be/OeV2fHEM4RI) — Duarte (~2 min). A tight primer on slide development: use slides selectively, write the speech before the slides, keep each slide to one concept readable in three seconds, and use visuals rather than projected text.
 
 ---
 
@@ -82,7 +82,7 @@ Preventing that takes deliberate coordination, not just practice. The practice h
 
 Rehearse the handoffs as a separate pass. Most teams rehearse their own sections and then do one full run-through. The transitions are the first thing to crack in that run because they have not been practiced on their own. The resource below covers coordination patterns for multi-speaker presentations in more depth.
 
-**Watch:** [8 Tips for How to do a Group Presentation](https://youtu.be/rF13U3CNDPY) — Lighthouse Communications, ~6 min. Covers transitions between speakers, a three-meeting rehearsal cadence (planning → table read → formal rehearsal), how non-speaking team members should behave on stage, and Q&A dynamics (including the "pile-on" effect to avoid).
+[8 Tips for How to do a Group Presentation](https://youtu.be/rF13U3CNDPY) — Lighthouse Communications (~6 min). Covers transitions between speakers, a three-meeting rehearsal cadence (planning → table read → formal rehearsal), how non-speaking team members should behave on stage, and Q&A dynamics (including the "pile-on" effect to avoid).
 
 ---
 

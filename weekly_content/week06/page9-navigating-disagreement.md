@@ -3,7 +3,7 @@ week: 6
 page: 9
 title: Navigating disagreement
 created: 2026-04-01
-last_updated: 2026-05-03
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork
@@ -46,10 +46,11 @@ Development-phase disagreements between teammates tend to fall into a few catego
 
 For all three, the approach is the same: name what you're seeing specifically, and lead with a question before a conclusion.
 
-"I noticed your section is organized around X, but I read the brief as asking for Y. Am I missing something?" gives your teammate a chance to explain their reasoning. "I don't think this is right" doesn't.
+- **Doesn't open a conversation:** "I don't think this is right."
+- **Invites their reasoning:** "I noticed your section is organized around X, but I read the brief as asking for Y. Am I missing something?"
 
 Most development disagreements come down to interpretation: both teammates read the same material and reached different conclusions about what to do with it. Leading with curiosity rather than evaluation keeps the conversation productive and preserves the relationship. In a professional context, that matters because you're still working together after the conversation ends.
 
 ---
 
-[CURATED LINK: "When Great Minds Don't Think Alike: How to Respectfully Disagree at Work" (article, ~6 min) — SkillPath — https://skillpath.com/blog/how-to-respectfully-disagree-at-work] A practical walkthrough of how to raise disagreements professionally without damaging working relationships. Covers how to separate the idea from the person, how to frame a challenge as a question, and what to do when the disagreement isn't resolved in the moment.
+📎 [When Great Minds Don't Think Alike: How to Respectfully Disagree at Work](https://skillpath.com/blog/how-to-respectfully-disagree-at-work) — SkillPath (article, ~6 min). A practical walkthrough of how to raise disagreements professionally without damaging working relationships. Covers how to separate the idea from the person, how to frame a challenge as a question, and what to do when the disagreement isn't resolved in the moment.

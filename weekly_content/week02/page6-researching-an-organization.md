@@ -3,7 +3,7 @@ week: 2
 page: 6
 title: Researching an Organization
 created: 2026-03-19
-last_updated: 2026-03-30
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -43,4 +43,5 @@ Start with the organization's own website: their "About" page, press releases, a
 
 AI is useful for *learning*, but be cautious of considering its output fact. If your employer operates in a field you've never encountered (healthcare technology, sustainable agriculture, financial services), AI is a great way to build your understanding. Have a conversation with it. Ask it to explain the industry in plain language, walk you through how the sector works, or clarify terminology you're seeing in your research. Think of it as a knowledgeable colleague you can ask basic questions without feeling embarrassed.
 
-AI can surface facts too, but its training data has a cutoff date, so anything recent (leadership changes, new products, recent news) may be missing or outdated. And since you'd need to verify what it tells you anyway, you're often better off just going to the company's website, LinkedIn, or a news search directly. Save AI for the learning part, and do your factual research at the source.
+> [!key] KEY DISTINCTION
+> AI can surface facts, but its training data has a cutoff date, so anything recent — leadership changes, new products, recent news — may be missing or outdated. And since you'd need to verify what it tells you anyway, you're often better off going to the company's website, LinkedIn, or a news search directly. Save AI for the learning part, and do your factual research at the source.

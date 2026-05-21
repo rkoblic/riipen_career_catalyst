@@ -3,7 +3,7 @@ week: 2
 page: 8
 title: What's Next
 created: 2026-03-19
-last_updated: 2026-04-02
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -15,13 +15,12 @@ The next major milestone in the course is the employer kickoff meeting, your tea
 
 ## Looking ahead
 
-Before you get to the kickoff, it's worth spending time with the Context Analysis & Project Plan assignment and rubric. This is the first graded deliverable in the course, and it's informed by the kickoff.
+Before you get to the kickoff, it's worth spending time with the **[Context Analysis & Project Plan](https://riipen.instructure.com/courses/107/pages/context-analysis-and-project-plan-overview)** assignment and rubric. This is the first graded deliverable in the course, and it's informed by the kickoff.
 
 Reviewing the rubric now is about knowing what to pay attention to. When you understand what the deliverable is asking for, you'll research with more direction, ask sharper questions at the kickoff, and notice things in the employer's answers that you'd otherwise miss.
 
-Think of it as reading the recipe before you go grocery shopping. You don't cook yet, but you know what ingredients to look for.
-
-[LINKED RESOURCE: Context Analysis & Project Plan assignment description and rubric]
+> [!info] THINK OF IT THIS WAY
+> It's like reading the recipe before you go grocery shopping. You don't cook yet, but you know what ingredients to look for.
 
 ---
 

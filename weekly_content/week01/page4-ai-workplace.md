@@ -3,7 +3,7 @@ week: 1
 page: 4
 title: AI in Today's Workplace & This Course
 created: 2026-03-27
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -14,7 +14,7 @@ competencies:
 
 AI has fundamentally changed how professional work gets done. Whether you're entering marketing, consulting, nonprofit management, or any other field, you'll be working alongside AI tools from day one. This module covers what that shift means for you and how this course approaches AI use.
 
-[VIDEO: AI in professional work — what's changed and why it matters for your career]
+[VIDEO: The AI shift — what's changed and why it matters for your career]
 
 ---
 
@@ -50,12 +50,12 @@ You're working on real projects with real employers. Before you put any project-
 
 Most AI tools process your input on external servers. Anything you paste into ChatGPT, Claude, or similar tools could be stored, used for training, or accessed in ways you don't control. For general research and publicly available information, this is fine. For confidential business data, internal documents, or sensitive employer information, it's a real concern.
 
-**Ground rules for this course:**
-
-- **Public information is fine.** Using AI to research an industry, understand a framework, or brainstorm approaches is always acceptable.
-- **Your own work is fine.** Pasting your draft, your outline, or your team's research notes into AI for feedback is acceptable.
-- **Employer-specific confidential information requires caution.** If your employer shared internal data, financial details, unreleased plans, or other information they wouldn't want public, don't paste it into an AI tool. Paraphrase or anonymize the details instead.
-- **When in doubt, ask your employer.** Some organizations have specific AI policies. If you're unsure whether something is shareable, ask during your next meeting.
+> [!ai] AI BOUNDARY
+> **Ground rules for what you can paste into AI:**
+> - **Public information is fine.** Using AI to research an industry, understand a framework, or brainstorm approaches is always acceptable.
+> - **Your own work is fine.** Pasting your draft, your outline, or your team's research notes into AI for feedback is acceptable.
+> - **Employer-specific confidential information requires caution.** If your employer shared internal data, financial details, unreleased plans, or other information they wouldn't want public, don't paste it into an AI tool. Paraphrase or anonymize the details instead.
+> - **When in doubt, ask your employer.** Some organizations have specific AI policies. If you're unsure whether something is shareable, ask during your next meeting.
 
 This is a professional norm, not just a course rule. In any consulting or client-facing role, you'd face the same question about what client information you can and can't put into third-party tools.
 
@@ -69,7 +69,10 @@ This course treats AI as a professional tool, not a shortcut. You're expected to
 
 **What requires disclosure.** For graded deliverables, you must disclose how you used AI in your process. This doesn't mean listing every prompt. It means being transparent about the role AI played: Did it help you brainstorm? Did it draft text that you then rewrote? Did you use it to check your reasoning? The disclosure requirement is itself a learning exercise. Describing how you used AI forces you to reflect on your own process, distinguish between AI's contribution and your own thinking, and develop the professional habit of documenting your methodology. In consulting, research, and many other fields, documenting how you arrived at your conclusions is standard practice. It's also how your instructor can give you better feedback on your actual skill development.
 
-**The defend-your-work standard.** This is the core principle. If you can explain your reasoning, describe your process, and defend the choices in your work, it's yours, regardless of what tools you used to produce it. If you can't, you're submitting work you don't understand — and that's the problem, whether the source was AI or anything else.
+**The defend-your-work standard.** This is the core principle. If you can explain your reasoning, describe your process, and defend the choices in your work, it's yours, regardless of what tools you used to produce it. If you can't, you're submitting work you don't understand, and that's the problem whether the source was AI or anything else.
+
+> [!key]
+> If you can explain and defend it, it's your work. If you can't, it isn't.
 
 The point isn't to catch you using AI — it's to make sure AI use actually strengthens your thinking rather than substituting for it. Professionals who lean on AI without understanding the output get caught out, often publicly. Building the habit of owning your work starts here.
 

@@ -1,0 +1,159 @@
+1
+00:00:03,400 --> 00:00:05,100
+Picture a student preparing for her 
+
+2
+00:00:05,150 --> 00:00:06,960
+team's kickoff with a small solar 
+
+3
+00:00:07,010 --> 00:00:08,820
+installation company in the Midwest.
+
+4
+00:00:09,450 --> 00:00:12,230
+ She opens ChatGPT, types "Tell me 
+
+5
+00:00:12,270 --> 00:00:13,380
+about the renewable energy 
+
+6
+00:00:13,430 --> 00:00:15,540
+industry," and gets back a wall of 
+
+7
+00:00:15,600 --> 00:00:16,500
+generic text.
+
+8
+00:00:17,300 --> 00:00:19,010
+ She copies the parts that look useful 
+
+9
+00:00:19,100 --> 00:00:20,490
+and shows up to the meeting feeling 
+
+10
+00:00:20,540 --> 00:00:21,200
+prepared.
+
+11
+00:00:22,010 --> 00:00:23,570
+ Then the client asks a specific 
+
+12
+00:00:23,600 --> 00:00:25,280
+question about a recent state policy 
+
+13
+00:00:25,330 --> 00:00:26,840
+change, and she has nothing.
+
+14
+00:00:27,890 --> 00:00:29,530
+ Before her next employer call, she 
+
+15
+00:00:29,590 --> 00:00:31,280
+briefs the same tool differently:
+
+16
+00:00:31,800 --> 00:00:33,220
+ "I'm preparing for a meeting with a 
+
+17
+00:00:33,280 --> 00:00:34,950
+small solar installation company in 
+
+18
+00:00:34,980 --> 00:00:35,660
+the Midwest.
+
+19
+00:00:36,110 --> 00:00:37,110
+ What should I know about their 
+
+20
+00:00:37,160 --> 00:00:38,840
+competitive landscape, recent 
+
+21
+00:00:38,870 --> 00:00:40,930
+regulatory changes, and the biggest 
+
+22
+00:00:40,960 --> 00:00:42,310
+challenges companies like this are 
+
+23
+00:00:42,350 --> 00:00:42,760
+facing?
+
+24
+00:00:43,910 --> 00:00:45,790
+ Flag anything I should verify against
+
+25
+00:00:45,840 --> 00:00:49,150
+ current sources." She gets a focused,
+
+26
+00:00:49,190 --> 00:00:50,490
+ structured response.
+
+27
+00:00:51,000 --> 00:00:52,610
+ She spends twenty minutes verifying
+
+28
+00:00:52,650 --> 00:00:54,030
+ the claims that matter most.
+
+29
+00:00:54,580 --> 00:00:56,180
+ At the next meeting, she asks an 
+
+30
+00:00:56,230 --> 00:00:57,800
+informed question that opens up a 
+
+31
+00:00:57,860 --> 00:00:59,350
+part of the project her team hadn't 
+
+32
+00:00:59,390 --> 00:00:59,690
+seen.
+
+33
+00:01:00,225 --> 00:01:01,635
+ What changed was how she briefed 
+
+34
+00:01:01,655 --> 00:01:02,325
+the tool:
+
+35
+00:01:02,575 --> 00:01:04,025
+ enough context to make the answer 
+
+36
+00:01:04,065 --> 00:01:06,765
+specific, a clear ask, and a built-in 
+
+37
+00:01:06,815 --> 00:01:08,315
+instruction to flag what she'd need 
+
+38
+00:01:08,355 --> 00:01:08,745
+to check.
+
+39
+00:01:09,665 --> 00:01:11,355
+ All excellent things to include when 
+
+40
+00:01:11,385 --> 00:01:12,965
+you want to get the most out of AI.

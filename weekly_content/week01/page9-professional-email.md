@@ -3,7 +3,7 @@ week: 1
 page: 8
 title: Professional Email Basics
 created: 2026-03-27
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -22,7 +22,7 @@ You'll put this skill into practice soon when your team sends its first message 
 
 This resource covers the fundamentals of professional email: how to structure your message, strike the right tone, and adapt to different contexts.
 
-[CURATED LINK: "How to Write a Professional Email" — Indeed Career Guide — https://www.indeed.com/career-advice/career-development/how-to-write-a-professional-email] A step-by-step guide with templates, framed for people entering the workforce.
+📎 [How to Write a Professional Email](https://www.indeed.com/career-advice/career-development/how-to-write-a-professional-email) — Indeed Career Guide. A step-by-step guide with templates, framed for people entering the workforce.
 
 ---
 
@@ -46,8 +46,9 @@ Most email mistakes aren't about grammar. They're about awareness: knowing who y
 
 Here's an example of a strong follow-up email from a student to a professional they briefly met at a career fair. The scenario is small, but the fundamentals are the same as any professional message: clear purpose, brief context, specific ask, appropriate tone.
 
-**Subject: Following up from the [University] career fair**
-
+> [!scenario] EXAMPLE
+> **Subject: Following up from the [University] career fair**
+>
 > Dear Ms. Patel,
 >
 > My name is Alex Chen. We spoke briefly at the [University] career fair on October 15 about Birchwood Studio's UX research process. I appreciated your perspective on how your team prototypes early in a project.
@@ -57,6 +58,7 @@ Here's an example of a strong follow-up email from a student to a professional t
 > Either way, thank you again for taking the time at the fair. It was one of the more useful conversations I had that day.
 >
 > Best regards,
+>
 > Alex Chen
 
 **What makes this work:**
@@ -75,8 +77,9 @@ AI is genuinely useful for professional communication, and using it here is enco
 
 The best approach: draft your message yourself first, then use AI to refine it. Writing the first draft keeps your voice and intent in the work. AI is excellent at tightening language, catching awkward phrasing, and suggesting a more professional tone.
 
-Here's an example prompt you can adapt:
-
-*"I'm on a student project team writing our first message to an employer contact through a professional platform. Here's my draft: [paste draft]. Review it for professional tone, clarity, and structure. Flag anything that's too casual, too formal, or unclear. Suggest a revised version and explain what you changed and why."*
+> [!ai] AI USE — REFINE EMAIL
+> A prompt you can adapt once you've drafted your message:
+>
+> *"I'm on a student project team writing our first message to an employer contact through a professional platform. Here's my draft: [paste draft]. Review it for professional tone, clarity, and structure. Flag anything that's too casual, too formal, or unclear. Suggest a revised version and explain what you changed and why."*
 
 Asking AI to explain its changes is the key move. It turns the revision into a learning opportunity rather than a black box. Over time, you'll internalize the patterns and need less help.

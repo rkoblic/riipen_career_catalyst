@@ -8,7 +8,7 @@ last_updated: 2026-04-28
 status: draft
 ---
 
-# Video Script: The shift
+# Video Script: The AI shift
 
 Here's something worth knowing. Two years ago, most professionals outside of tech had never used an AI tool at work. Today, the majority have. That's a fast shift, and employers have noticed.
 

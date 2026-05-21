@@ -3,7 +3,7 @@ week: 5
 page: 5
 title: The Direction Check Summary
 created: 2026-04-28
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication

@@ -3,7 +3,7 @@ week: 6
 page: 7
 title: Preparing your assigned piece
 created: 2026-04-06
-last_updated: 2026-05-03
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking

@@ -3,7 +3,7 @@ week: 1
 page: 2
 title: What Is Experiential Learning?
 created: 2026-03-27
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -44,7 +44,7 @@ Traditional coursework tends to follow a familiar pattern: absorb content, pract
 
 If you want a fuller picture of how experiential learning works and why it's effective, this page includes a short video overview and covers the key concepts in a few minutes.
 
-[CURATED LINK: "What is Experiential Learning?" — Institute for Experiential Learning — https://experientiallearninginstitute.org/what-is-experiential-learning/]
+📎 [What is Experiential Learning?](https://experientiallearninginstitute.org/what-is-experiential-learning/) — Institute for Experiential Learning. A short overview of the experiential learning cycle and what makes it effective.
 
 ---
 

@@ -1,0 +1,247 @@
+1
+00:00:03,400 --> 00:00:04,570
+When someone questions work 
+
+2
+00:00:04,620 --> 00:00:06,380
+you've put real effort into, the 
+
+3
+00:00:06,450 --> 00:00:08,120
+instinct is to explain why you made 
+
+4
+00:00:08,150 --> 00:00:08,980
+the choice you made.
+
+5
+00:00:09,640 --> 00:00:11,250
+ That instinct usually shuts down the 
+
+6
+00:00:11,280 --> 00:00:12,750
+conversation that would actually 
+
+7
+00:00:12,810 --> 00:00:13,470
+help you.
+
+8
+00:00:14,420 --> 00:00:15,700
+ Here's what the difference looks like
+
+9
+00:00:15,720 --> 00:00:16,510
+ in practice.
+
+10
+00:00:17,070 --> 00:00:18,850
+ The employer says "I think you're 
+
+11
+00:00:18,880 --> 00:00:21,160
+focusing on the wrong segment." A 
+
+12
+00:00:21,240 --> 00:00:23,270
+natural response is "we chose this 
+
+13
+00:00:23,310 --> 00:00:24,530
+segment because our research 
+
+14
+00:00:24,560 --> 00:00:25,500
+showed it had the highest 
+
+15
+00:00:25,550 --> 00:00:27,990
+engagement rates." That explains 
+
+16
+00:00:28,020 --> 00:00:29,450
+your reasoning, but it doesn't get 
+
+17
+00:00:29,480 --> 00:00:30,270
+you anywhere.
+
+18
+00:00:31,090 --> 00:00:32,730
+ The employer now has to decide 
+
+19
+00:00:32,770 --> 00:00:34,810
+whether to push harder or let it go, 
+
+20
+00:00:35,090 --> 00:00:36,170
+and you've learned nothing about 
+
+21
+00:00:36,210 --> 00:00:37,260
+what they actually meant.
+
+22
+00:00:38,220 --> 00:00:39,430
+ A better response:
+
+23
+00:00:40,130 --> 00:00:41,510
+ "Can you tell us more about which 
+
+24
+00:00:41,560 --> 00:00:42,890
+segment matters most to you and 
+
+25
+00:00:42,930 --> 00:00:45,700
+why?" Now the employer explains 
+
+26
+00:00:45,750 --> 00:00:47,180
+that the segment you chose looks 
+
+27
+00:00:47,240 --> 00:00:49,450
+right from the outside, but internally
+
+28
+00:00:49,510 --> 00:00:50,930
+ they've already tried targeting that 
+
+29
+00:00:50,970 --> 00:00:52,070
+group and it didn't work.
+
+30
+00:00:52,595 --> 00:00:54,115
+ That's information your research 
+
+31
+00:00:54,165 --> 00:00:55,475
+couldn't have surfaced, and it 
+
+32
+00:00:55,525 --> 00:00:57,115
+changes your entire approach.
+
+33
+00:00:57,555 --> 00:00:58,835
+ The same pattern can arise when 
+
+34
+00:00:58,855 --> 00:00:59,905
+you get vague feedback.
+
+35
+00:01:00,605 --> 00:01:02,515
+ The employer says "I'd like to see 
+
+36
+00:01:02,565 --> 00:01:04,145
+more depth in the analysis." 
+
+37
+00:01:04,210 --> 00:01:05,890
+Responding with "we actually spent 
+
+38
+00:01:05,930 --> 00:01:07,900
+a lot of time on that section" tells 
+
+39
+00:01:07,940 --> 00:01:09,310
+them you're not open to the input.
+
+40
+00:01:09,970 --> 00:01:11,990
+ Instead, try asking something like:
+
+41
+00:01:12,600 --> 00:01:13,970
+ "When you say depth, are you 
+
+42
+00:01:14,000 --> 00:01:15,250
+looking for more data points?
+
+43
+00:01:15,970 --> 00:01:17,650
+ Or, more analysis of what the 
+
+44
+00:01:17,710 --> 00:01:20,410
+existing data means?" When the 
+
+45
+00:01:20,470 --> 00:01:21,740
+employer raises something 
+
+46
+00:01:21,820 --> 00:01:23,670
+completely unexpected, something 
+
+47
+00:01:23,720 --> 00:01:25,110
+that wasn't in the brief and that you 
+
+48
+00:01:25,190 --> 00:01:26,940
+hadn't considered, the move is the 
+
+49
+00:01:26,990 --> 00:01:29,162
+same. Acknowledge it directly.
+
+50
+00:01:30,282 --> 00:01:31,332
+ "That's something we hadn't 
+
+51
+00:01:31,362 --> 00:01:32,212
+accounted for.
+
+52
+00:01:32,542 --> 00:01:33,722
+ Can you tell us more about how that 
+
+53
+00:01:33,752 --> 00:01:36,172
+affects the project?" You don't need 
+
+54
+00:01:36,212 --> 00:01:37,272
+an answer in the meeting.
+
+55
+00:01:37,652 --> 00:01:39,172
+ You need to capture the information
+
+56
+00:01:39,242 --> 00:01:40,872
+ and address it in your revised plan.
+
+57
+00:01:41,702 --> 00:01:43,612
+ The move is the same in every case:
+
+58
+00:01:44,052 --> 00:01:45,762
+ ask a clarifying question before you 
+
+59
+00:01:45,812 --> 00:01:47,302
+respond, and make sure you 
+
+60
+00:01:47,422 --> 00:01:48,772
+understand what the employer 
+
+61
+00:01:48,842 --> 00:01:50,442
+means before you decide what to do 
+
+62
+00:01:50,492 --> 00:01:50,922
+about it.

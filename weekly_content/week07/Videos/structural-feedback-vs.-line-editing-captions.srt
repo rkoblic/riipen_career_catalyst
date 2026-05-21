@@ -1,0 +1,203 @@
+1
+00:00:03,400 --> 00:00:04,820
+When you read a colleague's piece, 
+
+2
+00:00:04,850 --> 00:00:06,820
+the first instinct is usually to fix the 
+
+3
+00:00:06,860 --> 00:00:07,420
+small stuff.
+
+4
+00:00:07,970 --> 00:00:09,510
+ A clunky sentence, a transition 
+
+5
+00:00:09,550 --> 00:00:10,220
+that's off.
+
+6
+00:00:10,920 --> 00:00:12,780
+ That's line editing, and it's not the 
+
+7
+00:00:12,820 --> 00:00:14,270
+most useful thing you can do at this 
+
+8
+00:00:14,310 --> 00:00:14,800
+stage.
+
+9
+00:00:15,730 --> 00:00:17,480
+ Structural feedback asks a different 
+
+10
+00:00:17,500 --> 00:00:18,180
+question.
+
+11
+00:00:18,690 --> 00:00:19,720
+ Does this piece do what it's 
+
+12
+00:00:19,740 --> 00:00:20,650
+supposed to do?
+
+13
+00:00:21,460 --> 00:00:22,510
+ Does it have a clear claim?
+
+14
+00:00:23,720 --> 00:00:25,230
+ Does the evidence actually support 
+
+15
+00:00:25,270 --> 00:00:25,520
+it?
+
+16
+00:00:26,120 --> 00:00:27,060
+ Would someone who doesn't know 
+
+17
+00:00:27,110 --> 00:00:28,270
+the project follow it?
+
+18
+00:00:29,220 --> 00:00:30,140
+ Here's the difference.
+
+19
+00:00:30,820 --> 00:00:32,270
+ A teammate's section on market 
+
+20
+00:00:32,310 --> 00:00:33,580
+positioning in a customer 
+
+21
+00:00:33,660 --> 00:00:35,230
+onboarding redesign opens with 
+
+22
+00:00:35,270 --> 00:00:36,600
+three paragraphs of company 
+
+23
+00:00:36,660 --> 00:00:38,530
+background, then makes its single 
+
+24
+00:00:38,570 --> 00:00:40,080
+real claim in paragraph four.
+
+25
+00:00:41,190 --> 00:00:42,880
+ A line editor would fix the grammar 
+
+26
+00:00:42,930 --> 00:00:44,480
+in those opening paragraphs.
+
+27
+00:00:45,000 --> 00:00:46,640
+ A structural reviewer would flag the 
+
+28
+00:00:46,690 --> 00:00:48,770
+real issue, which is that the section 
+
+29
+00:00:48,830 --> 00:00:50,970
+buries its main point under setup the
+
+30
+00:00:51,040 --> 00:00:51,850
+ reader doesn't need.
+
+31
+00:00:52,890 --> 00:00:54,260
+ That's not a prose problem.
+
+32
+00:00:54,640 --> 00:00:56,130
+ It's a structure problem, and 
+
+33
+00:00:56,180 --> 00:00:57,620
+polishing the sentences wouldn't fix 
+
+34
+00:00:57,720 --> 00:00:57,870
+it.
+
+35
+00:00:58,660 --> 00:01:00,460
+ Same pattern in a different format.
+
+36
+00:01:01,060 --> 00:01:02,780
+ A teammate's slide deck for a digital
+
+37
+00:01:02,810 --> 00:01:05,020
+ skills program evaluation has a slide 
+
+38
+00:01:05,070 --> 00:01:07,320
+titled "Learner outcomes" with five 
+
+39
+00:01:07,340 --> 00:01:08,200
+statistics on it.
+
+40
+00:01:08,920 --> 00:01:10,400
+ The data is on the slide.
+
+41
+00:01:10,780 --> 00:01:12,210
+ The interpretation is not.
+
+42
+00:01:12,810 --> 00:01:14,620
+ A line editor might suggest cleaner 
+
+43
+00:01:14,670 --> 00:01:15,730
+phrasing for the title.
+
+44
+00:01:16,310 --> 00:01:17,890
+ A structural reviewer would say the 
+
+45
+00:01:17,940 --> 00:01:20,130
+slide is missing its takeaway, and the
+
+46
+00:01:20,170 --> 00:01:21,510
+ fix is a title that says what the 
+
+47
+00:01:21,560 --> 00:01:23,710
+numbers mean, not what they are.
+
+48
+00:01:24,670 --> 00:01:26,450
+ Structural feedback comes first.
+
+49
+00:01:27,050 --> 00:01:28,580
+ Once the logic holds and the piece 
+
+50
+00:01:28,610 --> 00:01:30,470
+does its job, that's when you read for
+
+51
+00:01:30,530 --> 00:01:31,110
+ language.

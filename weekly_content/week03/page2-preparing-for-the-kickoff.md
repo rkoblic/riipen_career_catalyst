@@ -3,7 +3,7 @@ week: 3
 page: 2
 title: Preparing for the Kickoff
 created: 2026-03-28
-last_updated: 2026-05-02
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -62,11 +62,13 @@ Before the meeting, decide how your team will capture what's discussed. There ar
 - **Manual notes + AI cleanup.** If you can't use a transcription tool, designate one team member to take rough notes during the meeting. Immediately afterward, feed those notes into an AI tool and ask it to organize them by topic. The sooner you do this, the easier it is to fill gaps while the conversation is still fresh.
 - **Prompting for structure.** When you ask AI to help organize your notes, give it context. Share the raw notes, the project brief, and the format you want the output in (for example, the Kickoff Summary template on the Kickoff Summary page). The more context AI has, the more useful its output will be. This is the "give AI enough context" strategy you practiced earlier in the course, applied here for the first time with real meeting content.
 
-**A warning about AI-generated summaries.** Whether you're using a dedicated tool or cleaning up notes after the fact, AI summaries get things wrong often: misattributing who said what, inventing details that sound plausible but weren't discussed, or flattening nuance into oversimplified bullet points. Always review AI-generated summaries against your own memory and notes. Treat them as a starting draft, not a finished record.
+> [!ai] AI BOUNDARY
+> AI summaries get things wrong often: misattributing who said what, inventing details that sound plausible but weren't discussed, or flattening nuance into oversimplified bullet points. Always review AI-generated summaries against your own memory and notes. Treat them as a starting draft, not a finished record.
 
 **Set up and test before the meeting.** Whatever tool you choose, don't figure it out for the first time during the kickoff. Install it, run a test, and make sure it works with your meeting platform. A few minutes of setup now prevents scrambling during a meeting that matters.
 
-**Always get permission to record.** If your note-taking tool records audio or video, you must ask the employer's permission before turning it on. This is both a professional courtesy and, in many jurisdictions, a legal requirement. A simple ask at the start of the meeting is all it takes: "Would it be okay if we record this meeting so we can review our notes afterward?"
+> [!info] BEFORE YOU RECORD
+> If your note-taking tool records audio or video, you must ask the employer's permission before turning it on. This is both a professional courtesy and, in many jurisdictions, a legal requirement. A simple ask at the start of the meeting is enough: "Would it be okay if we record this meeting so we can review our notes afterward?"
 
 ---
 
@@ -74,13 +76,12 @@ Before the meeting, decide how your team will capture what's discussed. There ar
 
 At least 24 hours before the meeting, send a message to your employer contact through the Riipen platform confirming logistics: the date, time, and meeting link. Attach or link to the kickoff agenda so they can review it in advance. If there's anything your team needs before the meeting (access to documents, clarification on who's attending from the employer's side), this is the place to ask.
 
-[TEMPLATE: Pre-meeting confirmation message to employer — confirming logistics, sharing the agenda, and any pre-meeting clarifications]
-
 ---
 
 ## Professional meeting presence
 
-Treat this as a professional client meeting you're running, not a class session you're attending. You sent the agenda. You scheduled the time. The employer is showing up because your team invited them. That means you set the tone, and the employer is forming impressions before your first question. How you show up on screen, how you sound, and whether you look engaged all communicate something about what kind of team you are.
+> [!key]
+> Treat this as a professional client meeting you're running, not a class session you're attending. You sent the agenda. You scheduled the time. The employer is showing up because your team invited them. That means you set the tone, and the employer is forming impressions before your first question. How you show up on screen, how you sound, and whether you look engaged all communicate something about what kind of team you are.
 
 ### Camera
 
@@ -118,7 +119,7 @@ Show interest in the project in whatever way feels natural to you. That might co
 
 If your living situation means you can't meet every one of these standards (no quiet space, no laptop, limited internet), do what you can and communicate with your team. Nobody expects a perfect home office; the goal is to come across as prepared within your circumstances.
 
-[CURATED LINK: "Video Conferencing Etiquette: Do's and Don'ts of Work Video Calls" — Thunderbird School of Global Management at Arizona State University — https://thunderbird.asu.edu/thought-leadership/insights/video-conferencing-etiquette-dos-and-donts-work-video-calls]
+📎 [Video Conferencing Etiquette: Do's and Don'ts of Work Video Calls](https://thunderbird.asu.edu/thought-leadership/insights/video-conferencing-etiquette-dos-and-donts-work-video-calls) — Thunderbird School of Global Management at Arizona State University.
 
 ---
 

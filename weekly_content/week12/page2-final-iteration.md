@@ -3,7 +3,7 @@ week: 12
 page: 2
 title: Final iteration — knowing when to stop
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism
@@ -51,7 +51,7 @@ A few cues help separate the three categories when the team is deciding in real 
 
 Your team's Change Log has been running for several weeks. By this point in the project it is a substantive record of every round of feedback your team has received and what the team did in response. That record matters differently now than it did six weeks ago.
 
-On the Final Deliverables rubric, the Responsiveness to Feedback dimension evaluates whether your team engaged with the feedback the employer provided. Engagement is not the same thing as compliance. A team that changed everything the employer mentioned may be less responsive, in the rubric's sense, than a team that changed some things and acknowledged others with clear reasoning, documenting both.
+On the Project Deliverables rubric, the Responsiveness to Feedback dimension evaluates whether your team engaged with the feedback the employer provided. Engagement isn't the same thing as compliance. A team that changed everything the employer mentioned may be less responsive, in the rubric's sense, than a team that changed some things and acknowledged others with clear reasoning, documenting both.
 
 What the Change Log makes possible is the sentence "we decided not to change X because Y." Without the log, that sentence sounds like an oversight. With it, the same decision is visibly deliberate. The employer reading the final package can see what their feedback produced, including the places it produced a considered decision not to change anything.
 

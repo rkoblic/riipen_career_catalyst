@@ -1,15 +1,15 @@
 ---
 week: 8
 page: 3
-title: About the employer mid-project evaluation
+title: "GRADED: Mid-Project Employer Feedback"
 created: 2026-04-20
-last_updated: 2026-04-20
+last_updated: 2026-05-21
 status: draft
 ---
 
-# About the employer mid-project evaluation
+# GRADED: Mid-Project Employer Feedback
 
-Your employer is being asked to complete a brief mid-project evaluation of your team this week. It's not something you submit, but it runs alongside the peer evaluation and feeds the same Professional Engagement component of your final grade. This page is what to know about it.
+Your employer is being asked to complete a brief mid-project evaluation of your team this week. The employer's ratings become this gradebook item — your team doesn't submit anything, but the score is one of the five graded items that together represent **Professional Engagement** in your final grade. See [**How Professional Engagement Is Assessed**](https://riipen.instructure.com/courses/107/pages/graded-professional-engagement) for the full picture. This page is what to know about it.
 
 ---
 

@@ -3,7 +3,7 @@ week: 1
 page: 5
 title: Project Browsing & Your Starting Point
 created: 2026-03-27
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -67,11 +67,10 @@ A strong rationale goes beyond "this sounds interesting." It connects the projec
 
 A useful structure: name the project, state what draws you to it, and explain what you'd hope to gain from working on it. Two or three sentences per selection is sufficient. Be specific and honest.
 
-### AI use on this questionnaire
-
-The self-assessment (Part 1) and your preference rationale (Part 2) must be completed without AI assistance. If AI generates your self-assessment, that baseline is fiction. When you sit down to write a reflection later in the course and look back at what you said here, you need it to be real. You can't reflect meaningfully on growth from a starting point that was never yours.
-
-You *can* use AI to help you compare and evaluate the project briefs themselves before writing your rationale — generating comparison criteria, identifying questions about each brief, or surfacing tradeoffs between your options. That's a legitimate use of AI as a thinking tool. But the rationale you write should be yours: your reasoning, in your words, reflecting your actual priorities.
+> [!ai] AI BOUNDARY
+> The self-assessment (Part 1) and your preference rationale (Part 2) must be completed without AI assistance. If AI generates your self-assessment, that baseline is fiction. When you sit down to write a reflection later in the course and look back at what you said here, you need it to be real.
+>
+> You *can* use AI to compare and evaluate the project briefs themselves before writing your rationale, such as generating comparison criteria or surfacing tradeoffs between your options. That's a legitimate use of AI as a thinking tool. But the rationale you write should be yours.
 
 ---
 

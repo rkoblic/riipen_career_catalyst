@@ -1,0 +1,179 @@
+1
+00:00:03,400 --> 00:00:05,480
+In any real project, there are gates.
+
+2
+00:00:05,800 --> 00:00:07,500
+ Moments where you stop, show the 
+
+3
+00:00:07,530 --> 00:00:09,100
+client what you're thinking, and 
+
+4
+00:00:09,160 --> 00:00:10,400
+make sure you're headed in the right
+
+5
+00:00:10,440 --> 00:00:12,240
+ direction before you invest weeks of 
+
+6
+00:00:12,290 --> 00:00:13,450
+effort building something.
+
+7
+00:00:14,360 --> 00:00:16,230
+ The Context Analysis and Project 
+
+8
+00:00:16,260 --> 00:00:17,460
+Plan is that gate.
+
+9
+00:00:18,060 --> 00:00:19,460
+ This isn't course busywork.
+
+10
+00:00:19,970 --> 00:00:21,600
+ It's the same checkpoint that exists 
+
+11
+00:00:21,670 --> 00:00:23,780
+in consulting, product development, 
+
+12
+00:00:23,900 --> 00:00:25,450
+agency work, anywhere 
+
+13
+00:00:25,480 --> 00:00:27,060
+professionals do project-based work 
+
+14
+00:00:27,110 --> 00:00:27,750
+for a client.
+
+15
+00:00:28,430 --> 00:00:30,030
+ You do your research, form a point 
+
+16
+00:00:30,070 --> 00:00:32,270
+of view, lay out a plan, and put it in 
+
+17
+00:00:32,320 --> 00:00:33,480
+front of the person who's going to 
+
+18
+00:00:33,550 --> 00:00:34,630
+use the final product.
+
+19
+00:00:35,260 --> 00:00:37,620
+ Before you build, not after.
+
+20
+00:00:38,025 --> 00:00:39,725
+ The reason this matters is simple:
+
+21
+00:00:40,045 --> 00:00:41,685
+ misalignment is expensive.
+
+22
+00:00:42,195 --> 00:00:43,645
+ When a plan doesn’t align with what
+
+23
+00:00:43,675 --> 00:00:45,895
+ the employer actually needs, teams 
+
+24
+00:00:45,945 --> 00:00:47,575
+can spend significant time moving in 
+
+25
+00:00:47,605 --> 00:00:48,425
+the wrong direction.
+
+26
+00:00:49,145 --> 00:00:50,965
+ Catching that early costs much less 
+
+27
+00:00:51,005 --> 00:00:53,285
+time than catching it later The 
+
+28
+00:00:53,345 --> 00:00:54,955
+course gives you a lot of structure for
+
+29
+00:00:54,995 --> 00:00:55,794
+ this deliverable.
+
+30
+00:00:56,305 --> 00:00:58,025
+ But the structure is scaffolding, not 
+
+31
+00:00:58,045 --> 00:00:58,515
+the building.
+
+32
+00:00:59,037 --> 00:01:00,787
+ You need to fill it with specifics.
+
+33
+00:01:01,037 --> 00:01:02,227
+ What did your research actually 
+
+34
+00:01:02,287 --> 00:01:03,887
+reveal about this organization and 
+
+35
+00:01:03,927 --> 00:01:04,657
+this project?
+
+36
+00:01:05,237 --> 00:01:06,747
+ What risks are specific to your 
+
+37
+00:01:06,797 --> 00:01:07,927
+team's situation?
+
+38
+00:01:08,877 --> 00:01:10,197
+ What tradeoffs are you making in 
+
+39
+00:01:10,237 --> 00:01:11,897
+your plan, and why?
+
+40
+00:01:12,957 --> 00:01:14,137
+ Your employer will read this 
+
+41
+00:01:14,197 --> 00:01:15,337
+document before your next 
+
+42
+00:01:15,397 --> 00:01:16,277
+conversation.
+
+43
+00:01:16,797 --> 00:01:18,367
+ What you write here sets the terms 
+
+44
+00:01:18,407 --> 00:01:19,157
+of that discussion.
+
+45
+00:01:19,847 --> 00:01:20,917
+ Make it worth their time.

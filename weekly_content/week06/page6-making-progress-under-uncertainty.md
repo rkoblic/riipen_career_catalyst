@@ -3,7 +3,7 @@ week: 6
 page: 6
 title: Making progress under uncertainty
 created: 2026-04-01
-last_updated: 2026-05-03
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -48,7 +48,7 @@ Different inputs (research findings, employer feedback, team assumptions) point 
 
 What to do: name the tension explicitly, to yourself and to your team. "The employer mentioned X in the Direction Check, but our research suggests Y. How do we want to handle that?" Naming the conflict explicitly is often most of the work. Once it's on the table, deciding what to do is usually more straightforward.
 
-[CURATED LINK: "How Well Do You Handle Ambiguity on a Project?" (article, ~8 min) — Blue Skies Consulting — https://blueskiesconsulting.com/how-well-do-you-handle-ambiguity-on-a-project/] A practical self-assessment walking through how professionals recognize and respond to different types of ambiguity in project work. Useful for understanding your own default response when clarity is missing: whether you tend to stall, move too quickly, or escalate when you don't need to.
+📎 [How Well Do You Handle Ambiguity on a Project?](https://blueskiesconsulting.com/how-well-do-you-handle-ambiguity-on-a-project/) — Blue Skies Consulting (article, ~8 min). A practical self-assessment walking through how professionals recognize and respond to different types of ambiguity in project work. Useful for understanding your own default response when clarity is missing: whether you tend to stall, move too quickly, or escalate when you don't need to.
 
 ---
 

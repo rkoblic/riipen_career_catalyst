@@ -3,7 +3,7 @@ week: 12
 page: 5
 title: What's Next
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -15,7 +15,7 @@ The deliverable is substantially done. Next week is where the package gets a fin
 
 ## Finalize and submit
 
-The shape of the Final Deliverables is already there. What's left next week is a final read-through, a consistency pass on formatting and language, a whole-document AI quality-review pass on the assembled package, and the submission itself.
+The shape of the Project Deliverables is already there. What's left next week is a final read-through, a consistency pass on formatting and language, a whole-document AI quality-review pass on the assembled package, and the submission itself.
 
 ---
 

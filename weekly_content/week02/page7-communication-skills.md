@@ -3,7 +3,7 @@ week: 2
 page: 7
 title: Communication Skills for Client Meetings
 created: 2026-03-19
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -19,12 +19,15 @@ The kickoff meeting may be the first meeting, but every employer meeting in this
 This page covers three skills you'll use at every employer touchpoint throughout the course: how to run the meeting itself, how to ask good questions, and how to listen well.
 
 ---
+
+## Kickoff Best Practices
+
 ### Assign Roles Before You Walk In
 
 Before a meeting starts, your team should agree on who does what:
 
 - **Who asks the questions.** This doesn't mean one person dominates. It means one person is responsible for making sure the key questions get asked and the conversation stays on track. Others can and should jump in, but having a lead prevents the awkward silence where everyone assumes someone else will speak.
-- **Who takes notes.** Dedicated note-taking is critical, even if you are using an AI note-taker (more on that below). The human note-taker's job is to capture the most important parts of what was said. Avoid interpreting or summarize statements; the team will have time to process after the meeting.
+- **Who takes notes.** Dedicated note-taking is critical, even if you are using an AI note-taker (more on that below). The human note-taker's job is to capture the most important parts of what was said. Avoid interpreting or summarizing statements; the team will have time to process after the meeting.
 - **Who manages time.** Someone should be quietly tracking the clock. If you have 60 minutes and ten questions, you don't want to spend 40 minutes on the first two. A gentle "We have about 20 minutes left, should we move to our remaining questions?" keeps things moving without being rude.
 
 ### What You're Trying to Walk Away With
@@ -48,7 +51,7 @@ If it's genuinely useful context, let it run and adjust your plan. If it's pulli
 
 The questions you bring to the kickoff (and other meetings) shape what you actually learn from it. Coming in with a thoughtful list — and knowing how to push past surface-level answers when you get them — is most of how you make the meeting useful.
 
-[CURATED LINK: "How to Ask the Right Questions" (video) — MindTools — https://www.mindtools.com/ayjixxz/questioning-techniques-video/]
+📎 [How to Ask the Right Questions](https://www.mindtools.com/ayjixxz/questioning-techniques-video/) — MindTools (video). Short overview of open, closed, and funneling question types with professional examples.
 
 ### Prioritizing When Time Is Limited
 
@@ -77,7 +80,7 @@ These questions move you past surface-level answers into the thinking behind the
 
 In a professional meeting, listening well takes deliberate effort. You're tracking what's being said, your team's reactions, and what's worth pushing on later — which is harder than it sounds when you're also nervous and trying to remember your prepared questions.
 
-[CURATED LINK: "The Art of Active Listening" (video) — Harvard Business Review — https://youtu.be/aDMtx5ivKK0?si=FYw70dQBnseOR8VJ]
+📎 [The Art of Active Listening](https://youtu.be/aDMtx5ivKK0?si=FYw70dQBnseOR8VJ) — Harvard Business Review (7:39). Challenges common listening habits and teaches more effective techniques.
 
 ### Note-Taking Without Checking Out
 

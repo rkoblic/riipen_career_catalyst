@@ -31,6 +31,7 @@ ORANGE = RGBColor(0xFF, 0x7C, 0x0A)
 ELECTRIC_BLUE = RGBColor(0x24, 0x54, 0xFF)
 GREEN = RGBColor(0x18, 0x73, 0x3E)
 GREY = RGBColor(0xAC, 0xAC, 0xAC)
+DARK_GREY = RGBColor(0x4A, 0x4A, 0x4A)
 LIGHT_GREY = RGBColor(0xFA, 0xFA, 0xFA)
 WHITE = RGBColor(0xFF, 0xFF, 0xFF)
 BLACK = RGBColor(0x00, 0x00, 0x00)
@@ -412,7 +413,7 @@ def add_blockquote(doc, text):
     ind = parse_xml(f'<w:ind {nsdecls("w")} w:left="720"/>')
     pPr.append(ind)
 
-    parse_inline_markdown(para, text, BODY_FONT, BODY_SIZE, GREY, base_bold=False)
+    parse_inline_markdown(para, text, BODY_FONT, BODY_SIZE, DARK_GREY, base_bold=False)
     set_paragraph_spacing(para, before=120, after=120, line=276)
     return para
 

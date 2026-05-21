@@ -3,7 +3,7 @@ week: 14
 page: 5
 title: What's Next
 created: 2026-04-22
-last_updated: 2026-05-19
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -23,8 +23,8 @@ The presentation is graded as a team. Before the final week begins, read [**the 
 
 ## How to enter the final week
 
-- **Presentation Outline submitted** (completed this week).
-- **Deck built and rehearsed.** Rehearsal feedback incorporated, timing within the employer's expected window.
-- **Reflection #5 in draft form.** Anchor chosen, Describe and Examine stages drafted, Articulate and Learn waiting for final-week thinking time.
-- **End-of-Project Peer Evaluation underway.** BARS dimensions reviewed, behavioral evidence gathered across the full project arc, thin spots flagged for final-week noticing during the rehearsal and presentation.
-- **Presentation logistics confirmed with the employer.** Format, timing, attendees, tech setup.
+- [ ] **Presentation Outline submitted** (completed this week).
+- [ ] **Deck built and rehearsed.** Rehearsal feedback incorporated, timing within the employer's expected window.
+- [ ] **Reflection #5 in draft form.** Anchor chosen, Describe and Examine stages drafted, Articulate and Learn waiting for final-week thinking time.
+- [ ] **End-of-Project Peer Evaluation underway.** BARS dimensions reviewed, behavioral evidence gathered across the full project arc, thin spots flagged for final-week noticing during the rehearsal and presentation.
+- [ ] **Presentation logistics confirmed with the employer.** Format, timing, attendees, tech setup.

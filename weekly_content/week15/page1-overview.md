@@ -3,7 +3,7 @@ week: 15
 page: 1
 title: Week Overview
 created: 2026-04-22
-last_updated: 2026-04-22
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -23,8 +23,9 @@ Three submissions, one end-of-project employer evaluation, and a team closing.
 
 - **Final Presentation** — team, graded. Your team presents live to your employer and course supervisor. The recording of the session and the slide deck are submitted through the Riipen platform after the live delivery. Significant weight in your final grade.
 - **Reflection #5** — individual, graded. The fifth and final DEAL reflection in the Reflection Portfolio component of your grade. Drafting began last week; finalization happens this week.
-- **End-of-Project Peer Evaluation** — individual. Contributes to the Professional Engagement component of your final grade. Evidence gathering began last week; ratings and submission happen this week.
-- **End-of-project employer evaluation** — not something you submit. Your employer is asked to complete a brief summative evaluation of your team across the full project — communication, preparedness, responsiveness, the quality of the final deliverables, and whether they would work with the team again. This feeds the same Professional Engagement component of your final grade as the peer evaluation.
+- **End-of-Project Peer Evaluation** — individual, graded. One of the graded items inside Professional Engagement. Evidence gathering began last week; ratings and submission happen this week.
+- **End-of-Project Employer Feedback** — not something you submit. Your employer is asked to complete a brief summative evaluation of your team across the full project — communication, preparedness, responsiveness, the quality of the final deliverables, and whether they would work with the team again. The employer's ratings become a gradebook item inside Professional Engagement.
+- **Instructor Observation** — not something you submit. Your instructor assigns a holistic end-of-semester score based on cumulative observation across the 15 weeks. The final graded item inside Professional Engagement.
 
 Alongside the three submissions and the employer evaluation, your team has a structured debrief and team closing right after the presentation, and the final async coordination of the project.
 

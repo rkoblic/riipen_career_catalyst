@@ -3,7 +3,7 @@ week: 7
 page: 3
 title: Reviewing Your Teammates' Work
 created: 2026-04-02
-last_updated: 2026-04-07
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork
@@ -83,13 +83,11 @@ This isn't policing your teammate's AI use. It's catching the kinds of errors AI
 
 Useful feedback has three qualities: it's specific, it points to the place in the piece it's about, and it gives your teammate something to work with, not just a verdict.
 
-Vague: "This section is confusing."
+- **Hands down a verdict:** "This section is confusing."
+- **Names the reviewer's confusion:** "I'm not totally following how the finding in the third paragraph connects to the main claim in the opening. It might help to add a sentence that makes the logic clearer."
 
-Actionable: "I'm not totally following how the finding in the third paragraph connects to the main claim in the opening. It might help to add a sentence that makes the logic clearer."
-
-Vague: "Not enough evidence here."
-
-Actionable: "Is there any data from the site audit that would support this recommendation directly? The environmental footprint figures might be a good fit."
+- **Closes the conversation:** "Not enough evidence here."
+- **Asks an opening question:** "Is there any data from the site audit that would support this recommendation directly? The environmental footprint figures might be a good fit."
 
 Notice the framing in both of the actionable versions. One names the reviewer's own confusion rather than declaring the piece broken ("I'm not following" rather than "this isn't connected"). The other is framed as a question rather than a directive. Feedback is often subjective, and framing it this way opens a conversation instead of handing down a critique. You're a reader telling your teammate how the piece landed for you and inviting them to talk about it, not ruling on whether it works.
 
@@ -99,4 +97,4 @@ The goal isn't to rewrite your teammate's work. It's to give them enough to impr
 
 ---
 
-[CURATED LINK: "How to Write Effective Peer Review Comments" (video, ~5 min) — Odyssey Learning Project — https://youtu.be/kMWZBDUlHUA?si=hzI0pxs4tFW7-MLh] A practical walkthrough of how to write peer review comments that are specific, useful, and focused on improving the work rather than evaluating the writer. Complements the structural feedback framework covered in this module.
+📎 [How to Write Effective Peer Review Comments](https://youtu.be/kMWZBDUlHUA?si=hzI0pxs4tFW7-MLh) — Odyssey Learning Project (video, ~5 min). A practical walkthrough of how to write peer review comments that are specific, useful, and focused on improving the work rather than evaluating the writer. Complements the structural feedback framework covered in this module.

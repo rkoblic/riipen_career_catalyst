@@ -3,7 +3,7 @@ week: 3
 page: 8
 title: Reflection #1
 created: 2026-03-28
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -54,7 +54,7 @@ Your reflection will be evaluated on four dimensions, equally weighted at 25% ea
 
 **Critical examination.** Does your examination produce insight, something you didn't fully see while the experience was happening? The standard is not "I learned a lot" or "this was challenging." It's identifying assumptions you were operating under, surfacing patterns you notice, and connecting the experience to something broader about how you work. The test: if you could delete your Examine section and the Describe section would still convey the same understanding, you haven't examined. You've summarized.
 
-**Personal accountability.** This is the dimension most first reflections struggle with, and it's worth understanding why it's weighted equally with the others. The question is whether you place yourself inside the experience as an actor (examining your own assumptions, decisions, and reactions) or whether you remain outside it as a narrator describing events that happened around you. "The employer's feedback was confusing" is narration. "I realized I'd been so invested in our original approach that I heard the feedback as criticism rather than redirection" is accountability. You don't need to confess to failure. You need to examine your own role in what happened, including the choices you made and why you made them.
+**Personal accountability.** This is the dimension most first reflections struggle with, and it's worth understanding why it's weighted equally with the others. The question is whether you place yourself inside the experience as an actor (examining your own assumptions, decisions, and reactions) or whether you remain outside it as a narrator describing events that happened around you. Narration — outside the experience: "The employer's feedback was confusing." Accountability — inside the experience: "I realized I'd been so invested in our original approach that I heard the feedback as criticism rather than redirection." You don't need to confess to failure. You need to examine your own role in what happened, including the choices you made and why you made them.
 
 **Articulation of learning.** Is your takeaway specific enough to apply in a future situation? "I learned that communication is important" doesn't meet the bar; it could have been written before you had the experience. "I learned that prioritizing questions by what we don't know, rather than listing everything we're curious about, leads to more focused meetings. Going forward, I'll sort my team's question list by urgency before any client interaction" does. Strong articulated learning emerges visibly from your examination. If it reads like a pre-formed lesson you're attaching to the experience, push deeper.
 
@@ -80,7 +80,7 @@ AI can be a useful sounding board for reflection, but it can't reflect for you. 
 
 Where AI can help: if you're stuck, try describing your experience to an AI tool and asking it to push back. "What assumptions might I be making here?" or "What's another way to interpret what happened?" can help you think more critically. You can also ask AI to read your draft Examine section and tell you where you're still on the surface. Use AI to challenge your analysis, not to generate it.
 
-Where AI can't help: AI wasn't in the room. It doesn't know what happened, what surprised you, or what you felt. Any reflection where the substance reads like it could have been written by someone who wasn't there will be obvious, to your instructor and to you.
+Where AI can't help: AI wasn't in the room. It doesn't know what happened, what surprised you, or what you felt. Any reflection where the substance reads like it could have been written by someone who wasn't there will be obvious — to your instructor and to you.
 
 ---
 

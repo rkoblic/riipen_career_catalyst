@@ -3,7 +3,7 @@ week: 11
 page: 4
 title: What's Next
 created: 2026-04-21
-last_updated: 2026-04-22
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -15,7 +15,7 @@ This week's Near-Final Check-In is the last major employer input before the fina
 
 ## The final deliverable submission
 
-The next major milestone is the Final Deliverables submission, graded against the rubric you've been using throughout the Refinement phase. Enter the final development push with a clear view of the rubric dimensions and a revision list from this week's debrief. Teams that track the arc as they go (here's what we heard, here's what we decided, here's where it shows up) produce stronger final submissions and complete the Responsiveness to Feedback section of the Change Log more easily.
+The next major milestone is the Project Deliverables submission, graded against the rubric you've been using throughout the Refinement phase. Enter the final development push with a clear view of the rubric dimensions and a revision list from this week's debrief. Teams that track the arc as they go (here's what we heard, here's what we decided, here's where it shows up) produce stronger final submissions and complete the Responsiveness to Feedback section of the Change Log more easily.
 
 Your next standing check-in is the week of the final submission. By then your team should be executing on its revision list rather than holding open questions, so bring any final ones if you have them. Otherwise, requesting to skip is fine.
 

@@ -3,7 +3,7 @@ week: 6
 page: 1
 title: Week Overview
 created: 2026-04-01
-last_updated: 2026-04-06
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -17,7 +17,7 @@ This week is a hinge. Close out the Discovery phase with Reflection #2 — look 
 
 ## What's due this week
 
-**Reflection #2** is the only graded deliverable this week (individual submission, contributes to the Reflection Portfolio component of your final grade). There's no employer touchpoint this week, which means your attention goes entirely to the reflection, the modules, and your development work.
+**Reflection #2** is the only graded deliverable this week (individual submission, 5% of your final grade as part of the Reflection Portfolio). There's no employer touchpoint this week, which means your attention goes entirely to the reflection, the modules, and your development work.
 
 Complete the reflection early in the week, before you start development.
 
@@ -25,11 +25,11 @@ Complete the reflection early in the week, before you start development.
 
 ## Suggested order of completion
 
-The order of this week matters. Reflection #2 first (it closes a chapter), Revisiting the Final Deliverable next (it shapes the decisions your team is about to make). The development modules are sequenced after that, each one timed for a specific moment in the drafting process.
+The order of this week matters. Reflection #2 first (it closes a chapter), Revisiting the Project Deliverable next (it shapes the decisions your team is about to make). The development modules are sequenced after that, each one timed for a specific moment in the drafting process.
 
 1. **Reflection #2.** Looks back at the moments in Discovery that tested your judgment. Done early, it gives you a clean break between phases.
 
-2. **Revisiting the Final Deliverable.** You looked at this during syllabus orientation. Re-read it now that you have a project and team. It's what every development decision builds toward.
+2. **Revisiting the Project Deliverable.** You looked at this during syllabus orientation. Re-read it now that you have a project and team. It's what every development decision builds toward.
 
 3. **Starting development as a team.** Before anyone opens the shared workspace. Covers setup decisions to make together: component ownership, structure, formatting standards, terminology. Settle these now or fix them later.
 

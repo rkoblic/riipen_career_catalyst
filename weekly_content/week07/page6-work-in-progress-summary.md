@@ -3,7 +3,7 @@ week: 7
 page: 6
 title: The Work-in-Progress Summary
 created: 2026-04-07
-last_updated: 2026-04-08
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -20,7 +20,9 @@ The Work-in-Progress Summary is your team's version of that practice. It is the 
 
 ## What this checkpoint is (and isn't)
 
-The WIP Summary is a team submission, not an individual one. It's short, usually one to two pages, and it's a working document for your team and the course. It is **not** a document the employer reads. The employer will not receive it, and you should not send it to them. It is not a pre-read or an agenda for the meeting.
+The Work-in-Progress Summary is a team submission written for your own team, not for the employer. The employer will not receive it, and you should not send it to them. It is not a pre-read or an agenda for the meeting.
+
+The WIP Summary is a team submission, not an individual one. It's short, usually one to two pages, and it's a working document for your team and the course.
 
 The point of the writing is not to communicate to anyone outside your team. The point is the act of writing itself: putting your team's actual situation on the page is what makes the gaps visible. You then carry what you learned from that exercise into the meeting verbally, in your own words, in response to whatever the employer raises.
 

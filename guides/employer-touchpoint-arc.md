@@ -126,7 +126,7 @@ This progression shifts students from passive (listening) to active (driving the
 | **Format** | Working session (30 min) OR async communication |
 | **What students prepare** | Remaining substantive questions, if any. If no questions: async confirmation of Week 15 presentation logistics. |
 | **Employer's role** | Answers remaining questions if meeting is held; receives logistics confirmation |
-| **Deliverable** | Final Deliverables (graded, 30% of course grade) — submitted regardless of whether meeting is held |
+| **Deliverable** | Project Deliverables (graded, 30% of course grade) — submitted regardless of whether meeting is held |
 | **Content framing** | The decision to hold or cancel is itself a professional skill. Frame it as such: "If your team doesn't have substantive questions that would change the final deliverable, cancelling the meeting and using that time for polish is the right call." |
 
 ### Week 15 — Final Presentation

@@ -118,7 +118,38 @@
     border-radius: 2px;
   }
 
-  /* ── Stimulus Card ── */
+  /* ── Video Player ── */
+
+  .video-wrapper {
+    background: var(--grey-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 16px;
+  }
+
+  .meeting-video {
+    width: 100%;
+    border-radius: 6px;
+    display: block;
+    background: #000;
+  }
+
+  .notes-prompt {
+    font-size: 14px;
+    color: var(--dark-blue);
+    margin-bottom: 24px;
+    padding: 12px 16px;
+    background: #fff8f1;
+    border-left: 3px solid var(--orange);
+    border-radius: 0 6px 6px 0;
+  }
+
+  .notes-prompt strong {
+    font-weight: 700;
+  }
+
+  /* ── Stimulus Card (text fallback) ── */
 
   .stimulus-card {
     background: var(--white);
@@ -529,25 +560,12 @@
 
 const interactiveData = {
   title: "Reading between the lines: what did the employer actually confirm?",
-  subtitle: "About 8 minutes",
+  subtitle: "About 10 minutes",
   context: `Your team has been matched with Bridgeway Community Health, a regional nonprofit that runs health education programs in underserved communities. You've done your preliminary research and sent your confirmation message. Now you're in the kickoff meeting. Your employer contact, David Park, is the Director of Community Programs.
 
-Below are passages from your meeting with David. After reading them, you'll answer questions about what was actually confirmed. Pay attention to the difference between what David says directly and what you might be tempted to assume.`,
-  stimulus: `**Section 1: Project overview**
-
-David says: "Thanks for meeting with us. So, the project. We've been running our community health workshops for about six years now, and they've been successful by most measures. Attendance is strong, the feedback forms are positive. But we've been hearing from our partner clinics that the information isn't always sticking. People come to the workshops, they learn things, and then three months later their health behaviors haven't really changed. We want to understand why and figure out what we can do differently."
-
-**Section 2: Scope and deliverables**
-
-David says: "What we're looking for from your team is a research-informed set of recommendations. We want you to look at what other organizations have done with similar programs, dig into the research on health behavior change, especially for the populations we serve, and come back to us with concrete suggestions we can actually implement. We don't need a 50-page report. A focused analysis with clear, actionable recommendations is what would be most useful to us."
-
-**Section 3: Timeline and constraints**
-
-David says: "In terms of timeline, we're flexible, but ideally we'd want to see a draft of your findings before our board meeting in late April. That's not a hard deadline, but it would be great to have something to share with them. Budget-wise, we can't fund any primary research, so this would be secondary research and analysis. We do have some internal survey data we can share with you, though, if that's helpful."
-
-**Section 4: Stakeholders and context**
-
-David says: "The workshops are run by our team of community health educators, about eight people. They're great, really dedicated. The curriculum was developed in-house about four years ago based on CDC guidelines at the time. We haven't done a major update since then. I should mention that our participants are primarily from immigrant and refugee communities, so language and cultural context are huge factors in everything we do."`,
+Watch the meeting once, taking notes as you go. You'll answer five questions afterward, and you won't see the meeting again — just like a real kickoff. Pay attention to the difference between what David says directly and what you might be tempted to assume.`,
+  videoSrc: "https://riipen-product.s3.ca-central-1.amazonaws.com/career-catalyst/Kickoff+Meeting+with+David+Park.mp4",
+  notesPrompt: "Have a notebook open before you press play. After the video ends, the meeting is gone — your notes are all you'll have.",
   questions: [
     {
       id: 1,
@@ -560,11 +578,11 @@ David says: "The workshops are run by our team of community health educators, ab
       ],
       correctAnswer: "B",
       feedback: {
-        correct: `Right. David was specific: attendance is strong, feedback is positive, but "the information isn't always sticking" and "health behaviors haven't really changed." The problem is the gap between learning and behavior change, not attendance, content quality, or a need for a complete overhaul.`,
+        correct: `Right. David was specific: attendance is solid, feedback is positive, but "the learning isn't translating into change." The problem is the gap between what people learn in the room and what they do three months later — not attendance, not content quality, not a need for a complete overhaul.`,
         incorrect: {
-          "A": "David actually said attendance is strong. If you heard a marketing problem, you may have been projecting a common organizational challenge onto what was said. Go back and read his exact words.",
-          "C": `David said the partner clinics reported that information "isn't sticking" with participants. That's feedback about participant outcomes, not a complaint about the workshops themselves. It's a subtle but important distinction.`,
-          "D": "David didn't say the workshops are failing or need to be rebuilt. He said the outcomes aren't matching the effort. That's a much more targeted problem than a total redesign."
+          "A": `David actually said attendance is solid. If you heard a marketing problem, you may have been projecting a common organizational challenge onto what was said. Listen again for what he framed as the actual concern.`,
+          "C": `David said the partner clinics flagged that participants' behaviors weren't shifting. That's feedback about participant outcomes, not a complaint about the workshops themselves. It's a subtle but important distinction.`,
+          "D": `David said the opposite — "we know the workshops are working as workshops." He's identifying a targeted gap (learning to behavior), not asking for a rebuild.`
         }
       }
     },
@@ -579,11 +597,11 @@ David says: "The workshops are run by our team of community health educators, ab
       ],
       correctAnswer: "C",
       feedback: {
-        correct: `Exactly. David said "a focused analysis with clear, actionable recommendations" and explicitly ruled out a lengthy report ("We don't need a 50-page report"). Matching the deliverable to what the client asked for, rather than what you think they need, is a foundational client service skill.`,
+        correct: `Exactly. David asked for "a focused analysis with clear, actionable recommendations" and explicitly ruled out a lengthy report — "we don't need a hundred-page deliverable." Matching the deliverable to what the client asked for, rather than what you think they need, is a foundational client service skill.`,
         incorrect: {
-          "A": "David specifically said they don't need a 50-page report. When a client names what they don't want, pay attention.",
+          "A": `David specifically said they don't need a hundred-page deliverable — and gave a reason: they wouldn't have time to absorb it. When a client names what they don't want, pay attention.`,
           "B": "David didn't mention a slide deck. He did mention the board meeting, but as a timeline reference, not a deliverable format. Be careful not to connect two details that weren't actually connected.",
-          "D": `David asked for recommendations, not a redesigned curriculum. The gap between "suggest what we can do differently" and "build us a new curriculum" is significant. Overpromising on scope is one of the most common mistakes teams make after a kickoff.`
+          "D": `David asked for "concrete suggestions we can actually put into practice," not a redesigned curriculum. The gap between recommending changes and building a new program is significant. Overpromising on scope is one of the most common mistakes teams make after a kickoff.`
         }
       }
     },
@@ -598,9 +616,9 @@ David says: "The workshops are run by our team of community health educators, ab
       ],
       correctAnswer: "B",
       feedback: {
-        correct: `Good listening. David said "ideally" and "that's not a hard deadline, but it would be great to have something." This is a soft target, and the distinction matters. In professional work, treating every preference as a firm requirement creates unnecessary pressure and can compromise quality. Treating firm deadlines as flexible creates trust problems. Learn to hear the difference.`,
+        correct: `Good listening. David said "ideally" and "we're not setting that in stone" — and added he'd rather you do good work than rush to make a date. This is a soft target, and the distinction matters. In professional work, treating every preference as a firm requirement creates unnecessary pressure and can compromise quality. Treating firm deadlines as flexible creates trust problems. Learn to hear the difference.`,
         incorrect: {
-          "A": `David used qualifying language throughout: "ideally," "not a hard deadline," "it would be great." Interpreting this as a firm deadline would lead your team to rush unnecessarily. Listen for qualifiers. They're signals.`,
+          "A": `David used qualifying language throughout: "ideally," "we're not setting that in stone," "it would be really nice." Interpreting this as a firm deadline would lead your team to rush unnecessarily. Listen for qualifiers. They're signals.`,
           "C": "David brought it up in the context of wanting something to share with the board. That makes it a relevant milestone, even if it's not a hard deadline. Dismissing it entirely would mean missing a real opportunity to deliver value at a natural checkpoint.",
           "D": "David didn't say anything about communication changing the deadline. This answer sounds reasonable, but it's adding information that wasn't in the conversation. Be careful about inventing flexibility that wasn't offered."
         }
@@ -617,10 +635,10 @@ David says: "The workshops are run by our team of community health educators, ab
       ],
       correctAnswer: "C",
       feedback: {
-        correct: `David said "we can't fund any primary research, so this would be secondary research and analysis." That's a clear scope constraint. He also offered internal survey data, which is existing data he can share, not new primary research. Hearing constraints clearly prevents your team from planning work that was never on the table.`,
+        correct: `David said "this is going to need to be secondary research and analysis — we don't have the resources to fund interviews or surveys of our participants." That's a clear scope constraint. He also offered internal survey data from last year, which is existing data he can share, not new primary research. Hearing constraints clearly prevents your team from planning work that was never on the table.`,
         incorrect: {
-          "A": "David said they can't fund primary research. Interviews with participants would be primary research. Proposing this in your project plan would signal that you weren't listening to a stated constraint.",
-          "B": "David mentioned that the curriculum was based on CDC guidelines, but he didn't say your analysis should focus exclusively on CDC materials. That detail was context about the current program, not direction for your research.",
+          "A": `David explicitly named interviews and surveys as things they don't have the resources to fund. Proposing participant interviews in your project plan would signal you weren't listening to a stated constraint.`,
+          "B": "David mentioned the curriculum was based on CDC guidance, but he didn't say your analysis should focus exclusively on CDC materials. That detail was context about the current program, not direction for your research.",
           "D": "David didn't specify a preference for quantitative or qualitative methods. Don't fill in methodological preferences the client didn't express. If it matters for your approach, ask."
         }
       }
@@ -636,11 +654,11 @@ David says: "The workshops are run by our team of community health educators, ab
       ],
       correctAnswer: "B",
       feedback: {
-        correct: `David said "language and cultural context are huge factors in everything we do." When a client tells you something is a "huge factor," believe them. This isn't background context. It's a lens that should shape how you research, what sources you prioritize, and what recommendations you make. Research on health behavior change that doesn't account for the cultural context of the target population would miss the point of the project.`,
+        correct: `David said "cultural context shapes everything we do" — and described what that means in concrete terms: "how people understand health, who they trust, how decisions get made in families." When a client explains why something matters in that much detail, believe them. This isn't background context. It's a lens that should shape how you research, what sources you prioritize, and what recommendations you make.`,
         incorrect: {
-          "A": `David said language and cultural context are "huge factors in everything we do." Treating this as background noise would mean missing a core dimension of the project. When clients emphasize something, they're telling you what matters to them.`,
+          "A": `David said cultural context "shapes everything we do" and went on to describe what that means concretely — how people understand health, who they trust, how families make decisions. Treating this as background noise would mean missing a core dimension of the project.`,
           "C": "David already told you it's relevant, in strong terms. Asking whether it's relevant would signal that you weren't listening. If you need clarification on how it affects your specific deliverable, frame it as building on what he shared, not questioning whether it matters.",
-          "D": `Translation is one aspect of language access, but David's point was broader: "language and cultural context." Narrowing this to translation services ignores the cultural component entirely. Be careful not to reduce a complex factor to the first concrete solution that comes to mind.`
+          "D": `David did say "translation matters" — but he immediately added "it goes beyond that — cultural context shapes everything we do." Narrowing this to translation services hears the first half of what he said and ignores the second. Be careful not to reduce a complex factor to the first concrete solution that comes to mind.`
         }
       }
     }
@@ -679,14 +697,24 @@ function renderContext() {
   html += formatParagraphs(interactiveData.context);
   html += '</div>';
 
-  if (interactiveData.stimulus) {
+  if (interactiveData.videoSrc) {
+    html += '<div class="video-wrapper">';
+    html += '<video class="meeting-video" controls preload="metadata">';
+    html += '<source src="' + escapeHtml(interactiveData.videoSrc) + '" type="video/mp4">';
+    html += 'Your browser does not support embedded video. <a href="' + escapeHtml(interactiveData.videoSrc) + '">Download the meeting recording</a>.';
+    html += '</video>';
+    html += '</div>';
+    if (interactiveData.notesPrompt) {
+      html += '<div class="notes-prompt">' + escapeHtml(interactiveData.notesPrompt) + '</div>';
+    }
+  } else if (interactiveData.stimulus) {
     html += '<div class="stimulus-card">';
     html += '<div class="stimulus-label">The meeting</div>';
     html += formatStimulus(interactiveData.stimulus);
     html += '</div>';
   }
 
-  html += '<button class="btn btn-submit" onclick="startQuestions()" aria-label="Begin the exercise">Begin</button>';
+  html += '<button class="btn btn-submit" onclick="startQuestions()" aria-label="Begin the questions">Begin questions</button>';
 
   area.innerHTML = html;
 }
@@ -718,13 +746,6 @@ function renderQuestion() {
   html += '    <div class="progress-fill" style="width: ' + ((currentQuestion + 1) / total * 100) + '%"></div>';
   html += '  </div>';
   html += '</div>';
-
-  if (interactiveData.stimulus) {
-    html += '<div class="stimulus-card">';
-    html += '<div class="stimulus-label">The meeting</div>';
-    html += formatStimulus(interactiveData.stimulus);
-    html += '</div>';
-  }
 
   html += '<div class="question-prompt" id="questionPrompt">' + escapeHtml(q.prompt) + '</div>';
 

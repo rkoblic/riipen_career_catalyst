@@ -3,13 +3,13 @@ week: 14
 page: 1
 title: Week Overview
 created: 2026-04-22
-last_updated: 2026-05-19
+last_updated: 2026-05-21
 status: draft
 ---
 
 # Translating the work
 
-Your team sent the Final Deliverables to the employer at the end of last week. More than ten weeks of research, analysis, drafts, revisions, and a professional relationship built from scratch, now in the hands of the people who commissioned the work. That is a real accomplishment, and worth naming before the week moves on. Most of what your team built did not exist the day this course started.
+Your team sent the Project Deliverables to the employer at the end of last week. More than ten weeks of research, analysis, drafts, revisions, and a professional relationship built from scratch, now in the hands of the people who commissioned the work. That is a real accomplishment, and worth naming before the week moves on. Most of what your team built did not exist the day this course started.
 
 Three things are left before the course closes: a live presentation to the employer, a final reflection on the full fifteen weeks, and a peer evaluation of your teammates. None of them is a last-minute job. This week, all three begin.
 
@@ -26,7 +26,7 @@ Two more pieces of work **are submitted next week and benefit from a head start 
 - **Reflection #5** — individual, graded. The final DEAL reflection. Worth doing this week: anchor selection from across the full fifteen-week arc, and a first-pass Describe and Examine draft.
 - **End-of-Project Peer Evaluation** — individual, graded. Worth doing this week: revisit the instructions and gather behavioral evidence across the full project, with a short noticing list for what to watch during the rehearsal and Final Presentation.
 
-The full prompts, rubric, and submission details for both deliverables live on the Week 15 pages. The [Getting a Head Start on Week 15](page4-getting-a-head-start.md) page is the cue to start them now — both benefit from a few days between the early work and next week's finalization, and next week is already full with the Final Presentation.
+The full prompts, rubric, and submission details for both deliverables live on the Week 15 pages. The [Getting a Head Start on Next Week](page4-getting-a-head-start.md) page is the cue to start them now — both benefit from a few days between the early work and next week's finalization, and next week is already full with the Final Presentation.
 
 ---
 

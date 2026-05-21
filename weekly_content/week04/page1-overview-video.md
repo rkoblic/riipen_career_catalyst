@@ -14,7 +14,7 @@ In any real project, there are gates. Moments where you stop, show the client wh
 
 This isn't course busywork. It's the same checkpoint that exists in consulting, product development, agency work, anywhere professionals do project-based work for a client. You do your research, form a point of view, lay out a plan, and put it in front of the person who's going to use the final product. Before you build, not after.
 
-The reason this matters is simple: misalignment is expensive. When a plan doesn't align with what the employer actually needs, teams can spend significant time moving in the wrong direction. Catching that early costs much less than catching it later. 
+The reason this matters is simple: misalignment is expensive. When a plan doesn’t align with what the employer actually needs, teams can spend significant time moving in the wrong direction. Catching that early costs much less time than catching it later.
 
 The course gives you a lot of structure for this deliverable. But the structure is scaffolding, not the building. You need to fill it with specifics. What did your research actually reveal about this organization and this project? What risks are specific to your team's situation? What tradeoffs are you making in your plan, and why?
 

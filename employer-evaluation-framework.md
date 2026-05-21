@@ -6,7 +6,7 @@
 
 ## Overview
 
-Employer feedback is one of three evidence sources for the Professional Engagement grade (25% of the 20% component). Employers evaluate the student team — not individuals — at two points: mid-project (Week 8) and end-of-project (Week 15). The two surveys are deliberately differentiated: the mid-project survey is brief and formative, generating actionable feedback that is shared with the team; the end-of-project survey is fuller and summative, contributing to final grade calculation.
+Employer feedback contributes two of the five gradebook items inside Professional Engagement (5% of the final grade combined: 1.5% mid-project + 3.5% end-of-project). Employers evaluate the student team — not individuals — at two points: mid-project (Week 8) and end-of-project (Week 15). The two surveys are deliberately differentiated: the mid-project survey is brief and formative, generating actionable feedback that is shared with the team; the end-of-project survey is fuller and summative, weighted more heavily in the gradebook.
 
 Employer feedback operates at the team level. Employers interact with the team as a unit through touchpoints and email communication. They observe collective professionalism and responsiveness but cannot reliably assess individual contributions. All team members receive the same base employer score, which can be modulated by peer evaluation patterns when those patterns indicate uneven contribution.
 
@@ -24,7 +24,7 @@ This document specifies the survey instruments, competency alignment, scoring me
 
 **BARS over Likert.** Behaviorally Anchored Rating Scales reduce the cognitive load on employers (they pick the description that matches their experience rather than assigning an abstract number) and produce more reliable data across employers with different standards. An employer who tends toward generous ratings still has to affirm a specific behavioral description.
 
-**Differentiated instruments for differentiated purposes.** The mid-project survey is formative — brief, development-oriented, with results shared to the team for course correction. The end-of-project survey is summative — fuller, evaluative, contributing to the final Professional Engagement score. Using the same instrument at both points would underserve both functions.
+**Differentiated instruments for differentiated purposes.** The mid-project survey is formative — brief, development-oriented, with results shared to the team for course correction. The end-of-project survey is summative — fuller, evaluative, weighted more heavily as a gradebook item inside Professional Engagement. Using the same instrument at both points would underserve both functions.
 
 **Closed feedback loop.** Mid-project survey results are shared with the team and processed in the Week 9 Team Processing Session alongside peer evaluation feedback. Collecting employer input without giving students the opportunity to act on it wastes the formative potential of the mid-project touchpoint.
 
@@ -40,7 +40,7 @@ The employer evaluation dimensions map to competencies the employer can directly
 | **Preparedness** | Professionalism | Dependability | Meet deadlines consistently; show up prepared for meetings and commitments |
 | **Responsiveness** | Professionalism / Communication | Initiative + Professional Correspondence | Identify next steps without waiting for direction; surface problems early; communicate promptly and professionally |
 
-The employer evaluation does not assess Teamwork (employers cannot see internal dynamics), Critical Thinking (assessed through deliverables), or Career & Self-Development (assessed through reflections). This boundary is intentional — each evidence source in the Professional Engagement component captures what its evaluator is uniquely positioned to observe.
+The employer evaluation does not assess Teamwork (employers cannot see internal dynamics), Critical Thinking (assessed through deliverables), or Career & Self-Development (assessed through reflections). This boundary is intentional — each Professional Engagement gradebook item captures what its evaluator is uniquely positioned to observe.
 
 ---
 
@@ -128,7 +128,7 @@ This item is not shared with the team. It parallels the team pulse question on t
 
 ### Purpose
 
-Summative assessment of the full employer-team partnership. The end-of-project survey captures the employer's experience across the entire 15-week engagement, including all seven touchpoints, email communication, and the quality of the final deliverables. It contributes to the final Professional Engagement score.
+Summative assessment of the full employer-team partnership. The end-of-project survey captures the employer's experience across the entire 15-week engagement, including all seven touchpoints, email communication, and the quality of the final deliverables. The auto-aggregated score becomes the End-of-Project Employer Feedback gradebook item (3.5% of final grade).
 
 ### Timing
 
@@ -165,7 +165,7 @@ This dimension is summative-only — it cannot be assessed mid-project because t
 | **2** | **Below Expectations** | The final deliverables partially meet my expectations. Some sections are useful, but others need significant work before I could act on them. The overall quality is uneven. |
 | **1** | **Unsatisfactory** | The final deliverables do not meet my expectations. The work is incomplete, off-target, or of insufficient quality to be useful to my organization. |
 
-Note: This dimension is used by the instructor as context for evaluating the Final Deliverables rubric score, not as a direct grade input on the deliverables themselves. It provides the employer's subjective assessment of utility, which may differ from the academic assessment of quality.
+Note: This dimension is used by the instructor as context for evaluating the Project Deliverables rubric score, not as a direct grade input on the deliverables themselves. It provides the employer's subjective assessment of utility, which may differ from the academic assessment of quality.
 
 ---
 
@@ -222,7 +222,7 @@ Results sharing for the end-of-project survey is an institutional choice. Option
 
 - **Share BARS ratings only** — students see how the employer assessed their Communication, Preparedness, and Responsiveness across the full project
 - **Share BARS + Deliverable Quality + Partnership Quality** — students see the full picture including the employer's assessment of their final work
-- **Instructor-only** — all results contribute to the Professional Engagement score but are not shared directly with students
+- **Instructor-only** — all results feed the Professional Engagement gradebook items but are not shared directly with students
 
 The recommendation is to share BARS ratings and the Partnership Quality response. This gives students meaningful closure on the professional relationship without exposing the employer's private comments (Item 6) or satisfaction signal (Item 7).
 
@@ -286,7 +286,7 @@ The consolidation reflects two insights:
 
 ## Related Documents
 
-**Professional Engagement Mechanics:** Full scoring mechanics for the Professional Engagement component (20% of final grade), including how peer evaluation (50%), employer feedback (25%), and instructor observation (25%) combine.
+**Professional Engagement Mechanics:** Full scoring mechanics for all five gradebook items inside Professional Engagement (20% of final grade total): Mid-Project Peer Evaluation (3%), End-of-Project Peer Evaluation (7%), Mid-Project Employer Feedback (1.5%), End-of-Project Employer Feedback (3.5%), Instructor Observation (5%). See `rubrics/professional-engagement-grading-guide.md`.
 
 **Peer Evaluation Framework:** Companion document specifying the peer evaluation instruments, BARS dimensions, and feedback sharing process.
 

@@ -3,7 +3,7 @@ week: 13
 page: 4
 title: What's Next
 created: 2026-04-21
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -25,7 +25,7 @@ Two other graded pieces of work open in the coming week and close the following 
 
 ## How to prepare
 
-- **Submit the Final Deliverables this week.** The presentation work in the coming weeks assumes the deliverable is done.
+- **Submit the Project Deliverables this week.** The presentation work in the coming weeks assumes the deliverable is done.
 - **Keep the Change Log current** through this week's revisions and the final check-in if held. The Change Log is referenced in the Final Presentation's defend-your-work moment.
 - **Confirm presentation logistics with the employer** (format, date, time, and attendees) if you haven't already. The final check-in page covers the logistics communication.
 - **Have your presentation outline ready to pick up** from the drafting you did earlier in the course. Refinement and rehearsal begin in the coming week.

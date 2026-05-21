@@ -3,7 +3,7 @@ week: 12
 page: 4
 title: Reflection #4
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -56,7 +56,10 @@ Once you have a candidate moment in mind, it helps to generate surrounding mater
 - **Where did our plan prove wrong, and what did the work teach us that the plan couldn't?** The useful answer is not "our plan was wrong about X." The useful answer is what the team now understands about X that it did not understand at the start, and what kind of work makes that kind of understanding possible.
 - **What did we produce that we did not plan?** Some of what is in the final deliverable was never in the original plan at all. It showed up as the team did the work. Those additions usually reveal something about what the project actually needed that only became clear in the doing.
 
-[SCENARIO CARD: Plan-vs-reality — weak vs. strong pair. Weak: a surface description of what changed in the project. Strong: an examination that names what the change revealed about how the learner would approach similar work next time, not just what happened in this one.]
+What "examining a shift" sounds like in practice:
+
+- **Surface description:** "I was surprised by how much the deliverable changed from our original plan. We started thinking the recommendations would focus on recruitment, but we ended up emphasizing retention. The project showed me that plans change."
+- **Examined shift, with transferable learning:** "When the employer pushed us to focus on retention rather than recruitment in week 5, I assumed it was a scope adjustment. It wasn't until we were synthesizing findings in week 10 that I realized our original plan had embedded an assumption — that the problem was getting volunteers in the door. The shift wasn't a different focus; it was a different theory of the problem. Next time I'd treat early-project scope language as a hypothesis to test, not a target to deliver against."
 
 ---
 

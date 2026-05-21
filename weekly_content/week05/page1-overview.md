@@ -3,13 +3,13 @@ week: 5
 page: 1
 title: Week Overview
 created: 2026-04-01
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 ---
 
 # Presenting your approach
 
-This is the week your project direction gets confirmed or redirected. Either outcome is a normal part of professional work.
+This is the week your project direction gets confirmed or redirected. Either outcome — confirmed or redirected — is a normal part of professional work. The Direction Check exists so a redirection happens before you commit to production, not after.
 
 Most of this week is preparation for the Direction Check, a 30-minute meeting with your employer. They've already received your Context Analysis & Project Plan. There are no slides. You walk the employer through your thinking, hear their reaction, and find out whether your approach holds up before you commit to production.
 

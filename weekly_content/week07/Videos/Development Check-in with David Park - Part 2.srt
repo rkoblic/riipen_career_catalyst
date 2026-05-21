@@ -1,0 +1,31 @@
+1
+00:00:00,600 --> 00:00:01,725
+OK, sure.
+
+2
+00:00:01,726 --> 00:00:05,545
+So... we had problems with how we recruited and trained
+the navigators.
+
+3
+00:00:05,545 --> 00:00:08,541
+The training wasn't deep enough for what we were asking
+people to do.
+
+4
+00:00:09,741 --> 00:00:14,907
+We ended up losing trust with two of our partner clinics
+over it, because they felt like we'd sent people into
+
+5
+00:00:14,907 --> 00:00:17,171
+their spaces who weren't ready.
+
+6
+00:00:17,171 --> 00:00:19,308
+I think the model can definitely work.
+
+7
+00:00:19,308 --> 00:00:21,768
+But you need to know that this history exists.
+

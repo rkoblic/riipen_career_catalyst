@@ -3,7 +3,7 @@ week: 10
 page: 4
 title: What's Next
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -27,5 +27,5 @@ The first checkpoint of the phase is a near-final version of your deliverable. Y
 
 - **Carry the internal review gate output into next week.** The list of what still needs to change is your starting point.
 - **Audit your Change Log before the near-final submission.** The log has been running since the Direction Check. By now it should be a substantive record of employer feedback received and how your team addressed it. If entries are thin or inconsistent, use the remaining time to catch up. The log is what lets your team show the employer how earlier feedback shaped the near-final version.
-- **Reread the Final Deliverables rubric.** The near-final version isn't assessed against it, but the final version is. [The rubric](URL_TBD) is the clearest picture your team has of what good looks like at the end. Reading it now sharpens your sense of where the work needs to end up.
+- **Reread the Project Deliverables rubric.** The near-final version isn't assessed against it, but the final version is. [The rubric](URL_TBD) is the clearest picture your team has of what good looks like at the end. Reading it now sharpens your sense of where the work needs to end up.
 - **Track your AI use this week.** AI disclosure is required on the near-final submission. Tracking as you go keeps the disclosure honest rather than something to reconstruct later.

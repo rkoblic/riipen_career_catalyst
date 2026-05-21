@@ -3,7 +3,7 @@ week: 6
 page: 8
 title: From research to draft
 created: 2026-04-01
-last_updated: 2026-04-06
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -97,5 +97,5 @@ In all three cases, the intellectual work stays yours. AI can help you see struc
 
 ---
 
-[CURATED LINK: "Summary vs. Synthesis: What's the Difference?" (video, ~7 min) — Smekens Education — https://youtu.be/-OBeL7PVfJ8?si=GzjDc00pUx19NpxB] A clear explanation of the distinction between summarizing sources and synthesizing them: why simply restating what each source says produces a data dump, and how synthesis produces an argument. Directly addresses the stall point between research and drafting covered in this module.
+📎 [Summary vs. Synthesis: What's the Difference?](https://youtu.be/-OBeL7PVfJ8?si=GzjDc00pUx19NpxB) — Smekens Education (video, ~7 min). A clear explanation of the distinction between summarizing sources and synthesizing them: why simply restating what each source says produces a data dump, and how synthesis produces an argument. Directly addresses the stall point between research and drafting covered in this module.
 

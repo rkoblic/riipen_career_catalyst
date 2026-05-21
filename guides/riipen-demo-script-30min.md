@@ -214,7 +214,7 @@ Have these tabs open before you start:
 
 **Open:** Week 15 → [*End-of-Project Peer Evaluation*](https://riipen.instructure.com/courses/107/pages/end-of-project-peer-evaluation)
 
-> *Same convention as Reflection #5: the canonical page is in W15 and carries the full pedagogical scaffolding (the five parts of the instrument, BARS dimensions, evidence standard, AI policy). Week 14 has a head-start page that points here.*
+> *Same convention as Reflection #5: the canonical page is in W15 and carries the full pedagogical scaffolding (the three parts of the instrument, BARS dimensions, evidence standard, AI policy, and a note about the separate End-of-Project Self-Evaluation survey). Week 14 has a head-start page that points here.*
 
 **What to say:**
 > "Peer assessment is one of the multiple sources of evidence that feeds into the Professional Engagement component of the final grade. Two of those reviews happen across the course: a Mid-Project Peer Evaluation and this End-of-Project one. Both use the same instrument — Continue/Start/Adjust qualitative feedback plus BARS, Behaviorally Anchored Rating Scales, on four dimensions."

@@ -3,7 +3,7 @@ week: 10
 page: 3
 title: AI as a quality reviewer
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking

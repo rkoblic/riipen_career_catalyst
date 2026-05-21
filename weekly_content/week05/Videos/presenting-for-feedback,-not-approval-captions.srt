@@ -1,0 +1,131 @@
+1
+00:00:03,400 --> 00:00:04,850
+Your employer has the Context 
+
+2
+00:00:04,900 --> 00:00:06,500
+Analysis and Project Plan.
+
+3
+00:00:06,940 --> 00:00:08,100
+ Some employers will have read it 
+
+4
+00:00:08,150 --> 00:00:10,320
+closely, some will have skimmed it, 
+
+5
+00:00:10,530 --> 00:00:11,490
+some won't have opened it.
+
+6
+00:00:12,510 --> 00:00:13,870
+ Either way, the meeting isn't for 
+
+7
+00:00:13,910 --> 00:00:15,250
+reading the document aloud.
+
+8
+00:00:15,570 --> 00:00:16,730
+ The point is to walk them through 
+
+9
+00:00:16,760 --> 00:00:18,280
+your thinking and get their reaction.
+
+10
+00:00:19,000 --> 00:00:19,960
+ That changes what you should 
+
+11
+00:00:19,990 --> 00:00:20,840
+prepare for.
+
+12
+00:00:21,950 --> 00:00:23,650
+ You're not building a presentation.
+
+13
+00:00:23,820 --> 00:00:25,350
+ You're preparing for a conversation 
+
+14
+00:00:25,400 --> 00:00:26,830
+where the employer reacts to your 
+
+15
+00:00:26,860 --> 00:00:28,690
+approach, asks why you made the 
+
+16
+00:00:28,720 --> 00:00:30,510
+choices you made, and tells you what
+
+17
+00:00:30,530 --> 00:00:31,290
+ they see differently.
+
+18
+00:00:32,340 --> 00:00:33,770
+ That exchange is what makes this 
+
+19
+00:00:33,840 --> 00:00:34,960
+meeting worth holding.
+
+20
+00:00:35,770 --> 00:00:37,590
+ It's easy to spend 25 of the 30 
+
+21
+00:00:37,650 --> 00:00:39,160
+minutes summarizing the document.
+
+22
+00:00:39,830 --> 00:00:41,400
+ The better move is to spend most of 
+
+23
+00:00:41,450 --> 00:00:42,680
+the time on the parts where you 
+
+24
+00:00:42,720 --> 00:00:44,070
+want the employer's input:
+
+25
+00:00:44,670 --> 00:00:46,260
+ the areas you're uncertain about, 
+
+26
+00:00:46,650 --> 00:00:48,550
+the assumptions you're making, and 
+
+27
+00:00:48,600 --> 00:00:49,770
+the tradeoffs you chose.
+
+28
+00:00:50,480 --> 00:00:52,040
+ Your job going in is to know your 
+
+29
+00:00:52,100 --> 00:00:53,660
+document well enough to talk about 
+
+30
+00:00:53,710 --> 00:00:55,490
+it without reading from it, and to 
+
+31
+00:00:55,530 --> 00:00:57,050
+have specific questions ready for the 
+
+32
+00:00:57,100 --> 00:00:58,190
+parts where the employer's 
+
+33
+00:00:58,240 --> 00:00:59,540
+perspective matters most.

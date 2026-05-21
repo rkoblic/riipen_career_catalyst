@@ -3,7 +3,7 @@ week: 6
 page: 4
 title: Starting Development as a Team
 created: 2026-04-02
-last_updated: 2026-05-03
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork

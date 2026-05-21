@@ -3,7 +3,7 @@ week: 5
 page: 2
 title: Before the Direction Check
 created: 2026-04-01
-last_updated: 2026-05-02
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -115,4 +115,4 @@ That's enough to give the employer something to react to without recapping every
 
 Sometimes the employer raises a concern that pulls the meeting in a different direction than you planned. Follow their lead. What they want to talk about is usually what matters most to them, even if it isn't what you prepared for. Capture what they say carefully, and use the last few minutes to confirm where that leaves your priorities for the next phase.
 
-[INTERACTIVE: Simulated Direction Check scenario. The employer redirects the project in a way the team didn't expect. Learners interpret what the employer is actually asking for, decide how to respond professionally, and identify what to capture for follow-up. Debrief surfaces the difference between reacting defensively and responding constructively. (~8-10 min)]
+[INTERACTIVE: Simulated Direction Check video — watch David Park push back on the team's research framing, then answer questions about what he actually said, how to respond, what to capture in notes, and how to handle the redirect afterward. (~10 min)]

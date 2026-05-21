@@ -1,9 +1,9 @@
 ---
 week: 8
 page: 2
-title: Mid-Project Peer Evaluation
+title: "GRADED: Mid-Project Peer Evaluation"
 created: 2026-04-06
-last_updated: 2026-04-20
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork
@@ -16,22 +16,23 @@ competencies:
     subskill: Shared Accountability
 ---
 
-# Mid-Project Peer Evaluation
+# GRADED: Mid-Project Peer Evaluation
 
 In professional environments, giving structured, evidence-based feedback on a colleague's contribution is a normal part of how teams operate. Annual reviews, project retrospectives, and 360-degree feedback processes all rest on the same underlying skill: observing a teammate's behavior over time and writing about it in a way another person can act on. That skill doesn't come naturally to most people, and this evaluation is designed to develop it.
 
-The Mid-Project Peer Evaluation is a required individual deliverable that will contribute to your peers' Professional Engagement grade. It asks you to evaluate each teammate's contribution to the project using a qualitative feedback framework and behaviorally anchored ratings. The evaluation is formative. It exists to surface team dynamics while there's still time to act on them. You'll receive anonymized feedback from your peers next week. The feedback is yours alone, not material for a group discussion. Use it as input for your own self-assessment and for any changes you decide to make in how you contribute to the team going forward.
+The Mid-Project Peer Evaluation is a required individual deliverable. Your ratings of each teammate become one of the five graded items that together represent **Professional Engagement** in your final grade — see [**How Professional Engagement Is Assessed**](https://riipen.instructure.com/courses/107/pages/graded-professional-engagement) for the full picture. The evaluation is formative for the teammate being rated: it surfaces team dynamics while there's still time to act on them. You'll receive anonymized feedback from your peers next week. The feedback is yours alone, not material for a group discussion. Use it as input for your own self-assessment and for any changes you decide to make in how you contribute to the team going forward.
+
+The **Mid-Project Self-Evaluation** is a separate, parallel survey on the Riipen platform where you rate yourself on the same four BARS dimensions. Complete it the same week as this peer evaluation. It is not shared with teammates and does not affect anyone's score; your instructor uses it as a calibration signal against the peer view.
 
 ---
 
 ## The assignment
 
-The Mid-Project Peer Evaluation has four parts, each completed individually for every teammate.
+The Mid-Project Peer Evaluation has three parts.
 
 - **Part A: Qualitative feedback.** Three prompts per teammate using the Continue/Start/Adjust framework, each with a two-sentence minimum.
 - **Part B: BARS ratings.** Four dimensions per teammate (Reliability, Contribution, Constructive Engagement, Accountability), each with a specific behavioral evidence example.
-- **Part C: Self-evaluation.** The same four dimensions, completed for yourself.
-- **Part D: Team pulse.** Two brief questions about your team's overall dynamics, visible only to your instructor.
+- **Part C: Team pulse.** Two brief questions about your team's overall dynamics, visible only to your instructor.
 
 The rest of this page walks through each part in more detail.
 
@@ -153,9 +154,9 @@ Each rating requires a 1–2 sentence behavioral example as evidence. Ratings wi
 
 ---
 
-## The self-evaluation
+## The separate Mid-Project Self-Evaluation
 
-In addition to evaluating your teammates, you'll rate yourself on the same four BARS dimensions. Behavioral evidence for your self-ratings is encouraged but not required. Your self-ratings are not shared with teammates and do not affect the peer evaluation score. They're used for two things.
+The self-evaluation lives in its own survey on the Riipen platform. You rate yourself on the same four BARS dimensions; behavioral evidence for your self-ratings is encouraged but not required. Your self-ratings are not shared with teammates and do not affect the peer evaluation score. They are used for two things.
 
 First, they create a calibration signal. If your self-rating is significantly higher than your teammates' ratings of you on any dimension, that gap is worth understanding. It might mean you and your teammates experienced the same events differently, or it might mean there's a blind spot worth examining. You'll have an opportunity to reflect on this next week.
 
@@ -172,13 +173,13 @@ Before next week's team discussion, you'll see the results from Parts A and B:
 - **Qualitative feedback (Part A):** the comments your teammates wrote about you, anonymized. You see what was said but not who said it.
 - **BARS ratings (Part B):** your averaged score on each of the four dimensions. You don't see the specific rating each teammate gave.
 
-Parts C and D stay with your instructor. Your self-evaluation (Part C) is used to flag calibration gaps. If your self-rating diverges significantly from what your teammates said, your instructor may follow up. The team pulse responses (Part D) are read by your instructor as an early-warning signal and aren't shared with anyone else.
+Part C and your separate self-evaluation stay with your instructor. The team pulse responses (Part C) are read by your instructor as an early-warning signal and aren't shared with anyone else. The self-evaluation is used to flag calibration gaps: if your self-rating diverges significantly from what your teammates said, your instructor may follow up.
 
 ---
 
 ## How you'll be assessed
 
-The Mid-Project Peer Evaluation contributes to the Professional Engagement component of your final grade alongside employer feedback and instructor observation. See the [**Professional Engagement assignment page and rubric**](URL_TBD) for how those three evidence sources combine. Evaluations are graded on completeness and specificity of evidence. There is no "correct" rating to give a teammate. The standard is that your ratings are grounded in specific behavioral observations and that your evidence supports them.
+This is one of five graded items that together make up Professional Engagement — see [**How Professional Engagement Is Assessed**](https://riipen.instructure.com/courses/107/pages/graded-professional-engagement) for the full picture. Evaluations are graded on completeness and specificity of evidence. There is no "correct" rating to give a teammate. The standard is that your ratings are grounded in specific behavioral observations and that your evidence supports them.
 
 ---
 

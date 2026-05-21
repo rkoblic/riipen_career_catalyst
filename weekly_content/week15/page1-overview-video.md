@@ -10,10 +10,10 @@ status: draft
 
 # Video Script: The last mile
 
-In a professional engagement, clients form a strong impression of your team in the closing stretch of the project. A strong middle followed by a weak close gets described as "it was okay." A competent middle followed by a clean close gets described as "we'd hire them again." That is what makes this week worth taking seriously.
+In a professional engagement, the client's strongest impression of your team gets formed in the closing stretch of the project, not the opening. A strong middle followed by a weak close gets described as "it was okay." A competent middle followed by a clean close gets described as "we'd hire them again." That is what makes this week worth taking seriously.
 
-The Final Presentation is where your employer sees you stand behind the work. They will be interested in both the content and how you handle questions. If you've used AI to support your project, it's important that you are able to explain and defend your work live.
+The Final Presentation is where your employer sees you stand behind the work. They have already seen the content. What they are watching this week is how you handle questions about your trade-offs and whether the team shows up aligned.
 
-The learning doesn't end with the presentation. Good professional teams take the time to debrief after every project because a project that you do not examine is hours spent rather than skill built. That is what the team closing this week is for.
+The same pattern operates inside the team. Good consulting firms make their people debrief after every project. Because a project you do not reflect on ends up as hours spent, rather than skills built. That is what the team closing this week is for.
 
-Six months from now, when you ask this employer to be a reference for you, they will already have an answer. It is being finalized this week.
+Six months from now, when you ask this employer to be a reference for you, they will already have an answer. And that answer is being formed right now.

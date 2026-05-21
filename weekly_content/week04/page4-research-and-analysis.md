@@ -3,7 +3,7 @@ week: 4
 page: 4
 title: Research & Analysis
 created: 2026-04-01
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -92,7 +92,7 @@ Your research section should demonstrate that you know the difference. Where you
 
 Uncertainty is not a weakness in professional analysis. Pretending to be certain when you're not is.
 
-[CURATED LINK: "The Pyramid Principle" (video, ~10 min) — Communicate with IMPACT — https://youtu.be/Jtx01xQNw5A?si=I9dnEEdQgSWEBXX6] This video walks through McKinsey's Pyramid Principle, a framework for structuring any argument or analysis. The core idea: lead with your main point, support it with 2–3 key subpoints, then back each subpoint with evidence. It also covers the MECE principle (mutually exclusive, collectively exhaustive), which helps you organize findings into clear, non-overlapping categories. This is directly relevant to structuring your research findings section: it's the difference between a data dump and a well-organized argument that a reader can follow.
+📎 [The Pyramid Principle](https://youtu.be/Jtx01xQNw5A?si=I9dnEEdQgSWEBXX6) — Communicate with IMPACT (video, ~10 min). This video walks through McKinsey's Pyramid Principle, a framework for structuring any argument or analysis. The core idea: lead with your main point, support it with 2–3 key subpoints, then back each subpoint with evidence. It also covers the MECE principle (mutually exclusive, collectively exhaustive), which helps you organize findings into clear, non-overlapping categories. This is directly relevant to structuring your research findings section: it's the difference between a data dump and a well-organized argument that a reader can follow.
 
 ### Common pitfalls
 
@@ -108,7 +108,7 @@ Uncertainty is not a weakness in professional analysis. Pretending to be certain
 
 ## Using AI for research
 
-AI can be a legitimate tool for research work, and this week is a good opportunity to use it thoughtfully. But it's worth being clear about what AI does and doesn't do for your research quality.
+AI can be a legitimate tool for research work, and this week is a good opportunity to use it thoughtfully. The previous page, **Using AI**, covered general prompting techniques and the boundaries that apply across the deliverable. This section focuses specifically on what AI does and doesn't do for your research quality.
 
 AI makes skilled researchers more efficient. It helps you scan a landscape faster, identify patterns across sources, and organize what you've found. But it doesn't make unskilled researchers skilled. If you don't know what a strong competitive analysis looks like, AI will produce something that *looks* like one, which is actually more dangerous than having nothing, because it gives you false confidence in work you can't evaluate or defend.
 
@@ -133,9 +133,3 @@ If you're using AI to synthesize across team members' research:
 > "Here are research findings from four team members on [topic]. Identify the three to five most important patterns or tensions across these findings, and explain what each one might mean for how we approach the project."
 
 Both of these position AI as a starting point that requires your judgment, not a finishing point you can submit without thinking.
-
-### The accountability mechanism
-
-There's a practical reason to engage genuinely with AI-generated content rather than passing it through uncritically: the Direction Check. In an upcoming session, your employer will have read this document and will ask your team questions about it. If you can't explain a finding, defend a claim, or walk through the reasoning behind a recommendation, the conversation will make that visible quickly.
-
-The standard from the course AI policy applies here: could you explain and defend every claim in your submission without referring back to what an AI generated for you? If the answer is no, that content shouldn't be in the document.

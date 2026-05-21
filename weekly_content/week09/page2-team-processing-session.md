@@ -3,7 +3,7 @@ week: 9
 page: 2
 title: The Team Processing Session
 created: 2026-04-09
-last_updated: 2026-05-04
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork
@@ -131,7 +131,7 @@ Save this to your team's shared workspace. It isn't submitted as a formal checkp
 
 Keep the agreement honest. It becomes a reference point later in the course when teams complete a second round of peer evaluation. If the same patterns resurface after an explicit agreement not to repeat them, there's a record, even if the record lives in your team's working files and the individual reflections rather than a single formal submission.
 
-[TEMPLATE: Team Processing Agreement — two sections. Section 1 (Individual commitments): Person | What I committed to change | How we'll know it's happening. Section 2 (Team commitments from employer feedback): Change | Owner(s) | How we'll know it's happening]
+[TEMPLATE: Team Processing Agreement]
 
 ---
 

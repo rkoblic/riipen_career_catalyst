@@ -3,7 +3,7 @@ week: 3
 page: 5
 title: After the Kickoff
 created: 2026-03-28
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -18,7 +18,7 @@ competencies:
 
 As soon as the meeting ends, capture your team's reactions while they're fresh. Memory of conversations fades quickly, and the details that seem obvious right now will be fuzzy by tomorrow.
 
-Debrief immediately, even if it's just ten minutes of quick notes. Focus on three things: what surprised you, what you still need to find out, and what the employer seemed to care about most. This isn't the formal Kickoff Summary. It's a raw capture that will feed into it.
+Debrief immediately, even if it's just ten minutes of quick notes. Focus on three things: what surprised you, what you still need to find out, and what the employer seemed to care about most. This isn't the formal Kickoff Summary — it's a raw capture that will feed into it.
 
 ---
 
@@ -32,7 +32,7 @@ Here's how to do it:
 
 **Compare notes as a team.** Have each person share what they captured, either from written notes, the meeting transcript, or memory. Don't start by debating what the employer meant. Start by establishing what was actually said. Where do your notes agree? Where do they diverge?
 
-**Separate the confirmed from the assumed.** Some things the employer stated clearly: "The deliverable is a competitive analysis report." Other things you may be inferring: "They seemed to want us to focus on the North American market." The first is confirmed information. The second is an assumption that needs verification. This distinction is a habit you'll use all semester.
+**Separate the confirmed from the assumed.** Some things the employer stated clearly: "The deliverable is a competitive analysis report." Other things you may be inferring: "They seemed to want us to focus on the North American market." The first is confirmed information. The second is an assumption that needs verification. The distinction between what was confirmed and what your team is inferring is a habit you'll use all semester. Naming it now keeps assumptions from hardening into shared "facts" that nobody verified.
 
 **Flag what needs follow-up.** If something important is unclear or your team disagrees on what was said, write it down as an open question. You'll include these in your Kickoff Summary and can raise them in your next employer interaction.
 
@@ -45,8 +45,6 @@ Within 24 hours of the meeting, send a follow-up message to your employer contac
 A good follow-up message briefly summarizes the key takeaways (scope, timeline, next steps) and flags any open questions. It shows the employer that your team was listening carefully and gives them a chance to correct any misunderstandings before they become problems.
 
 Your follow-up message should also confirm the recurring biweekly meeting time you agreed on at the kickoff. If you didn't get to schedule it during the meeting itself, propose a specific time here. The Establishing the Standing Meeting page (earlier this week) covers how to set up the recurring meeting in detail.
-
-[TEMPLATE: Post-meeting follow-up message — thanking the employer and confirming key takeaways]
 
 ---
 

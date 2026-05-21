@@ -3,7 +3,7 @@ week: 15
 page: 4
 title: "GRADED: Reflection #5"
 created: 2026-04-22
-last_updated: 2026-05-19
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -43,7 +43,10 @@ You have been building toward this reflection across the portfolio already. The 
 
 ### What is different from the earlier noticing work
 
-The noticing exercise and the strip-the-proper-nouns test from earlier in the course apply directly to Reflection #5. What shifts is the audience. The earlier exercise surfaced learning for your own use; Reflection #5 asks you to articulate it for a reader who has never met you and never worked on this project. "I got better at scoping ambiguous requests" is fine for your own notes. "I learned that my default when a request is ambiguous is to ask for more context before starting, and that habit saved my team a week of rework in the middle of this project" is what a hiring conversation needs.
+The noticing exercise and the strip-the-proper-nouns test from earlier in the course apply directly to Reflection #5. What shifts is the audience. The earlier exercise surfaced learning for your own use; Reflection #5 asks you to articulate it for a reader who has never met you and never worked on this project.
+
+- **For your own notes:** "I got better at scoping ambiguous requests."
+- **For a hiring conversation:** "I learned that my default when a request is ambiguous is to ask for more context before starting, and that habit saved my team a week of rework in the middle of this project."
 
 ### A sharpening exercise before you commit to an anchor
 
@@ -55,7 +58,8 @@ Three prompts to use on your own project experience. Each one is a different ang
 
 Write a few sentences for each. Not all of the material you generate needs to make it into the reflection. The point is to have specific language to draw from when you sit down with the DEAL framework.
 
-[SCENARIO CARD: Transferable articulation at the career register — weak vs. strong pair. Weak: a skill statement that sounds reasonable but stays anchored to the specific project ("I learned a lot about working with nonprofit clients"). Strong: a professionally articulated version of the same underlying learning that would hold up in a hiring conversation ("I learned that I read organizational priorities more accurately when I spend the first meeting listening rather than proposing, and I plan to default to that approach in new client engagements").]
+- **Weak — Anchored to the specific project:** "I learned a lot about working with nonprofit clients."
+- **Strong — Holds up in a hiring conversation:** "I learned that I read organizational priorities more accurately when I spend the first meeting listening rather than proposing, and I plan to default to that approach in new client engagements."
 
 ---
 
@@ -95,7 +99,8 @@ The professionally articulated version names what changed in how you work. "I le
 
 If the articulated learning could have been written by any learner in any project, it has not met the standard regardless of how well the other sections are written.
 
-[SCENARIO CARD: Full-arc reflection — weak vs. strong pair. Weak: a surface arc summary that lists what happened across the project and names a general lesson ("Over the course of this project I worked with my team on research, analysis, and presentations, and I learned that good communication is important"). Strong: a specific claim about what changed in the learner's own professional approach, anchored in a pattern of moments across the arc and articulated in a form that could hold in a future professional context.]
+- **Weak — Surface arc summary, general lesson:** "Over the course of this project I worked with my team on research, analysis, and presentations, and I learned that good communication is important."
+- **Strong — Specific shift, anchored in a pattern across the arc:** A specific claim about what changed in the learner's own professional approach, anchored in a pattern of moments across the arc and articulated in a form that could hold in a future professional context.
 
 ### Finalizing Articulate and Learn
 

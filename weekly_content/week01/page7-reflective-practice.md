@@ -3,7 +3,7 @@ week: 1
 page: 6
 title: Introduction to Reflective Practice (DEAL)
 created: 2026-03-27
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -32,7 +32,8 @@ Here's what each stage requires:
 
 You might wonder why the course uses a structured framework rather than a simpler format like "what went well / what would I change." The reason is that each DEAL stage addresses a specific way that informal reflection tends to go wrong. Most people jump straight from what happened to what they'll do next, skipping the analysis entirely. The Describe stage forces accuracy. The Examine stage forces real analysis rather than knee-jerk reactions. The Articulate Learning stage forces you to name something transferable rather than stopping at "it was a good experience."
 
-DEAL only works if you stay specific. Vague reflection produces vague learning, every time.
+> [!key]
+> DEAL only works if you stay specific. Vague reflection produces vague learning, every time.
 
 ---
 

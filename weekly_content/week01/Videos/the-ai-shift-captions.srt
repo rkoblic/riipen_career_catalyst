@@ -1,0 +1,155 @@
+1
+00:00:03,400 --> 00:00:04,780
+Here's something worth knowing.
+
+2
+00:00:05,160 --> 00:00:07,090
+ Two years ago, most professionals 
+
+3
+00:00:07,150 --> 00:00:09,220
+outside of tech had never used an AI 
+
+4
+00:00:09,290 --> 00:00:09,950
+tool at work.
+
+5
+00:00:10,470 --> 00:00:12,250
+ Today, the majority have.
+
+6
+00:00:12,940 --> 00:00:14,620
+ That's a fast shift, and employers 
+
+7
+00:00:14,650 --> 00:00:15,410
+have noticed.
+
+8
+00:00:15,730 --> 00:00:17,300
+ And it's not just the obvious roles.
+
+9
+00:00:18,040 --> 00:00:20,200
+ Software engineers use AI to write 
+
+10
+00:00:20,250 --> 00:00:22,180
+code, but so do grant writers 
+
+11
+00:00:22,230 --> 00:00:24,330
+drafting funding proposals, urban 
+
+12
+00:00:24,390 --> 00:00:25,630
+planners modeling neighborhood 
+
+13
+00:00:25,670 --> 00:00:28,210
+impact, journalists fact-checking 
+
+14
+00:00:28,280 --> 00:00:30,150
+across thousands of public records, 
+
+15
+00:00:30,360 --> 00:00:32,050
+and HR teams rethinking how they 
+
+16
+00:00:32,090 --> 00:00:33,160
+write job descriptions.
+
+17
+00:00:34,120 --> 00:00:35,570
+ Here's why that matters for you.
+
+18
+00:00:36,390 --> 00:00:37,890
+ Employers are already adjusting 
+
+19
+00:00:37,920 --> 00:00:39,090
+their expectations.
+
+20
+00:00:39,600 --> 00:00:41,040
+ The ability to work effectively with 
+
+21
+00:00:41,100 --> 00:00:43,110
+AI tools is becoming a baseline 
+
+22
+00:00:43,160 --> 00:00:44,800
+professional skill, the way 
+
+23
+00:00:44,860 --> 00:00:46,510
+spreadsheet literacy was for previous
+
+24
+00:00:46,550 --> 00:00:48,860
+ generations — expected, not 
+
+25
+00:00:48,900 --> 00:00:49,370
+optional.
+
+26
+00:00:50,470 --> 00:00:51,540
+ That doesn't mean you need to 
+
+27
+00:00:51,580 --> 00:00:53,070
+become a technical expert.
+
+28
+00:00:53,510 --> 00:00:54,900
+ It means you need to understand 
+
+29
+00:00:54,970 --> 00:00:57,070
+what these tools can and can't do, 
+
+30
+00:00:57,400 --> 00:00:58,770
+know when to use them and when to
+
+31
+00:00:58,830 --> 00:01:00,860
+ set them aside, and be able to 
+
+32
+00:01:00,940 --> 00:01:02,870
+explain and stand behind any work 
+
+33
+00:01:02,930 --> 00:01:03,970
+they helped you produce.
+
+34
+00:01:04,910 --> 00:01:06,670
+ That's exactly what the AI modules 
+
+35
+00:01:06,720 --> 00:01:08,450
+in this course are designed to build.
+
+36
+00:01:09,050 --> 00:01:10,400
+ This isn't a sidebar topic.
+
+37
+00:01:10,730 --> 00:01:11,970
+ It's one of the most directly 
+
+38
+00:01:12,040 --> 00:01:13,740
+career-relevant skills you'll practice 
+
+39
+00:01:13,780 --> 00:01:14,060
+here.

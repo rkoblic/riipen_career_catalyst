@@ -16,4 +16,4 @@ Ready does not mean polished. Polished is what a thousand rehearsals look like. 
 
 So use the next hour to settle, not to rebuild. A short walk helps more than another pass through the slides, and reading your opening lines once helps more than rewriting your section. A clean start carries the rest.
 
-One thing about nerves. They tend to fade about thirty seconds after the first speaker starts. You will not feel ready before you begin. You will feel ready somewhere in the middle, once rehearsal kicks in and worry runs out.
+One thing about nerves. They tend to fade about thirty seconds after the first speaker starts. You will not feel ready before you begin. You will feel ready somewhere in the middle, once rehearsal kicks in and worry runs out. You've got this.

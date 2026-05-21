@@ -3,7 +3,7 @@ week: 9
 page: 4
 title: Development Check-In #2
 created: 2026-04-09
-last_updated: 2026-05-04
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication

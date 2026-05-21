@@ -3,7 +3,7 @@ week: 7
 page: 4
 title: Receiving Feedback Well
 created: 2026-04-07
-last_updated: 2026-04-08
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism
@@ -58,11 +58,11 @@ A few habits help:
 
 **Use the gap.** You don't owe an immediate reply to a comment or a Slack message. Read it, then sit with it for a few hours or overnight before you respond. Almost everything you would have written in the first ten minutes will read as overcooked the next morning. The clarify and acknowledge moves from the protocol above still apply. They just happen in writing, on your timeline.
 
-**Use AI to help you process, carefully.** If a piece of written feedback is bothering you and you can't tell why, it can help to talk it through with an AI tool before you respond. Paste in the comment along with what you were trying to do, and ask the model to help you separate the substance of the feedback from your reaction to it, or to draft a clarifying question you could ask the person who wrote it. This is processing, not outsourcing. The goal is to get yourself to a place where you can respond clearly, not to have AI write the response for you. Anything you send back should still be in your own words.
+If a piece of written feedback is bothering you and you can't tell why, it can help to talk it through with an AI tool before you respond. Paste in the comment along with what you were trying to do, and ask the model to help you separate the substance of the feedback from your reaction to it, or to draft a clarifying question you could ask the person who wrote it. This is processing, not outsourcing. The goal is to get yourself to a place where you can respond clearly, not to have AI write the response for you. Anything you send back should still be in your own words.
 
 ---
 
-[DOWNLOADABLE: Feedback Protocol Card — printable one-page reference card with the Listen / Clarify / Acknowledge / Decide later steps and example clarifying and acknowledging phrases. Designed to be printed or saved for use during peer reviews, employer meetings, and informal feedback conversations.]
+[DOWNLOADABLE: Feedback Protocol Card — printable one-page reference card with the Listen / Clarify / Acknowledge / Decide later steps and example clarifying and acknowledging phrases.]
 
 ---
 

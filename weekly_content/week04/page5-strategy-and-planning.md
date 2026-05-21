@@ -3,7 +3,7 @@ week: 4
 page: 5
 title: Strategy & Planning
 created: 2026-04-01
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -59,9 +59,9 @@ This section is also where the course asks you to do something the earlier parts
 
 Every project has more work available than time to do it. Your plan should show the deliberate tradeoffs your team made about where to focus. Name what you're prioritizing and what you're deprioritizing, and explain the reasoning behind those choices.
 
-For example: "We considered conducting primary user interviews but determined that the two-week turnaround for recruitment approval would delay our timeline past the midpoint deliverable. Instead, we'll use the organization's existing user feedback data from their most recent survey, which covers similar questions and is available immediately." That's a tradeoff with clear reasoning: the employer can see what you weighed and why.
+A to-do list, not a plan: "We will conduct a competitive analysis, create user personas, and develop a content strategy." Doesn't tell the employer what's out of scope or why these items made the cut.
 
-Compare that to: "We will conduct a competitive analysis, create user personas, and develop a content strategy." That's a to-do list, not a plan. It doesn't tell the employer what's out of scope or why these items made the cut.
+A tradeoff with reasoning: "We considered conducting primary user interviews but determined that the two-week turnaround for recruitment approval would delay our timeline past the midpoint deliverable. Instead, we'll use the organization's existing user feedback data from their most recent survey, which covers similar questions and is available immediately." The employer can see what you weighed and why.
 
 ### What tradeoffs look like across different projects
 
@@ -103,4 +103,4 @@ For example: "Our project requires access to the organization's CRM data, which 
 
 Risks that are both likely and high-impact deserve this kind of mitigation planning. Risks that are unlikely and low-impact can be noted and monitored without a detailed plan.
 
-[CURATED LINK: "How to Manage Project Risk: A 5-Step Guide" (~10 min read) — Coursera — https://www.coursera.org/articles/how-to-manage-project-risk] Walks through a five-step risk management process: identify, analyze, prioritize, mitigate, and monitor. Covers the four main mitigation strategies (avoid, accept, reduce, transfer) with concrete examples, and includes a sample risk register showing how to lay out risks with probability, impact, ownership, and mitigation plans. If you've never formally identified risks before, this gives you a clear, beginner-friendly framework to work from.
+📎 [How to Manage Project Risk: A 5-Step Guide](https://www.coursera.org/articles/how-to-manage-project-risk) — Coursera (~10 min read). Walks through a five-step risk management process: identify, analyze, prioritize, mitigate, and monitor. Covers the four main mitigation strategies (avoid, accept, reduce, transfer) with concrete examples, and includes a sample risk register showing how to lay out risks with probability, impact, ownership, and mitigation plans. If you've never formally identified risks before, this gives you a clear, beginner-friendly framework to work from.

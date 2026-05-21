@@ -3,7 +3,7 @@ week: 13
 page: 3
 title: Final Check-In
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism
@@ -83,7 +83,7 @@ Send this message whether or not the check-in is held. The presentation work in 
 >
 > Hi [Name],
 >
-> We're on track for submitting our Final Deliverables this week and wanted to confirm a few logistics for the Final Presentation. Could you let us know the preferred format (in person, remote, or hybrid), the confirmed date and time, expected duration, and who from your team will be attending?
+> We're on track for submitting our Project Deliverables this week and wanted to confirm a few logistics for the Final Presentation. Could you let us know the preferred format (in person, remote, or hybrid), the confirmed date and time, expected duration, and who from your team will be attending?
 >
 > We're looking forward to sharing the finished work. Please let us know if there's anything you need from us before then.
 >

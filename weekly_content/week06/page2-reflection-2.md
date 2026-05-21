@@ -3,7 +3,7 @@ week: 6
 page: 2
 title: Reflection #2
 created: 2026-04-01
-last_updated: 2026-05-03
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Career & Self-Development
@@ -22,7 +22,7 @@ Where Reflection #1 looked at what it was like to enter a new professional situa
 
 ---
 
-This is your second DEAL reflection, an individual submission graded as part of the Reflection Portfolio. The framework and rubric are the same as Reflection #1; check that page if you need a refresher. What's different this time is what you have to draw on, and how deep the examination needs to go.
+This is your second DEAL reflection, an individual submission graded as part of the Reflection Portfolio. The framework and rubric are the same as Reflection #1. What's different this time is what you have to draw on, and how deep the examination needs to go.
 
 ---
 

@@ -18,13 +18,13 @@ This exercise practices the skill of responding constructively when an employer 
 
 ## Interaction model
 
-**Format: Narrative with decision points.**
+**Format: Video stimulus + decision points.**
 
-Students read a simulated Direction Check meeting where the employer redirects the project. After reading the employer's response, they answer questions about what they heard, what to say next, what to capture, and how to handle the redirect afterward.
+Students watch a short Synthesia video of the employer (David Park, returning from the Week 3 kickoff) delivering pushback during the Direction Check meeting. After the video, a brief text card explains what the team's situation was going into the meeting (the "what just happened" framing). Then students answer questions about what David said, what to say next, what to capture, and how to handle the redirect afterward.
 
-Each question is multiple-choice with one best answer. After answering, students receive immediate feedback explaining why the correct answer is correct and why tempting alternatives are wrong.
+Each question is multiple-choice with one best answer. After answering, students receive immediate feedback explaining why the correct answer is correct and why tempting alternatives are wrong. The video is not available during the questions — students answer from their own notes, mirroring a real meeting.
 
-**Fallback format:** If the build tool doesn't support inline narrative with embedded questions, present the full scenario text first, then ask all questions sequentially with reference back to specific passages.
+**Why video and not text:** This exercise is about hearing the actual critique versus a generic version of it, and capturing exact language. Text lets students re-read and visually find the right phrase; video forces them to listen for tone, qualifiers, and the specific ask in real time. That's closer to the professional skill being practiced.
 
 ## Context setup
 
@@ -36,17 +36,23 @@ You stopped talking. David takes a beat before responding.
 
 ## Stimulus
 
-### David's response
+### David's response (video)
 
-David says: "OK, so. I appreciate the rigor here, and the framework you're describing is one I've come across before. But I want to push back a little, because I'm not sure it's the right starting point for us.
+The student watches a ~1:30 Synthesia video of David delivering the pushback. Full script is in `page2-before-the-direction-check-synthesia-script.md` (alongside this file). Key listening targets:
 
-A lot of what I'm reading in your document is grounded in research with general adult populations. That work matters, but most of our participants don't fit those samples. We've had community health educators working with these specific communities for years, and they have a lot of knowledge about what actually shifts behavior here. I'm worried that if your recommendations are mostly built from outside literature, we'll end up with something that's intellectually sound but doesn't reflect what our team already knows works.
+- **The acknowledgement:** "I appreciate the rigor here" — used in Q1 wrong-answer A to test whether students hear the methodology critique that isn't there.
+- **The actual critique:** Research grounded in "general adult populations," whereas Bridgeway's participants don't fit those samples. The educators "have built up a lot of knowledge about what actually shifts behavior here." This is the Q1 correct-answer target.
+- **The softener:** "I don't want you to walk away thinking we're starting from scratch." The Week 5 questions test whether students hear this and don't overreact (Q1 wrong-D, Q4).
+- **The specific ask:** "I'd like to see how you're going to weigh what our educators have told you against what the literature says." This is the verbatim quote Q3 asks students to capture.
+- **The pointed follow-up:** "If you haven't talked to them yet, I'd like to know what your plan is there." Sets up Q2 and Q5.
 
-I'm not saying scrap what you have. But I'd like to see how you're going to weight what our educators have told you against what the literature says. And honestly, if you haven't talked to them yet, I'd like to know what your plan is there."
+### What just happened (text card after the video)
 
-### What just happened
+Shown as a separate text card between the video and the first question:
 
-The team had not planned to consult the community health educators. That wasn't in the original scope, and primary research was excluded at the kickoff. Your team has been working primarily from secondary research.
+> Your team had not planned to consult the community health educators. That wasn't in the original scope, and primary research was excluded at the kickoff. Your team has been working primarily from secondary research.
+
+This is meta-narration (the teacher pulling the curtain back, not David speaking), so it stays as a text card rather than being added to the video.
 
 ## Questions
 
@@ -69,7 +75,7 @@ The team had not planned to consult the community health educators. That wasn't 
 **Feedback if incorrect:**
 - A) David said "I appreciate the rigor here" — he's not critiquing your methodology. Defaulting to "they think our research is bad" when the actual critique is more specific would lead your team to defend the wrong thing.
 - C) David didn't mention timeline. Hearing time pressure where none was raised is a common reaction when feedback feels destabilizing, but it puts you in defensive mode about something the employer isn't asking about.
-- D) David explicitly said "I'm not saying scrap what you have." Interpreting a redirect as a rejection of the entire project would lead to an overreaction that's harder to walk back than a small course correction would be.
+- D) David explicitly said the opposite — "I don't want you to walk away thinking we're starting from scratch." Interpreting a redirect as a rejection of the entire project would lead to an overreaction that's harder to walk back than a small course correction would be.
 
 ---
 
@@ -105,12 +111,12 @@ The team had not planned to consult the community health educators. That wasn't 
 **Options:**
 - A) "David disagreed with our research approach."
 - B) "David wants us to interview the community health educators."
-- C) "David: 'I'd like to see how you're going to weight what our educators have told you against what the literature says.'"
+- C) "David: 'I'd like to see how you're going to weigh what our educators have told you against what the literature says.'"
 - D) "David thinks our research isn't relevant to immigrant and refugee communities."
 
 **Correct answer:** C
 
-**Feedback if correct:** Exactly. Capture exact language, especially the specific question David is asking. "How you're going to weight what our educators have told you against what the literature says" is the actual ask — not "do interviews," not "your research is wrong." When your team debriefs, you'll need David's words, not your interpretation of them. The interpretation can drift; the quote can't.
+**Feedback if correct:** Exactly. Capture exact language, especially the specific question David is asking. "How you're going to weigh what our educators have told you against what the literature says" is the actual ask — not "do interviews," not "your research is wrong." When your team debriefs, you'll need David's words, not your interpretation of them. The interpretation can drift; the quote can't.
 
 **Feedback if incorrect:**
 - A) "Disagreed with our research approach" is your reaction to what David said, not what he actually said. Notes that capture impressions instead of language lose the specific information your team will need to act on the feedback later.
@@ -128,7 +134,7 @@ The team had not planned to consult the community health educators. That wasn't 
 **Options:**
 - A) Agree. The employer made it clear the literature approach isn't working.
 - B) Disagree. The literature is established and David said not to scrap it.
-- C) Reread the notes from the meeting before deciding what changes. David said "I'm not saying scrap what you have," and the specific ask was about weighting.
+- C) Reread the notes from the meeting before deciding what changes. David said he didn't want the team to walk away thinking they were starting from scratch, and the specific ask was about weighing.
 - D) Wait until the next regular check-in to ask David what he meant.
 
 **Correct answer:** C
@@ -136,8 +142,8 @@ The team had not planned to consult the community health educators. That wasn't 
 **Feedback if correct:** Right. The biggest risk after a redirect is overcorrecting based on the emotional weight of the meeting rather than the actual content. Going back to the notes — especially the exact quote — anchors the conversation in what was said. Decisions like "scrap the framework" or "keep the framework" are both premature without revisiting the ask, which was about weighting, not scrapping.
 
 **Feedback if incorrect:**
-- A) David explicitly said the opposite: "I'm not saying scrap what you have." Overcorrecting based on the team's reaction to feedback, rather than what was said, is one of the most common ways a redirect gets mishandled. The post-meeting debrief is where this can be caught.
-- B) Disagreeing is just as premature as agreeing. David also said he was "worried" about the recommendations being built mostly from outside literature, which is a real concern the team needs to address. Going straight to "we don't have to change anything" misreads the feedback.
+- A) David explicitly said the opposite — "I don't want you to walk away thinking we're starting from scratch." Overcorrecting based on the team's reaction to feedback, rather than what was said, is one of the most common ways a redirect gets mishandled. The post-meeting debrief is where this can be caught.
+- B) Disagreeing is just as premature as agreeing. David also named what worries him — recommendations built mostly from outside literature that don't reflect what the educators know works on the ground. That's a real concern the team needs to address. Going straight to "we don't have to change anything" misreads the feedback.
 - D) Waiting two weeks to clarify lets the team's interpretation harden. If you genuinely need clarification, follow up sooner — a short written message within 24 hours is the standard. But before you reach out, check whether your notes already answer the question.
 
 ---

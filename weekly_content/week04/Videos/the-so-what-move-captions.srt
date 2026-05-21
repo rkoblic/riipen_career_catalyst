@@ -1,0 +1,351 @@
+1
+00:00:03,400 --> 00:00:04,910
+Say your team is working on a social 
+
+2
+00:00:04,970 --> 00:00:06,050
+media strategy.
+
+3
+00:00:06,430 --> 00:00:07,720
+ Your research found that three 
+
+4
+00:00:07,770 --> 00:00:09,310
+direct competitors have shifted to 
+
+5
+00:00:09,370 --> 00:00:11,170
+short-form video in the past year, 
+
+6
+00:00:11,490 --> 00:00:13,080
+and the two that moved first saw the
+
+7
+00:00:13,130 --> 00:00:14,260
+ strongest audience growth.
+
+8
+00:00:15,190 --> 00:00:16,850
+ The employer is still posting static 
+
+9
+00:00:16,900 --> 00:00:17,610
+images.
+
+10
+00:00:18,560 --> 00:00:19,870
+ Here's how you build the chain.
+
+11
+00:00:20,380 --> 00:00:21,880
+ The finding is that competitors who 
+
+12
+00:00:21,930 --> 00:00:24,270
+adopted short-form video saw 
+
+13
+00:00:24,330 --> 00:00:26,000
+significantly stronger engagement 
+
+14
+00:00:26,050 --> 00:00:27,780
+and follower growth, and the 
+
+15
+00:00:27,830 --> 00:00:29,240
+employer's current format doesn't 
+
+16
+00:00:29,280 --> 00:00:30,600
+match what the audience responds 
+
+17
+00:00:30,660 --> 00:00:30,840
+to.
+
+18
+00:00:31,720 --> 00:00:33,320
+ What that means is there's a format 
+
+19
+00:00:33,370 --> 00:00:35,080
+shift happening in this market, and 
+
+20
+00:00:35,120 --> 00:00:36,310
+the employer is behind it.
+
+21
+00:00:37,110 --> 00:00:38,320
+ The gap isn't about posting 
+
+22
+00:00:38,380 --> 00:00:40,060
+frequency or content quality.
+
+23
+00:00:40,500 --> 00:00:41,580
+ It's about format.
+
+24
+00:00:42,390 --> 00:00:43,230
+ Then you name what you're 
+
+25
+00:00:43,250 --> 00:00:44,390
+assuming, because every 
+
+26
+00:00:44,450 --> 00:00:45,590
+recommendation rests on 
+
+27
+00:00:45,630 --> 00:00:47,130
+assumptions and the employer needs
+
+28
+00:00:47,180 --> 00:00:47,650
+ to see them.
+
+29
+00:00:48,960 --> 00:00:50,290
+ You're assuming the employer has 
+
+30
+00:00:50,350 --> 00:00:51,840
+the willingness and capacity to 
+
+31
+00:00:51,890 --> 00:00:53,790
+create video content, and that the 
+
+32
+00:00:53,850 --> 00:00:55,370
+audience behavior you observed in 
+
+33
+00:00:55,420 --> 00:00:57,250
+competitors' accounts is transferable
+
+34
+00:00:57,280 --> 00:00:58,790
+ to the employer's own audience.
+
+35
+00:00:59,600 --> 00:01:00,310
+ And then you make the 
+
+36
+00:01:00,360 --> 00:01:01,650
+recommendation concrete:
+
+37
+00:01:01,850 --> 00:01:04,110
+ a 90-day short-form video pilot on 
+
+38
+00:01:04,180 --> 00:01:06,420
+TikTok and Instagram Reels, starting 
+
+39
+00:01:06,440 --> 00:01:08,000
+with two posts per week, with 
+
+40
+00:01:08,040 --> 00:01:09,610
+performance benchmarks at 30 and 
+
+41
+00:01:09,680 --> 00:01:10,380
+60 days.
+
+42
+00:01:11,400 --> 00:01:13,250
+ The recommendation traces directly 
+
+43
+00:01:13,310 --> 00:01:14,840
+back to the research, the 
+
+44
+00:01:14,900 --> 00:01:16,670
+assumptions are named explicitly, 
+
+45
+00:01:16,990 --> 00:01:18,060
+and the employer now has 
+
+46
+00:01:18,110 --> 00:01:19,540
+something specific to react to.
+
+47
+00:01:20,370 --> 00:01:22,530
+ They might say "we can't do video, 
+
+48
+00:01:22,550 --> 00:01:24,940
+we don't have the skills." Now you 
+
+49
+00:01:25,000 --> 00:01:26,660
+know, and you can adjust before 
+
+50
+00:01:26,690 --> 00:01:27,970
+you've spent weeks building a plan 
+
+51
+00:01:28,020 --> 00:01:30,940
+around it. Now community outreach.
+
+52
+00:01:31,050 --> 00:01:32,340
+ Your research found that published 
+
+53
+00:01:32,360 --> 00:01:33,910
+studies consistently identify 
+
+54
+00:01:33,980 --> 00:01:36,310
+transportation and scheduling, not 
+
+55
+00:01:36,330 --> 00:01:38,450
+awareness, as the primary barriers 
+
+56
+00:01:38,490 --> 00:01:39,960
+to youth program participation.
+
+57
+00:01:40,900 --> 00:01:42,600
+ The employer's current model relies 
+
+58
+00:01:42,640 --> 00:01:44,630
+on flyers and website promotion.
+
+59
+00:01:45,330 --> 00:01:46,880
+ The finding is that the real barrier 
+
+60
+00:01:46,970 --> 00:01:49,730
+probably isn't awareness. It's access.
+
+61
+00:01:50,240 --> 00:01:51,600
+ What that means is that increasing 
+
+62
+00:01:51,660 --> 00:01:53,080
+marketing, which is what the current
+
+63
+00:01:53,110 --> 00:01:55,150
+ model focuses on, probably won't 
+
+64
+00:01:55,200 --> 00:01:56,780
+move the needle on participation.
+
+65
+00:01:57,390 --> 00:01:59,250
+ The problem is structural, not 
+
+66
+00:01:59,320 --> 00:02:00,240
+informational.
+
+67
+00:02:00,940 --> 00:02:02,460
+ The assumption matters here.
+
+68
+00:02:03,160 --> 00:02:04,260
+ You're assuming the barriers 
+
+69
+00:02:04,310 --> 00:02:05,810
+identified in published research 
+
+70
+00:02:05,850 --> 00:02:07,560
+apply to this community, and you 
+
+71
+00:02:07,610 --> 00:02:08,890
+haven't confirmed that with local 
+
+72
+00:02:08,950 --> 00:02:10,880
+data or direct input from the families
+
+73
+00:02:10,920 --> 00:02:12,120
+ the organization serves.
+
+74
+00:02:12,810 --> 00:02:14,540
+ Naming that lets the employer push 
+
+75
+00:02:14,610 --> 00:02:15,990
+back if their experience says 
+
+76
+00:02:16,040 --> 00:02:18,890
+otherwise. The recommendation:
+
+77
+00:02:19,280 --> 00:02:21,030
+ a satellite-location pilot at 
+
+78
+00:02:21,080 --> 00:02:22,670
+community centers accessible by 
+
+79
+00:02:22,740 --> 00:02:24,860
+public transit, paired with adjusted 
+
+80
+00:02:24,900 --> 00:02:26,370
+programming times that reflect 
+
+81
+00:02:26,410 --> 00:02:27,960
+when the target youth population is 
+
+82
+00:02:28,040 --> 00:02:29,090
+actually available.
+
+83
+00:02:29,910 --> 00:02:31,780
+ If the employer comes back and says
+
+84
+00:02:32,100 --> 00:02:33,960
+ "transportation isn't the top issue in
+
+85
+00:02:34,010 --> 00:02:36,230
+ our area," that's incredibly valuable 
+
+86
+00:02:36,270 --> 00:02:38,140
+feedback, and you'd rather hear it 
+
+87
+00:02:38,190 --> 00:02:39,750
+now than after you've built an entire 
+
+88
+00:02:39,800 --> 00:02:41,460
+strategy around the wrong barrier.

@@ -3,7 +3,7 @@ week: 11
 page: 3
 title: Reviewing your near-final package
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism

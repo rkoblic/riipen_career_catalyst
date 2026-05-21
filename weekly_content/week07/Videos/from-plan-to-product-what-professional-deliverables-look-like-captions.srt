@@ -1,0 +1,223 @@
+1
+00:00:04,134 --> 00:00:05,644
+A professional document has to be 
+
+2
+00:00:05,674 --> 00:00:07,184
+something the client can act on.
+
+3
+00:00:07,794 --> 00:00:08,924
+ That goal shapes how you write at 
+
+4
+00:00:08,964 --> 00:00:09,734
+the sentence level.
+
+5
+00:00:11,044 --> 00:00:12,474
+ Here's the same research finding 
+
+6
+00:00:12,534 --> 00:00:13,574
+written two ways.
+
+7
+00:00:14,014 --> 00:00:15,304
+ Imagine an environmental 
+
+8
+00:00:15,354 --> 00:00:17,274
+sustainability audit team turning in a
+
+9
+00:00:17,344 --> 00:00:18,164
+ sentence like this.
+
+10
+00:00:19,374 --> 00:00:21,144
+ "Based on an extensive review of the
+
+11
+00:00:21,224 --> 00:00:22,854
+ academic literature and industry 
+
+12
+00:00:22,904 --> 00:00:24,744
+benchmarks, it has been determined 
+
+13
+00:00:24,774 --> 00:00:26,164
+that the organization's current 
+
+14
+00:00:26,224 --> 00:00:27,894
+energy consumption patterns reflect 
+
+15
+00:00:27,934 --> 00:00:29,724
+systemic inefficiencies with broad 
+
+16
+00:00:29,764 --> 00:00:31,164
+implications for long-term 
+
+17
+00:00:31,244 --> 00:00:33,524
+operational sustainability." That 
+
+18
+00:00:33,564 --> 00:00:34,724
+sentence is complete.
+
+19
+00:00:35,054 --> 00:00:36,314
+ It's also unusable.
+
+20
+00:00:36,824 --> 00:00:38,484
+ A client reading it can't do anything 
+
+21
+00:00:38,544 --> 00:00:39,994
+with "broad implications for 
+
+22
+00:00:40,054 --> 00:00:41,214
+long-term operational 
+
+23
+00:00:41,274 --> 00:00:44,064
+sustainability." Now imagine the 
+
+24
+00:00:44,124 --> 00:00:45,834
+same finding written for the client to
+
+25
+00:00:45,904 --> 00:00:46,574
+ act on.
+
+26
+00:00:47,174 --> 00:00:49,754
+ "Your energy costs are running 23% 
+
+27
+00:00:49,874 --> 00:00:51,954
+above industry benchmarks, driven 
+
+28
+00:00:51,994 --> 00:00:53,924
+by aging HVAC systems in two 
+
+29
+00:00:53,984 --> 00:00:54,654
+facilities.
+
+30
+00:00:55,364 --> 00:00:56,784
+ Upgrading those systems would 
+
+31
+00:00:56,814 --> 00:00:58,324
+reduce operating costs by an 
+
+32
+00:00:58,394 --> 00:01:02,154
+estimated $85,000 annually." Same 
+
+33
+00:01:02,194 --> 00:01:04,594
+data. Same underlying analysis.
+
+34
+00:01:05,364 --> 00:01:06,634
+ But now the client knows what the 
+
+35
+00:01:06,674 --> 00:01:08,624
+problem is and what to do about it.
+
+36
+00:01:09,224 --> 00:01:10,734
+ The pattern holds across project 
+
+37
+00:01:10,764 --> 00:01:11,094
+types.
+
+38
+00:01:11,724 --> 00:01:13,294
+ A digital skills training program 
+
+39
+00:01:13,354 --> 00:01:14,844
+team documenting a community 
+
+40
+00:01:14,924 --> 00:01:17,284
+need doesn't write "it is evident that 
+
+41
+00:01:17,304 --> 00:01:19,394
+there exist significant gaps in digital 
+
+42
+00:01:19,444 --> 00:01:21,294
+literacy competencies among target 
+
+43
+00:01:21,324 --> 00:01:26,074
+demographics." They write "67% of 
+
+44
+00:01:26,144 --> 00:01:27,684
+program participants have never 
+
+45
+00:01:27,754 --> 00:01:29,284
+used a spreadsheet in a professional 
+
+46
+00:01:29,324 --> 00:01:30,154
+context.
+
+47
+00:01:30,314 --> 00:01:32,124
+ Basic data entry is the most common
+
+48
+00:01:32,174 --> 00:01:33,434
+ barrier to employment in the 
+
+49
+00:01:33,474 --> 00:01:35,994
+sector." The move is the same in 
+
+50
+00:01:36,034 --> 00:01:36,774
+both cases.
+
+51
+00:01:37,394 --> 00:01:38,904
+ Cut the hedging, and be specific 
+
+52
+00:01:38,954 --> 00:01:39,934
+about the problem and its 
+
+53
+00:01:39,984 --> 00:01:40,854
+consequence.
+
+54
+00:01:41,294 --> 00:01:42,744
+ Your reader has limited time and 
+
+55
+00:01:42,814 --> 00:01:43,864
+other documents open.
+
+56
+00:01:44,794 --> 00:01:45,734
+ Write for THAT reader.

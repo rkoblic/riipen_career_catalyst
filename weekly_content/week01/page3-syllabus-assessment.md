@@ -3,7 +3,7 @@ week: 1
 page: 3
 title: Syllabus & Assessment Review
 created: 2026-03-27
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism
@@ -18,9 +18,7 @@ Before you dive into project work, it's worth understanding how this course is s
 
 ## Read the syllabus
 
-Start by reading through the full course syllabus. Take your time with it — knowing what's coming makes the rest of the semester easier to navigate. The professional equivalent is reading the full scope of work before starting a project: easy to skip, easy to regret. The syllabus is the reference document you'll come back to throughout the semester when you have questions about expectations, policies, or deadlines.
-
-[LINKED RESOURCE: Course syllabus document]
+Start by reading through the [full course syllabus](https://riipen.instructure.com/courses/107/assignments/syllabus). Take your time with it — knowing what's coming makes the rest of the semester easier to navigate. The professional equivalent is reading the full scope of work before starting a project: easy to skip, easy to regret. The syllabus is the reference document you'll come back to throughout the semester when you have questions about expectations, policies, or deadlines.
 
 ---
 
@@ -82,13 +80,24 @@ Every major activity and deliverable in this course connects to one or more of t
 
 ## How you'll be assessed
 
-The assessment structure reflects how professional work is actually evaluated: through the quality of what you produce and your ability to explain the thinking behind it.
+The assessment structure reflects how professional work is actually evaluated: through the quality of what you produce, how you work alongside the people who depend on you, and your ability to explain the thinking behind your choices.
 
-**Graded deliverables.** These are the major assignments that carry weight toward your final grade. They include project deliverables your team produces for the employer (research, plans, presentations) and individual reflections where you demonstrate your learning. Each graded deliverable has a rubric that's available in advance so you know exactly what's expected.
+Your final grade is composed from five graded components, plus a set of completion-based items along the way. Each graded component has a rubric that's available in advance, so you know what's being assessed before you submit. Each linked page below has the full description of the deliverable, the rubric, and the AI guidance specific to it.
 
-**Completion-based items.** Some activities are graded on completion rather than quality — the Your Starting Point Questionnaire, the team charter, and certain process checkpoints. These are graded on completion because grading them on quality would push you toward polished answers when what we actually need is honest ones. Complete them honestly and on time.
+**Graded deliverables.** Five components carry direct weight toward your final grade:
 
-**The reflection portfolio.** Throughout the course, you'll complete a series of structured reflections using the DEAL model (which you'll learn about later this week). These reflections are individually graded and build on each other across the semester. Reflecting in the moment is more accurate than reconstructing months of work at the end, and the spacing lets you see your own growth as it happens. Performance reviews and project retrospectives work the same way in professional settings.
+- [**Context Analysis & Project Plan**](https://riipen.instructure.com/courses/107/pages/graded-context-analysis-and-project-plan) — your team's first major project deliverable. Sets the direction for the rest of the work.
+- [**Project Deliverables**](https://riipen.instructure.com/courses/107/pages/graded-final-deliverables) — the polished package of work your team produces for the employer.
+- [**Final Presentation**](https://riipen.instructure.com/courses/107/pages/graded-the-final-presentation) — your team presents the finished work live to the employer.
+- [**The Reflection Portfolio**](https://riipen.instructure.com/courses/107/pages/introduction-to-reflective-practice-deal) — five individual reflections, written one at a time across the semester using the DEAL model.
+- [**Professional Engagement**](https://riipen.instructure.com/courses/107/pages/graded-professional-engagement) — five separate graded items in the gradebook, drawn from your peers' evaluations, your employer's feedback, and your instructor's observations across the semester. They assess *how* you work, not just what you produce. The linked page has the full breakdown.
+
+**Completion-based items.** These activities are graded on completion rather than quality, because grading them on quality would push you toward polished answers when what we actually need is honest ones — or because their purpose is to prepare your team for an upcoming meeting, not to produce a polished artifact. Complete them honestly and on time.
+
+- **Your Starting Point Questionnaire** — a short intake about your goals, prior experience, and what you want out of the course.
+- **Team Charter** — how your team will work together.
+- **Team-internal checkpoints** — short team documents that exist to surface what your team is carrying into a meeting or to mark progress before a milestone.
+- **Peer evaluations** — Individually submitted; each peer evaluation is its own graded item that contributes to your teammates' Professional Engagement portion of the grade.
 
 **The defend-your-work standard.** For any graded submission, you should be prepared to explain your reasoning, your process, and the choices you made. This is especially relevant for work where AI was used as a tool. If you can explain and defend it, it's your work. If you can't, it isn't.
 
@@ -101,13 +110,3 @@ The assessment structure reflects how professional work is actually evaluated: t
 **Late submissions.** Deadlines in this course often connect to other people's work. A late submission from you can delay your team's progress or miss a window for employer feedback. Review the late submission policy in the syllabus and plan accordingly.
 
 **Academic integrity.** The academic integrity policy for this course aligns with your institution's standards. The AI policy (covered in the next module) is part of this: it specifies what AI use is permitted, what requires disclosure, and where AI is off-limits. Read both carefully.
-
----
-
-## Deliverable timeline
-
-Here's an overview of what's due across the course. Use this to plan ahead and see how the deliverables build on each other. Specific due dates are in the syllabus.
-
-[TEMPLATE: Deliverable timeline table — specific dates to be added when finalized]
-
-The timeline front-loads smaller, completion-based tasks and shifts toward larger graded project deliverables as the course progresses. The early weeks are about building habits and relationships while the stakes are low, so the production-heavy middle of the course has something solid to stand on. Reflection assignments are spaced evenly throughout.

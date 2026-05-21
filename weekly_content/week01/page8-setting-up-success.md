@@ -3,7 +3,7 @@ week: 1
 page: 7
 title: Setting Yourself Up for Success
 created: 2026-03-27
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism
@@ -28,7 +28,7 @@ The shift is from "when is it due?" to "when does my team need it?" That's a fun
 
 This resource covers practical time management approaches that are especially relevant for sustained, team-based projects.
 
-[CURATED LINK: "Time Management" — Learning Center, University of North Carolina at Chapel Hill — https://learningcenter.unc.edu/tips-and-tools/time-management/] Includes a time management self-inventory you can take to identify your own habits, along with practical tools and a short video with additional strategies.
+📎 [Time Management](https://learningcenter.unc.edu/tips-and-tools/time-management/) — Learning Center, University of North Carolina at Chapel Hill. Includes a time management self-inventory you can take to identify your own habits, along with practical tools and a short video with additional strategies.
 
 ---
 
@@ -47,4 +47,4 @@ The goal isn't a perfect plan. It's a realistic one that you'll actually follow.
 
 Writing your plan down rather than keeping it in your head matters more than you might think. Externalizing your plan reduces the mental energy you spend remembering what you need to do, makes commitments visible and trackable, and creates a feedback loop: you can compare what you planned to what actually happened, which is itself a form of reflection on your work habits.
 
-[TEMPLATE: Weekly planning worksheet — mapping tasks to time blocks]
+[TEMPLATE: [Weekly planning worksheet](https://riipen.instructure.com/courses/107/files/452?verifier=ci3LrbslEBxxPTVNGei2YJydFqs7daUBWl8nYb2E&wrap=1) — mapping tasks to time blocks]

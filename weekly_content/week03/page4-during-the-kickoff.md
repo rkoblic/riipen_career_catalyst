@@ -3,7 +3,7 @@ week: 3
 page: 4
 title: During the Kickoff
 created: 2026-03-28
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -45,9 +45,9 @@ How you present yourself during the meeting matters as much as what you say. The
 
 ## Interactive kickoff scenario
 
-Before or after your actual meeting, work through this simulated kickoff scenario. You'll read statements from a fictional employer contact and determine what was actually confirmed versus what you might be assuming. The goal is to practice the distinction between hearing something clearly stated and filling in gaps with your own interpretation. The skill carries into any professional meeting.
+Before your actual meeting, work through this simulated kickoff scenario. You'll watch a fictional employer contact walk your team through a project, then answer questions about what was actually confirmed versus what you might be assuming. The goal is to practice the distinction between hearing something clearly stated and filling in gaps with your own interpretation. The skill carries into any professional meeting.
 
-[INTERACTIVE: Simulated employer kickoff with interpretation questions — what did the employer actually confirm vs. what are you assuming?]
+[INTERACTIVE: Simulated employer kickoff video — watch David Park walk through the project, then determine what was actually confirmed vs. what you might be assuming.]
 
 ---
 
@@ -64,8 +64,8 @@ Staying engaged on camera while capturing key information requires a deliberate 
 - [ ] Surprises. Anything that doesn't match what you expected from the project brief. These are often the most important notes you'll take.
 - [ ] Open questions. Things the employer mentioned but didn't fully explain, or topics that need follow-up.
 
-Even if you're using an AI note-taking tool, designate at least one person to take notes manually. AI tools miss things, get details wrong, or lose context on what mattered most in the conversation. You don't want to finish the meeting and discover your only record is incomplete or inaccurate. Human notes and AI notes together give you a much more reliable foundation to work from.
+Even if you're using an AI note-taking tool, designate at least one person to take notes manually. AI tools miss things, get details wrong, or lose context on what mattered most. Run both — human notes and AI notes together give you a much more reliable foundation to work from.
 
 If your team has a dedicated note-taker, the rest of you can focus on the conversation and jot down only the things that jump out. Compare all notes (human and AI) afterward to build a more complete picture.
 
-[CURATED LINK: "The 5 Best Note-Taking Methods for More Effective Notes" — Zapier — https://zapier.com/blog/note-taking-methods/]
+📎 [The 5 Best Note-Taking Methods for More Effective Notes](https://zapier.com/blog/note-taking-methods/) — Zapier.

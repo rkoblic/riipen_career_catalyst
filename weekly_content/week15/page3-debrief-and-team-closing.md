@@ -3,7 +3,7 @@ week: 15
 page: 3
 title: Debrief and Team Closing
 created: 2026-04-23
-last_updated: 2026-04-23
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork

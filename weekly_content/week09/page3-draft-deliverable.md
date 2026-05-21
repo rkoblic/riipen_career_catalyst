@@ -1,9 +1,10 @@
 ---
 week: 9
 page: 3
-title: The Draft Deliverable
+title: "CHECKPOINT: The Draft Deliverable"
+canvas_page_url: checkpoint-the-draft-deliverable
 created: 2026-04-09
-last_updated: 2026-05-04
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -12,7 +13,7 @@ competencies:
     subskill: Prioritization
 ---
 
-# The Draft Deliverable
+# CHECKPOINT: The Draft Deliverable
 
 Professional teams produce deliverables in parts, then assemble them. The assembly stage is where a document either becomes a coherent whole or reveals itself as a collection of sections. The point of the work this week isn't to finish the document; it's to assemble the pieces, see the full thing honestly, and identify what has to change before the near-final version.
 
@@ -36,11 +37,14 @@ When your team does the integration pass, look for these problems:
 
 ## The actionability test
 
-A strong deliverable does more than report what you found. It gives the employer something to act on. This is the standard that matters most for the Actionability dimension of the Final Deliverables rubric, which assesses whether your recommendations are specific enough to implement, realistic given the employer's constraints, and prioritized.
+A strong deliverable does more than report what you found. It gives the employer something to act on. This is the standard that matters most for the Actionability dimension of the Project Deliverables rubric, which assesses whether your recommendations are specific enough to implement, realistic given the employer's constraints, and prioritized.
 
 The gap between "here's what we found" and "here's what you should do about it" is where many teams' recommendations get flagged as not yet actionable. The findings may be solid; the recommendations that follow from them may be too vague to act on.
 
-A useful test for each recommendation: could your employer pick this up on Monday and know what to do? "Streamline the intake workflow" fails the test. "Reduce the intake form from 12 fields to 6 by removing the three fields the operations manager flagged as unused, before the August system rollout" passes it. The second version is specific, time-bounded, and within what the employer can do.
+A useful test for each recommendation: could your employer pick this up on Monday and know what to do? The second version below is specific, time-bounded, and within what the employer can do.
+
+- **Fails the Monday test:** "Streamline the intake workflow."
+- **Passes the Monday test:** "Reduce the intake form from 12 fields to 6 by removing the three fields the operations manager flagged as unused, before the August system rollout."
 
 **Using AI to test actionability**
 

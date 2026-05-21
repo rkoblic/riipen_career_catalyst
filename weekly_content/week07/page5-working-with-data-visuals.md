@@ -3,7 +3,7 @@ week: 7
 page: 5
 title: Working with Data and Visuals
 created: 2026-04-02
-last_updated: 2026-04-07
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -29,7 +29,7 @@ The video above walks through the same data presented as a table, a chart, and a
 - Use a **sentence or short paragraph** when you have a single key number or finding. If your most important data point can be stated in one sentence, state it in one sentence. A chart for one or two numbers adds visual weight without adding clarity.
 - When in doubt, ask: does this visual make the reader's job easier, or does it require a paragraph of explanation to interpret? If it requires explanation, the explanation is probably the better format.
 
-[CURATED LINK: "Which Chart or Graph Is Right for You?" (article) — Tableau — https://help.tableau.com/current/pro/desktop/en-us/what_chart_example.htm] A clear guide to matching data types to the right chart format, with decision criteria for when to use tables, bar charts, line charts, and other formats. Useful reference for the format decisions covered in this module.
+📎 [Which Chart or Graph Is Right for You?](https://help.tableau.com/current/pro/desktop/en-us/what_chart_example.htm) — Tableau (article). A clear guide to matching data types to the right chart format, with decision criteria for when to use tables, bar charts, line charts, and other formats. Useful reference for the format decisions covered in this module.
 
 ---
 

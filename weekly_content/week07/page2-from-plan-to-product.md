@@ -3,7 +3,7 @@ week: 7
 page: 2
 title: From Plan to Product
 created: 2026-04-02
-last_updated: 2026-04-07
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -32,7 +32,7 @@ If your writing experience so far has been mostly academic, you've picked up con
 | Uses passive voice to appear objective ("it is recommended")         | Uses active voice because it's clearer ("we recommend")                                      |
 | Assumes a reader who will work through the argument                  | Assumes a reader who will skim first; headers and short paragraphs are not stylistic choices |
 
-[CURATED LINK: "The Difference Between Academic and Professional Writing: A Helpful Guide" (article, ~8 min) — Penn LPS Online, University of Pennsylvania — https://lpsonline.sas.upenn.edu/features/difference-between-academic-and-professional-writing-helpful-guide] A thorough guide to how academic and professional writing differ in purpose, audience, and approach. Useful for understanding the full register shift your deliverable requires, not just individual stylistic habits.
+📎 [The Difference Between Academic and Professional Writing: A Helpful Guide](https://lpsonline.sas.upenn.edu/features/difference-between-academic-and-professional-writing-helpful-guide) — Penn LPS Online, University of Pennsylvania (article, ~8 min). A thorough guide to how academic and professional writing differ in purpose, audience, and approach. Useful for understanding the full register shift your deliverable requires, not just individual stylistic habits.
 
 ---
 
@@ -73,6 +73,11 @@ A complete document contains all the required sections and covers the necessary 
 
 In a client context, the prose itself is where most of the polishing work happens. A section can contain everything required and still fail the reader if its main claim is buried under setup or hedged into vagueness.
 
-*Example: A community outreach team submits a report whose recommendations section opens with "It may be argued that further consideration could be given to expanding outreach efforts in underserved demographics." Three paragraphs later, a directly written sentence appears: "We recommend opening a second location in the East District by Q3, funded by reallocating the current mobile outreach budget." Both sentences are complete. Only one is usable. A polished document has every sentence at the second register, because the team did the work of revising rather than just writing.*
+A community outreach team submits a report whose recommendations section opens with one sentence; three paragraphs later, the directly written version appears. Both sentences are complete. Only one is usable.
+
+- **Buries the recommendation:** "It may be argued that further consideration could be given to expanding outreach efforts in underserved demographics."
+- **States it directly:** "We recommend opening a second location in the East District by Q3, funded by reallocating the current mobile outreach budget."
+
+A polished document has every sentence at the second register, because the team did the work of revising rather than just writing.
 
 The formatting standards from earlier in the course handle the structural side of polish. The writing moves on this page handle the prose side. A deliverable needs both.

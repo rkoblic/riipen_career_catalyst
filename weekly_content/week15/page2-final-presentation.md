@@ -4,7 +4,7 @@ page: 2
 title: "GRADED: The Final Presentation"
 canvas_page_url: graded-the-final-presentation
 created: 2026-04-22
-last_updated: 2026-05-18
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -23,7 +23,7 @@ competencies:
 
 In the Final Presentation, you will present your completed professional work to the people who commissioned it. The research is done, the analysis is done, the recommendations have been written and refined across weeks of feedback. What happens this week is the team standing behind that work, live, and answering for it in real time.
 
-This is the Final Presentation deliverable — a graded team submission that carries significant weight in your final grade. After the live session ends, your team submits the session recording and the slide deck through the Riipen platform. The recording is the primary artifact your instructor reviews against the [**Final Presentation rubric**](URL_TBD); the deck is reviewed alongside it. The Final Presentation is its own assessment and does not re-grade the Final Deliverables your team has already submitted.
+This is the Final Presentation deliverable — a graded team submission that carries significant weight in your final grade. After the live session ends, your team submits the session recording and the slide deck through the Riipen platform. The recording is the primary artifact your instructor reviews against the rubric; the deck is reviewed alongside it. The Final Presentation is its own assessment and does not re-grade the Project Deliverables your team has already submitted.
 
 This page is the culmination of the three-week presentation arc. The conceptual work on what makes a presentation strong happened a few weeks ago. The operational work (who presents what, how the team handles Q&A, how the outline becomes a deck) happened last week, along with a full rehearsal. This page covers how to show up on the day, what to do in the final hour before the presentation, what happens during the session itself, and how to close the experience with your team afterward.
 
@@ -40,7 +40,9 @@ Four dimensions, each with its own focus:
 - **Q&A Handling.** Do your answers show genuine understanding of the work? This is where the defend-your-work standard is tested live rather than in writing.
 - **Visual Communication.** Do the slides support the narrative, and are they professional and readable?
 
-Full descriptors are in the [**Final Presentation rubric**](URL_TBD). The rubric is visible to your team; review it before the presentation so you know what you are being evaluated on.
+Full descriptors are in the rubric; review it before the presentation so you know what you are being evaluated on.
+
+[LINKED RESOURCE: Final Presentation rubric]
 
 ---
 
@@ -52,14 +54,14 @@ The video is a short framing piece for the morning of the presentation: what "re
 
 ### What helps on the day, and what does not
 
-A few things that tend to help in the final hours:
+What helps:
 
 - A short walk or some time away from the material before the session. Most people present better after a brief mental break than after one more re-read of the deck.
 - Reviewing your opening lines — the first thirty to sixty seconds of your section. If you can start cleanly, the rest tends to follow.
 - A light check of transitions and handoff cues, especially the moments where one speaker ends and the next begins. Nervous teams tend to rush these; a reminder of the cue you agreed on helps.
 - Water nearby. Dry mouth is a real thing during presentations, and it is an easy problem to solve in advance.
 
-A few things that tend to hurt:
+What hurts:
 
 - Rebuilding slides in the final hour. Last-minute slide changes introduce visual inconsistency and disrupt the speaker notes your team already practiced against.
 - Re-reading the entire deck end to end. That mostly produces fatigue and the urge to change things that are already fine.

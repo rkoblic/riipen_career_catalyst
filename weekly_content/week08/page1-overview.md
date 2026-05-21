@@ -3,7 +3,7 @@ week: 8
 page: 1
 title: Week Overview
 created: 2026-04-06
-last_updated: 2026-04-20
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -11,7 +11,7 @@ status: draft
 
 There's no employer meeting this week, which frees up a lot of time to just work on your project. Your goal this week is to translate what came out of last week's check-in with your employer into concrete revisions and keeps moving forward on the sections still in progress.
 
-This week is also the course's first formal mid-project evaluation moment. You'll complete an evaluation of each of your teammates, and each of them will complete an evaluation of you. You'll also include a self-evaluation on the same dimensions. Your employer will complete a brief evaluation of the team. Next week, you'll receive your peer feedback to process individually, and your team will discuss the employer feedback together. All of it feeds the Professional Engagement component of your final grade.
+This week is also the course's first formal mid-project evaluation moment. You'll complete an evaluation of each of your teammates, and each of them will complete an evaluation of you. You'll also complete a separate self-evaluation on the same dimensions. Your employer will complete a brief evaluation of the team. Next week, you'll receive your peer feedback to process individually, and your team will discuss the employer feedback together. The peer evaluation and the employer feedback are each their own graded item — both contribute to the Professional Engagement portion of your final grade. See [**How Professional Engagement Is Assessed**](https://riipen.instructure.com/courses/107/pages/graded-professional-engagement) for how the pieces fit together.
 
 [VIDEO: From feedback to forward motion]
 
@@ -21,9 +21,11 @@ This week is also the course's first formal mid-project evaluation moment. You'l
 
 **Peer evaluation**: individual submission, graded. You'll complete a structured evaluation of each of your teammates using qualitative feedback and behaviorally anchored ratings.
 
-**Employer mid-project evaluation**: not something you submit. Your employer is asked to complete a brief evaluation of your team's responsiveness, communication, and professionalism. This feeds the same Professional Engagement component of your final grade as the peer evaluation.
+**Mid-Project Employer Feedback**: not something you submit. Your employer is asked to complete a brief evaluation of your team's responsiveness, communication, and professionalism. The employer's ratings become a gradebook item that contributes to the Professional Engagement portion of your final grade alongside the peer evaluation.
 
 ---
+
+Peer feedback comes back to you individually next week. Your team will discuss the employer feedback together at the Team Processing Session, but the peer feedback is yours to sit with on your own.
 
 ## Suggested order of completion
 

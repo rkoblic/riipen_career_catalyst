@@ -3,7 +3,7 @@ week: 5
 page: 4
 title: After the Direction Check
 created: 2026-04-01
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -20,7 +20,7 @@ competencies:
 
 Debrief as a team immediately after the meeting, while the conversation is fresh. Twenty-four hours from now, you'll remember the general feel of the meeting but not the specific language, and the specific language is the part you'll need.
 
-If you used an AI note-taking tool during the meeting, pull up that transcript now alongside whatever manual notes your team took. Use both, but don't treat the AI transcript as a reliable record. These tools mishear words, attribute statements to the wrong speaker, and sometimes fabricate phrases that sound plausible but weren't said. Cross-check the AI transcript against your manual notes and your team's memory. Where they disagree, trust what your team actually heard.
+If you used an AI note-taking tool during the meeting, pull up that transcript now alongside whatever manual notes your team took. Don't treat the AI transcript as a reliable record. These tools mishear words, attribute statements to the wrong speaker, and sometimes fabricate phrases that sound plausible but weren't said. Cross-check the AI transcript against your manual notes and your team's memory. Where they disagree, trust what your team actually heard.
 
 Capture four things:
 

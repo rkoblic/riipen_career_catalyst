@@ -1,0 +1,262 @@
+1
+00:00:00,000 --> 00:00:04,364
+Hi everyone. I got the package Monday.
+Honestly, I've only had time to skim it.
+
+2
+00:00:04,364 --> 00:00:07,105
+Did want to make sure we used the time
+well today.
+
+3
+00:00:07,105 --> 00:00:11,269
+Totally. That's what we were expecting to
+hear, so we've planned around it. We'll
+
+4
+00:00:11,269 --> 00:00:15,121
+walk you through the shape of the
+package, hit three things we specifically
+
+5
+00:00:15,121 --> 00:00:19,338
+want your read on, and leave time at the
+end for anything you want to raise. Sound
+
+6
+00:00:19,338 --> 00:00:19,598
+good?
+
+7
+00:00:19,598 --> 00:00:20,620
+Sounds great.
+
+8
+00:00:20,620 --> 00:00:24,716
+So the package is structured in four
+parts. Section one is the situational
+
+9
+00:00:24,716 --> 00:00:28,588
+analysis, which covers what we found
+about current volunteer retention
+
+10
+00:00:28,588 --> 00:00:33,134
+patterns at Harbor Street. Section two is
+the three priority recommendations we're
+
+11
+00:00:33,134 --> 00:00:37,118
+proposing. Section three is a 90-day
+implementation roadmap tied to each
+
+12
+00:00:37,118 --> 00:00:41,719
+recommendation. And section four is a set
+of measurement approaches so you can tell
+
+13
+00:00:41,719 --> 00:00:43,515
+whether the changes are working.
+
+14
+00:00:43,515 --> 00:00:47,321
+The Change Log is attached as a separate
+document. It tracks every piece of
+
+15
+00:00:47,321 --> 00:00:51,178
+feedback we've gotten from you across our
+check-ins and what we did with it.
+
+16
+00:00:51,178 --> 00:00:53,128
+Kwame, you want to take the Change Log?
+
+17
+00:00:53,128 --> 00:00:56,942
+Yeah. The main thing to flag. At the
+check-in two weeks ago, you pushed back
+
+18
+00:00:56,942 --> 00:01:00,808
+on our original recommendation that
+centered recruitment. You said the bigger
+
+19
+00:01:00,808 --> 00:01:04,775
+issue is that volunteers who do sign up
+don't come back for a second shift, and
+
+20
+00:01:04,775 --> 00:01:08,589
+we should be more focused on retention.
+We agreed, and you'll see that shift
+
+21
+00:01:08,589 --> 00:01:12,556
+reflected in section two. The retention
+recommendation is now the lead, and the
+
+22
+00:01:12,556 --> 00:01:15,048
+recruitment piece moved down to a
+supporting role.
+
+23
+00:01:15,048 --> 00:01:18,524
+There's also a note in the Change Log
+about your suggestion to include cost
+
+24
+00:01:18,524 --> 00:01:22,188
+estimates for each recommendation. We
+included rough ranges where we could. For
+
+25
+00:01:22,188 --> 00:01:25,429
+two of the three recommendations, we
+didn't have enough information to
+
+26
+00:01:25,429 --> 00:01:29,092
+estimate credibly, so we flagged those as
+"to be scoped with your finance lead"
+
+27
+00:01:29,092 --> 00:01:31,488
+rather than putting numbers we weren't
+confident in.
+
+28
+00:01:31,488 --> 00:01:35,482
+Appreciate that. The retention pivot is
+the right move.
+
+29
+00:01:35,482 --> 00:01:38,547
+Good. Linh, you want to take the first
+question?
+
+30
+00:01:38,547 --> 00:01:43,027
+Yeah. So our first open question is about
+section three. We built the 90-day
+
+31
+00:01:43,027 --> 00:01:47,150
+roadmap on the assumption that the
+volunteer coordinator role stays at
+
+32
+00:01:47,150 --> 00:01:51,750
+half-time through Q3. If that role gets
+expanded to full-time earlier, some of
+
+33
+00:01:51,750 --> 00:01:55,872
+the sequencing we've proposed would
+change. The onboarding redesign in
+
+34
+00:01:55,872 --> 00:02:00,292
+particular would land better in month two
+rather than month three. Is there
+
+35
+00:02:00,292 --> 00:02:03,578
+anything you can share about how that
+role might evolve?
+
+36
+00:02:03,578 --> 00:02:07,116
+That's a fair thing to raise. We've had
+the funding conversation twice this
+
+37
+00:02:07,116 --> 00:02:10,989
+quarter. The short answer is we'd love to
+expand it but probably can't until fall.
+
+38
+00:02:10,989 --> 00:02:14,528
+So your assumption is correct for the
+90-day window, but I'd flag it in the
+
+39
+00:02:14,528 --> 00:02:18,114
+roadmap as something that could shift,
+rather than treating it as locked in.
+
+40
+00:02:18,114 --> 00:02:22,172
+That's helpful. We can add that as an
+explicit assumption in the roadmap
+
+41
+00:02:22,172 --> 00:02:22,572
+footer.
+
+42
+00:02:22,572 --> 00:02:25,080
+Good. Can I jump in with something I
+noticed while skimming?
+
+43
+00:02:25,080 --> 00:02:26,102
+Please do.
+
+44
+00:02:26,102 --> 00:02:30,598
+The measurement section, section four,
+feels lighter than the other sections. I
+
+45
+00:02:30,598 --> 00:02:34,229
+don't know if that's a scoping choice or
+if you ran short on it.
+
+46
+00:02:34,229 --> 00:02:38,711
+Partly both, honestly. We scoped it to
+three measurement areas rather than going
+
+47
+00:02:38,711 --> 00:02:43,137
+wider because we thought anything more
+would get skipped. But we can add detail
+
+48
+00:02:43,137 --> 00:02:46,768
+on what specifically to track in each
+area if that's more useful.
+
+49
+00:02:46,768 --> 00:02:50,256
+That would help. Especially if you can
+name the quarterly numbers I should be
+
+50
+00:02:50,256 --> 00:02:50,669
+watching.
+
+51
+00:02:50,669 --> 00:02:53,966
+Got it. That'll go on the revision list
+before the final submission.
+
+52
+00:02:53,966 --> 00:02:58,247
+Good transition. We have two more
+targeted questions, then we'll leave the
+
+53
+00:02:58,247 --> 00:03:02,880
+last five minutes for anything else on
+your side. Next question is about section
+
+54
+00:03:02,880 --> 00:03:03,115
+two.
+

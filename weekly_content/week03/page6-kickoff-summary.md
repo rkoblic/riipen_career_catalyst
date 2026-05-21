@@ -3,7 +3,7 @@ week: 3
 page: 6
 title: The Kickoff Summary
 created: 2026-04-28
-last_updated: 2026-05-02
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -22,7 +22,7 @@ The Kickoff Summary is your team's version of that practice. It's a team submiss
 
 ## What this checkpoint is (and isn't)
 
-The Summary is a factual record of what the employer shared during the kickoff: what was stated, what was confirmed, what remains open. It is not analysis or interpretation; that comes in next week's Context Analysis & Project Plan.
+The Summary is a factual record of what the employer shared during the kickoff: what was stated, what was confirmed, what remains open. It is not analysis or interpretation — that comes in next week's Context Analysis & Project Plan.
 
 It's internal. Your team consults it during research and production; the course uses it to verify completion. It is not sent to the employer.
 
@@ -66,7 +66,7 @@ Length isn't what's being checked. A short Summary that meets these three standa
 
 ## Using AI
 
-AI can help organize your meeting notes and structure the Summary after your team has agreed on what was said: transcribing, sorting rough notes by topic, formatting the document. What AI cannot do is generate substance the employer didn't share. If your Summary contains specifics the employer never said (a deliverable format they didn't confirm, a success criterion they didn't mention, a timeline they didn't propose), the Summary has not met the criteria, regardless of how cleanly it's written.
+AI can help organize and structure your notes after your team has agreed on what was said. AI cannot generate substance the employer didn't share. If your Summary contains specifics the employer never said (a deliverable format they didn't confirm, a success criterion they didn't mention, a timeline they didn't propose), it has not met the criteria — regardless of how cleanly it's written.
 
 The test: could your team point to where in the meeting (your manual notes, the transcript, a teammate's recollection) each line of the Summary came from? If yes, the foundation is accurate. If a line traces to AI inference rather than something said, cut it or flag it as an assumption.
 

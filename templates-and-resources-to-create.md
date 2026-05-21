@@ -16,7 +16,7 @@ Status legend: `[x]` = built and reviewed; blank = not yet built. Built sources 
 | [x] | 6 | **Kickoff Summary** | `weekly_content/week03/page6-kickoff-summary.md` | 49 | Confirmed scope, deliverables, success criteria, timeline, contacts, open questions |
 | [x] | 7 | **Context Analysis & Project Plan (4-part)** | `weekly_content/week04/page2-context-analysis-and-project-plan.md` | 33 | Org & Project Context, Research Findings, Strategic Implications, Project Plan |
 | [x] | 8 | **Direction Check Summary** | `weekly_content/week05/page5-direction-check-summary.md` | 55 | 3-section format: feedback received / plan adjustments / confirmed approach (~100 words) |
-| [x] | 9 | **Change Log** | `weekly_content/week06/page3-revisiting-the-final-deliverable.md` | 53 | Feedback item \| Source \| How addressed (or rationale not to). Needs 2–3 example rows |
+| [x] | 9 | **Change Log** | `weekly_content/week06/page3-revisiting-the-project-deliverable.md` | 53 | Feedback item \| Source \| How addressed (or rationale not to). Needs 2–3 example rows |
 | [x] | 10 | **Revision Plan** | `weekly_content/week08/page4-acting-on-feedback.md` | 49 | Feedback item \| Source \| Revision required \| Owner \| Target date. Needs 2–3 example rows |
 | [x] | 11 | **Team Processing Agreement** | `weekly_content/week09/page2-team-processing-session.md` | 134 | Two sections: individual commitments + team commitments from employer feedback |
 | [x] | 12 | **Presentation Outline** | `weekly_content/week12/page3-presentation-fundamentals.md` | 144 | Key Messages, Narrative Arc, Visual Approach, Speaker Assignments + handoffs |
@@ -36,7 +36,7 @@ Each is a separate document we'd write once and link from every page that points
 |---|---|---|---|
 | | 15 | **Course Syllabus document** | `weekly_content/week01/page3-syllabus-assessment.md` (line 23) |
 | | 16 | **Context Analysis & Project Plan — assignment description & rubric** | `weekly_content/week02/page8-whats-next.md` (24), `weekly_content/week03/page9-whats-next.md` (30), `weekly_content/week04/page2-context-analysis-and-project-plan.md` (74, 109) |
-| | 17 | **Final Deliverables — assignment description & rubric** | `weekly_content/week06/page3-revisiting-the-final-deliverable.md` (19), `weekly_content/week10/page4-whats-next.md` (30), `weekly_content/week13/page2-final-deliverables.md` (rubric reference at `URL_TBD`) |
+| | 17 | **Project Deliverables — assignment description & rubric** | `weekly_content/week06/page3-revisiting-the-project-deliverable.md` (19), `weekly_content/week10/page4-whats-next.md` (30), `weekly_content/week13/page2-project-deliverables.md` (rubric reference at `URL_TBD`) |
 | | 18 | **Final Presentation — rubric** | `weekly_content/week12/page3-presentation-fundamentals.md` (25), `weekly_content/week14/page2-planning-your-presentation.md` (129), `weekly_content/week14/page5-whats-next.md` (20), `weekly_content/week15/page2-final-presentation.md` (40) |
 | | 19 | **Professional Engagement — assignment page & rubric** | `weekly_content/week08/page2-peer-evaluation-1.md` (181) |
 
@@ -54,7 +54,7 @@ Each is a separate document we'd write once and link from every page that points
 
 **Downloadable examples (2):** Annotated Sample Deliverable · Feedback Protocol Card
 
-**Rubrics & assignment docs (5):** Course Syllabus · Context Analysis & Project Plan rubric/assignment · Final Deliverables rubric/assignment · Final Presentation rubric · Professional Engagement assignment page & rubric
+**Rubrics & assignment docs (5):** Course Syllabus · Context Analysis & Project Plan rubric/assignment · Project Deliverables rubric/assignment · Final Presentation rubric · Professional Engagement assignment page & rubric
 
 **Other (1):** Post-course resources doc
 
@@ -66,5 +66,5 @@ Each is a separate document we'd write once and link from every page that points
 
 ## Out of scope for this list
 
-- **Platform submission URLs** (`[PLATFORM: TBD]`) at `weekly_content/week13/page2-final-deliverables.md:109`, `weekly_content/week15/page4-reflection-5.md`, `weekly_content/week15/page5-end-of-project-peer-evaluation.md` — live Riipen platform links, set when the course is provisioned, not artifacts to author.
+- **Platform submission URLs** (`[PLATFORM: TBD]`) at `weekly_content/week13/page2-project-deliverables.md:109`, `weekly_content/week15/page4-reflection-5.md`, `weekly_content/week15/page5-end-of-project-peer-evaluation.md` — live Riipen platform links, set when the course is provisioned, not artifacts to author.
 - **Interactive modules** (`[INTERACTIVE: ...]`) — five scenario-based learning experiences (Week 1 DEAL sort, Week 2 critical-evaluation exercise, Week 3 simulated kickoff, Week 5 simulated Direction Check, Week 7 simulated Development Check-In #1). Different category of build (interactive HTML), tracked separately.

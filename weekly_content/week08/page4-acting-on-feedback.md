@@ -3,7 +3,7 @@ week: 8
 page: 4
 title: Acting on feedback during development
 created: 2026-04-20
-last_updated: 2026-04-20
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism
@@ -46,7 +46,7 @@ A social media strategy team's employer says: "Personally, I've always liked the
 
 Once you've identified your act-on items, convert them into a concrete plan before anyone starts revising.
 
-[TEMPLATE: Revision Plan — columns: Feedback item | Source | Revision required | Owner | Target date. Include 2-3 example rows showing different feedback types: a scope correction with a clear owner, a structural revision that affects multiple sections, and a smaller targeted change like a citation update or data refresh.]
+[TEMPLATE: Revision Plan]
 
 Two practices that protect the team during a development-heavy week:
 
@@ -58,12 +58,12 @@ A quick test for distinguishing them: if you made this change and didn't tell an
 
 A process improvement team whose employer says "the current-state workflow you've described doesn't match how the team actually operates in Q1" is looking at a structural change. Almost everything built on that workflow needs revisiting. The same team whose employer says "the statistic you cited for error rates is from 2021, and we have more recent data I can send" is looking at a targeted change. One person updates one figure.
 
-Most teams underestimate the structural revisions and overestimate the targeted ones. A section that needs to be reargued from the beginning is not a quick fix, and treating it like one is how teams end up with a partially revised document the day before it's due. When the team is unsure which kind a particular revision is, a five-minute conversation tends to be worth more than the hour spent revising in the wrong direction.
+Most teams underestimate structural revisions and overestimate targeted ones. A section that needs to be reargued from the beginning is not a quick fix, and treating it like one is how teams end up with a partially revised document the day before it's due. When the team is unsure which kind a particular revision is, a five-minute conversation tends to be worth more than the hour spent revising in the wrong direction.
 
-[CURATED LINK: "The Six Types of Editing: Knowing Which Is the Right One" (article, ~6 min) — The Writers for Hire — https://www.thewritersforhire.com/the-six-types-of-editing-knowing-which-is-the-right-one/] A practical breakdown of editing types, from developmental (big-picture structure and argument) through to proofreading. Useful for understanding where your revision actually sits and what kind of attention it requires.
+📎 [The Six Types of Editing: Knowing Which Is the Right One](https://www.thewritersforhire.com/the-six-types-of-editing-knowing-which-is-the-right-one/) — The Writers for Hire (article, ~6 min). A practical breakdown of editing types, from developmental (big-picture structure and argument) through to proofreading. Useful for understanding where your revision actually sits and what kind of attention it requires.
 
 ---
 
 ## Connect it to the Change Log
 
-Each act-on row of your revision plan becomes a Change Log entry once the revision is done. The Change Log your team started after revisiting the Final Deliverable is the place where these get tracked.
+Each act-on row of your revision plan becomes a Change Log entry once the revision is done. The Change Log your team started after revisiting the Project Deliverable is the place where these get tracked.

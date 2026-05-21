@@ -3,7 +3,7 @@ week: 5
 page: 3
 title: During the Direction Check
 created: 2026-04-01
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -42,6 +42,16 @@ The video above walks through three scenarios showing the difference between def
 - **When feedback is unexpected, acknowledge it directly.** "That's something we hadn't accounted for. Can you tell us more?" You don't need an answer in the meeting. You need to capture the information.
 - **Take notes on what the employer says, not on your reactions.** Your reactions are for the debrief.
 
+What this sounds like in practice when the employer pushes back on a focus area:
+
+- **Defensive — shuts the conversation down:** "We chose this segment because our research showed it had the highest engagement rates."
+- **Constructive — surfaces the real concern:** "Can you tell us more about which segment matters most to you and why?"
+
+Same pattern when feedback is vague:
+
+- **Closes the door:** "We actually spent a lot of time on that section."
+- **Makes it actionable:** "When you say depth, are you looking for more data points, or more analysis of what the existing data means?"
+
 ---
 
 ## When the employer has no feedback
@@ -50,6 +60,10 @@ Sometimes the employer says "this looks great, keep going." That can feel like a
 
 This happens. Some employers are less hands-on, some are genuinely satisfied with your direction, and some haven't reviewed the work closely enough to give detailed feedback. Regardless of the reason, your team still needs to pressure-test your approach before committing to production.
 
-**Try asking more targeted questions.** General approval often means the employer hasn't found a reason to object, not that they've carefully evaluated every element. Specific questions can draw out feedback that "looks good" didn't: "Are there any risks we haven't considered?" or "Is there anything about the audience for this deliverable that would change how we structure it?"
+**Try asking more targeted questions.** General approval often means the employer hasn't found a reason to object, not that they've carefully evaluated every element. Specific questions can draw out feedback that "looks good" didn't:
+
+- "Are there any risks we haven't considered?"
+- "Is there anything about the audience for this deliverable that would change how we structure it?"
+- "What would make you most disappointed if it wasn't in the final version?"
 
 If targeted questions still don't surface substantive feedback, that's OK. There are ways to pressure-test your approach after the meeting. See the Direction Check Summary page for how to use AI as a critical reviewer when the employer doesn't provide the pushback themselves.

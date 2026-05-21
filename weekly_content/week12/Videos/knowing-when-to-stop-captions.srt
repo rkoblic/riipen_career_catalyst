@@ -1,0 +1,159 @@
+1
+00:00:03,400 --> 00:00:04,870
+This week, your team faces a 
+
+2
+00:00:04,920 --> 00:00:06,520
+question that gets sharper the closer
+
+3
+00:00:06,570 --> 00:00:07,640
+ you get to delivery:
+
+4
+00:00:08,330 --> 00:00:09,360
+ when is the work done?
+
+5
+00:00:10,320 --> 00:00:11,840
+ In school, the deadline usually 
+
+6
+00:00:11,880 --> 00:00:12,570
+settles it.
+
+7
+00:00:13,080 --> 00:00:15,160
+ You revise until time runs out, then 
+
+8
+00:00:15,230 --> 00:00:16,400
+hand in your best version.
+
+9
+00:00:17,200 --> 00:00:18,840
+ More work late in the process tends 
+
+10
+00:00:18,890 --> 00:00:20,270
+to mean a better submission.
+
+11
+00:00:21,080 --> 00:00:22,410
+ Professional work doesn't always 
+
+12
+00:00:22,450 --> 00:00:23,200
+behave that way.
+
+13
+00:00:23,860 --> 00:00:25,590
+ Close to delivery, every change 
+
+14
+00:00:25,620 --> 00:00:27,020
+carries some risk of breaking what 
+
+15
+00:00:27,060 --> 00:00:28,100
+already works.
+
+16
+00:00:28,400 --> 00:00:30,270
+ A fix can introduce a new problem.
+
+17
+00:00:30,780 --> 00:00:32,450
+ A polish pass can destabilize a 
+
+18
+00:00:32,510 --> 00:00:34,000
+section that was already strong.
+
+19
+00:00:34,830 --> 00:00:36,370
+ So the question needs to shift from 
+
+20
+00:00:36,490 --> 00:00:38,841
+"how can I make this better?" to "is 
+
+21
+00:00:38,891 --> 00:00:41,691
+this change worth the risk?" That's 
+
+22
+00:00:41,731 --> 00:00:43,431
+the question a consulting team asks 
+
+23
+00:00:43,501 --> 00:00:44,611
+before client delivery.
+
+24
+00:00:45,358 --> 00:00:47,038
+ It's the question an editor asks 
+
+25
+00:00:47,098 --> 00:00:48,868
+before a manuscript goes to print.
+
+26
+00:00:49,468 --> 00:00:50,818
+ It's the call your team is about to 
+
+27
+00:00:50,888 --> 00:00:52,288
+make on a real deliverable.
+
+28
+00:00:52,878 --> 00:00:54,278
+ You have the employer's feedback 
+
+29
+00:00:54,338 --> 00:00:56,398
+on your near-final deliverables, and 
+
+30
+00:00:56,478 --> 00:00:57,988
+one last push to get them across the 
+
+31
+00:00:58,028 --> 00:00:58,408
+line.
+
+32
+00:00:59,248 --> 00:01:00,978
+ This week, your team decides which 
+
+33
+00:01:01,018 --> 00:01:02,668
+pieces of feedback to act on and 
+
+34
+00:01:02,728 --> 00:01:03,748
+which to set aside.
+
+35
+00:01:04,078 --> 00:01:05,218
+ By the end of the week, the 
+
+36
+00:01:05,288 --> 00:01:06,918
+deliverable is done because the team
+
+37
+00:01:06,968 --> 00:01:08,988
+ made the call, not because time ran 
+
+38
+00:01:09,048 --> 00:01:09,318
+out.
+
+39
+00:01:10,228 --> 00:01:11,678
+ That's the professional practice this 
+
+40
+00:01:11,728 --> 00:01:12,888
+week is asking you to run.

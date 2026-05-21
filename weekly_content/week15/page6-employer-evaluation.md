@@ -1,15 +1,15 @@
 ---
 week: 15
 page: 6
-title: About the employer end-of-project evaluation
+title: "GRADED: End-of-Project Employer Feedback"
 created: 2026-05-11
-last_updated: 2026-05-11
+last_updated: 2026-05-21
 status: draft
 ---
 
-# About the employer end-of-project evaluation
+# GRADED: End-of-Project Employer Feedback
 
-After the Final Presentation, your employer is asked to complete an end-of-project evaluation of your team. It is not something you submit, but it runs alongside the End-of-Project Peer Evaluation and feeds the same Professional Engagement component of your final grade. This page is what to know about it.
+After the Final Presentation, your employer is asked to complete an end-of-project evaluation of your team. The employer's ratings become this gradebook item — your team doesn't submit anything, but the score is one of the five graded items that together represent **Professional Engagement** in your final grade. See [**How Professional Engagement Is Assessed**](https://riipen.instructure.com/courses/107/pages/graded-professional-engagement) for the full picture. This page is what to know about it.
 
 ---
 
@@ -58,7 +58,7 @@ The peer evaluation and the employer evaluation are designed to give you complem
 - The peer evaluation is the inside view: how your teammates experienced your individual contribution across the full project.
 - The employer evaluation is the outside view: how the team appeared to a working partner across the full project.
 
-Both feed the Professional Engagement component of your final grade. Because the employer cannot reliably assess individual contribution, all team members receive the same base employer score. If the peer evaluation reveals significant differences in how members contributed, your instructor may adjust individual scores within a defined range. That adjustment is a judgment call by your instructor, not an automatic calculation.
+Both are graded items inside the Professional Engagement portion of your final grade. Because the employer cannot reliably assess individual contribution, all team members receive the same base employer score. If the peer evaluation reveals significant differences in how members contributed, your instructor may adjust individual employer-feedback scores within a defined range. That adjustment is a judgment call by your instructor, not an automatic calculation.
 
 ---
 

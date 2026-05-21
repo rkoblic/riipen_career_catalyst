@@ -16,8 +16,8 @@ The employer says "I think you're focusing on the wrong segment." A natural resp
 
 A better response: "Can you tell us more about which segment matters most to you and why?" Now the employer explains that the segment you chose looks right from the outside, but internally they've already tried targeting that group and it didn't work. That's information your research couldn't have surfaced, and it changes your entire approach.
 
-Same pattern with vague feedback. The employer says "I'd like to see more depth in the analysis." Responding with "we actually spent a lot of time on that section" tells them you're not open to the input. Asking "when you say depth, are you looking for more data points, or more analysis of what the existing data means?" turns a vague comment into something you can act on.
+The same pattern can arise when you get vague feedback. The employer says "I'd like to see more depth in the analysis." Responding with "we actually spent a lot of time on that section" tells them you're not open to the input. Instead, try asking something like: "When you say depth, are you looking for more data points?
 
-When the employer raises something completely unexpected, something that wasn't in the brief and that you hadn't considered, the move is the same. Acknowledge it directly. "That's something we hadn't accounted for. Can you tell us more about how that affects the project?" You don't need an answer in the meeting. You need to capture the information and address it in your revised plan.
+Or, more analysis of what the existing data means?" When the employer raises something completely unexpected, something that wasn't in the brief and that you hadn't considered, the move is the same. Acknowledge it directly. "That's something we hadn't accounted for. Can you tell us more about how that affects the project?" You don't need an answer in the meeting. You need to capture the information and address it in your revised plan.
 
 The move is the same in every case: ask a clarifying question before you respond, and make sure you understand what the employer means before you decide what to do about it.

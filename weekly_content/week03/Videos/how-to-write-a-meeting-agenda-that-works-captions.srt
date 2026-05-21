@@ -1,0 +1,255 @@
+1
+00:00:03,400 --> 00:00:04,580
+A lot of professional meeting 
+
+2
+00:00:04,630 --> 00:00:06,030
+agendas are useless.
+
+3
+00:00:06,310 --> 00:00:08,740
+ They list topics like "introductions, 
+
+4
+00:00:08,780 --> 00:00:11,470
+project overview, questions" and 
+
+5
+00:00:11,530 --> 00:00:12,820
+nobody looks at them again after 
+
+6
+00:00:12,860 --> 00:00:13,380
+they're sent.
+
+7
+00:00:14,080 --> 00:00:15,540
+ That's not what you want here.
+
+8
+00:00:16,240 --> 00:00:17,900
+ A good meeting agenda does three 
+
+9
+00:00:17,930 --> 00:00:18,590
+things.
+
+10
+00:00:18,840 --> 00:00:20,820
+ First, it tells the other person what 
+
+11
+00:00:20,860 --> 00:00:22,090
+you want to get out of the meeting.
+
+12
+00:00:22,900 --> 00:00:24,680
+ Not just the topics, but what you 
+
+13
+00:00:24,740 --> 00:00:26,110
+need to walk away knowing.
+
+14
+00:00:26,710 --> 00:00:28,540
+ If your agenda says "project scope 
+
+15
+00:00:28,570 --> 00:00:30,440
+discussion," the employer has no 
+
+16
+00:00:30,520 --> 00:00:31,570
+idea what to prepare.
+
+17
+00:00:32,060 --> 00:00:34,210
+ If it says "we'd like to confirm the 
+
+18
+00:00:34,260 --> 00:00:36,560
+deliverable format, timeline, and key
+
+19
+00:00:36,620 --> 00:00:38,650
+ contacts," they know exactly what 
+
+20
+00:00:38,680 --> 00:00:40,160
+you need and can come ready to give
+
+21
+00:00:40,190 --> 00:00:41,090
+ you clear answers.
+
+22
+00:00:42,140 --> 00:00:44,740
+ Second, it sets expectations for how 
+
+23
+00:00:44,790 --> 00:00:45,970
+the time will be used.
+
+24
+00:00:47,090 --> 00:00:48,590
+ A sixty-minute meeting where 
+
+25
+00:00:48,630 --> 00:00:49,900
+nobody knows what comes after 
+
+26
+00:00:49,960 --> 00:00:51,620
+introductions tends to meander.
+
+27
+00:00:52,320 --> 00:00:53,470
+ A meeting where the first ten 
+
+28
+00:00:53,520 --> 00:00:55,460
+minutes are introductions, the next 
+
+29
+00:00:55,490 --> 00:00:57,290
+thirty are the employer's overview, 
+
+30
+00:00:57,540 --> 00:00:59,080
+and the last twenty are your team's 
+
+31
+00:00:59,130 --> 00:01:00,790
+questions gives everyone a structure 
+
+32
+00:01:00,820 --> 00:01:01,460
+to work within.
+
+33
+00:01:02,510 --> 00:01:03,590
+ You don't need to time it to the 
+
+34
+00:01:03,620 --> 00:01:04,070
+minute.
+
+35
+00:01:04,770 --> 00:01:05,980
+ You just need to signal that you've 
+
+36
+00:01:06,010 --> 00:01:07,180
+thought about how the hour should 
+
+37
+00:01:07,210 --> 00:01:07,490
+flow.
+
+38
+00:01:08,870 --> 00:01:11,160
+ Third, it gives the employer a chance
+
+39
+00:01:11,190 --> 00:01:12,170
+ to redirect you.
+
+40
+00:01:13,120 --> 00:01:14,470
+ Maybe your team's questions are 
+
+41
+00:01:14,510 --> 00:01:15,690
+focused on the wrong area.
+
+42
+00:01:16,440 --> 00:01:17,800
+ Maybe the employer wants to spend 
+
+43
+00:01:17,850 --> 00:01:19,150
+more time on something you didn't 
+
+44
+00:01:19,180 --> 00:01:20,030
+anticipate.
+
+45
+00:01:20,730 --> 00:01:21,710
+ When they see the agenda 
+
+46
+00:01:21,780 --> 00:01:23,330
+twenty-four hours in advance, they 
+
+47
+00:01:23,360 --> 00:01:23,840
+can tell you.
+
+48
+00:01:24,590 --> 00:01:25,740
+ That's better than finding out 
+
+49
+00:01:25,780 --> 00:01:27,130
+mid-meeting that you prepared for 
+
+50
+00:01:27,150 --> 00:01:28,460
+the wrong conversation.
+
+51
+00:01:29,420 --> 00:01:31,130
+ Two judgment calls worth flagging.
+
+52
+00:01:31,690 --> 00:01:32,880
+ When the employer walks through 
+
+53
+00:01:32,900 --> 00:01:34,790
+the project, don't script that part.
+
+54
+00:01:35,390 --> 00:01:36,600
+ It's their time to share what they 
+
+55
+00:01:36,640 --> 00:01:37,470
+think you need to know.
+
+56
+00:01:38,370 --> 00:01:40,640
+ And when it's your turn, organize 
+
+57
+00:01:40,670 --> 00:01:43,050
+your questions by priority, not by 
+
+58
+00:01:43,100 --> 00:01:43,740
+topic.
+
+59
+00:01:44,560 --> 00:01:45,980
+ Lead with the things you can't start 
+
+60
+00:01:46,020 --> 00:01:46,700
+working without.
+
+61
+00:01:47,370 --> 00:01:48,450
+ Keep it short, and send it 
+
+62
+00:01:48,490 --> 00:01:49,700
+twenty-four hours ahead so the 
+
+63
+00:01:49,740 --> 00:01:51,250
+employer has time to flag anything 
+
+64
+00:01:51,300 --> 00:01:51,660
+missing.

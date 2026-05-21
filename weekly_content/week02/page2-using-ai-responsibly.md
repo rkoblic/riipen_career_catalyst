@@ -3,7 +3,7 @@ week: 2
 page: 2
 title: Using AI Responsibly
 created: 2026-03-19
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -24,7 +24,7 @@ This page introduces the approach you'll use for the rest of the course.
 
 Many people use AI the way they'd use a search engine: type in a vague question, hope for a decent answer. That works sometimes. But in a professional context, you need more reliable results. These three principles will help.
 
-**1. Give AI enough context before you ask.**
+### 1. Give AI Enough Context Before You Ask
 
 AI doesn't know your project, your team, or your situation unless you tell it. Before asking a question, share the relevant background: your project brief, your role on the team, what you're trying to accomplish, and any constraints you're working within.
 
@@ -34,7 +34,7 @@ Try: *"I'm on a student consulting team working with a mid-size nonprofit on the
 
 The more context you give, the more useful the response.
 
-**2. Ask for options, not answers.**
+### 2. Ask for Options, Not Answers
 
 Ask AI to generate possibilities, surface tradeoffs, or challenge your assumptions rather than handing you a single "right" answer.
 
@@ -44,11 +44,12 @@ Try: *"What are three different approaches a small team could use to stay coordi
 
 This gives you something to discuss as a team rather than something to copy.
 
-**3. Always ask: what am I assuming here?**
+### 3. Always Ask: What Am I Assuming Here?
 
 AI will confidently reinforce your assumptions if you don't push back. Build a habit of asking AI to challenge your thinking: *"What assumptions am I making in this approach?"* or *"What's the strongest argument against this plan?"*
 
-This matters most when AI gives you something that already sounds right; that's the moment you're least likely to push on it.
+> [!key]
+> This matters most when AI gives you something that already sounds right. That's the moment you're least likely to push on it — and the moment you most need to.
 
 ---
 
@@ -56,27 +57,28 @@ This matters most when AI gives you something that already sounds right; that's 
 
 Here are some common project tasks and what better prompting looks like in practice.
 
-**Researching an organization:**
+### Researching an Organization
 
 - Weak: *"Tell me about Company X."*
 - Better: *"I need to prepare for a kickoff meeting with Company X, a [sector] company that [brief description]. What should I know about their industry, competitors, and recent developments? Flag anything I should verify independently."*
 
-**Preparing questions for a client meeting:**
+### Preparing Questions for a Client Meeting
 
 - Weak: *"What questions should I ask in a meeting?"*
 - Better: *"My team is meeting with an employer contact for the first time to discuss a project about [topic]. We want to understand their goals, success criteria, and constraints. What are the most important questions to ask, and which ones should we prioritize if we run short on time?"*
 
-**Drafting a professional email:**
+### Drafting a Professional Email
 
 - Weak: *"Write an email to our employer."*
 - Better: *"Draft an introductory email from a student team to an employer contact at [Company X]. We need to introduce our team members briefly, reference the project brief on [topic], and request a 60-minute kickoff meeting. Tone should be professional but warm, since this is our first contact."*
 
-**Organizing research notes:**
+### Organizing Research Notes
 
 - Weak: *"Summarize these notes."*
 - Better: *"Here are research notes from our team members on [topic]. Identify the three to five most important patterns across these findings. For each pattern, explain what it might mean for how we approach the project. Flag any contradictions between team members' findings."*
 
-Across all four, the better prompts share three moves: they give AI context up front, ask for a structured response, and ask it to flag what you should verify or think about further.
+> [!info] THE PATTERN
+> Across all four, the better prompts share three moves: they give AI context up front, ask for a structured response, and ask it to flag what you should verify or think about further.
 
 ---
 

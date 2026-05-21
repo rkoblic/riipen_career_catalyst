@@ -275,46 +275,171 @@ def render_checklist(title, items):
     return "".join(parts)
 
 
+_CALLOUT_KINDS = {
+    "key_principle": {
+        "wrapper": "background: #fff8f1; border-left: 4px solid #ff7c0a; "
+                   "padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;",
+        "label_style": "font-size: 12px; margin-bottom: {mb}; color: #b54708;",
+        "default_label_mb": "6px",
+        "is_dark": False,
+    },
+    "info": {
+        "wrapper": "background: #f7f8fa; border-left: 4px solid #2454ff; "
+                   "padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;",
+        "label_style": "font-size: 12px; margin-bottom: {mb}; color: #2454ff;",
+        "default_label_mb": "6px",
+        "is_dark": False,
+    },
+    "ai": {
+        "wrapper": "background: #050c2a; color: white; border-radius: 8px; "
+                   "padding: 16px 20px; margin: 16px 0;",
+        "label_style": "font-size: 12px; margin-bottom: {mb};",
+        "default_label_mb": "6px",
+        "is_dark": True,
+    },
+    "scenario": {
+        "wrapper": "background: #f7f8fa; border: 2px dashed #7c3aed; "
+                   "border-radius: 10px; padding: 20px 24px; margin: 16px 0;",
+        "label_style": "font-size: 11px; color: #7c3aed; margin-bottom: {mb};",
+        "default_label_mb": "8px",
+        "is_dark": False,
+    },
+}
+
+
 def render_callout(kind, label, body):
     """kind is one of: key_principle, info, ai, scenario.
 
-    Labels are wrapped in <strong> because Canvas strips font-weight from
-    inline styles — without <strong>, the label loses contrast against the
-    callout background.
+    `body` may be:
+      - a str: inline content, wrapped in a single margin:0 <p>. (Legacy form used
+        by the bold-prefix paragraph heuristic.)
+      - a list of pre-rendered block HTML strings: concatenated as-is. Use this for
+        multi-paragraph or paragraph+list admonition bodies. Build the blocks with
+        render_callout_paragraph / render_callout_list so margins and dark-mode
+        colors are consistent.
+
+    Labels are wrapped in <strong> because Canvas strips font-weight from inline
+    styles — without <strong>, the label loses contrast against the callout
+    background.
     """
-    if kind == "key_principle":
-        return (
-            '<div style="background: #fff8f1; border-left: 4px solid #ff7c0a; '
-            'padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">'
-            f'<div style="font-size: 12px; margin-bottom: 6px; color: #b54708;">'
-            f"<strong>{_esc(label)}</strong></div>"
-            f'<p style="font-size: 14px; margin: 0;">{render_inline(body)}</p></div>'
+    if kind not in _CALLOUT_KINDS:
+        raise ValueError(f"Unknown callout kind: {kind}")
+    cfg = _CALLOUT_KINDS[kind]
+    body_is_blocks = isinstance(body, list)
+    # Label spacing: 8px only when the body actually has >1 block — a 1-element
+    # block list renders the same label spacing as the legacy single-string form.
+    bump_label = body_is_blocks and len(body) > 1
+    label_mb = "8px" if bump_label else cfg["default_label_mb"]
+    label_style = cfg["label_style"].format(mb=label_mb)
+    if body_is_blocks:
+        body_html = "".join(body)
+    else:
+        white = " color: white;" if cfg["is_dark"] else ""
+        body_html = (
+            f'<p style="font-size: 14px; margin: 0;{white}">'
+            f"{render_inline(body)}</p>"
         )
-    if kind == "info":
-        return (
-            '<div style="background: #f7f8fa; border-left: 4px solid #2454ff; '
-            'padding: 14px 18px; border-radius: 0 8px 8px 0; margin: 16px 0;">'
-            f'<div style="font-size: 12px; margin-bottom: 6px; color: #2454ff;">'
-            f"<strong>{_esc(label)}</strong></div>"
-            f'<p style="font-size: 14px; margin: 0;">{render_inline(body)}</p></div>'
+    return (
+        f'<div style="{cfg["wrapper"]}">'
+        f'<div style="{label_style}"><strong>{_esc(label)}</strong></div>'
+        f"{body_html}</div>"
+    )
+
+
+def render_callout_paragraph(text, is_last, is_dark):
+    """Render a paragraph block destined for a callout body. Last block has no
+    bottom margin; earlier blocks get 10px so the spacing is consistent with
+    Rachel's hand-built Canvas pages."""
+    margin = "0" if is_last else "0 0 10px"
+    color = " color: white;" if is_dark else ""
+    return (
+        f'<p style="font-size: 14px; margin: {margin};{color}">'
+        f"{render_inline(text)}</p>"
+    )
+
+
+def render_callout_list(items, is_last, is_dark, ordered=False):
+    """Render a list block destined for a callout body. Margins matched to
+    Canvas's hand-built styling (no top margin; left indent 20px; bottom 10px
+    unless last)."""
+    tag = "ol" if ordered else "ul"
+    bottom = "0" if is_last else "10px"
+    color = " color: white;" if is_dark else ""
+    parts = [f'<{tag} style="font-size: 14px; margin: 0 0 {bottom} 20px;{color}">']
+    for item in items:
+        parts.append(
+            f'<li style="margin-bottom: 6px;">{render_inline(item)}</li>'
         )
-    if kind == "ai":
-        return (
-            '<div style="background: #050c2a; color: white; border-radius: 8px; '
-            'padding: 16px 20px; margin: 16px 0;">'
-            f'<div style="font-size: 12px; margin-bottom: 6px;">'
-            f"<strong>{_esc(label)}</strong></div>"
-            f'<p style="font-size: 14px; margin: 0; color: white;">{render_inline(body)}</p></div>'
-        )
-    if kind == "scenario":
-        return (
-            '<div style="background: #f7f8fa; border: 2px dashed #7c3aed; '
-            'border-radius: 10px; padding: 20px 24px; margin: 16px 0;">'
-            f'<div style="font-size: 11px; color: #7c3aed; margin-bottom: 8px;">'
-            f"<strong>{_esc(label)}</strong></div>"
-            f'<p style="font-size: 14px; margin: 0;">{render_inline(body)}</p></div>'
-        )
-    raise ValueError(f"Unknown callout kind: {kind}")
+    parts.append(f"</{tag}>")
+    return "".join(parts)
+
+
+def parse_admonition_body(quote_lines, is_dark):
+    """Walk quote_lines (already stripped of `> ` prefix) and return a list of
+    pre-rendered block HTML strings.
+
+    Blank lines separate paragraphs. Lines starting with `- ` / `* ` become a
+    bullet list; lines starting with `N. ` become a numbered list. Everything
+    else is a paragraph (consecutive lines joined by a space)."""
+    blocks = []  # list of (kind, content) where kind in {'p','ul','ol'}
+    i = 0
+    n = len(quote_lines)
+    while i < n:
+        s = quote_lines[i].strip()
+        if not s:
+            i += 1
+            continue
+        # Bullet list
+        if s.startswith("- ") or s.startswith("* "):
+            items = []
+            while i < n:
+                ln = quote_lines[i].strip()
+                if ln.startswith("- ") or ln.startswith("* "):
+                    items.append(ln[2:].strip())
+                    i += 1
+                else:
+                    break
+            blocks.append(("ul", items))
+            continue
+        # Numbered list
+        if re.match(r"^\d+\.\s+", s):
+            items = []
+            while i < n:
+                ln = quote_lines[i].strip()
+                m = re.match(r"^\d+\.\s+(.*)$", ln)
+                if m:
+                    items.append(m.group(1).strip())
+                    i += 1
+                else:
+                    break
+            blocks.append(("ol", items))
+            continue
+        # Paragraph: collect consecutive non-blank, non-list lines
+        para = [s]
+        i += 1
+        while i < n:
+            ln = quote_lines[i].strip()
+            if not ln:
+                break
+            if ln.startswith("- ") or ln.startswith("* "):
+                break
+            if re.match(r"^\d+\.\s+", ln):
+                break
+            para.append(ln)
+            i += 1
+        blocks.append(("p", " ".join(para)))
+
+    rendered = []
+    last_idx = len(blocks) - 1
+    for idx, (kind, content) in enumerate(blocks):
+        is_last = idx == last_idx
+        if kind == "p":
+            rendered.append(render_callout_paragraph(content, is_last, is_dark))
+        elif kind == "ul":
+            rendered.append(render_callout_list(content, is_last, is_dark, ordered=False))
+        elif kind == "ol":
+            rendered.append(render_callout_list(content, is_last, is_dark, ordered=True))
+    return rendered
 
 
 def render_table(header_cells, body_rows):
@@ -712,7 +837,9 @@ def convert_body_to_html(body, video_md_lookup=None):
                 qline = lines[i].strip()
                 quote_lines.append(qline[2:] if qline.startswith("> ") else qline[1:])
                 i += 1
-            # Admonition: first line is `[!kind] OPTIONAL LABEL`, body follows
+            # Admonition: first line is `[!kind] OPTIONAL LABEL`, body follows.
+            # Body may contain multiple paragraphs (separated by blank `>` lines)
+            # and lists (`> - item` or `> N. item`).
             adm = re.match(r"^\[!(key|info|ai|scenario)\](?:\s+(.+))?$", quote_lines[0].strip())
             if adm:
                 kind_short = adm.group(1)
@@ -724,8 +851,10 @@ def convert_body_to_html(body, video_md_lookup=None):
                     "scenario": ("scenario", label_override or "SCENARIO EXAMPLE"),
                 }
                 kind, label = kind_map[kind_short]
-                body_text = " ".join(q.strip() for q in quote_lines[1:] if q.strip())
-                out.append(render_callout(kind, label, body_text))
+                body_blocks = parse_admonition_body(
+                    quote_lines[1:], is_dark=(kind == "ai")
+                )
+                out.append(render_callout(kind, label, body_blocks))
                 h3_just_after_section_open = False
                 continue
             quote_text = " ".join(q for q in quote_lines if q.strip())

@@ -16,6 +16,6 @@ A process improvement team is drafting their findings section. One member can't 
 
 Different scenario. A social media team member isn't sure when their audience analysis section is done. They've done the research but don't know if it's enough, so they keep researching past the drafting deadline. A more useful move is to check what the section actually needs to accomplish and compare it to what they have. If the research covers it, it's done. If it doesn't, they now know specifically what's missing instead of researching everything in case it might be useful.
 
-Third scenario. A community outreach team finds two conflicting research sources. One says the primary barrier to participation is awareness, the other says it's access. The temptation is to pick one and ignore the other. The better move is to name the tension to the team. Can more research resolve it before the draft is due? If not, pick a direction, flag the limitation, and let the employer weigh in at the next check-in.
+Third scenario. A community outreach team finds two conflicting research sources. One says the primary barrier to participation is awareness, the other says it's access. The temptation is to pick one and ignore the other. The better move is to name the tension. Can more research resolve it before the draft is due? If not, pick a direction, flag the limitation, and let the employer weigh in at the next check-in.
 
 Every one of those situations looks like a blocker. But they don't have to be.

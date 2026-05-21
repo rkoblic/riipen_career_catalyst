@@ -6,7 +6,7 @@
 
 ## Overview
 
-Peer evaluation is the primary evidence source for Teamwork competency assessment and the largest single input into the Professional Engagement grade (50% of the 20% component). Students evaluate their teammates at two points: mid-project (Week 8) and end-of-project (Week 15). The two instruments are deliberately differentiated — the mid-project evaluation is formative, emphasizing qualitative feedback that enables course correction; the end-of-project evaluation is summative, emphasizing quantitative assessment for grade differentiation.
+Peer evaluation is the primary evidence source for Teamwork competency assessment and accounts for the largest combined share of Professional Engagement (10% of the final grade, split across two gradebook items: 3% mid-project + 7% end-of-project). Students evaluate their teammates at two points: mid-project (Week 8) and end-of-project (Week 15). The two instruments are deliberately differentiated — the mid-project evaluation is formative, emphasizing qualitative feedback that enables course correction; the end-of-project evaluation is summative, emphasizing quantitative assessment for grade differentiation.
 
 This document specifies the evaluation instruments, process, competency alignment, scoring mechanics, and safeguards for both evaluation points. It serves as the design brief for building the evaluation forms and associated instructional content.
 
@@ -134,16 +134,7 @@ Four dimensions, each scored on a 1–4 scale using Behaviorally Anchored Rating
 
 ---
 
-#### Part C: Self-Evaluation
-
-The same four BARS dimensions, completed for oneself. Self-ratings do not affect the peer evaluation score. They serve two purposes:
-
-1. **Calibration signal:** Large gaps between self-rating and peer ratings (≥1.5 points on any dimension) flag potential issues — either inflated self-perception or team dynamics problems — for instructor review.
-2. **Reflection input:** Self-assessment contributes to the Self-Awareness competency assessed in reflections. Students who complete Reflection #3 (Week 9) after receiving peer feedback have concrete material to examine.
-
----
-
-#### Part D: Team Pulse (Instructor-Only)
+#### Part C: Team Pulse (Instructor-Only)
 
 Two private questions not shared with teammates. These create an instructor triage mechanism for identifying teams in distress.
 
@@ -161,11 +152,11 @@ Responses to these questions are reviewed by the instructor only. Teams where mu
 
 **Quantitative ratings (Part B):** Shared as aggregated averages per dimension (not individual rater scores). Students see their average score on each dimension, not the specific rating from each teammate.
 
-**Self-evaluation (Part C):** Instructor review only. Not shared with teammates. Used to flag calibration gaps.
+**Team pulse (Part C):** Instructor review only. Not shared with anyone. Used for triage.
 
-**Team pulse (Part D):** Instructor review only. Not shared with anyone. Used for triage.
+**Self-evaluation (separate Mid-Project Self-Evaluation survey):** A standalone survey on the Riipen platform, completed the same week. Students rate themselves on the same four BARS dimensions. Instructor review only; not shared with teammates. Used to flag calibration gaps between the self-view and the peer view.
 
-**Grade contribution:** Week 8 peer evaluation contributes 30% of the overall peer evaluation score (which is 50% of the Professional Engagement component). The formative weight is deliberately lower than the summative evaluation because the primary purpose is developmental, not evaluative.
+**Grade contribution:** The Mid-Project Peer Evaluation is its own gradebook item worth 3% of the final grade — one of five graded items that together represent Professional Engagement (20% total). The formative weight is deliberately lower than the End-of-Project Peer Evaluation (7%) because the primary purpose at mid-project is developmental, not evaluative.
 
 ---
 
@@ -212,7 +203,7 @@ Week 15 (Integration phase), after the Final Presentation and alongside Reflecti
 
 ### Instrument Structure
 
-The summative evaluation is quantitative-focused. It retains the BARS framework from Week 8 but shifts emphasis from development to differentiation.
+The summative evaluation retains the BARS framework from Week 8 but shifts emphasis from development to differentiation, with ratings calibrated across the full project arc.
 
 ---
 
@@ -226,25 +217,7 @@ Using the same BARS across both evaluations means students are already calibrate
 
 ---
 
-#### Part B: Contribution Allocation (per team)
-
-In addition to the BARS ratings, students distribute 100 points across their teammates (excluding themselves) based on overall contribution to the project. The constraint: points cannot be distributed equally. Students must differentiate.
-
-This "divide the pie" method provides a second signal that complements the BARS data. It forces evaluators to make relative judgments — who contributed more, who contributed less — rather than rating each person in isolation. Research shows this zero-sum approach reveals the true contribution hierarchy within a team more effectively than independent ratings.
-
-**Example for a team of three:** A student distributes 100 points between their two teammates. If both contributed equally, the closest allocation is 51/49 (equal distribution is not permitted). If one clearly contributed more, the allocation might be 65/35 or 70/30.
-
-The contribution allocation is used by the instructor as a calibration check on the BARS ratings, not as a direct grade input. If the BARS ratings and the allocation tell different stories, the instructor investigates.
-
----
-
-#### Part C: Self-Evaluation
-
-Same four BARS dimensions, completed for oneself. Same calibration function as Week 8.
-
----
-
-#### Part D: Closure Questions (Instructor-Only)
+#### Part B: Closure Questions (Instructor-Only)
 
 Two private questions for instructor review:
 
@@ -256,13 +229,19 @@ These provide context that may not surface in the structured evaluation — for 
 
 ---
 
+#### End-of-Project Self-Evaluation (separate survey)
+
+A standalone survey on the Riipen platform, completed the same week as the End-of-Project Peer Evaluation. Students rate themselves on the same four BARS dimensions. Same calibration function as the Mid-Project Self-Evaluation: instructor review only, not shared with teammates, used to flag self-view vs. peer-view gaps.
+
+---
+
 ### How Results Are Used
 
-**Grade contribution:** Week 15 peer evaluation contributes 70% of the overall peer evaluation score. The summative weight is deliberately higher than the formative evaluation because it reflects the complete arc of collaboration.
+**Grade contribution:** The End-of-Project Peer Evaluation is its own gradebook item worth 7% of the final grade — one of five graded items that together represent Professional Engagement (20% total). The summative weight is deliberately higher than the Mid-Project Peer Evaluation (3%) because it reflects the complete arc of collaboration.
 
 **Results sharing:** Institutional choice — results may or may not be shared with students. If shared, the same anonymization protocol applies (aggregated dimension averages, anonymized qualitative comments).
 
-**Instructor override:** The instructor retains final judgment on Professional Engagement scores. Peer evaluation data informs but does not determine the grade. This acknowledges that peer evaluations can reflect interpersonal dynamics as much as actual contribution.
+**Instructor override:** Peer evaluation scores are auto-aggregated into the gradebook by the Riipen platform, but the instructor retains authority to adjust individual peer evaluation item scores when documented evidence warrants. This acknowledges that peer evaluations can reflect interpersonal dynamics as much as actual contribution.
 
 ---
 
@@ -352,7 +331,7 @@ Module content on "Having the Peer Evaluation Conversation" prepares students fo
 
 ## Related Documents
 
-**Professional Engagement Mechanics:** Full scoring mechanics for the Professional Engagement component (20% of final grade), including how peer evaluation (50%), employer feedback (25%), and instructor observation (25%) combine.
+**Professional Engagement Mechanics:** Full scoring mechanics for all five gradebook items inside Professional Engagement (20% of final grade total): Mid-Project Peer Evaluation (3%), End-of-Project Peer Evaluation (7%), Mid-Project Employer Feedback (1.5%), End-of-Project Employer Feedback (3.5%), Instructor Observation (5%). See `rubrics/professional-engagement-grading-guide.md`.
 
 **Competency Framework:** Defines the Teamwork competency and its four subskills that the peer evaluation dimensions assess.
 

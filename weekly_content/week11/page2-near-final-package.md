@@ -1,16 +1,17 @@
 ---
 week: 11
 page: 2
-title: Near-Final Package
+title: "CHECKPOINT: Near-Final Package"
+canvas_page_url: checkpoint-near-final-package
 created: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Professionalism
     subskill: Accountability
 ---
 
-# Near-Final Package
+# CHECKPOINT: Near-Final Package
 
 The Near-Final Package is the required team checkpoint that opens this week's Near-Final Check-In with your employer. Submit it through the Riipen platform before you meet. When you submit, the package is automatically shared with your employer, so aim to submit well in advance so they have a chance to review it.
 
@@ -20,7 +21,7 @@ The Near-Final Package is the required team checkpoint that opens this week's Ne
 
 This is near-final work. The deliverable is assembled, internally consistent, and polished to something the team is willing to stand behind in a meeting. It is not a first draft with a new label.
 
-The Near-Final Package is completion-based, which means it isn't quality-graded directly. But a substantive completion standard applies. Work that's clearly incomplete, missing major components, or hasn't been through any quality review doesn't meet the bar.
+The Near-Final Package is completion-based. It isn't quality-graded directly, but a substantive standard applies. Work that's clearly incomplete, missing major components, or hasn't been through any quality review doesn't meet the bar.
 
 The quality of the conversation at the meeting depends heavily on the quality of what you submit. A near-final package earns specific, useful feedback when the employer does look at sections closely. A package that isn't there yet tends to get general observations that are harder to act on, no matter how much time the employer spent with it.
 
@@ -64,11 +65,11 @@ Before your team submits the package, run one last internal review. The focus is
 - **AI quality reviewer prompts** (fresh reader, consistency check, weakest-link): Week 10's "Using AI as a quality reviewer." Run these on the assembled package before the manual checklist pass.
 - **Peer review lenses** (clarity, argument structure, evidence quality, tone): Week 7's "Reviewing your teammates' work." Useful as a section-by-section pass alongside the whole-document checklist.
 
-The Deliverable Quality dimension of the Final Deliverables rubric is the formal measure of what this checklist is protecting against. The near-final package isn't graded directly, but the rubric is where the work is headed.
+The Deliverable Quality dimension of the Project Deliverables rubric is the formal measure of what this checklist is protecting against. The near-final package isn't graded directly, but the rubric is where the work is headed.
 
 ---
 
-## AI and submission
+## Using AI
 
 Polishing and editing are appropriate and encouraged at this stage. Using the AI quality reviewer approach to supplement your self-review pass is exactly the right application of that skill.
 
@@ -76,7 +77,11 @@ What AI cannot do here: generate the analysis, findings, or recommendations that
 
 **AI disclosure** is required on this submission. Include a brief statement at the end of your package describing how AI was used during the production and polishing process. If AI was not used, a one-sentence statement noting that is sufficient.
 
+## Submission
+
 Submit the complete Near-Final Package through the Riipen platform. Include:
 - The assembled deliverable (all components)
 - The Change Log
 - Your AI disclosure statement
+
+When you submit, the package is automatically shared with your employer, so aim to submit well in advance of your Near-Final Check-In so they have a chance to review it.

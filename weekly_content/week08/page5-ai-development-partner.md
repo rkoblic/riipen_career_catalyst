@@ -3,7 +3,7 @@ week: 8
 page: 5
 title: AI as a development partner
 created: 2026-04-06
-last_updated: 2026-04-20
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking

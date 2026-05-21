@@ -3,7 +3,7 @@ week: 1
 page: 1
 title: Week Overview
 created: 2026-03-27
-last_updated: 2026-04-01
+last_updated: 2026-05-21
 status: draft
 ---
 
@@ -25,9 +25,10 @@ This week you'll work through a series of short modules that introduce the found
 
 ## Suggested order of completion
 
-1. Start here, then work through the foundational modules in order: experiential learning, syllabus review, the AI policy module, and the course platforms and support overview.
-2. Browse the project briefs and complete the Your Starting Point Questionnaire (which includes your project preferences).
-3. Finish with the professional skill modules (reflective practice, time management, professional email) and the preview of what's coming next.
+1. **Start by introducing yourself**: see instructions below.
+2. **Then work through the foundational modules in order**: experiential learning, syllabus review, the AI policy module, and the course platforms and support overview.
+3. **Browse the project briefs and complete the Your Starting Point Questionnaire** (which includes your project preferences).
+4. **Finish with the professional skill modules** (reflective practice, time management, professional email) and the preview of what's coming next.
 
 There's no single right order after the first few modules, but completing the foundational content before browsing project briefs will help you evaluate your options against meaningful criteria (skill development, career fit, growth goals) rather than just going with whichever brief sounds interesting first.
 

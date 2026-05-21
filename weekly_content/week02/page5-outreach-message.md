@@ -3,7 +3,7 @@ week: 2
 page: 5
 title: Employer Outreach Message
 created: 2026-03-19
-last_updated: 2026-03-30
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Communication
@@ -68,4 +68,4 @@ The message is short. It introduces the team in one sentence, references the pro
 
 **After you send it.** Don't just send and wait. If you haven't heard back within two to three business days, send a brief, polite follow-up. Employer contacts are busy professionals, and a gentle nudge is expected and appropriate. You may also need to handle logistics like confirming the meeting platform, sharing calendar invites, or coordinating time zones.
 
-**AI use.** AI is permitted here. It can be helpful to draft the message yourself first, then use AI to refine your tone, tighten your language, or catch anything you missed. That's how thoughtful professionals use AI for correspondence: they write, then polish. It keeps your voice in the message and ensures the content is accurate to your actual situation.
+**AI use.** AI is permitted here. Draft the message yourself first, then use AI to refine your tone, tighten your language, or catch anything you missed. That's how thoughtful professionals use AI for correspondence: they write, then polish. It keeps your voice in the message and ensures the content is accurate to your actual situation.

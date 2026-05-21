@@ -1,0 +1,223 @@
+1
+00:00:03,400 --> 00:00:05,190
+Data doesn't speak for itself.
+
+2
+00:00:05,700 --> 00:00:07,200
+ The format you choose either helps 
+
+3
+00:00:07,230 --> 00:00:08,930
+the reader see your point or forces 
+
+4
+00:00:08,970 --> 00:00:09,760
+them to hunt for it.
+
+5
+00:00:10,650 --> 00:00:12,070
+ The same information can work in 
+
+6
+00:00:12,130 --> 00:00:13,760
+three different formats, and the 
+
+7
+00:00:13,810 --> 00:00:15,030
+right choice depends on what you're 
+
+8
+00:00:15,050 --> 00:00:15,480
+arguing.
+
+9
+00:00:16,500 --> 00:00:18,180
+ An environmental sustainability 
+
+10
+00:00:18,260 --> 00:00:19,980
+audit team has data on energy 
+
+11
+00:00:20,030 --> 00:00:21,740
+consumption across twelve facility 
+
+12
+00:00:21,800 --> 00:00:22,450
+types.
+
+13
+00:00:22,890 --> 00:00:24,430
+ If they want to show which facilities 
+
+14
+00:00:24,460 --> 00:00:25,980
+are the most inefficient (a 
+
+15
+00:00:26,040 --> 00:00:28,330
+comparison), a table serves best.
+
+16
+00:00:28,950 --> 00:00:30,900
+ Twelve rows, facility name and 
+
+17
+00:00:30,960 --> 00:00:32,690
+consumption figure, sorted from 
+
+18
+00:00:32,770 --> 00:00:33,900
+highest to lowest.
+
+19
+00:00:34,600 --> 00:00:36,530
+ The reader scans it in thirty seconds 
+
+20
+00:00:36,620 --> 00:00:38,240
+and the pattern is immediately clear.
+
+21
+00:00:38,890 --> 00:00:40,190
+ If they want to show that energy 
+
+22
+00:00:40,250 --> 00:00:41,670
+costs have been trending upward 
+
+23
+00:00:41,710 --> 00:00:44,210
+over five years (a change over time), 
+
+24
+00:00:44,650 --> 00:00:46,470
+a line chart does what a table can't.
+
+25
+00:00:47,220 --> 00:00:48,680
+ The visual slope makes the trend 
+
+26
+00:00:48,730 --> 00:00:50,000
+impossible to miss.
+
+27
+00:00:50,390 --> 00:00:52,160
+ The same five data points in a table 
+
+28
+00:00:52,240 --> 00:00:53,580
+would require the reader to do the 
+
+29
+00:00:53,610 --> 00:00:54,190
+arithmetic.
+
+30
+00:00:55,250 --> 00:00:57,560
+ But if the finding is simpler, say, 
+
+31
+00:00:57,710 --> 00:00:59,540
+three facilities account for seventy 
+
+32
+00:00:59,600 --> 00:01:01,880
+percent of total energy use, neither a
+
+33
+00:01:01,940 --> 00:01:03,900
+ table nor a chart earns its space.
+
+34
+00:01:04,360 --> 00:01:05,720
+ A sentence does it better.
+
+35
+00:01:06,420 --> 00:01:08,270
+ "Three facilities account for seventy 
+
+36
+00:01:08,330 --> 00:01:10,120
+percent of total energy spend:
+
+37
+00:01:10,500 --> 00:01:11,730
+ the downtown warehouse, the 
+
+38
+00:01:11,790 --> 00:01:13,430
+regional distribution center, and the 
+
+39
+00:01:13,460 --> 00:01:15,920
+main production floor." One 
+
+40
+00:01:15,970 --> 00:01:16,710
+sentence.
+
+41
+00:01:16,990 --> 00:01:18,660
+ A chart for three numbers is usually 
+
+42
+00:01:18,720 --> 00:01:20,410
+more visual noise than signal.
+
+43
+00:01:20,670 --> 00:01:21,930
+ Same logic for a customer 
+
+44
+00:01:21,990 --> 00:01:23,120
+onboarding project.
+
+45
+00:01:24,070 --> 00:01:25,800
+ Comparing drop-off rates across five
+
+46
+00:01:25,840 --> 00:01:26,410
+ stages?
+
+47
+00:01:26,490 --> 00:01:27,880
+ Choose a table or a bar chart.
+
+48
+00:01:28,950 --> 00:01:30,130
+ Showing that completion rates 
+
+49
+00:01:30,170 --> 00:01:31,420
+improved after a redesign?
+
+50
+00:01:32,415 --> 00:01:34,215
+ Line chart, before and after.
+
+51
+00:01:34,655 --> 00:01:36,255
+ And if the finding is a single most 
+
+52
+00:01:36,295 --> 00:01:37,935
+important number, put it in a 
+
+53
+00:01:37,985 --> 00:01:38,625
+sentence.
+
+54
+00:01:39,015 --> 00:01:40,205
+ Pick the format that makes your 
+
+55
+00:01:40,245 --> 00:01:41,775
+argument clearest to a reader who 
+
+56
+00:01:41,845 --> 00:01:43,035
+isn't already convinced.

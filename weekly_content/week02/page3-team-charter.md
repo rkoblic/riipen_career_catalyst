@@ -3,7 +3,7 @@ week: 2
 page: 3
 title: Team Formation & Charter
 created: 2026-03-19
-last_updated: 2026-04-28
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Teamwork
@@ -26,19 +26,19 @@ That's what the Team Charter is for. It's your team's first real negotiation.
 
 ### What the Team Charter Is Actually For
 
-The charter is a reference point your team will come back to when things get complicated. And they might. If someone misses a deadline, if you disagree on direction, if one person is doing more than their share—those are the moments when a charter earns its value. It gives you something concrete to point to: "Here's what we agreed. Let's talk about what's changed."
+The charter is a reference point your team will come back to when things get complicated. And they might. If someone misses a deadline, if you disagree on direction, if one person is doing more than their share — those are the moments when a charter earns its value. It gives you something concrete to point to: "Here's what we agreed. Let's talk about what's changed."
 
 Think of it as a working agreement. It captures what you've discussed and decided together. It can evolve as your team learns how it actually works, but you need a starting point.
+
+[TEMPLATE: [Team Charter template](https://riipen.instructure.com/courses/107/files/453?verifier=0kMIdPYYHrosXGZdDjXFdjaWKS1YwsrcPWhvlYOp&wrap=1) — review in advance of your first team meeting]
 
 ### Three Things to Get Agreement On
 
 Your first meeting as a team should produce real agreement on three things:
 
-**How you'll communicate.** What platform will you use for day-to-day coordination? How quickly do you expect responses? What warrants a message vs. a meeting? Teams that don't clarify this end up with one person checking Slack constantly and another who doesn't see messages for two days. This is also where you'll lock in your standing weekly meeting time, which the Setting Your Team's Rhythm page goes into in more depth.
-
-**How you'll make decisions.** When the team disagrees, how do you resolve it? Majority vote? Discussion until consensus? Does anyone have a final call on specific areas? Most teams skip this until they're already in a disagreement, and by then it's harder to have the conversation calmly.
-
-**What "done" looks like.** What does a completed draft look like before someone else reviews it? What's your standard for quality? If one person thinks "done" means a rough outline and another thinks it means polished prose, you'll have friction every time someone submits their section.
+- **How you'll communicate.** What platform will you use for day-to-day coordination? How quickly do you expect responses? What warrants a message vs. a meeting? Teams that don't clarify this end up with one person checking Slack constantly and another who doesn't see messages for two days. This is also where you'll lock in your standing weekly meeting time, which the Setting Your Team's Rhythm page goes into in more depth.
+- **How you'll make decisions.** When the team disagrees, how do you resolve it? Majority vote? Discussion until consensus? Does anyone have a final call on specific areas? Most teams skip this until they're already in a disagreement, and by then it's harder to have the conversation calmly.
+- **What "done" looks like.** What does a completed draft look like before someone else reviews it? What's your standard for quality? If one person thinks "done" means a rough outline and another thinks it means polished prose, you'll have friction every time someone submits their section.
 
 ### How to Come Prepared
 
@@ -52,17 +52,16 @@ Before you meet, review the charter template and think about your own working st
 
 Your first meeting should run about 90 minutes. Here's a structure that works:
 
-1. **Introductions (15 min).** Go beyond what you shared in your intro posts. What are you good at? What do you want to get better at? What should your teammates know about how you work?
-
-2. **Shared read-through of the project brief (15 min).** Read it together, out loud or silently, and share first reactions. What excites you? What confuses you? What do you want to ask the employer?
-
-3. **Initial reactions and questions (15 min).** Start building a shared list of questions for the kickoff meeting. You don't need to finalize them now, but capturing early reactions while they're fresh is valuable.
-
-4. **Charter negotiation (45 min).** Work through the three core areas: communication, decision-making, and standards. Don't rush this. Disagreement here is healthy. It means you're being honest rather than just agreeing to move on.
+> [!info] SUGGESTED 90-MINUTE AGENDA
+> 1. **Introductions (15 min).** Go beyond what you shared in your intro posts. What are you good at? What do you want to get better at? What should your teammates know about how you work?
+> 2. **Shared read-through of the project brief (15 min).** Read it together, out loud or silently, and share first reactions. What excites you? What confuses you? What do you want to ask the employer?
+> 3. **Initial reactions and questions (15 min).** Start building a shared list of questions for the kickoff meeting. You don't need to finalize them now, but capturing early reactions while they're fresh is valuable.
+> 4. **Charter negotiation (45 min).** Work through the three core areas: communication, decision-making, and standards. Don't rush this. Disagreement here is healthy. It means you're being honest rather than just agreeing to move on.
 
 ### A Note About AI in This Meeting
 
-This is one of the few times in the course where AI is explicitly off-limits. Your first team meeting is about building a working relationship with real people. The conversations you have, how you negotiate, what you reveal about your working style, how you handle disagreement, are the foundation for your working relationship. AI can't do that for you, and having it in the room changes the dynamic.
+> [!ai] AI BOUNDARY
+> This is one of the few times in the course where AI is explicitly off-limits. Your first team meeting is about building a working relationship with real people. The conversations you have, how you negotiate, what you reveal about your working style, how you handle disagreement, are the foundation for your working relationship. AI can't do that for you, and having it in the room changes the dynamic.
 
 ### What to Do If You Can't Agree
 

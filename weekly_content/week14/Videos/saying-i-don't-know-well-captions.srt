@@ -1,0 +1,235 @@
+1
+00:00:03,400 --> 00:00:04,570
+The moment most teams worry 
+
+2
+00:00:04,620 --> 00:00:06,030
+about is the one where an employer 
+
+3
+00:00:06,120 --> 00:00:07,780
+asks a question you did not prepare 
+
+4
+00:00:07,820 --> 00:00:08,060
+for.
+
+5
+00:00:09,110 --> 00:00:10,540
+ It feels like the stakes of the whole 
+
+6
+00:00:10,580 --> 00:00:12,340
+presentation shift onto that single 
+
+7
+00:00:12,390 --> 00:00:12,960
+answer.
+
+8
+00:00:13,770 --> 00:00:15,050
+ Here is what that moment usually 
+
+9
+00:00:15,100 --> 00:00:16,500
+sounds like when it goes poorly.
+
+10
+00:00:17,520 --> 00:00:19,430
+ An employer asks, "What would it 
+
+11
+00:00:19,460 --> 00:00:21,160
+take to scale this pilot to a second 
+
+12
+00:00:21,210 --> 00:00:23,360
+region?" A nervous team member 
+
+13
+00:00:23,430 --> 00:00:25,320
+says, "Oh, that's a really good 
+
+14
+00:00:25,350 --> 00:00:25,820
+question.
+
+15
+00:00:26,500 --> 00:00:27,670
+ I think we'd probably need to 
+
+16
+00:00:27,720 --> 00:00:29,430
+consider, you know, the different 
+
+17
+00:00:29,470 --> 00:00:31,230
+factors in that region, and maybe 
+
+18
+00:00:31,280 --> 00:00:33,370
+some additional resources, and then 
+
+19
+00:00:33,430 --> 00:00:34,790
+figure out how that connects to what
+
+20
+00:00:34,820 --> 00:00:37,890
+ we found." The words kept coming, 
+
+21
+00:00:38,020 --> 00:00:39,260
+but nothing in them was a real 
+
+22
+00:00:39,330 --> 00:00:40,050
+answer.
+
+23
+00:00:40,650 --> 00:00:41,870
+ The employer already knew the 
+
+24
+00:00:41,920 --> 00:00:43,190
+question was a good question.
+
+25
+00:00:44,190 --> 00:00:45,420
+ What they were listening for was 
+
+26
+00:00:45,460 --> 00:00:46,860
+what the team actually thought.
+
+27
+00:00:47,680 --> 00:00:49,080
+ Now here is the same moment 
+
+28
+00:00:49,120 --> 00:00:49,710
+handled well.
+
+29
+00:00:50,380 --> 00:00:51,810
+ The team member pauses briefly 
+
+30
+00:00:51,850 --> 00:00:53,760
+and says, "We did not scope a 
+
+31
+00:00:53,810 --> 00:00:55,310
+second-region plan, so I can't give 
+
+32
+00:00:55,330 --> 00:00:56,620
+you a confident answer on what it 
+
+33
+00:00:56,650 --> 00:00:57,200
+would take.
+
+34
+00:00:57,950 --> 00:00:59,250
+ What I can tell you is that the 
+
+35
+00:00:59,300 --> 00:01:00,770
+finding that would most affect that 
+
+36
+00:01:00,830 --> 00:01:02,390
+decision is the one about user 
+
+37
+00:01:02,450 --> 00:01:03,870
+acquisition cost in your current 
+
+38
+00:01:03,900 --> 00:01:04,310
+market.
+
+39
+00:01:05,200 --> 00:01:06,900
+ If that cost doesn't hold in a new 
+
+40
+00:01:06,950 --> 00:01:08,680
+region, the economics change 
+
+41
+00:01:08,710 --> 00:01:09,590
+significantly.
+
+42
+00:01:10,290 --> 00:01:11,670
+ So the first thing I would want to 
+
+43
+00:01:11,730 --> 00:01:13,300
+know before scaling is whether we 
+
+44
+00:01:13,360 --> 00:01:15,250
+have any signal on acquisition in the 
+
+45
+00:01:15,300 --> 00:01:18,030
+new region." Three things happened 
+
+46
+00:01:18,060 --> 00:01:19,200
+in that second answer.
+
+47
+00:01:19,710 --> 00:01:21,110
+ The speaker said plainly what they 
+
+48
+00:01:21,150 --> 00:01:23,420
+did not know, named the specific 
+
+49
+00:01:23,460 --> 00:01:25,040
+piece of the team's own work that is 
+
+50
+00:01:25,100 --> 00:01:26,880
+relevant to the question, and 
+
+51
+00:01:26,920 --> 00:01:28,020
+described what they would need to 
+
+52
+00:01:28,080 --> 00:01:29,290
+find out before answering 
+
+53
+00:01:29,350 --> 00:01:29,980
+confidently.
+
+54
+00:01:30,420 --> 00:01:31,900
+ That is what defend-your-work looks
+
+55
+00:01:31,940 --> 00:01:33,250
+ like in a live Q&A.
+
+56
+00:01:33,770 --> 00:01:35,070
+ Not having every answer.
+
+57
+00:01:35,510 --> 00:01:36,520
+ Knowing what your own work 
+
+58
+00:01:36,590 --> 00:01:37,880
+means well enough to say what you 
+
+59
+00:01:37,910 --> 00:01:38,630
+would do next.

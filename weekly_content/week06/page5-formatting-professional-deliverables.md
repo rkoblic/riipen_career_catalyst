@@ -3,7 +3,7 @@ week: 6
 page: 5
 title: Formatting professional deliverables
 created: 2026-04-01
-last_updated: 2026-05-03
+last_updated: 2026-05-21
 status: draft
 competencies:
   - area: Critical Thinking
@@ -26,9 +26,9 @@ Most of what follows focuses on written deliverables, since reports and similar 
 
 Readers form judgments about quality from visual hierarchy, white space, and consistency before they engage deeply with the content. For a team-authored deliverable, inconsistent presentation communicates something specific: that the pieces were produced independently and never integrated. That tends to be the experience the reader has, regardless of how good the underlying thinking was.
 
-On the Final Deliverables rubric, two dimensions depend directly on presentation. Communication (which includes clarity, organization, and professional presentation) is worth 15% of your final grade. Deliverable Quality (which assesses completeness, scope alignment, and depth of development) is worth 25%.
+On the Project Deliverables rubric, two dimensions depend directly on presentation. Communication (which includes clarity, organization, and professional presentation) is worth 15% of your final grade. Deliverable Quality (which assesses completeness, scope alignment, and depth of development) is worth 25%.
 
-[CURATED LINK: "How Professional Document Formatting Builds Business Credibility" (article, ~5 min) — Drafting Queens — https://draftingqueens.com/blog/how-professional-document-formatting-builds-business-credibility] An overview of why deliverable presentation signals competence to a reader. Covers visual consistency, hierarchy, and the specific choices that contribute to a professional finished product.
+📎 [How Professional Document Formatting Builds Business Credibility](https://draftingqueens.com/blog/how-professional-document-formatting-builds-business-credibility) — Drafting Queens (article, ~5 min). An overview of why deliverable presentation signals competence to a reader. Covers visual consistency, hierarchy, and the specific choices that contribute to a professional finished product.
 
 ---
 
@@ -36,7 +36,7 @@ On the Final Deliverables rubric, two dimensions depend directly on presentation
 
 These are the conventions that most professional written deliverables (reports, briefs, plans, strategies) follow. Departures from them should have a reason.
 
-[DOWNLOADABLE EXAMPLE: Annotated sample deliverable demonstrating each standard in this section. Margin callouts point to the heading hierarchy, white space, table format, chart formatting, callout box use, and terminology consistency. Students should download and skim before reading the standards below.]
+[DOWNLOADABLE EXAMPLE: 📎 [**Annotated sample deliverable**](https://riipen.instructure.com/courses/107/files/475?verifier=fNJ0sPNdoyA2s4doPzFigCWABIYy1SK0A9JfbH3w&wrap=1) — short donor strategy report for GreenPath Solutions (DOCX). Side annotations point to the heading hierarchy, white space, table format, chart formatting, callout box use, and terminology consistency. Download and skim before reading the standards below.]
 
 **Headings and hierarchy**
 
@@ -109,7 +109,7 @@ Professional deliverables should be usable by people who navigate them in differ
 
 **Add alt text to meaningful visuals.** Charts, infographics, and photos that carry information need a brief text description of what the visual shows. Decorative visuals don't need alt text. Word, Google Docs, and most slide tools have a built-in alt text field. Right-click the image and look for "Alt text" or "Description."
 
-**Use descriptive link text.** "Click here" and "this article" tell a screen reader user nothing about where the link goes. "WebAIM's contrast checker" or "the Final Deliverables rubric" do.
+**Use descriptive link text.** "Click here" and "this article" tell a screen reader user nothing about where the link goes. "WebAIM's contrast checker" or "the Project Deliverables rubric" do.
 
 **Caption your video.** If your deliverable includes video, include captions. They make the content accessible to deaf and hard-of-hearing viewers and to anyone watching without sound. Most video tools (Canva, Lumen5, YouTube, even iPhone Photos) can auto-generate captions; review them for accuracy before delivery.
 

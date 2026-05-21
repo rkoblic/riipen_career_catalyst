@@ -93,7 +93,7 @@ Each week combines module content (frameworks and skills), project work (applyin
 | 10 | Development | Connecting Theory and Practice | — | — |
 | 11 | Refinement | Quality and Craft | Near-Final Package | Checkpoint |
 | 12 | Refinement | From Feedback to Final | Presentation Outline; **Reflection #4** | Checkpoint; **Graded** |
-| 13 | Refinement | Finalizing Deliverables | **Final Deliverables** | **Graded** |
+| 13 | Refinement | Finalizing Deliverables | **Project Deliverables** | **Graded** |
 | 14 | Integration | Presenting Your Work | Presentation Prep | Checkpoint |
 | 15 | Integration | Transfer and What's Next | **Final Presentation; Peer Eval #2; Reflection #5** | **Graded** |
 
@@ -127,20 +127,20 @@ Your final grade is based on four types of evidence, each capturing a different 
 
 | Component | Weight | What It Demonstrates |
 |---|---|---|
-| **Project Deliverables** | 40% | Applied skill, work quality, ability to produce professional output |
+| **Project Work** | 40% | Applied skill, work quality, ability to produce professional output |
 | **Reflection Portfolio** | 25% | Learning process, self-awareness, ability to extract transferable insight |
-| **Professional Engagement** | 20% | Workplace behaviors — reliability, communication, collaboration, responsiveness |
+| **Professional Engagement** | 20% | Workplace behaviors — reliability, communication, collaboration, responsiveness. Five graded items that together total 20%: <br>• Mid-Project Peer Evaluation (3%) <br>• End-of-Project Peer Evaluation (7%) <br>• Mid-Project Employer Feedback (1.5%) <br>• End-of-Project Employer Feedback (3.5%) <br>• Instructor Observation (5%) |
 | **Final Presentation** | 15% | Synthesis, communication, ability to present and defend your work |
 
-**Why these weights?** Project deliverables matter, but they don't tell the whole story — a strong deliverable might reflect prior skills rather than learning during the course. Reflection is weighted at 25% because the ability to examine your own experience critically and extract transferable principles is what distinguishes experiential learning from simply completing tasks. Professional engagement captures how you work, not just what you produce. The presentation requires you to synthesize and communicate your work to a real audience — and to answer their questions from your own understanding.
+**Why these weights?** Project work matters, but it doesn't tell the whole story — strong deliverables might reflect prior skills rather than learning during the course. Reflection is weighted at 25% because the ability to examine your own experience critically and extract transferable principles is what distinguishes experiential learning from simply completing tasks. Professional engagement captures how you work, not just what you produce. The presentation requires you to synthesize and communicate your work to a real audience — and to answer their questions from your own understanding.
 
 ### What's Included in Each Component
 
-**Project Deliverables (40%)** include the Context Analysis & Project Plan (Week 4) and the Final Deliverables (Week 13). These are team submissions assessed using detailed rubrics provided with each assignment.
+**Project Work (40%)** includes the Context Analysis & Project Plan (Week 4) and the Project Deliverables (Week 13). These are team submissions assessed using detailed rubrics provided with each assignment.
 
 **Reflection Portfolio (25%)** includes five individual reflections (Weeks 3, 6, 9, 12, and 15), each using the DEAL framework (Describe, Examine, Articulate Learning). All five reflections use the same rubric; what changes is the depth you can bring as you gain experience.
 
-**Professional Engagement (20%)** is assessed through a combination of peer evaluation results, employer feedback, and instructor observation. It covers your reliability, contribution quality, communication, and professional judgment across the full semester.
+**Professional Engagement (20%)** appears in the gradebook as five separate items totaling 20%, not one composite score. Two are from your peers (Mid- and End-of-Project Peer Evaluations), two are from your employer (Mid- and End-of-Project Employer Feedback), and one is your instructor's holistic observation. Together they capture your reliability, contribution quality, communication, and professional judgment across the full semester. The conceptual breakdown — what each item assesses and how — is on the **How Professional Engagement Is Assessed** page in Week 1.
 
 **Final Presentation (15%)** is a team presentation to your employer and instructor in Week 15. You present your completed work, explain your process, and respond to questions. This is where the "defend your work" standard is most visible.
 
@@ -287,7 +287,7 @@ This course rewards engagement, not perfection. Here's what students who do well
 | Context Analysis & Project Plan due | 4 | `[INSTITUTION]` |
 | Direction Check | 5 | `[INSTITUTION]` |
 | Peer Evaluation #1 | 8 | `[INSTITUTION]` |
-| Final Deliverables due | 13 | `[INSTITUTION]` |
+| Project Deliverables due | 13 | `[INSTITUTION]` |
 | Final Presentation | 15 | `[INSTITUTION]` |
 | Last day of course | 15 | `[INSTITUTION]` |
 
